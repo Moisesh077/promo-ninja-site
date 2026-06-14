@@ -105,15 +105,16 @@
   };
   const ICONCART='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.6 13.4a2 2 0 0 0 2 1.6h9.7a2 2 0 0 0 2-1.6L23 6H6"/></svg>';
   function categoria(t){t=(t||'').toLowerCase();
-    if(/fone|caixa de som|bluetooth|tws|headset|microfone/.test(t))return'Áudio';
+    if(/ssd|nvme|ddr4|ddr5| ram |mem[óo]ria ram|placa.?m[ãa]e|placa de v[íi]deo|processador|gabinete|water ?cooler|cooler|refrigera|radiador|argb|ventoinha|fonte (atx|gamer|pc)|pen ?drive|cart[ãa]o de mem|hub usb|adaptador|cabo hdmi|webcam|mousepad|teclado|mouse|monitor| gpu | cpu |placa de captura/.test(t))return'Hardware';
+    if(/ventilador/.test(t))return /(rgb|argb|pc |120 ?mm|140 ?mm|240 ?mm|360 ?mm|gabinete|cooler|refrigera)/.test(t)?'Hardware':'Casa';
+    if(/fone|caixa de som|bluetooth|tws|headset|microfone|soundbar/.test(t))return'Áudio';
     if(/smartwatch|smart watch|rel[óo]gio/.test(t))return'Relógios';
-    if(/ssd|mem[óo]ria|ram|placa|processador|gabinete|cooler|fonte|pen drive|cart[ãa]o|hub|adaptador|cabo|ventoinha|webcam|mousepad|teclado|mouse|monitor/.test(t))return'Hardware';
-    if(/controle|videogame|console|gamer/.test(t))return'Games';
-    if(/air fryer|rob[ôo]|liquidificador|cafeteira|panela|ventilador|aspirador|umidificador|cozinha/.test(t))return'Casa';
-    if(/secador|escova|maquiagem|perfume|beleza/.test(t))return'Beleza';
-    if(/t[êe]nis|mochila|mala|[óo]culos/.test(t))return'Moda';
-    if(/projetor|drone|c[âa]mera|tv box/.test(t))return'Eletrônicos';
-    if(/parafusadeira|ferramenta|furadeira/.test(t))return'Ferramentas';
+    if(/controle|video ?game|console|gamepad/.test(t))return'Games';
+    if(/air ?fryer|fritadeira|liquidificador|cafeteira|panela|aspirador|umidificador|forno|micro-?ondas|pote|organizador|cozinha/.test(t))return'Casa';
+    if(/secador|escova|maquiagem|perfume|alisad|beleza/.test(t))return'Beleza';
+    if(/t[êe]nis|mochila|mala|[óo]culos|camiseta|moda/.test(t))return'Moda';
+    if(/projetor|drone|c[âa]mera|tv ?box|smart tv/.test(t))return'Eletrônicos';
+    if(/parafusadeira|ferramenta|furadeira|chave de fenda|broca|alicate/.test(t))return'Ferramentas';
     return'Outros';}
   function tempo(d){if(!d)return'';const h=Math.floor((Date.now()-new Date(d+'Z').getTime())/3600000);if(h<1)return'agora';if(h<24)return'há '+h+'h';return'há '+Math.floor(h/24)+'d';}
   function encerrada(d){return d?(Date.now()-new Date(d+'Z').getTime())>2*86400000:false;}
