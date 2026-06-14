@@ -9,7 +9,7 @@
   *{box-sizing:border-box;margin:0;padding:0;}
   body{font-family:system-ui,Arial,sans-serif;background:#f2f4f8;color:var(--ink);}
   .top{background:#0a0a0a;color:#fff;padding:16px 24px;display:flex;align-items:center;gap:24px;flex-wrap:wrap;}
-  .brand{display:flex;align-items:center;gap:12px;flex-shrink:0;}
+  .brand{display:flex;align-items:center;gap:12px;flex-shrink:0;text-decoration:none;color:inherit;cursor:pointer;}
   .ninja{width:56px;height:56px;flex-shrink:0;}
   .wm{font-weight:900;font-size:23px;color:#fff;line-height:1;letter-spacing:.5px;}
   .wm span{color:var(--orange);}
@@ -59,7 +59,7 @@
 </head>
 <body>
   <header class="top">
-    <div class="brand">
+    <a class="brand" href="./" title="Início">
       <svg class="ninja" viewBox="0 0 64 64">
         <circle cx="32" cy="32" r="29" fill="#111" stroke="#FFD23F" stroke-width="3"/>
         <path d="M32 15 C22 15 17.5 24 18.5 33 C19.5 42 25 49 32 49 C39 49 44.5 42 45.5 33 C46.5 24 42 15 32 15 Z" fill="#000"/>
@@ -68,7 +68,7 @@
         <path d="M43 34 L35 32.2 L35.8 36 L43 36 Z" fill="#000"/>
       </svg>
       <div class="wm">PROMO <span>NINJA</span><small>As melhores ofertas com os melhores preços</small></div>
-    </div>
+    </a>
     <div class="searchbox">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
       <input id="busca" type="search" placeholder="Buscar produto... (ex: fone, smartwatch, ssd)" oninput="render()">
