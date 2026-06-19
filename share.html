@@ -6,12 +6,12 @@
   <meta name="robots" content="noindex,nofollow">
   <meta name="referrer" content="no-referrer">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src https: data:; connect-src https://images.weserv.nl; style-src 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'unsafe-inline'">
-  <title>Compartilhar no X | Promo Ninja</title>
+  <title>Compartilhar promocao | Promo Ninja</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
   <style>
-    :root { --ink:#111; --paper:#f4f1e8; --orange:#ff642f; --yellow:#ffd83d; --muted:#686868; }
+    :root { --ink:#111; --paper:#f4f1e8; --orange:#ff642f; --yellow:#ffd83d; --green:#1fba63; --muted:#686868; }
     * { box-sizing:border-box; }
     body { margin:0; min-height:100vh; padding:22px; display:grid; place-items:center; background:radial-gradient(circle at 20% 10%,#fff4c2,transparent 38%),var(--paper); color:var(--ink); font-family:"Space Grotesk",sans-serif; }
     main { width:min(100%,520px); background:#fff; border:2px solid var(--ink); border-radius:24px; overflow:hidden; box-shadow:9px 9px 0 var(--ink); }
@@ -31,17 +31,19 @@
 </head>
 <body>
   <main>
-    <header><span class="brand">PROMO NINJA</span><span class="badge">X SHARE</span></header>
+    <header><span class="brand">PROMO NINJA</span><span class="badge" id="badge">SHARE</span></header>
     <div class="media"><img id="photo" alt="Foto da promocao"></div>
     <section class="content">
       <p id="copy"></p>
       <a id="link" target="_blank" rel="noopener noreferrer"></a>
-      <button id="share" type="button">Compartilhar e escolher X</button>
+      <button id="share" type="button">Compartilhar promocao</button>
       <p id="status"></p>
     </section>
   </main>
   <script>
     const params = new URLSearchParams(location.search);
+    const target = params.get('target') === 'whatsapp' ? 'whatsapp' : 'x';
+    const targetName = target === 'whatsapp' ? 'WhatsApp' : 'X';
     const text = params.get('text') || 'Oferta encontrada pelo Promo Ninja';
     const targetUrl = params.get('url') || '';
     const imageUrl = params.get('image') || '';
@@ -60,16 +62,22 @@
 
     const button = document.querySelector('#share');
     const status = document.querySelector('#status');
+    document.querySelector('#badge').textContent = targetName.toUpperCase() + ' SHARE';
+    button.textContent = 'Compartilhar e escolher ' + targetName;
+    if (target === 'whatsapp') button.style.background = 'var(--green)';
 
-    function openX() {
-      location.href = 'https://x.com/intent/post?text=' + encodeURIComponent(fullText);
+    function openFallback() {
+      const base = target === 'whatsapp'
+        ? 'https://wa.me/?text='
+        : 'https://x.com/intent/post?text=';
+      location.href = base + encodeURIComponent(fullText);
     }
 
     button.addEventListener('click', async () => {
       button.disabled = true;
       status.textContent = 'Preparando foto e legenda...';
       try {
-        if (!navigator.share) return openX();
+        if (!navigator.share) return openFallback();
         let shareData = { title: 'Promo Ninja', text: fullText };
         if (proxyUrl) {
           const response = await fetch(proxyUrl);
@@ -79,14 +87,14 @@
           const withFile = { ...shareData, files: [file] };
           if (!navigator.canShare || navigator.canShare(withFile)) shareData = withFile;
         }
-        status.textContent = 'Escolha o aplicativo X para continuar.';
+        status.textContent = 'Escolha o aplicativo ' + targetName + ' para continuar.';
         await navigator.share(shareData);
       } catch (error) {
         if (error && error.name === 'AbortError') {
           status.textContent = 'Compartilhamento cancelado.';
         } else {
-          status.textContent = 'Seu celular nao aceitou a foto. Abrindo o X com texto e link.';
-          openX();
+          status.textContent = 'Seu celular nao aceitou a foto. Abrindo ' + targetName + ' com texto e link.';
+          openFallback();
         }
       } finally {
         button.disabled = false;
