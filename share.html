@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src https: data:; connect-src https://images.weserv.nl; style-src 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'unsafe-inline'">
+  <title>Compartilhar no X | Promo Ninja</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root { --ink:#111; --paper:#f4f1e8; --orange:#ff642f; --yellow:#ffd83d; --muted:#686868; }
+    * { box-sizing:border-box; }
+    body { margin:0; min-height:100vh; padding:22px; display:grid; place-items:center; background:radial-gradient(circle at 20% 10%,#fff4c2,transparent 38%),var(--paper); color:var(--ink); font-family:"Space Grotesk",sans-serif; }
+    main { width:min(100%,520px); background:#fff; border:2px solid var(--ink); border-radius:24px; overflow:hidden; box-shadow:9px 9px 0 var(--ink); }
+    header { display:flex; align-items:center; justify-content:space-between; padding:16px 18px; background:var(--yellow); border-bottom:2px solid var(--ink); }
+    .brand { font-size:20px; font-weight:700; letter-spacing:-.5px; }
+    .badge { padding:6px 10px; border:1.5px solid var(--ink); border-radius:999px; background:#fff; font-size:12px; font-weight:700; }
+    .media { aspect-ratio:16/10; display:grid; place-items:center; background:#f2f2f2; border-bottom:2px solid var(--ink); overflow:hidden; }
+    .media img { width:100%; height:100%; object-fit:contain; }
+    .content { padding:18px; }
+    #copy { margin:0 0 14px; white-space:pre-wrap; font-size:16px; line-height:1.45; }
+    #link { display:block; margin:0 0 18px; color:#075ecf; overflow-wrap:anywhere; font-size:13px; }
+    button { width:100%; border:2px solid var(--ink); border-radius:14px; padding:15px 16px; background:var(--orange); color:#fff; font:700 16px "Space Grotesk",sans-serif; box-shadow:4px 4px 0 var(--ink); cursor:pointer; }
+    button:active { transform:translate(3px,3px); box-shadow:1px 1px 0 var(--ink); }
+    button:disabled { opacity:.65; cursor:wait; }
+    #status { min-height:20px; margin:14px 0 0; color:var(--muted); font-size:13px; text-align:center; }
+  </style>
+</head>
+<body>
+  <main>
+    <header><span class="brand">PROMO NINJA</span><span class="badge">X SHARE</span></header>
+    <div class="media"><img id="photo" alt="Foto da promocao"></div>
+    <section class="content">
+      <p id="copy"></p>
+      <a id="link" target="_blank" rel="noopener noreferrer"></a>
+      <button id="share" type="button">Compartilhar e escolher X</button>
+      <p id="status"></p>
+    </section>
+  </main>
+  <script>
+    const params = new URLSearchParams(location.search);
+    const text = params.get('text') || 'Oferta encontrada pelo Promo Ninja';
+    const targetUrl = params.get('url') || '';
+    const imageUrl = params.get('image') || '';
+    const fullText = [text, targetUrl].filter(Boolean).join('\n\n');
+    const proxyUrl = imageUrl
+      ? 'https://images.weserv.nl/?url=' + encodeURIComponent('ssl:' + imageUrl.replace(/^https?:\/\//, '')) + '&w=1200&output=jpg'
+      : '';
+
+    document.querySelector('#copy').textContent = text;
+    const link = document.querySelector('#link');
+    link.textContent = targetUrl;
+    link.href = targetUrl || '#';
+    const photo = document.querySelector('#photo');
+    if (proxyUrl) photo.src = proxyUrl;
+    else photo.closest('.media').style.display = 'none';
+
+    const button = document.querySelector('#share');
+    const status = document.querySelector('#status');
+
+    function openX() {
+      location.href = 'https://x.com/intent/post?text=' + encodeURIComponent(fullText);
+    }
+
+    button.addEventListener('click', async () => {
+      button.disabled = true;
+      status.textContent = 'Preparando foto e legenda...';
+      try {
+        if (!navigator.share) return openX();
+        let shareData = { title: 'Promo Ninja', text: fullText };
+        if (proxyUrl) {
+          const response = await fetch(proxyUrl);
+          if (!response.ok) throw new Error('imagem indisponivel');
+          const blob = await response.blob();
+          const file = new File([blob], 'promo-ninja.jpg', { type: blob.type || 'image/jpeg' });
+          const withFile = { ...shareData, files: [file] };
+          if (!navigator.canShare || navigator.canShare(withFile)) shareData = withFile;
+        }
+        status.textContent = 'Escolha o aplicativo X para continuar.';
+        await navigator.share(shareData);
+      } catch (error) {
+        if (error && error.name === 'AbortError') {
+          status.textContent = 'Compartilhamento cancelado.';
+        } else {
+          status.textContent = 'Seu celular nao aceitou a foto. Abrindo o X com texto e link.';
+          openX();
+        }
+      } finally {
+        button.disabled = false;
+      }
+    });
+  </script>
+</body>
+</html>
