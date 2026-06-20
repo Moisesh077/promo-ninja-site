@@ -1,53 +1,17 @@
 {
-  "atualizado": "2026-06-20T05:35:56.192723+00:00",
+  "atualizado": "2026-06-20T05:41:01.286598+00:00",
   "ofertas": [
-    {
-      "titulo": "Melatonina Sabor Morango 60 Gomas Mastigável Fini Dr Good",
-      "de": 59.9,
-      "por": 44.83,
-      "desconto": 25,
-      "imagem": "https://m.media-amazon.com/images/I/71TPzDDSxLL._AC_SX342_.jpg",
-      "link": "https://www.amazon.com.br/Melatonina-Sabor-Morango-Gomas-Mastig%C3%A1vel/dp/B0FJ2ZWD97?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Suplementos e Fitness",
-      "data": "2026-06-20T05:35:56.192723+00:00"
-    },
     {
       "titulo": "Suyadearm 1pc de dois lados 19mm de seda amoreira 100% 76cmx51cm hipoalergênico fronha pele cabelo rosto cuidados de beleza branco",
       "de": 185.14,
       "por": 107.4,
       "desconto": 42,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Saa65c3ae8c53460e8acc585fa2b0c3d7X.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mmQfTVek0Gslxvi2vrG18xq0GafVjfJEcCVgdWwmVwP5RLTPBz3mqPLKvsS0jt98yXr5QlIJYWj82YP9uB65pTcfnaiWkzQhsewQfbTKVkLWfEBl4ilEzrdHvbBjq7LTXII2Tk90TFVMxy9lOCdSQZRRcJ0Pk0diETUfj5HxpozorC7agDXWT9lLAtS2iwhggUGAj1FQA4JtIJZETVTNtxVJpLvp9uuRbFWBJHcPt6xb7KMg5p7AFuglCrpeOPm7x9jfGTl5wUVuQ2TyelbCCK3Ok3DTY2KFWhYoXu9gZkXmPHoCqsZfXbh7EWD5HxoIEiOJQGwFwa7RofoKVLpssbVHudelFe0yEEoZLMc9RyyrbYJXOvxXPYH5DCThl3IJnpZY77UCNbnN5WKksXiYFFueUVp7AUvzPTzdfqIkDHAjNQ9zdAyGEBeXjaoYDyxLBgwKRAsWXgmkdIFWvpuxnWuumyUgmJ7lDG8RLosv340YfpSpZifQdf6BTYncSTDaQCQxQSAQ37XegH4EpYiYgW7GEc7qgkwKE0ATnB8lafYGZuMCZAFsdU2rFtvdefrccLXNKuSXa1ssdzg93JSk5UHJdqyyviTM8Y2kuoc3ngdslDOkFevz1ll3yG9o37qnDor4FFLGvNfaF4Tp1c7mf9ZiN8Jk4yOOIKU4AmjbBO7Nd7iExKtXWs2RNaHOqOsS590DMgrCvY4yi",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mmQfTVek0Gslxvi2vrG18xq0GafVjfJEcCVgdWwmVwP5RLTPBz3mqPLKvsS0jt98yXr5QlIJYWj82YP9uB65pTcfnaiWkzQhsewQfbTKVkLWfEBl4ilEzrdHvbBjq7LTXII2Tk90TFVMxy9lOCdSQZRRcJ0Pk0diETUfj5HxpozorC7agDXWT9lLAtS2iwhggUGAj1FQA4JtIJZETVTNtxVJpLvp9uuRbFWBJHDhRuuJ19JYt38vt1y4qQnLeQR3Gjz6iAeqje1EhwBLipjYVmIvc2sn3kvek5lSnPm8LlKiJdP7V107QP5n0ieUkDRGfknNr35TMvsFefCS6VG8xq4bVKOepQo03vEwoORP58ysmlAzGu0tN9S6EfQ7tn1uhr8fq5EcRBvlWgOuFCN7fUgsttE1eQwjwnUsUNitL93Tr1ezlgQsWLuI8smwBODDrY55WZBGeco1ElJXNo6piQieHahbplW7qsX9Iw7Bcwnpj7zr0apd0DtYo70l6G0wBlXIUXe1cluiHC2GaTZmC8tE9chFQrVpCyMGoCmscETJphoiLVkjUyZetCgpu9Sa4eJgMidvWZeeAARPUWMmafgT2Ddwfjl3FxTIGFFeH3gmuhoaFBxGJB7KE5KLt09UVMrnBSjK0HpkNtXZI8H03yvvmnPA4QYNhOyzBaQHaL5LVI8egTmMHpxBNtFIYg1LE8WQx1uwYTQXC",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Beleza",
       "data": "2026-06-20T05:35:56.192723+00:00"
-    },
-    {
-      "titulo": "Buffalo Trace Whisky Ame Sabor Na 750 Ml",
-      "de": 179.9,
-      "por": 139.99,
-      "desconto": 22,
-      "imagem": "https://m.media-amazon.com/images/I/61CZKngai8L._AC_SY445_.jpg",
-      "link": "https://www.amazon.com.br/dp/B001P4SEXA/?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Bebidas",
-      "data": "2026-06-20T05:30:46.091981+00:00"
-    },
-    {
-      "titulo": "Garrafa Térmica Contigo Parede Dupla",
-      "de": 149.9,
-      "por": 41.03,
-      "desconto": 73,
-      "imagem": "https://m.media-amazon.com/images/I/41Sy1XymrLS._AC_SY355_.jpg",
-      "link": "https://www.amazon.com.br/dp/B07K8WF98V?tag=promoninja0c3-20",
-      "cupom": "20% na página do produto",
-      "loja": "amazon",
-      "categoria": "Utilidades Domésticas",
-      "data": "2026-06-20T05:30:46.091981+00:00"
     },
     {
       "titulo": "Mini alisador de cabelo elétrico de cerâmica unissex portátil ferro liso molhado/seco alisamento curling ferros preto fastheat modelador de cabelo",
@@ -55,7 +19,7 @@
       "por": 27.09,
       "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc047a4e513c04ba9a57f3bb4256cc2b46.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mSjRAgrCGVv59lP0GMShBUwuh9gaAYkMOpUQVcm74X6a6HK4baet2QaXzeYqXIM3IK5ruTOPsVWwknowC6ZFdpjbqG2fGmUPhs7j1CKjh3Ec4p4ZaFFH6mJjFTXtY3eCCbW6M3f63iUcLSmQ7PX9fcAxY1bzKrk1iJ6hIbCDxFfAhdTFlkxcu6ANisE6rokh94xeECT6d7604euvUuKQakLpqwncVFJ7REgI5Sx68utXXjQDFbfYqYuAw4kcvl01ZG0ugrJ88yFPXJ40aWjdyVQTBrSq7UXIQkBKjJ3rqmenlD6cEk7nc816nmVnI7gjT5RXZdaOd6zIcwtTJ9FJGpCKJaqqPAF5D1sUMsBtbH5tSCS6VkGDjCy91Mr4okFSLE1j2pXNWLqvOS7D0IlDira90mj5z0JCtR4rwFgVhiHdYG28qeYPL5I2pyFrqHlSHbd4oJ1p8E13ji9IZCTfdYCa7HrpsVDLQF4Nj43eWOeD7lhDtgkJ3Qsaw73dBKBq015iNzWHdTm8PWtO7QjFqNh6TD4hpH62eEPQkBemmpaaQobHUZXko9f93gFlEj9ja5KcnYzr3UZzMbUflbcpp7wms1Gh3uvWqR9TrgfNRGNUM01hcrVUrdaL1jVMLbfbiN7P5N1LuLNjYauezwZmthE4ya6hoVinB9X1idl944TPzFioGrZsGy02EMpFGhhaedGjdatnBi84z",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mSjRAgrCGVv59lP0GMShBUwuh9gaAYkMOpUQVcm74X6a6HK4baet2QaXzeYqXIM3IK5ruTOPsVWwknowC6ZFdpjbqG2fGmUPhs7j1CKjh3Ec4p4ZaFFH6mJjFTXtY3eCCbW6M3f63iUcLSmQ7PX9fcAxY1bzKrk1iJ6hIbCDxFfAhdTFlkxcu6ANisE6rokh94xeECT6d7604euvUuKQakLpqwncVFJ7REgI5Taz5CrNODKRndgjU2eIExEt193DSwgidK2p1x15szdGmxdPAJ3d2c3JNCzCd0lfijDw43AgxPnh6a2qZ9qP6X9uhSkfXYXPV6tQ2s1l4huSswcrwQ822tLsuwmkhLOG1UeBpDGVR3gc9GPEzk7LMD6UJEGcZuxtIKoMjqIyyBcxCVY14eY6QSYxVV7rf2k4ySqgHYdfxJyQ04yJN8VMSnMUYPvtPEbfDkX7KnhAIUhQcwgS96b6K06nPcssl0tdhx6jDntvvPK3hbJm1nO9zB9S98VV9X1Ot0Uwbt5yzYpw37nzx5KSGifNVke3X6GTBxQwvXF75fxjV89YwQpsQaAdiLk9eItMvHk2W8mCKbKSGXheS0VCShrtuimO9jz2CSR1iUinPPlmlsqeUkDOjqa7S4xAniZ3Pk0XwtuAaCLzwC1M4plDPSmrP2xjIZOPuT2EpvELO8nOIgm6Kz36yKu2Iu2fS5u9JLpbpLnAl",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Beleza",
@@ -79,7 +43,7 @@
       "por": 25.29,
       "desconto": 36,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S00b3fc4455fb4a298b04fddc5f588c91g.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mn0mhxpwskcPMQ1EDZwcQ0KLKLoZk3DDJ1oBBqATh25mMxzYpWycCn3EpMdZW33jALeSAwSOyiBnnGB45ZZA3LhWSJTqpwoEuQCdTWc10C2AtUes2ejkjHqGiquQ6t5AVY67G1tC4fqd7INzpyg8fo4vGjrnvb9OW9LvZrpx85vsQ4f2DjzA9SxdO4XAAcEcsMmlFeXh0A6Gyo3FfP3Vbz1fIIRsQW672DKrLJ18fJ6gTj2weTrsJL3SPoK9iMFoi83fScXir89snEOM94Ig9txFC94x5ymxYxkIDpt5iiiM5WXT7kwPHAdTHbQLjD89mZA5TuEk3XGtc3xdB2SZoHfEKfMsLaS5Wzs96sSY1lDbreG5acDeT4Lc1QL97vIaPNhFuP9PqRO1wlP2oMBi1AD3ZeJMO0tSaGMmDyfeGXKNRBRhRLT6g2iYR16lPT96GwSXsQmrUVUOQxKo48VLaSKea0rDhjRxy6utLF6C0FJ5G7KRB5YBQfqM92PTuPmGqEMxHCNaRpX8NccrUDTf0BFq02sA9Znh3DhMt2SyvS3yPrYkh8HkuPIInQyKNNYMa8wzAoQ899fNua0XZCY8Mj000UvuGvtYWvv1idaUeFhD1mv4cFj0UETiIgVz46SqNhrvpFu4FO3FKrcku5wBvQXTLm5Fj3FTiF8pC7r1xQaH3Ldt9sel7GTKXcmPp9TO5ScnJi9H6X6m4",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mn0mhxpwskcPMQ1EDZwcQ0KLKLoZk3DDJ1oBBqATh25mMxzYpWycCn3EpMdZW33jALeSAwSOyiBnnGB45ZZA3LhWSJTqpwoEuQCdTWc10C2AtUes2ejkjHqGiquQ6t5AVY67G1tC4fqd7INzpyg8fo4vGjrnvb9OW9LvZrpx85vsQ4f2DjzA9SxdO4XAAcEcsMmlFeXh0A6Gyo3FfP3Vbz1fIIRsQW672DKrLJMyJ9uM1ighmwYexATs7G9i5nIPM6VpRw2qkHPsJ0nRpOZ8xDj6qiRPD1UOr31cnsNS8GKKV9zyqJuT5SGDx2mcC5lk8aaR8Gt27YmFiB8HN5ZQbuq0s2gANnFrXMOHv6Evrw11A1Gu7JBwCbbOU7fajEv8yGRyTWTpP3fSME7w0LQHEq7S7KIXMZ0VfkXaKHeHXduiQFsjuuV5VofkOOzQByb5Y7ltnE3vL2uDYJ2qGr748Xt9U1kqNf1bISvNo9Vtb4Op5A5dMPhQr4GDQyhg8V2slVJP1nOoh2JCppmpNya2tF4uAQhK0zRRTdbndFutG1x7p3g7feSJ4qXueWRV0clQcukUdS6Ztyc4sHaYESXpzCFTxKugA9MeCmzcpWBIuNNqLv2UqPTDT9uwNPLKqs5QnTIGOky9ORpvH0yjX1mpYJTMZHF9QFWsFqbmaqHxuu0HrzkmGgSoIe3ohZZGnNizBgwMXEOGxb8HE",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Eletrodomesticos",
