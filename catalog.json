@@ -1,6 +1,66 @@
 {
-  "atualizado": "2026-06-21T21:34:22.711463+00:00",
+  "atualizado": "2026-06-21T21:44:22.999053+00:00",
   "ofertas": [
+    {
+      "source_id": "2880373",
+      "titulo": "Barra De Proteina Caixa c 12 Unidades Sabor Caramelo Salgado Bacio Di Latte - Nutrata",
+      "de": 120.0,
+      "por": 67.5,
+      "desconto": 44,
+      "imagem": "https://m.media-amazon.com/images/I/71CxBX2uWdL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0G1CNHKP1?m=A1ZZFT5FULY4LN&tag=promoninja0c3-20",
+      "cupom": "OFF10MERCADO",
+      "loja": "amazon",
+      "categoria": "Suplementos e Fitness",
+      "data": "2026-06-21T18:44:22.999053-03:00",
+      "slug": "barra-de-proteina-caixa-c-12-unidades-sabor-caramelo-salgado-bacio-di-latte-nutrata",
+      "page_url": "https://promoninjaofertas.github.io/produto/barra-de-proteina-caixa-c-12-unidades-sabor-caramelo-salgado-bacio-di-latte-nutrata.html"
+    },
+    {
+      "source_id": "2880401",
+      "titulo": "Cachaça 1922 Envelhecida 700ml",
+      "de": 88.0,
+      "por": 61.6,
+      "desconto": 30,
+      "imagem": "https://m.media-amazon.com/images/I/61pDh6FAc5L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/1922-Cachaça-Envelhecida-700ml/dp/B09F7PSCL8?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Bebidas",
+      "data": "2026-06-21T18:44:22.999053-03:00",
+      "slug": "cachaca-1922-envelhecida-700ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/cachaca-1922-envelhecida-700ml.html"
+    },
+    {
+      "source_id": "2880387",
+      "titulo": "Stanley Garrafa Shaker Activate 591 ml | Copo Shaker de Aço Inoxidável com Isolamento à Prova de Vazamentos | Armazen",
+      "de": 369.0,
+      "por": 294.5,
+      "desconto": 20,
+      "imagem": "https://m.media-amazon.com/images/I/51EI4gw6kGL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FHQP45MW/ref=twister_B0FMLZ1TT7?_encoding=UTF8&tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Utilidades Domésticas",
+      "data": "2026-06-21T18:44:22.999053-03:00",
+      "slug": "stanley-garrafa-shaker-activate-591-ml-copo-shaker-de-aco-inoxidavel-com-isolamento-a",
+      "page_url": "https://promoninjaofertas.github.io/produto/stanley-garrafa-shaker-activate-591-ml-copo-shaker-de-aco-inoxidavel-com-isolamento-a.html"
+    },
+    {
+      "source_id": "2880388",
+      "titulo": "G-Tech Balança Medição de água gordura massa muscular e massa óssea mod.: Glass PRO",
+      "de": 110.9,
+      "por": 88.72,
+      "desconto": 20,
+      "imagem": "https://m.media-amazon.com/images/I/61TWnomMgvS._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/G-Tech-Balança-Medição-gordura-muscular/dp/B076CWJMJN?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-06-21T18:44:22.999053-03:00",
+      "slug": "g-tech-balanca-medicao-de-agua-gordura-massa-muscular-e-massa-ossea-mod-glass",
+      "page_url": "https://promoninjaofertas.github.io/produto/g-tech-balanca-medicao-de-agua-gordura-massa-muscular-e-massa-ossea-mod-glass.html"
+    },
     {
       "source_id": "1005011771515942",
       "titulo": "Tênis Masculino Casual 2026: Conforto e Respirabilidade com Sola Macia Antiderrapante - Slip-On Loafers",
@@ -17,21 +77,6 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-masculino-casual-2026-conforto-e-respirabilidade-com-sola-macia-antiderrapante-s.html"
     },
     {
-      "source_id": "1005008563980759",
-      "titulo": "2025 moda masculina mocassins casuais verão lona confortável nova marca de luxo designer denim esportes sapatos caminhada tenis masculino",
-      "de": 251.98,
-      "por": 125.99,
-      "desconto": 50,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S326fbdf3ae5944618e75e2a4a7f694e4r.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EAQSqxlCmQHT1qwsFCgVmsSETn6CHy6nsHIqfj4I1pke54XoVhcg64sGZTTnkTwnnosMS4RN08m3XzFtbSxMsdSLhqsfAEAe85ecLO6N8FV4jXa0K1XKegvsuRA7gKqMVNpTrRb2DnV28fZXplRMUIo9Iu8NkgHQugpAh3FNl5jciH9OMnFkwKgTzRhZC3iLxMopAJX1iblXn7T2bRf6jK9qRCQwVCZB6MbwebvxdL1jvVxdUeBEoJMrBCxaph0IsIrnFoiMOf3fbgq1YUUKh4Q1ncwdwVJXeiUWd8BAGP3V69XaJqIeavc2H17rSIDiE2Dm8oMGu9ntw370TxUS4s5WMLnOTpvgT3XYM1upE0Uh7Z9OIddWFx5C6OJlUWXLCHqmiIdeMCiuLQe6QpWvtowVp6sjThOttisYozXAlxPSAU1k3NoBWfuzC39kRkJXULYc8lSLWINB8D3BW0dEQtOf50rpziHJ5aOwzPrIwkskgruWA51NIvI3lTBeohRhsaxWo1QfBSlXOUIuZI88LQ2ltiGvSWcqVAV59VQ0QmDa4Dxt5BQQlBaxo7iXtaU4w75Qx5Y1rQCFbEZgiTI17v83TZ53QxNWI3NbSL7rN5hZcvb1sTYVFHFBlHbZeQGhpbioRbevTMVeKdepi7t0WYOAnkNWf6awtcsp2HA78pN5j3RutMLD0bKbpzLf53S4Vgin0ws7Pumzj",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Moda",
-      "data": "2026-06-21T04:53:22.780110-03:00",
-      "slug": "2025-moda-masculina-mocassins-casuais-verao-lona-confortavel-nova-marca-de-luxo-design",
-      "page_url": "https://promoninjaofertas.github.io/produto/2025-moda-masculina-mocassins-casuais-verao-lona-confortavel-nova-marca-de-luxo-design.html"
-    },
-    {
       "source_id": "1005008793133596",
       "titulo": "Moda masculina sapatos tendência rua sapatos de skate homem marca luxo tênis treinamento malha respirável sapatos casuais tenis masculino",
       "de": 109.49,
@@ -45,6 +90,21 @@
       "data": "2026-06-21T04:53:22.780110-03:00",
       "slug": "moda-masculina-sapatos-tendencia-rua-sapatos-de-skate-homem-marca-luxo-tenis-treinamen",
       "page_url": "https://promoninjaofertas.github.io/produto/moda-masculina-sapatos-tendencia-rua-sapatos-de-skate-homem-marca-luxo-tenis-treinamen.html"
+    },
+    {
+      "source_id": "1005008563980759",
+      "titulo": "2025 moda masculina mocassins casuais verão lona confortável nova marca de luxo designer denim esportes sapatos caminhada tenis masculino",
+      "de": 251.98,
+      "por": 125.99,
+      "desconto": 50,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S326fbdf3ae5944618e75e2a4a7f694e4r.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EAQSqxlCmQHT1qwsFCgVmsSETn6CHy6nsHIqfj4I1pke54XoVhcg64sGZTTnkTwnnosMS4RN08m3XzFtbSxMsdSLhqsfAEAe85ecLO6N8FV4jXa0K1XKegvsuRA7gKqMVNpTrRb2DnV28fZXplRMUIo9Iu8NkgHQugpAh3FNl5jciH9OMnFkwKgTzRhZC3iLxMopAJX1iblXn7T2bRf6jK9qRCQwVCZB6MbwebvxdL1jvVxdUeBEoJMrBCxaph0IsIrnFoiMOf3fbgq1YUUKh4Q1ncwdwVJXeiUWd8BAGP3V69XaJqIeavc2H17rSIDiE2Dm8oMGu9ntw370TxUS4s5WMLnOTpvgT3XYM1upE0Uh7Z9OIddWFx5C6OJlUWXLCHqmiIdeMCiuLQe6QpWvtowVp6sjThOttisYozXAlxPSAU1k3NoBWfuzC39kRkJXULYc8lSLWINB8D3BW0dEQtOf50rpziHJ5aOwzPrIwkskgruWA51NIvI3lTBeohRhsaxWo1QfBSlXOUIuZI88LQ2ltiGvSWcqVAV59VQ0QmDa4Dxt5BQQlBaxo7iXtaU4w75Qx5Y1rQCFbEZgiTI17v83TZ53QxNWI3NbSL7rN5hZcvb1sTYVFHFBlHbZeQGhpbioRbevTMVeKdepi7t0WYOAnkNWf6awtcsp2HA78pN5j3RutMLD0bKbpzLf53S4Vgin0ws7Pumzj",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Moda",
+      "data": "2026-06-21T04:53:22.780110-03:00",
+      "slug": "2025-moda-masculina-mocassins-casuais-verao-lona-confortavel-nova-marca-de-luxo-design",
+      "page_url": "https://promoninjaofertas.github.io/produto/2025-moda-masculina-mocassins-casuais-verao-lona-confortavel-nova-marca-de-luxo-design.html"
     },
     {
       "source_id": "1005006329564162",
@@ -150,66 +210,6 @@
       "data": "2026-06-20T20:05:35.121520-03:00",
       "slug": "fngeen-marca-superior-de-luxo-relogio-quartzo-masculino-pulseira-aco-masculino-relogio",
       "page_url": "https://promoninjaofertas.github.io/produto/fngeen-marca-superior-de-luxo-relogio-quartzo-masculino-pulseira-aco-masculino-relogio.html"
-    },
-    {
-      "source_id": "1005005293644354",
-      "titulo": "Ventoinhas de ar LED para Mercedes Benz, 64 cores, luz ambiente, bocal de turbina RGB, lâmpada decorativa, Mercedes Benz W167 2020 + GLE GLS GLE53 GLS63",
-      "de": 729.98,
-      "por": 364.99,
-      "desconto": 50,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S6ca7df2efaf54a21aba5d4d10aa59b632.png",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FEoa8yeCZKHiJvK5ludtnSGBIEQhaBtrouBkz6w1c9fyg3mJKGrUy4mnySKjE3G6SDCtcZLPYcbFNjvT7xtH2bDwJznCCoamJd8mVQznixN7esJE7OGrS7KlBS3mTPzcoXYKcobQRpEyeRrKxrUthfG7JqdK2H7BscjDcxlHiNC8pcashThvNB95cnecVtMAQH0ZiihXxzQo329Da7sQb51gPTlBx7Y3ZKzbZiMFtABiIpss4xPmOXlpzv4dRVBLWDvWSrLEwpgDtXEVMVGao2KRFYdLegbsSFL9WVOaBq25Jl7A8n1TmFdneDaxkum15pqk1AZw4a1fg8HOoZARFHM1UfIkh36RPTH8VUgHlzC0kq9EQaOx9rElrnn0tCUzjuYoBGNkYMwfX5lXJAY0KVRC6U9NfPjAxtLWdizczOyMBxIq3V62MZQaynykZ1wGxRhI1dCCXt98Iva2OR7FuRcVMiizOt76R4hexOZ45v04j7WUttqZ4ZMOp7kqC3H67TY0FOIMgbEWjZeYfpGy4W3qLBKZHVsPzNmrQalYLA7uaRj2wQ2cTZHPbXLit5UELQOtZC40Gu16fbPYjoVdPxNbMMfS2YK6gQe82hIfmkoiMNlJRLx9omw3XQ9e6gbAqrCIBkxuiw6TRW53Fy11TBDZp4U3eWOfeSafynkbYOXq2JGWtPyMYHhkiT4svaMWb3zaVJ8fRH0yp",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-06-20T18:43:55.094406-03:00",
-      "slug": "ventoinhas-de-ar-led-para-mercedes-benz-64-cores-luz-ambiente-bocal-de-turbina",
-      "page_url": "https://promoninjaofertas.github.io/produto/ventoinhas-de-ar-led-para-mercedes-benz-64-cores-luz-ambiente-bocal-de-turbina.html"
-    },
-    {
-      "source_id": "1005005910751765",
-      "titulo": "X65 20w forte potência semicondutor back-clip radiador de refrigeração para iphone android telefone x65a magnético pubg jogo cooler para tablet",
-      "de": 265.96,
-      "por": 128.99,
-      "desconto": 51,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sbc6f64285ebe4da2806cebd9db31abc9h.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mkTPElhPkjEmGgAul0IepQNvHS9e25kJwYvVWuelJ3yjzPrAD5qsleFdew5eZjyO2J9gmSUkyymWHYakZyPV5Kk4TfBQ1Q4OKUtPzh5Wc0bCmngxggeZtWNxslmgr6EutenV5i4pl9WbMHlof2VpuMCBz2KUlD0phowszhCP9x1JSfYQX7oSsuJA13dpe9jIrGF1ExyZWorq0MkqOLn2EHHEt6AD9cOTqe92HrYh6CKCF5X2m5ygQq7iaT95CjDCMOcZDCBBV7htS6Tpym6NTDYFuhKAKAUMQRfgcbN0UmY5pU2gjKsPLvQ68nCIXJUT1FK1j36BQ0XR3UHXFcRQYQC3gfB7fOdepwvA757SA6TquhhFbJQR7fuvtXq7sGfzKKch3MqVwmMgwr4GgBZMw9CuefPPZ6srs1phOgu1dykFJj5ph5EIUPTWbV7hmwNx6boGmuH3GIWBSxawWxuCXZUWNMO94ok8HaSPOL4VSnGbZVbmGUK6p7hnCE47WW37MqFN9Sg1RjyuvAA496w8IDCnZBgy8TL3v66x2WS6bkZhFPwmVMfRmMMjq0YzewsxAV78d08ATTTZAUF6tDFJSrpWl6NQm1DPcvsWOH8ntkF7dgM9djmweC0d5hEw4wdf5aS9EN34B30dAp0BeSslPN24oH6zRsEqSmpfT1iYxzeqTEFTarhA5SiHURxyselvRRmQBZCQviSY5",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-06-20T18:43:55.094406-03:00",
-      "slug": "x65-20w-forte-potencia-semicondutor-back-clip-radiador-de-refrigeracao-para-iphone-and",
-      "page_url": "https://promoninjaofertas.github.io/produto/x65-20w-forte-potencia-semicondutor-back-clip-radiador-de-refrigeracao-para-iphone-and.html"
-    },
-    {
-      "source_id": "1005005244108051",
-      "titulo": "Aberturas de ar led 64 cores para mercedes benz w167 gle gls gle53 gls63 luz ambiente interna rgb bico de turbina lâmpada decorativa reequipamento",
-      "de": 749.6,
-      "por": 374.8,
-      "desconto": 50,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S1e421e0bc41c4b868b586247c8fa4f24m.png",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FFcLMKwBmQP9CG4v0zA04ZaexGR2sz8t4hBqlHhPXtXcFYUQTfRPRPACJphhVeFxSPrKGmbEbe1zfeCmGpGaQLyUR3x2eWqS0yEnVQo8CpUMI9aMaMl1cbLwEDxBYw8pD3AfvhojSxSU4jo6MVnwapoYhH0z29WLob24sscn7g8KVhh9gowmEg7esiKVkanehRbpFVGnhDpQUU6Ra2LARiUCQgtpomB6qQ8ipF7Ttad5E2Y3mGaM3Ov6Au2V4m5ZWc46vwr0K54rbpIBms2jd4mKmNAJbxuiohSzKMVHaI3CBaSFy5el7UtauFoRpavSoM44DhobfeQ5ZLnzSfxlENcGzPvgxBvl9W50eab1VHDcousCriTzObHO8jYDuZ23kDnm7DxclHTDbC5G9VAA8Q3h58hXKBvtFfjNEAEI6N4YrEp83KzINBstUeutkKqtpe0WN86vIFEu4zJE0wmnBrj88X7xFiGoWszytewN5EqveOU28PbPEi79ZtXjoTVHmOL3Q0a2isBc8qTgZksyXgiFFkjKqt9QGv7xwVhnCloEZIFMIAUrsFfLi5PmCYbUunoPTiYTxceC4MiXehEnrr2V4L7HguQ1l0CNU7f2UH697mCkuj7K0TWb37FZMkuelnVt3v6NlVe4EYgCB33Lb56FHuXQoR2d523R9bUHQbNTYNzCeBYb6bc3rMNPOLLRRr6LNeQpo71fP",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Casa",
-      "data": "2026-06-20T18:43:55.094406-03:00",
-      "slug": "aberturas-de-ar-led-64-cores-para-mercedes-benz-w167-gle-gls-gle53-gls63",
-      "page_url": "https://promoninjaofertas.github.io/produto/aberturas-de-ar-led-64-cores-para-mercedes-benz-w167-gle-gls-gle53-gls63.html"
-    },
-    {
-      "source_id": "1005005623493646",
-      "titulo": "Ventilador de teto com Bluetooth Speaker, RGB Cor Mudar Luzes, Controle Remoto, Sala e Restaurante",
-      "de": 1019.52,
-      "por": 764.61,
-      "desconto": 25,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S8f1be6764c424d479ec6f921d2c8f0e9W.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EyIHa9ub96LGnJFLlvsDZNVsb94yE2cnQCby7haDaX9cuGJNIEuH2VfcTLV7x9CWJW7MmuTQWg1CtAnDPBqKGtw8PX91xuh1Lfs6QbfLmAsoZcWwHCPOifWDSCsCjEkIcCXpNEUnqYKmV7FKZibJWsUyN4qDw7H8eP9cvWe1hTgtnMDMgUHNAoA8HFdR23vIpQxypnv0nAjqoUCVfKRp66fQMhU7Gb8FARiWlCShFD95M4lcqzRV9UhWq3NGcaVU73Fr7KoYOhOrqw0Z183bGiRmDaNrcfOD66fI8UDECN5JnOj9FLZTtdRDsK2RTx2MHlCf0A3474f8omaTz8acrYPTcB2rb6ESNf2JUHxUUEqjhuBFM6CWgosNK6bjkN1Puij8zp8pX6SRXjsoLapoO9k1UkFci6DXhf2yS9gdaDrFpo0EXYrViO886FSVpo31jtbAoZEEU2UqMtghMfgwqfsup4vz0JYXfhZFrqZrT54PpI9MPjoyXyiKf7alHx3GVDtkATL28ybrhBSv9yH7iQxE04BoD3z4N5LIKjAaheeTYz748P6b9DZTWtiiH08DAKbFDj4bpM3YgMzWJcePxRXas7bOMNV3qAM9Dab3Cq1R6Lc2VaiWKkLvMGj8Gb3ubFGm720sGmovgVTf2SpCxSJPJoqdww9LUbIsoJy97yTjxGdj6BUcUdqH4yZMgbxqcmBrgubZvkyAZ",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Audio",
-      "data": "2026-06-20T18:43:55.094406-03:00",
-      "slug": "ventilador-de-teto-com-bluetooth-speaker-rgb-cor-mudar-luzes-controle-remoto-sala-e",
-      "page_url": "https://promoninjaofertas.github.io/produto/ventilador-de-teto-com-bluetooth-speaker-rgb-cor-mudar-luzes-controle-remoto-sala-e.html"
     }
   ]
 }
