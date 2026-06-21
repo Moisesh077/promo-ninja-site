@@ -1,6 +1,21 @@
 {
-  "atualizado": "2026-06-21T20:43:44.715489+00:00",
+  "atualizado": "2026-06-21T20:53:52.973821+00:00",
   "ofertas": [
+    {
+      "source_id": "2880342",
+      "titulo": "Kit V-Floc Shampoo Neutro Super Concentrado Automotivo + Cera Liquida Protetora Tok Final Vonixx Luva Pano Microfibra",
+      "de": 89.92,
+      "por": 69.99,
+      "desconto": 22,
+      "imagem": "https://m.media-amazon.com/images/I/71By6LODSNL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/V-Floc-Shampoo-Automotivo-Vonixx-Microfibra/dp/B0CGGBT8FN/?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Peças e Acessórios para automóveis",
+      "data": "2026-06-21T17:53:52.973821-03:00",
+      "slug": "kit-v-floc-shampoo-neutro-super-concentrado-automotivo-cera-liquida-protetora-tok-fina",
+      "page_url": "https://promoninjaofertas.github.io/produto/kit-v-floc-shampoo-neutro-super-concentrado-automotivo-cera-liquida-protetora-tok-fina.html"
+    },
     {
       "source_id": "1005008563980759",
       "titulo": "2025 moda masculina mocassins casuais verão lona confortável nova marca de luxo designer denim esportes sapatos caminhada tenis masculino",
@@ -32,21 +47,6 @@
       "page_url": "https://promoninjaofertas.github.io/produto/moda-masculina-sapatos-tendencia-rua-sapatos-de-skate-homem-marca-luxo-tenis-treinamen.html"
     },
     {
-      "source_id": "1005006329564162",
-      "titulo": "Tênis de corrida masculino de malha respirável, tênis masculino leve, antiderrapante, esportes clássicos, casual, branco, tênis de casal, masculino",
-      "de": 184.58,
-      "por": 92.29,
-      "desconto": 50,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S2dd4f278d68b476380c02cfe4503ec9dy.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4oC46fA53TNClqe84nFWgWc3BrOfGG5iNeFMwjD2qAqouOdGCip2gXfQZjXG2YCCHt9vtYO4UGcHyBcSGhUMUBAxuocKMgIg52fZ28X5SSmHJ1QUhFfs8vk0mPWvSGNpk0GlK0rtHeAcZZ38iCNWiIqwyHJ3VGVrVK1FEUXjNQal1f7QqytZ6d2Xkpjvi9MndmQ55o4UVh35qqg23EBIZ0RAHcwYt1MS72QdDrBtDd0M6kEcnRA0Cf4Y9iJjtWGDzWtNC8GcpJg2n2VK9LNb5H4MsrTsgsKGgGx849xKb0wPm8AVT5emtlnuYOHFE8BVaYOQCpJlDkOKgAVe19IUHRa8IojOc4PjepbwfekMbSSj8LfMhk1nqkkPIvw5WoeJgbMLMI0fvweFKUs8sa4Lii5C671P8IgXBSwT8C7vgLIOfrB1zVsj26C3aojhK1myZmBG0sjVMSG1Qy6ndzOdUakVMbH0tufvkUozPtNlrDWJrpDlnkDUm3yVYQPy9hKsfHrZN5qHPA59vYrzyo0EJ7vi7s5eHTYe2uf0wOuXDrFITPOwpzhAAlVlAtTZtPEyXCTaKcNI6DdUVr0fHcssG9Ed6gZUw7yR59Ee3qLISqELDKwZrpPyN1F1lWS0GoIS0n23ErdGUzz0VKKDyllew04l8blhAlL4XVH3zY8jxfOA0QkmAgZoq4ZJ0sBAghT5mmalN3UP2PwXbi",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Moda",
-      "data": "2026-06-21T04:33:07.813797-03:00",
-      "slug": "tenis-de-corrida-masculino-de-malha-respiravel-tenis-masculino-leve-antiderrapante-esp",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-de-corrida-masculino-de-malha-respiravel-tenis-masculino-leve-antiderrapante-esp.html"
-    },
-    {
       "source_id": "1005006480939365",
       "titulo": "Marca tênis masculinos designer de moda sapatos casuais para homens plataforma conforto sapatos vulcanizados masculino original tenis masculino novo",
       "de": 43.98,
@@ -60,6 +60,21 @@
       "data": "2026-06-21T04:33:07.813797-03:00",
       "slug": "marca-tenis-masculinos-designer-de-moda-sapatos-casuais-para-homens-plataforma-confort",
       "page_url": "https://promoninjaofertas.github.io/produto/marca-tenis-masculinos-designer-de-moda-sapatos-casuais-para-homens-plataforma-confort.html"
+    },
+    {
+      "source_id": "1005006329564162",
+      "titulo": "Tênis de corrida masculino de malha respirável, tênis masculino leve, antiderrapante, esportes clássicos, casual, branco, tênis de casal, masculino",
+      "de": 184.58,
+      "por": 92.29,
+      "desconto": 50,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S2dd4f278d68b476380c02cfe4503ec9dy.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4oC46fA53TNClqe84nFWgWc3BrOfGG5iNeFMwjD2qAqouOdGCip2gXfQZjXG2YCCHt9vtYO4UGcHyBcSGhUMUBAxuocKMgIg52fZ28X5SSmHJ1QUhFfs8vk0mPWvSGNpk0GlK0rtHeAcZZ38iCNWiIqwyHJ3VGVrVK1FEUXjNQal1f7QqytZ6d2Xkpjvi9MndmQ55o4UVh35qqg23EBIZ0RAHcwYt1MS72QdDrBmIcoVOPYRQrQXo9vYpahZKtnwBTGR9iTHZRQFvsdWEUMKDAHVolsrwfPaOMFT9u8AsdqmUPmJm5Iss2fxlT4942TG6VW6Edt875K11OSslrrWcAmdbYf8rx8Qc4PrrkYlyQuxqflPOrVf4nqiq69xIXX6J98D3S8BFa1ym277CHfnV982cprSKVfl2wCIAXY7euPD7T6WXnFjRwxp1tMzCd7ztRTEOhms3NRxAOMLp5hmseMsis2SprrvDXHLyB0Id384SaRTWLytE04YmP5ldDGA16lTw4auZmV5yWuz5sXYNvrDs9Mj1pOpZ6gCtr3tNxh13j5ZrxlgK7J2zb7Hr2Va9oUwU1lFwA5DUMK9M3qFUbGXBciFMXbKpf33I30NSL6nyDluEHbKrEuVAhWKgtyMTCNIjkgb6Snd1kUAjhwSYuSz2a5Bw6L6YhmlXyzbDK8kEuBcsOMrfkm9F3g94iNjAYVE5YtQSi0UrW",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Moda",
+      "data": "2026-06-21T04:33:07.813797-03:00",
+      "slug": "tenis-de-corrida-masculino-de-malha-respiravel-tenis-masculino-leve-antiderrapante-esp",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-de-corrida-masculino-de-malha-respiravel-tenis-masculino-leve-antiderrapante-esp.html"
     },
     {
       "source_id": "1005010152931305",
@@ -98,7 +113,7 @@
       "por": 85.19,
       "desconto": 61,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sb28d6251b20d40e38fa00bc81eb57524H.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4oENqIE7sCVQTKG5U3Ah3KavH6gmFuDLZ1CswJVqUZuacry09i03nwGUCbfgQiGT3XtFm46YrwRbXjICDYgFSqu9I3bsrVuraJDCop0fksFcmtzj3eBRLGLP7dXUbvBzb3djXeUU4LQXjnY9KWIPD0vU3AyA2P8RZAKCtzMKjD98aCbzIwenOY5VlnNntdrKLmZQSe8jHqZaRPyIGCwrssXy5gmqkGpGKe63rRmISdpOJakcnRq2wVKdKdo5wsKtu8eDC1ct01Ucw3pbBNgE3o5kj3Dl3rfgX1GnQ65k6jvzKdcOatV13bk9IlYzPBr9SssV9pUlMkRl7YYo8nhwLz8N4lnmeLpCSyWCQxDS6ufVDSqpCa4OonmlcpOLrqgcLX2rWd1A3gmmcLaoBfH39Rb7isUdVRqCbsPXL3HDmU5X6lZIArNEEwwu4qn12TgB1FrKqLg9fUt7wmrdfAhY02Rsqtn4Uqs4RvDvTlWVap7gADldvJJE2KXr9k70flVNRL0ZJkJFBjnIfTSCLav7KE6s57eUgxf9z4zNyBjhzLB84gM9h8noE50T8RzhbV6L0PGProV1FSVf4xIZMTQtzde842BgazwIeWN6axXbFn2Js0x69OpQ0I5cYZXKjZiI0sx0RVFULSLFoX4WUQjckg4UEJXBzSrvJpfN7qqRBJlVixWQI9QoFOibWCvAfOdNGKlKeQspaKZkP5",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4oENqIE7sCVQTKG5U3Ah3KavH6gmFuDLZ1CswJVqUZuacry09i03nwGUCbfgQiGT3XtFm46YrwRbXjICDYgFSqu9I3bsrVuraJDCop0fksFcmtzj3eBRLGLP7dXUbvBzb3djXeUU4LQXjnY9KWIPD0vU3AyA2P8RZAKCtzMKjD98aCbzIwenOY5VlnNntdrKLmZQSe8jHqZaRPyIGCwrssXy5gmqkGpGKe63rRmTbJ3qwe0B3Gplzyt7YApa5Q2ZszBuyZA8vF3qnZLfVm1auM2BOmqKUKD3gXNxspjfS4PKVzU9AePu7fckYeHyGsG19hMsj8LhEoZoGj4dRJq2z6WtLuTkYIRdtJ4i2Xj8Xu9Sb6exnzSmHEGVNt1H8MGc5pSOgj1KEjnstUi1m13IyltiGTXltpl5R2EERRqvHhxmHC6CYazrDqH8VyB2OicEthUFe26YhmfyXjk7u1nbpSEt1g1Wsr08IHscYQUrjX93RWyNaxwGYxesB3TMsNBlV2ngE8v4UDX0CvKe7GEnQ9Y5qser58Fi98dPvEync552Tgzna6KhcjM19xu6iNuRS89dwSbxeLD7Wwuhe4IdRnpFg6d6f1A8gYSeEiVh8ks5B0qQXylGdemXwYHmSehvDXOdbJYz0j5PfebIsqfJEW1WcUgWx6zvPbStbY8QuNRoYldaLzwdQnrwERrbp5pVYlU4OpkLwwym7z",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Moda",
@@ -272,21 +287,6 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cabo-micro-hdmi-para-hdmi-2-1-3d-8k-1080p-adaptador-de-cabo-de.html"
     },
     {
-      "source_id": "1005005674663877",
-      "titulo": "Mini câmera wi-fi filmadora 4k full hd 1080p gravador de vídeo IR-CUT detecção de movimento visão noturna segurança casa inteligente ip web cam",
-      "de": 109.98,
-      "por": 54.99,
-      "desconto": 50,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S990ba9d8e6d04bcaa7bda223b6554542U.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZv21nedmy3YpLC7KrgktVmDzb0VGCtPhOZW0tQjMjxUA5dfvpsNpSzR2elsCIKOuPN8WUlP5HiAYa42AwtmijZZQyKQ0wfORMlNZudBg2xt7j4q6kz5QZuSP4WGb2jYcXqfGPIMcY7DpRpDmlkHJNdgSvvYSpmscWu9KbAaKoWQ2x2tgT9WDsI5Gb95cgjsv3PW7UTnxEmxaZryYteAwS9Idvsqw2aKxTr7mKG7Gjdz7yspYJZeOe9HRL1BRg6bZ901ZhaxYvL8bkA4ZkA80ClqXBBYhkSjp4ngg2QoQhDRukZIgct9aAlpKbE4bY36xNjBfhhsVwmgwjMt6LQ7FEU4wSft4MCfsv47LzPUWUtcAOBxGc6yDVIJOuCG9NHD8mhyfT8UbAY1eJ99rgBuZZJzhS4VaKzOkhIK1zQTWo2aBXAo3PekVvigiqKFFfCLMOecSPJGL87iPxJlCkATdEYjW7ux6GKx6CXRvP35yxEhVwRiMoBXYS1rqGGbDo5UT0JbwBWTbZrk4oRM4QZ4iAh3hTi4PAR15yUYyMaAN5wZZE0bRVJTxcTsBXkmbsvM0k7vIDsU6G0VigESVTu9QuwwVebRXpCaHgRCfvf2aJX4JtDc0yCGagtE1dxolhKr2mmSFSoWDn9eDMANg2O2du96pkR7vx2G708Ey5uqmzFjES1eKqSgRdyvYSgjSStzxPSyKFnlmtjRx",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "TV e Eletronicos",
-      "data": "2026-06-20T18:03:09.007999-03:00",
-      "slug": "mini-camera-wi-fi-filmadora-4k-full-hd-1080p-gravador-de-video-ir-cut",
-      "page_url": "https://promoninjaofertas.github.io/produto/mini-camera-wi-fi-filmadora-4k-full-hd-1080p-gravador-de-video-ir-cut.html"
-    },
-    {
       "source_id": "1005012116635075",
       "titulo": "Webcam 1080P/2K/4K Full HD EMEET C100 Câmera USB para Reuniões em Vídeo",
       "de": 235.3,
@@ -347,21 +347,6 @@
       "page_url": "https://promoninjaofertas.github.io/produto/savage-raven-by-skull-co-jumpgate-dock-usb-c-hub-estacao-de-acoplamento-portatil.html"
     },
     {
-      "source_id": "1005009724189570",
-      "titulo": "Adaptador multiporta usb c 11 em 1, estação de acoplamento usb c com 4k hdmi, vga 1080p, 100w pd, ethernet, sd/tf, áudio, USB-A",
-      "de": 84.67,
-      "por": 41.49,
-      "desconto": 50,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sd705601df9894f0c98d7169b7b950e21l.png",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mtCJ33Rgf7Q6Z4V8L0JffwEpN7597KkjjcEKu16NSBV3Li1cKa9MOOmf0blK8GZG1J50PPLXiRLqN49HL91H7AEwX3XOFtS63zfw9A3f1m6sgvbBWtHdgFZnGBZWuqfmhfZtQsq8P5kiLdedfo1hRPFmwZvqred7CkfL7RWvn6Hau24RIWqyGeGTehjm8TF4GjLJ1YpzVv2AdizjxRQiA9jHK6wRMSwauIKkD86Nt1UImCKwCn9w3WljhaU7Nz6TEMmr5gdQ4cAk0yUSIF3PDYNoz9ezHxMNB4VXT7wRwqOfUEJVXl8CEugBpT7rT6XdgLSuoVnlgFYCFDi13jeSwhlh3ZISd7ziYedDC9dOOWxVsd6nhQMvClgyFtXm29mmm39ztrSqOthomqGqYTpaIkQZZbvOrq8Cv5cGB45VXU6m1zvEHQNa6JkbIZQf4TigVFc3j9tFLDajncjTmnQVl7FqOI556ztHGeXwtcNdiGXHPtJgCpF0u86WR81v5jGyz3gpyJdLv4VPSlxzUcvAFE9odo3oKXx07AeREur1ItRrJ4FY81umFiI31tlIKX9LRRBNLrrOoCuvVZmWWaFB9hvYs2pAEp4cG40Kqd5InuY5Ll3OHpgTeXQjMCMXeaTFa0mQN0SpzTXqO5CuFBSinlTNzhIQkl6X1eOxCC4IwyGHex8jApOXWaJ7pO5JNBOGAbZ8NtbcR1c7e",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Pet",
-      "data": "2026-06-20T18:03:09.007999-03:00",
-      "slug": "adaptador-multiporta-usb-c-11-em-1-estacao-de-acoplamento-usb-c-com-4k",
-      "page_url": "https://promoninjaofertas.github.io/produto/adaptador-multiporta-usb-c-11-em-1-estacao-de-acoplamento-usb-c-com-4k.html"
-    },
-    {
       "source_id": "1005010786057291",
       "titulo": "Novo Leitor de Cartão SD 5 em 1 HUB USB para iPhone 12 13 14 15 16 17 Huawei USB 3.0 Tipo C para Leitor de Cartão de Memória SD TF Adaptador OTG",
       "de": 95.76,
@@ -375,6 +360,21 @@
       "data": "2026-06-20T18:03:09.007999-03:00",
       "slug": "novo-leitor-de-cartao-sd-5-em-1-hub-usb-para-iphone-12-13",
       "page_url": "https://promoninjaofertas.github.io/produto/novo-leitor-de-cartao-sd-5-em-1-hub-usb-para-iphone-12-13.html"
+    },
+    {
+      "source_id": "1005009724189570",
+      "titulo": "Adaptador multiporta usb c 11 em 1, estação de acoplamento usb c com 4k hdmi, vga 1080p, 100w pd, ethernet, sd/tf, áudio, USB-A",
+      "de": 84.67,
+      "por": 41.49,
+      "desconto": 50,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sd705601df9894f0c98d7169b7b950e21l.png",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mtCJ33Rgf7Q6Z4V8L0JffwEpN7597KkjjcEKu16NSBV3Li1cKa9MOOmf0blK8GZG1J50PPLXiRLqN49HL91H7AEwX3XOFtS63zfw9A3f1m6sgvbBWtHdgFZnGBZWuqfmhfZtQsq8P5kiLdedfo1hRPFmwZvqred7CkfL7RWvn6Hau24RIWqyGeGTehjm8TF4GjLJ1YpzVv2AdizjxRQiA9jHK6wRMSwauIKkD86Nt1UImCKwCn9w3WljhaU7Nz6TEMmr5gdQ4cAk0yUSIF3PDYNoz9ezHxMNB4VXT7wRwqOfUEJVXl8CEugBpT7rT6XdgLSuoVnlgFYCFDi13jeSwhlh3ZISd7ziYedDC9dOOWxVsd6nhQMvClgyFtXm29mmm39ztrSqOthomqGqYTpaIkQZZbvOrq8Cv5cGB45VXU6m1zvEHQNa6JkbIZQf4TigVFc3j9tFLDajncjTmnQVl7FqOI556ztHGeXwtcNdiGXHPtJgCpF0u86WR81v5jGyz3gpyJdLv4VPSlxzUcvAFE9odo3oKXx07AeREur1ItRrJ4FY81umFiI31tlIKX9LRRBNLrrOoCuvVZmWWaFB9hvYs2pAEp4cG40Kqd5InuY5Ll3OHpgTeXQjMCMXeaTFa0mQN0SpzTXqO5CuFBSinlTNzhIQkl6X1eOxCC4IwyGHex8jApOXWaJ7pO5JNBOGAbZ8NtbcR1c7e",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Pet",
+      "data": "2026-06-20T18:03:09.007999-03:00",
+      "slug": "adaptador-multiporta-usb-c-11-em-1-estacao-de-acoplamento-usb-c-com-4k",
+      "page_url": "https://promoninjaofertas.github.io/produto/adaptador-multiporta-usb-c-11-em-1-estacao-de-acoplamento-usb-c-com-4k.html"
     },
     {
       "source_id": "1005006371764973",
@@ -407,19 +407,19 @@
       "page_url": "https://promoninjaofertas.github.io/produto/hagibis-ar-oculos-adaptador-usb-c-para-oculos-e-conversor-de-carregamento-usb-c.html"
     },
     {
-      "source_id": "1005007205539038",
-      "titulo": "Wgwk 4k cmos poe câmera digital de transmissão ao vivo 3/4/5/8mp hd proteção de segurança webcam industrial 2.1/5-100mm lente varifocal manual",
-      "de": 446.47,
-      "por": 178.59,
-      "desconto": 59,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S062e9f666d1f4bbebc4465a59d69be8dh.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k6jGs4zizkvvZWb5TTGbGqjs5mNb7whmwwRuvTC3gLYX9zNORg7rmhudG5GHI2QFGISmFF2R2h2CD7FJycGpbAwg2LMLonJuMswSAsY5OXvzoLYfa1R1HoUp79t8SjMM1w5NHRDLkrKXAjf8fa8w37joc6tcq7Wl7vK2PKDuv1fMK93WS2AGVW4nVttTwNzCv8URgT1k1nhMcWSyGUshlmdpEO8GTS7pNlA2dXgd2HkLv2iHGuyOHtZq8xFKRRjxEh1LQPvu6XCcWzKfpWb4gcuKT0QteZC7aUlGNlBQjazzn7opLQjEx5GTiWcU2FB1ekd5p1GKRboRRKDb1sB43ChRCrLuJibBZd51JBpensit1vsW2FHQRwouQssS0odNfEdHc9RKOLiB72ojqDsSbUOzu5YgM0qdgHKmXZED20j0Rk4E3KRFFhkouxFS608jqMhHlL1bz550WSTuWZZdNYjA5lKWfoA5xcYOzKxfu9y1qjfDNjag7KXivlSkvWyFh7QhyKa9p2nR4MJrlCFk4ESkwtFeIr3BipMDZ3vjwHS0baKRS4PGmr0yPKeW4NlVIa7pm63LCRrfd6F9CKWzoyAbIy0Xg326LHxaQruvY5YqzqK9G4vTbUkLku9w3XaVNdK2eCPo5mYbp3kUlA0Mp8r1bq7IfEvGUfjTPjIvgVP5Wk4fGyRZwBonsR2SgPQI76ZbKA4oXMrt3",
+      "source_id": "1005005674663877",
+      "titulo": "Mini câmera wi-fi filmadora 4k full hd 1080p gravador de vídeo IR-CUT detecção de movimento visão noturna segurança casa inteligente ip web cam",
+      "de": 109.98,
+      "por": 54.99,
+      "desconto": 50,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S990ba9d8e6d04bcaa7bda223b6554542U.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZv21nedmy3YpLC7KrgktVmDzb0VGCtPhOZW0tQjMjxUA5dfvpsNpSzR2elsCIKOuPN8WUlP5HiAYa42AwtmijZZQyKQ0wfORMlNZudBg2xt7j4q6kz5QZuSP4WGb2jYcXqfGPIMcY7DpRpDmlkHJNdgSvvYSpmscWu9KbAaKoWQ2x2tgT9WDsI5Gb95cgjsv3PW7UTnxEmxaZryYteAwS9Idvsqw2aKxTr7mKG7Gjdz7yspYJZeOe9HRL1BRg6bZ901ZhaxYvL8bkA4ZkA80ClqXBBYhkSjp4ngg2QoQhDRukZIgct9aAlpKbE4bY36xNjBfhhsVwmgwjMt6LQ7FEU4wSft4MCfsv47LzPUWUtcAOBxGc6yDVIJOuCG9NHD8mhyfT8UbAY1eJ99rgBuZZJzhS4VaKzOkhIK1zQTWo2aBXAo3PekVvigiqKFFfCLMOecSPJGL87iPxJlCkATdEYjW7ux6GKx6CXRvP35yxEhVwRiMoBXYS1rqGGbDo5UT0JbwBWTbZrk4oRM4QZ4iAh3hTi4PAR15yUYyMaAN5wZZE0bRVJTxcTsBXkmbsvM0k7vIDsU6G0VigESVTu9QuwwVebRXpCaHgRCfvf2aJX4JtDc0yCGagtE1dxolhKr2mmSFSoWDn9eDMANg2O2du96pkR7vx2G708Ey5uqmzFjES1eKqSgRdyvYSgjSStzxPSyKFnlmtjRx",
       "cupom": null,
       "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-06-20T17:53:07.818927-03:00",
-      "slug": "wgwk-4k-cmos-poe-camera-digital-de-transmissao-ao-vivo-3-4-5-8mp",
-      "page_url": "https://promoninjaofertas.github.io/produto/wgwk-4k-cmos-poe-camera-digital-de-transmissao-ao-vivo-3-4-5-8mp.html"
+      "categoria": "TV e Eletronicos",
+      "data": "2026-06-20T18:03:09.007999-03:00",
+      "slug": "mini-camera-wi-fi-filmadora-4k-full-hd-1080p-gravador-de-video-ir-cut",
+      "page_url": "https://promoninjaofertas.github.io/produto/mini-camera-wi-fi-filmadora-4k-full-hd-1080p-gravador-de-video-ir-cut.html"
     }
   ]
 }
