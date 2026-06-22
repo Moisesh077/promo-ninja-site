@@ -1,6 +1,21 @@
 {
-  "atualizado": "2026-06-22T13:36:35.893855+00:00",
+  "atualizado": "2026-06-22T13:56:49.388298+00:00",
   "ofertas": [
+    {
+      "source_id": "2881204",
+      "titulo": "Protetor solar facial l&#8217;oreal paris solar expertise antirrugas fps 60 com cor 40g",
+      "de": 55.69,
+      "por": 39.8,
+      "desconto": 29,
+      "imagem": "https://m.media-amazon.com/images/I/81szE8mxxUL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Protetor-LOr%C3%A9al-Paris-Expertise-Antirrugas/dp/B08PGVW8FD?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Beleza",
+      "data": "2026-06-22T10:56:49.388298-03:00",
+      "slug": "protetor-solar-facial-l-8217-oreal-paris-solar-expertise-antirrugas-fps-60-com-cor",
+      "page_url": "https://promoninjaofertas.github.io/produto/protetor-solar-facial-l-8217-oreal-paris-solar-expertise-antirrugas-fps-60-com-cor.html"
+    },
     {
       "source_id": "1005007722719904",
       "titulo": "Latumab SODIMM Memória DDR4 DDR3 DDR3L DDR2 16GB 8GB 4GB 2GB 3200 2666 2400 2133 1866 1600 1333 800 667 MHz Laptop Ram Memoria",
