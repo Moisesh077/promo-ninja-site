@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-06-22T18:50:12.484550+00:00",
+  "atualizado": "2026-06-22T19:00:15.110786+00:00",
   "ofertas": [
+    {
+      "source_id": "2882024",
+      "titulo": "Cheap And Chic Moschino - Perfume Feminino - Eau De Toilette - Marketplace",
+      "de": 299.0,
+      "por": 171.85,
+      "desconto": 43,
+      "imagem": "https://m.media-amazon.com/images/I/416IFWMbLyL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Moschino-Cheap-Chic-Toilette-Feminino/dp/B0002KQGUG?amp=&tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Beleza",
+      "data": "2026-06-22T16:00:15.110786-03:00",
+      "slug": "cheap-and-chic-moschino-perfume-feminino-eau-de-toilette-marketplace",
+      "page_url": "https://promoninjaofertas.github.io/produto/cheap-and-chic-moschino-perfume-feminino-eau-de-toilette-marketplace.html"
+    },
+    {
+      "source_id": "2881996",
+      "titulo": "L&#039;Oréal Paris Revitalift Diurno FPS18 - Creme Facial Anti-Idade 49g",
+      "de": 66.9,
+      "por": 40.32,
+      "desconto": 40,
+      "imagem": "https://m.media-amazon.com/images/I/51c6pkHoFfL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Anti-idade-Revitalift-Diurno-LOr%C3%A9al-Paris/dp/B077C44MDR?amp=&tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Beleza",
+      "data": "2026-06-22T16:00:15.110786-03:00",
+      "slug": "l-039-oreal-paris-revitalift-diurno-fps18-creme-facial-anti-idade-49g",
+      "page_url": "https://promoninjaofertas.github.io/produto/l-039-oreal-paris-revitalift-diurno-fps18-creme-facial-anti-idade-49g.html"
+    },
     {
       "source_id": "2881961",
       "titulo": "Nestlé Ninho Forti+ Leite em Pó 750g",
