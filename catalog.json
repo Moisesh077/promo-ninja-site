@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-06-22T19:00:15.110786+00:00",
+  "atualizado": "2026-06-22T19:10:22.717454+00:00",
   "ofertas": [
+    {
+      "source_id": "2882042",
+      "titulo": "Whisky Johnnie Walker Red Label 750ml",
+      "de": 92.9,
+      "por": 56.0,
+      "desconto": 40,
+      "imagem": "https://m.media-amazon.com/images/I/41C6vb-0vwL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Whisky-Johnnie-Walker-Label-750ml/dp/B0086LLUG8?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Bebidas",
+      "data": "2026-06-22T16:10:22.717454-03:00",
+      "slug": "whisky-johnnie-walker-red-label-750ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/whisky-johnnie-walker-red-label-750ml.html"
+    },
+    {
+      "source_id": "2882031",
+      "titulo": "ELG PWC-R5 PowerCube Multiplicador 5 Tomadas",
+      "de": 91.0,
+      "por": 50.0,
+      "desconto": 45,
+      "imagem": "https://m.media-amazon.com/images/I/51CsZOBHOoL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/gp/product/B076HYZQMW?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Eletrônicos, Áudio e Vídeo",
+      "data": "2026-06-22T16:10:22.717454-03:00",
+      "slug": "elg-pwc-r5-powercube-multiplicador-5-tomadas",
+      "page_url": "https://promoninjaofertas.github.io/produto/elg-pwc-r5-powercube-multiplicador-5-tomadas.html"
+    },
     {
       "source_id": "2882024",
       "titulo": "Cheap And Chic Moschino - Perfume Feminino - Eau De Toilette - Marketplace",
@@ -15,36 +45,6 @@
       "data": "2026-06-22T16:00:15.110786-03:00",
       "slug": "cheap-and-chic-moschino-perfume-feminino-eau-de-toilette-marketplace",
       "page_url": "https://promoninjaofertas.github.io/produto/cheap-and-chic-moschino-perfume-feminino-eau-de-toilette-marketplace.html"
-    },
-    {
-      "source_id": "2881996",
-      "titulo": "L&#039;Oréal Paris Revitalift Diurno FPS18 - Creme Facial Anti-Idade 49g",
-      "de": 66.9,
-      "por": 40.32,
-      "desconto": 40,
-      "imagem": "https://m.media-amazon.com/images/I/51c6pkHoFfL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Anti-idade-Revitalift-Diurno-LOr%C3%A9al-Paris/dp/B077C44MDR?amp=&tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-06-22T16:00:15.110786-03:00",
-      "slug": "l-039-oreal-paris-revitalift-diurno-fps18-creme-facial-anti-idade-49g",
-      "page_url": "https://promoninjaofertas.github.io/produto/l-039-oreal-paris-revitalift-diurno-fps18-creme-facial-anti-idade-49g.html"
-    },
-    {
-      "source_id": "2881961",
-      "titulo": "Nestlé Ninho Forti+ Leite em Pó 750g",
-      "de": 38.99,
-      "por": 29.0,
-      "desconto": 26,
-      "imagem": "https://m.media-amazon.com/images/I/617HsL3ssoL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Composto-L%C3%A1cteo-Nestl%C3%A9-Ninho-Pacote/dp/B082JG4L27?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Supermercado e Delivery",
-      "data": "2026-06-22T15:50:12.484550-03:00",
-      "slug": "nestle-ninho-forti-leite-em-po-750g",
-      "page_url": "https://promoninjaofertas.github.io/produto/nestle-ninho-forti-leite-em-po-750g.html"
     },
     {
       "source_id": "1005009784497103",
