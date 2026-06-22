@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-06-22T13:56:49.388298+00:00",
+  "atualizado": "2026-06-22T14:07:05.894466+00:00",
   "ofertas": [
+    {
+      "source_id": "2881241",
+      "titulo": "JBL, Caixa de Som, Go 5, Bluetooth, Portátil, Auracast, À Prova D'água e Poeira - Preta",
+      "de": 359.0,
+      "por": 266.54,
+      "desconto": 26,
+      "imagem": "https://m.media-amazon.com/images/I/61qNLkprnrL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/JBL-Som-Bluetooth-Port%C3%A1til-Auracast/dp/B0H1F1VKJT?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-06-22T11:07:05.894466-03:00",
+      "slug": "jbl-caixa-de-som-go-5-bluetooth-portatil-auracast-a-prova-d-agua-e",
+      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-go-5-bluetooth-portatil-auracast-a-prova-d-agua-e.html"
+    },
+    {
+      "source_id": "2881202",
+      "titulo": "Plafon smart led tramontina de sobrepor 18w inteligente wi-fi + bluetooth geolocalizacao &#8211; compativel alexa e google",
+      "de": 55.39,
+      "por": 39.8,
+      "desconto": 28,
+      "imagem": "https://m.media-amazon.com/images/I/611UMD7LhaL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Plafon-Quadrado-Sobrepor-Tramontina-Compat%C3%ADvel/dp/B0B7V43K65?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-06-22T11:07:05.894466-03:00",
+      "slug": "plafon-smart-led-tramontina-de-sobrepor-18w-inteligente-wi-fi-bluetooth-geolocalizacao",
+      "page_url": "https://promoninjaofertas.github.io/produto/plafon-smart-led-tramontina-de-sobrepor-18w-inteligente-wi-fi-bluetooth-geolocalizacao.html"
+    },
     {
       "source_id": "2881204",
       "titulo": "Protetor solar facial l&#8217;oreal paris solar expertise antirrugas fps 60 com cor 40g",
