@@ -1,6 +1,21 @@
 {
-  "atualizado": "2026-06-22T23:33:07.841326+00:00",
+  "atualizado": "2026-06-22T23:43:07.801076+00:00",
   "ofertas": [
+    {
+      "source_id": "2882467",
+      "titulo": "Álbum de Figurinhas Capa Dura FIFA WORLD CUP 2026",
+      "de": 74.9,
+      "por": 29.9,
+      "desconto": 60,
+      "imagem": "https://m.media-amazon.com/images/I/71XGnCo1fML._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/6555165766?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Brinquedos e Hobbies",
+      "data": "2026-06-22T20:43:07.801076-03:00",
+      "slug": "album-de-figurinhas-capa-dura-fifa-world-cup-2026",
+      "page_url": "https://promoninjaofertas.github.io/produto/album-de-figurinhas-capa-dura-fifa-world-cup-2026.html"
+    },
     {
       "source_id": "1005012079238007",
       "titulo": "Fone de Ouvido Gamer VALKYRIE VK S1 Sem Fio Tri-modo 2.4G Bluetooth de Baixa Latência para Jogadores de FPS CS2 Valorant PC PS5",
@@ -53,7 +68,7 @@
       "por": 32.39,
       "desconto": 39,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf4d6e18856e94cb194a92f9ed561d17aW.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EAQwFsS0TbF3knWuz8bKlreq20WePlDhLttX2GK3oWOHQXzeJ4jxr8J8rsEEjlI46i2TIti3ZhuJKNXIwVGK4KpFiecOw4lzjCrbmozGsrTRkcl94yWOZhD9ovvclbwSTR4l5nAyhHo3UIArgKDSRcKdTdu2dR5usHDsUv6wndiowjnlzo2pQxexwx8ZabD0KFdRoo1LJdUap2pFl2PqstPEBVyskNjiclM8fPhXH7akW5hXMvrdkjiBAcbSNSfg0zng5RfXnjl6PdvlRClqHv7M0bxp2IIRD1XMpHu2YP1HGxMmAyuYsLbv3XL5xtg0AtTCHcmwE6qSGj24U0UKbEOmdwx64W5ZRHPxAhU0pGnUXcBcNC3s6QfdukOv7iPQEHv25Z9pS3BIJ73lyiaJSkuLMekbWe5eLhlUFhZ7jDNPQ7dyFcUsSgachRf27TlV0iylbqYr63lnjoKdw0XTV6Lwe5DPOTd6AC3MH1UIRzBbB5kEjWtUyO13B4grbSqRyMMd34bBWEgg7yk5cNR79Br3Y3ZcASKQtfUJHKUjgyNxUxOj42j8ngi1adUFyzg9VrqHyCin82tUobucf8xfubdaRWqLHuw3zSwf7VBdMIw8KxR4BLVwksxPUO2CyvsL8wcPwSp9bfNK6bCBtWJBy9TgZT9ZmiZjBrvdAAvZnTztmhqDvcW8WD0mI4g7TqKqZyaHNeFRew71m",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EAQwFsS0TbF3knWuz8bKlreq20WePlDhLttX2GK3oWOHQXzeJ4jxr8J8rsEEjlI46i2TIti3ZhuJKNXIwVGK4KpFiecOw4lzjCrbmozGsrTRkcl94yWOZhD9ovvclbwSTR4l5nAyhHo3UIArgKDSRcKdTdu2dR5usHDsUv6wndiowjnlzo2pQxexwx8ZabD0KFdRoo1LJdUap2pFl2PqstPEBVyskNjiclM8f05QYOEXB0tF6j5npdFKhfE1hTxxDxClXl1NlqyzXSA32rVvKixF4EFPWZId9NtthbEIkNwIJDyy37Z1HiKsnOraChZHYHSCU98NU6Za1kviSEMNuS7iUAsvdF1enIzeAuKaRbsKmCUpgpJ8TqN2mlYYsClij56AaNATBRVJuMwZUzwAkheJZsOmoRgi3uT1nc0X9c3SMeS8GwqgidKd2owSlwiqCTHb6rbxJHflynChhAkJMjc4CRmb9fC2ujDUql8xRtDHr5e2L7robSyUA4NDLHMrGsWGvLXnZslGF2YTlTzEZFKz5aKTHxROrBRKJcKxCwJEt2NmaMu3Qn7vSPYbyliWAO4cWB7egOFOIFoMM9TZ7mlAlWQ3gam9ZPjSkbhF8U4IGvPgiEGdclfSAq3Q4pd3PF8GnL3kXsjNG0qsrM8kHmR91xsmERGEvbn9HlUpkqrVrUAANTFpspsg74UUzsIyexAVj7qZTmzXS",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Moda",
