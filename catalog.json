@@ -1,6 +1,66 @@
 {
-  "atualizado": "2026-06-22T11:14:22.807630+00:00",
+  "atualizado": "2026-06-22T11:24:28.504425+00:00",
   "ofertas": [
+    {
+      "source_id": "2880784",
+      "titulo": "Vonixx V-floc 1,5l",
+      "de": 42.9,
+      "por": 33.0,
+      "desconto": 23,
+      "imagem": "https://m.media-amazon.com/images/I/611D0eN+XxL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/vonixx-2011004-V-FLOC-1-5L/dp/B07YM4MJ3K/?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Peças e Acessórios para automóveis",
+      "data": "2026-06-22T08:24:28.504425-03:00",
+      "slug": "vonixx-v-floc-1-5l",
+      "page_url": "https://promoninjaofertas.github.io/produto/vonixx-v-floc-1-5l.html"
+    },
+    {
+      "source_id": "1005007722719904",
+      "titulo": "Latumab SODIMM Memória DDR4 DDR3 DDR3L DDR2 16GB 8GB 4GB 2GB 3200 2666 2400 2133 1866 1600 1333 800 667 MHz Laptop Ram Memoria",
+      "de": 102.43,
+      "por": 51.21,
+      "desconto": 50,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S636e81a77ee84c44a72d214ec5f206e4B.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FmL9ftj0x5VpS1Vr61F3N6czz6e15rUpvtm0YY48PVTai51cDztSBpQxuV3JSrznlpC2RYaAJpVasdxHTEuqlaVg12hmX2tS16HO1XTfMNYM8msN8MjjDGBlvNLQvMIeUr6n9ehp88Yoc1UhnfizJNAAauvLA3qvdRe1IxybaKWgmWIvgAApTo6SfSl4DhzNfGV2DS8pF0K0uZ2PbTogFyYcy8QGhHLBbSaKXxDXCFEnEdhpXz9J3FyUKVw2jnikyJ6Z4cv1QCF5C8cQF2ODJIbxyJAxrrK5HPXPQWjWrBhJ4oIWpSxTiBPDqVc2os8rnvZWZ2gFNOEJ1g4EE1TFT08L5QEyxJTUVTrl9vpLWMnOLaTTW0nlC22jYLVGrf4mMsfYgvyAnnq3kHMxxjTrtVUG8NG3AoSInpky55T5SLqCpnpv0qmASNXCIlhUEyhMwzcz5rgjg0Jm2o59gQLKYLFHME5hz9qsga5MUjnPwFAvi9V8imV4czGsMAO6lk5dTSldrCmGBzMtGFkH7REygLPJI6Rad2TQ1yKqoEBGl8SvnkZxtDhZ9QNCuOKjp8NcAp9JaOn1ZUQOewW9cnP23zRJaxK7vvTNb7pBbXPxS5sDdFGZXXu7mMZzbYFjeB62q3rMISDQ81jY3mJByfHDQ4ZMS7eQWQxrYaJIhRiHKomFnBsrwjRE7aN6uiwFUcP8NhqCElwlmNBzm",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Hardware",
+      "data": "2026-06-22T08:24:28.504425-03:00",
+      "slug": "latumab-sodimm-memoria-ddr4-ddr3-ddr3l-ddr2-16gb-8gb-4gb-2gb-3200-2666-2400",
+      "page_url": "https://promoninjaofertas.github.io/produto/latumab-sodimm-memoria-ddr4-ddr3-ddr3l-ddr2-16gb-8gb-4gb-2gb-3200-2666-2400.html"
+    },
+    {
+      "source_id": "2880780",
+      "titulo": "Whisky Jack Daniel’s Single Barrel Tennessee Whiskey 750ml",
+      "de": 329.9,
+      "por": 237.6,
+      "desconto": 28,
+      "imagem": "https://m.media-amazon.com/images/I/710-AxYa7vL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B000NDYQDG/?tag=promoninja0c3-20",
+      "cupom": "SEMANANOVA",
+      "loja": "amazon",
+      "categoria": "Bebidas",
+      "data": "2026-06-22T08:24:28.504425-03:00",
+      "slug": "whisky-jack-daniels-single-barrel-tennessee-whiskey-750ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/whisky-jack-daniels-single-barrel-tennessee-whiskey-750ml.html"
+    },
+    {
+      "source_id": "2880775",
+      "titulo": "Fralda Personal Baby Protect & Sec G 60 Unidades",
+      "de": 64.64,
+      "por": 46.91,
+      "desconto": 27,
+      "imagem": "https://m.media-amazon.com/images/I/61NLcl3XQoL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/gp/product/B0BCHWGG5P?tag=promoninja0c3-20",
+      "cupom": "SEMANANOVA",
+      "loja": "amazon",
+      "categoria": "Bebês e Crianças",
+      "data": "2026-06-22T08:24:28.504425-03:00",
+      "slug": "fralda-personal-baby-protect-sec-g-60-unidades",
+      "page_url": "https://promoninjaofertas.github.io/produto/fralda-personal-baby-protect-sec-g-60-unidades.html"
+    },
     {
       "source_id": "2880761",
       "titulo": "STANLEY Kit de Ferramentas 110 Peças STMT81243 Chave Combinada, Catraca, Alicates",
@@ -17,21 +77,6 @@
       "page_url": "https://promoninjaofertas.github.io/produto/stanley-kit-de-ferramentas-110-pecas-stmt81243-chave-combinada-catraca-alicates.html"
     },
     {
-      "source_id": "2880769",
-      "titulo": "Escova de Dente Colgate, 4 Unidades",
-      "de": 27.99,
-      "por": 22.51,
-      "desconto": 20,
-      "imagem": "https://m.media-amazon.com/images/I/51WS7i+svjL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Escova-Dental-Colgate-Black-Preto/dp/B08K4HMYHH?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-06-22T08:14:22.807630-03:00",
-      "slug": "escova-de-dente-colgate-4-unidades",
-      "page_url": "https://promoninjaofertas.github.io/produto/escova-de-dente-colgate-4-unidades.html"
-    },
-    {
       "source_id": "1005010749166148",
       "titulo": "Escova Alisadora Capilar Aquecida Recarregável Mini Portátil Rápida para Viagens e Uso Diário",
       "de": 37.99,
@@ -45,21 +90,6 @@
       "data": "2026-06-22T06:53:22.696385-03:00",
       "slug": "escova-alisadora-capilar-aquecida-recarregavel-mini-portatil-rapida-para-viagens-e-uso",
       "page_url": "https://promoninjaofertas.github.io/produto/escova-alisadora-capilar-aquecida-recarregavel-mini-portatil-rapida-para-viagens-e-uso.html"
-    },
-    {
-      "source_id": "1005006014370814",
-      "titulo": "sapato masculino tênis masculino Homens Sapatos Sapatilhas homem casual Sapatos masculinos tenis Sapatos de luxo Trainer Race Respirável Sapatos moda running Shoes para as mulheres",
-      "de": 328.38,
-      "por": 59.27,
-      "desconto": 81,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S702f725963004fbd8741e0489ba0c878a.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ok1PQ8iCzpyDub1chegAMyykonAS6ZsQHICoAD8CAE6J9CZCeooFx0DZwBVL3XZQBhJKfTDMibwcrwktFeMeBN9OFgitOLcGHKTfRT8rHjexTjUgEvREHxFdDMjYGkvtAhV5OeAXjVotaSkQCpZi9aFoatdvgrAOonWOchcaOZoVxOqGICYE5n2OC8xOlCgCsC9zJS2BOYezVcHmCuXGKr3bCX2Lt4iKMGdqDovQTNVqI0pKHmQHjufH8cikoNe3V9A0FLZNXLuH8m5nzeO7OhR3UzcNwPhIpuGcq8wRDqTrmyZmPPbwqCCQkdNPx6scrrQOsW6uW02WrN7SlAJhguzLrksrqrTrFFEd8N3kyn71gGvtzvufDXzXfpcVviBZATdUVxsbRN7DXBfC1LnxmiOTukCMQINoVHna2PEHzb4JSTHfiOaMR7RkhvExsKqCCQlUc9xPxVY02VdmStTDiCpwQnLmhhWZ24WDDQ0vAW0kUPDgQyYK5XU9mX6A9EIUltufZ7qHgu39OuXO0z4nIr3VckNA5GfcaEZyPC0l6t4C5FO2ADW9MLMUSN4jhXFGXbkBHLqObASUH9mTg91TAcQ9qUR72sFiC4nJBExi1TXZ2qMV6qloxWp6tm4n9XrU6GKHUG2I49lGfpv9XNXPHWgixlSIBVR2CoFlaOhcqJ8wB4wsG2t9shVsKdtJMuf4W8s0ZPMIeVNTG",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Moda",
-      "data": "2026-06-22T01:09:15.197775-03:00",
-      "slug": "sapato-masculino-tenis-masculino-homens-sapatos-sapatilhas-homem-casual-sapatos-mascul",
-      "page_url": "https://promoninjaofertas.github.io/produto/sapato-masculino-tenis-masculino-homens-sapatos-sapatilhas-homem-casual-sapatos-mascul.html"
     },
     {
       "source_id": "1005010629132988",
@@ -90,6 +120,21 @@
       "data": "2026-06-22T01:09:15.197775-03:00",
       "slug": "sapato-masculino-tenis-masculino-2024-homens-sapatos-de-futebol-tamanho-grande-ultrale",
       "page_url": "https://promoninjaofertas.github.io/produto/sapato-masculino-tenis-masculino-2024-homens-sapatos-de-futebol-tamanho-grande-ultrale.html"
+    },
+    {
+      "source_id": "1005006014370814",
+      "titulo": "sapato masculino tênis masculino Homens Sapatos Sapatilhas homem casual Sapatos masculinos tenis Sapatos de luxo Trainer Race Respirável Sapatos moda running Shoes para as mulheres",
+      "de": 328.38,
+      "por": 59.27,
+      "desconto": 81,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S702f725963004fbd8741e0489ba0c878a.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ok1PQ8iCzpyDub1chegAMyykonAS6ZsQHICoAD8CAE6J9CZCeooFx0DZwBVL3XZQBhJKfTDMibwcrwktFeMeBN9OFgitOLcGHKTfRT8rHjexTjUgEvREHxFdDMjYGkvtAhV5OeAXjVotaSkQCpZi9aFoatdvgrAOonWOchcaOZoVxOqGICYE5n2OC8xOlCgCsC9zJS2BOYezVcHmCuXGKr3bCX2Lt4iKMGdqDovQTNVqI0pKHmQHjufH8cikoNe3V9A0FLZNXLuH8m5nzeO7OhR3UzcNwPhIpuGcq8wRDqTrmyZmPPbwqCCQkdNPx6scrrQOsW6uW02WrN7SlAJhguzLrksrqrTrFFEd8N3kyn71gGvtzvufDXzXfpcVviBZATdUVxsbRN7DXBfC1LnxmiOTukCMQINoVHna2PEHzb4JSTHfiOaMR7RkhvExsKqCCQlUc9xPxVY02VdmStTDiCpwQnLmhhWZ24WDDQ0vAW0kUPDgQyYK5XU9mX6A9EIUltufZ7qHgu39OuXO0z4nIr3VckNA5GfcaEZyPC0l6t4C5FO2ADW9MLMUSN4jhXFGXbkBHLqObASUH9mTg91TAcQ9qUR72sFiC4nJBExi1TXZ2qMV6qloxWp6tm4n9XrU6GKHUG2I49lGfpv9XNXPHWgixlSIBVR2CoFlaOhcqJ8wB4wsG2t9shVsKdtJMuf4W8s0ZPMIeVNTG",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Moda",
+      "data": "2026-06-22T01:09:15.197775-03:00",
+      "slug": "sapato-masculino-tenis-masculino-homens-sapatos-sapatilhas-homem-casual-sapatos-mascul",
+      "page_url": "https://promoninjaofertas.github.io/produto/sapato-masculino-tenis-masculino-homens-sapatos-sapatilhas-homem-casual-sapatos-mascul.html"
     },
     {
       "source_id": "1005011771515942",
