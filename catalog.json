@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-06-22T22:52:35.122970+00:00",
+  "atualizado": "2026-06-22T23:02:54.295190+00:00",
   "ofertas": [
+    {
+      "source_id": "2882382",
+      "titulo": "Motorola Moto G67 5G - 128GB12GB RAM - 50MP Sony",
+      "de": 2099.0,
+      "por": 986.0,
+      "desconto": 53,
+      "imagem": "https://m.media-amazon.com/images/I/51BHq8sWc5L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G67-ultrarresistente/dp/B0GLQXJFBD?tag=promoninja0c3-20",
+      "cupom": "PARAVOCE",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-22T20:02:54.295190-03:00",
+      "slug": "motorola-moto-g67-5g-128gb12gb-ram-50mp-sony",
+      "page_url": "https://promoninjaofertas.github.io/produto/motorola-moto-g67-5g-128gb12gb-ram-50mp-sony.html"
+    },
+    {
+      "source_id": "2882381",
+      "titulo": "Panasonic Máquina de Lavar 15kg Branca 220v NA-F150B1W",
+      "de": 2299.0,
+      "por": 1759.0,
+      "desconto": 23,
+      "imagem": "https://m.media-amazon.com/images/I/61gXZ2VqfdL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Panasonic-M%C3%A1quina-Lavar-Branca-NA-F150B1W/dp/B00I3ZRSYU/?tag=promoninja0c3-20",
+      "cupom": "UNICOPENTA",
+      "loja": "amazon",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-06-22T20:02:54.295190-03:00",
+      "slug": "panasonic-maquina-de-lavar-15kg-branca-220v-na-f150b1w",
+      "page_url": "https://promoninjaofertas.github.io/produto/panasonic-maquina-de-lavar-15kg-branca-220v-na-f150b1w.html"
+    },
     {
       "source_id": "2882343",
       "titulo": "Amazon Basics microSDXC 64GB A2U3 com adaptador",
@@ -15,21 +45,6 @@
       "data": "2026-06-22T19:52:35.122970-03:00",
       "slug": "amazon-basics-microsdxc-64gb-a2u3-com-adaptador",
       "page_url": "https://promoninjaofertas.github.io/produto/amazon-basics-microsdxc-64gb-a2u3-com-adaptador.html"
-    },
-    {
-      "source_id": "2882352",
-      "titulo": "GA.MA ITALY Escova Secadora Babosa Brush 3D Bivolt",
-      "de": 249.9,
-      "por": 139.55,
-      "desconto": 44,
-      "imagem": "https://m.media-amazon.com/images/I/61R6aVcxwYL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Escova-Secadora-GA-MA-Italy-Babosa/dp/B0CK51XR29?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-06-22T19:42:22.879337-03:00",
-      "slug": "ga-ma-italy-escova-secadora-babosa-brush-3d-bivolt",
-      "page_url": "https://promoninjaofertas.github.io/produto/ga-ma-italy-escova-secadora-babosa-brush-3d-bivolt.html"
     },
     {
       "source_id": "1005012079238007",
