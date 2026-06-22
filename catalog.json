@@ -1,6 +1,21 @@
 {
-  "atualizado": "2026-06-22T01:07:35.087138+00:00",
+  "atualizado": "2026-06-22T01:17:35.691971+00:00",
   "ofertas": [
+    {
+      "source_id": "2880581",
+      "titulo": "Fogão Atlas 4 Bocas Mesa de Inox Coliseum Plus Branco",
+      "de": 587.8,
+      "por": 436.3,
+      "desconto": 26,
+      "imagem": "https://m.media-amazon.com/images/I/614PVcwzaiL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Fog%C3%A3o-Atlas-bocas-branco-Coliseum/dp/B09TXCG39Z?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Casa",
+      "data": "2026-06-21T22:17:35.691971-03:00",
+      "slug": "fogao-atlas-4-bocas-mesa-de-inox-coliseum-plus-branco",
+      "page_url": "https://promoninjaofertas.github.io/produto/fogao-atlas-4-bocas-mesa-de-inox-coliseum-plus-branco.html"
+    },
     {
       "source_id": "1005011771515942",
       "titulo": "Tênis Masculino Casual 2026: Conforto e Respirabilidade com Sola Macia Antiderrapante - Slip-On Loafers",
