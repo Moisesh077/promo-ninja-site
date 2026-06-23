@@ -1,6 +1,21 @@
 {
-  "atualizado": "2026-06-23T10:22:15.179807+00:00",
+  "atualizado": "2026-06-23T10:32:17.473455+00:00",
   "ofertas": [
+    {
+      "source_id": "2883020",
+      "titulo": "Kit Marvel's Wolverine PlayStation 5 + Boneco Wolverine Marvel Titan Heroes X-Men",
+      "de": 519.89,
+      "por": 399.9,
+      "desconto": 23,
+      "imagem": "https://m.media-amazon.com/images/I/71VioLwuWoL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0H46QLPKD?social_share=cm_sw_r_cso_cp_apan_dp_5ZCA6CA505BN6BM02JR0&tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Games",
+      "data": "2026-06-23T07:32:17.473455-03:00",
+      "slug": "kit-marvel-s-wolverine-playstation-5-boneco-wolverine-marvel-titan-heroes-x-men",
+      "page_url": "https://promoninjaofertas.github.io/produto/kit-marvel-s-wolverine-playstation-5-boneco-wolverine-marvel-titan-heroes-x-men.html"
+    },
     {
       "source_id": "1005010165722060",
       "titulo": "Tênis casuais masculinos, tênis de luxo, tênis de corrida respiráveis, mocassins da moda para homens.",
@@ -53,7 +68,7 @@
       "por": 210.99,
       "desconto": 36,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sb8ceda3ea46c4c4485ffa87515d4dc62M.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mOTXicG3lUJ2wA9NQzFLnoRk5s9sMxKKT0XIkQ8SWPQtuBhGnMUnpyx8Y0KzAEJ6C2JOt9SWeYfYjeGK7E4aPnd93Ko1qnyj0SYCr2TxcRRAjeghnLE0K4MZkbNo95tRgyOwM1CFNcC0hBrXa2jbXJxU7z8hsSaDSgf1tcEGsGDMSTJrN7yojHoEhOW1VTDgtK8DQzcsTpM8udhzom597X0oHCcCt3mQ2DeojTwaM0Yc13coecu1vbPyyNSJEl9Rk4iHms5eBnqnW1lUB7Fcu7FfHqNvPDlynMcjNvfu5aaNsqVSSMwve1znIKnVyuDEcT0vTHKdMqrbJ4Qs6Xjx1NhL63fOd69kCZU1n276UXkBmizfOHIpAEl7qqBFr5rN0M3ZyYDq2Usa96P527p9yh4Cs7CW0uRLEWr7QE48afp1hcHQag5zTLFoJiWvxSEg9m1B1bhAXSy3hKMnL2CeO9fLFEqo4xTiIeVjVslOHLz82wOYw4WdfHovstHyZOmnd3mQO3lLlaDlj3oXLBn2M24RZCOvyGIjvCQpYnO0kDdhKBbZv89IZGhdFMZ3e9Yh3R7S4VKjRMVpTCW1CZiX1La356O5a6ernKZeskjtSiJWOxVLX5K7Gmmsxo75tOZU1RfJDdjXZiwhopun3zcfyOzqD00TzFHgEumXhAyGamTiz5xOS7HkaKiSoGyvAjDBYlYj6Ya0A7y4z",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mOTXicG3lUJ2wA9NQzFLnoRk5s9sMxKKT0XIkQ8SWPQtuBhGnMUnpyx8Y0KzAEJ6C2JOt9SWeYfYjeGK7E4aPnd93Ko1qnyj0SYCr2TxcRRAjeghnLE0K4MZkbNo95tRgyOwM1CFNcC0hBrXa2jbXJxU7z8hsSaDSgf1tcEGsGDMSTJrN7yojHoEhOW1VTDgtK8DQzcsTpM8udhzom597X0oHCcCt3mQ2DeojUd3wnTwYuPVyGzdS6bDno7KVWIrTiaXKYe5S9notz14xUDXhUECCLhGBjXY0LfFpKyIODzhpeypeE22U1YTFRo502lrPAuWgpOaiEBki4xG5An5K83SPKTBxru8856AHUnRtMp95idYCaJ9MwzpQlPdV7VQQvk30PqVlvY00J1d2BNw4CYy2LdLoVGURvIyikoSK3kYiKu0gJqkYUEvPnEeV0Alz3DVaPWaecs0nfSmYsbKvGKEbP7KW32VFxh65wcTZ9GBjyNgc93LphjKhCTMh5mJr0dkzCTFnHd84jJtWsX9U0o1Iabg2kYXStSamuIowQKmDSBxmpVeSRsDYvU7phQdMGoEnYPaPIl6VHaUQCkyrPkkWVjUxjtIQFdQdntfUMLWPSFiCUT8lF3q0lgBugn5dVpupi8w9MbTXZNUvScusORQsM9yCmKRzsSfrOHhV91mdeSAnyOlLDgmXE6NdNgwFaqErlkyfgRrn",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
