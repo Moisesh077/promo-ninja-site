@@ -1,6 +1,51 @@
 {
-  "atualizado": "2026-06-23T11:43:26.591045+00:00",
+  "atualizado": "2026-06-23T11:53:45.989556+00:00",
   "ofertas": [
+    {
+      "source_id": "2883115",
+      "titulo": "Cosco kids, cadeira de refeicao portatil pop, cinza",
+      "de": 279.0,
+      "por": 183.0,
+      "desconto": 34,
+      "imagem": "https://m.media-amazon.com/images/I/51FrqC0GI9L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B09K2YM386?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-06-23T08:53:45.989556-03:00",
+      "slug": "cosco-kids-cadeira-de-refeicao-portatil-pop-cinza-2",
+      "page_url": "https://promoninjaofertas.github.io/produto/cosco-kids-cadeira-de-refeicao-portatil-pop-cinza-2.html"
+    },
+    {
+      "source_id": "2883039",
+      "titulo": "Picarón Vinho Cabernet Sauvignon 750Ml",
+      "de": 39.9,
+      "por": 23.51,
+      "desconto": 41,
+      "imagem": "https://m.media-amazon.com/images/I/41kR0UJcOHL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B09WPRPPC3?social_share=cm_sw_r_cso_cp_apan_dp_3K8065GV01D9B1MK9804&tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Bebidas",
+      "data": "2026-06-23T08:53:45.989556-03:00",
+      "slug": "picaron-vinho-cabernet-sauvignon-750ml-2",
+      "page_url": "https://promoninjaofertas.github.io/produto/picaron-vinho-cabernet-sauvignon-750ml-2.html"
+    },
+    {
+      "source_id": "2883132",
+      "titulo": "Brilhus &#8211; mop sek+ lava e seca alta absorcao, cabo retratil ate 89cm, bettanin",
+      "de": 49.9,
+      "por": 39.99,
+      "desconto": 20,
+      "imagem": "https://m.media-amazon.com/images/I/51ap1+WszKS._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/gp/product/B076W8SMXL?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-06-23T08:53:45.989556-03:00",
+      "slug": "brilhus-8211-mop-sek-lava-e-seca-alta-absorcao-cabo-retratil-ate-89cm-bettanin",
+      "page_url": "https://promoninjaofertas.github.io/produto/brilhus-8211-mop-sek-lava-e-seca-alta-absorcao-cabo-retratil-ate-89cm-bettanin.html"
+    },
     {
       "source_id": "2883117",
       "titulo": "Liquidificador, diamante, 900w, vermelho, 110v, britania",
@@ -15,21 +60,6 @@
       "data": "2026-06-23T08:43:26.591045-03:00",
       "slug": "liquidificador-diamante-900w-vermelho-110v-britania",
       "page_url": "https://promoninjaofertas.github.io/produto/liquidificador-diamante-900w-vermelho-110v-britania.html"
-    },
-    {
-      "source_id": "2883097",
-      "titulo": "Dove Sérum Hidratante Corporal Pró-retinol + Firmador 380ml",
-      "de": 48.02,
-      "por": 29.89,
-      "desconto": 38,
-      "imagem": "https://m.media-amazon.com/images/I/41pBY+UyZEL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0D8N33NBS/?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-06-23T08:33:15.978850-03:00",
-      "slug": "dove-serum-hidratante-corporal-pro-retinol-firmador-380ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/dove-serum-hidratante-corporal-pro-retinol-firmador-380ml.html"
     },
     {
       "source_id": "2883095",
