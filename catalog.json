@@ -1,20 +1,20 @@
 {
-  "atualizado": "2026-06-23T13:55:47.790661+00:00",
+  "atualizado": "2026-06-23T14:05:50.017695+00:00",
   "ofertas": [
     {
-      "source_id": "2883404",
-      "titulo": "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 110v",
-      "de": 159.9,
-      "por": 59.9,
-      "desconto": 63,
-      "imagem": "https://m.media-amazon.com/images/I/41z7d-LlVEL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DCM31SDG?tag=promoninja0c3-20",
+      "source_id": "2883439",
+      "titulo": "CHURRASQUEIRA MÓVEL PRO TORK PRETA",
+      "de": 229.9,
+      "por": 97.55,
+      "desconto": 58,
+      "imagem": "https://m.media-amazon.com/images/I/51CDawYBAuL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0B1JCYB2V?amplanguage=pt_BR&tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
-      "categoria": "Eletrodomésticos",
-      "data": "2026-06-23T10:45:36.070559-03:00",
-      "slug": "fogao-eletrico-portatil-cooktop-elgin-double-cook-2-bocas-110v",
-      "page_url": "https://promoninjaofertas.github.io/produto/fogao-eletrico-portatil-cooktop-elgin-double-cook-2-bocas-110v.html"
+      "categoria": "Utilidades Domésticas",
+      "data": "2026-06-23T11:05:50.017695-03:00",
+      "slug": "churrasqueira-movel-pro-tork-preta",
+      "page_url": "https://promoninjaofertas.github.io/produto/churrasqueira-movel-pro-tork-preta.html"
     },
     {
       "source_id": "1005005035715920",
@@ -30,21 +30,6 @@
       "data": "2026-06-23T10:45:36.070559-03:00",
       "slug": "25-em-1-mini-chave-de-fenda-de-precisao-conjunto-magnetico-eletronico-torx-chave",
       "page_url": "https://promoninjaofertas.github.io/produto/25-em-1-mini-chave-de-fenda-de-precisao-conjunto-magnetico-eletronico-torx-chave.html"
-    },
-    {
-      "source_id": "2883397",
-      "titulo": "Igloo 4,5 Mm (12 Galões) Azul",
-      "de": 106.06,
-      "por": 81.43,
-      "desconto": 23,
-      "imagem": "https://m.media-amazon.com/images/I/712TCO5+K4S._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/IGLOO-Igloo-gal%C3%B5es-azul/dp/B093X37M8L?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Utilidades Domésticas",
-      "data": "2026-06-23T10:45:36.070559-03:00",
-      "slug": "igloo-4-5-mm-12-galoes-azul",
-      "page_url": "https://promoninjaofertas.github.io/produto/igloo-4-5-mm-12-galoes-azul.html"
     },
     {
       "source_id": "1005009691303015",
