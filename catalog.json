@@ -1,21 +1,6 @@
 {
-  "atualizado": "2026-06-23T12:24:15.982657+00:00",
+  "atualizado": "2026-06-23T12:34:36.097036+00:00",
   "ofertas": [
-    {
-      "source_id": "2883216",
-      "titulo": "The Last Of Us Part II - PlayStation 4",
-      "de": 107.82,
-      "por": 84.45,
-      "desconto": 22,
-      "imagem": "https://m.media-amazon.com/images/I/61OZeW+pPYL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Last-Us-Part-II-PlayStation/dp/B07ZGFHZVZ?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Games",
-      "data": "2026-06-23T09:24:15.982657-03:00",
-      "slug": "the-last-of-us-part-ii-playstation-4",
-      "page_url": "https://promoninjaofertas.github.io/produto/the-last-of-us-part-ii-playstation-4.html"
-    },
     {
       "source_id": "1005004462182112",
       "titulo": "Jcd 8208 pistola de calor micro estação de solda 750w pistola de ar quente lcd digital secador de cabelo para bga ic ferramentas de reparo de soldagem",
@@ -23,7 +8,7 @@
       "por": 157.59,
       "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sd4ea00a940334b6abd335cf5c4e1fb1fb.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kIWfFctKZoWujrCTLgA0Kc5wj3DWJlnvD4mQPDSVNdVEYzqTrN2xkUGHTG5BLDvaVhuZ0E9U9sIcwtD9pWOtpvQJ8T5XT4zuHotNeO700kYPJ1jgtmsORgxtVIyDz36LZHO7OunWMzqW0f9M4CZ7krw1NHDT4rr5yQZ6DUhromGIqKdAc1IgSmkHMpr6f1dxnuEAras9X0COQiYqf3XLiDceqNcy2f4hfKpvDV78t8JJj4JkQQ7n6D4jv2QlGLwHlZwCYOOPcdEKqfWm3C1j51FmgHYXOP1vVzIvAu40tuFUOKFvQa6d3ayXmP0853hFE5kslHqHnBaoVA4ILNavelPzFC68QOE6ibkVwGHd27A45yjVc6iy2JIM6c9JtT1Ey8i3qV5LggYhDhBK58LZPh1PYqppnAQoHDmWWf7pIMF4roWkaTq7U8rJpmMqbPVrXfbmcaZK0E9DAYDYWuscbpcMpTsXHkZC0CUHRgordSnlMWKeQnrcmdW24ODqZ9N4PLRBsICS2kVliMrVxwOjBZO1ZUwrJqhtKfJOE65NVqrGMxM572MXAmmovLbTHisXyhCdOYIsqpCY5WBgcWPQmB4qMTt3xGicBTuYpW5MqCLFIKEXVqW6sf8XtdQ4HoMlNEFGOKqSJ9OaGu5XMo8M4Kmjf7HKFKY4T67sc88JrPCHEunb4Kx8b6B0s8MIcTm6HCiKWnbAcwAOA",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kIWfFctKZoWujrCTLgA0Kc5wj3DWJlnvD4mQPDSVNdVEYzqTrN2xkUGHTG5BLDvaVhuZ0E9U9sIcwtD9pWOtpvQJ8T5XT4zuHotNeO700kYPJ1jgtmsORgxtVIyDz36LZHO7OunWMzqW0f9M4CZ7krw1NHDT4rr5yQZ6DUhromGIqKdAc1IgSmkHMpr6f1dxnuEAras9X0COQiYqf3XLiDceqNcy2f4hfKpvDV7Gs6K2wgx1RZzmjaaNpGGSdq3ilYkK6VXpiocsCB0ubBCPQYaFJR3nPURTGTDkeVivNiAyTQHx7dMMQWENyDPjBITgrGYLxXkPPSAeaG2Ds5EYYWcjtmtURt0vBuanU8hfPKz5b24Tr9NscvAP8jshCsPBZl6mSY6FNxawC3nvVC82RxI70z3UmTgZP29U5W8ylFPoASncUzq0zLwyB54CcqOqdQBtkefIukmRQ2JTINeuxwf3DYxu41ogIifV373MfVnBesOOYW6mnVw7OHNMY0FjlH2KrZA3sIz744llWDkcxNO05Cj4IOLaE3TkKwDC5esgo0HnnnZMl6uQ1cLmZMnuTOLBA27I0Ou6E5sYLJkb9vvpogQG6rH2Uq1gzeu8U6YLM3RpFQu1fXKeRDPvF9hjBEKLOBkc8gLtSfMbFZYGh9HkctOeEWESNl5g44aXQ6RKhT6TSLRo1bmYO3gy3Bz7TjUDvLudHFL0q",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Beleza",
