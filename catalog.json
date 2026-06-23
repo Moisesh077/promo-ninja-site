@@ -1,21 +1,6 @@
 {
-  "atualizado": "2026-06-23T03:16:15.174414+00:00",
+  "atualizado": "2026-06-23T03:26:35.876410+00:00",
   "ofertas": [
-    {
-      "source_id": "2882757",
-      "titulo": "Tesoura para Cerca Viva Tramontina com Lâmina Metálica e Cabo de Madeira",
-      "de": 69.9,
-      "por": 32.89,
-      "desconto": 53,
-      "imagem": "https://m.media-amazon.com/images/I/71WCHVSsJ-L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Tesoura-Tramontina-Cerca-Viva-Madeira-78330125/dp/B076M8NPMM?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Ferramentas",
-      "data": "2026-06-23T00:16:15.174414-03:00",
-      "slug": "tesoura-para-cerca-viva-tramontina-com-lamina-metalica-e-cabo-de-madeira",
-      "page_url": "https://promoninjaofertas.github.io/produto/tesoura-para-cerca-viva-tramontina-com-lamina-metalica-e-cabo-de-madeira.html"
-    },
     {
       "source_id": "1005007443435298",
       "titulo": "EMEET Webcam 1080p com microfone, câmera Web C960, webcam de streaming de 2 microfones, câmera de computador FOV de 90°, webcam",
@@ -53,7 +38,7 @@
       "por": 210.99,
       "desconto": 36,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sb8ceda3ea46c4c4485ffa87515d4dc62M.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mOTXicG3lUJ2wA9NQzFLnoRk5s9sMxKKT0XIkQ8SWPQtuBhGnMUnpyx8Y0KzAEJ6C2JOt9SWeYfYjeGK7E4aPnd93Ko1qnyj0SYCr2TxcRRAjeghnLE0K4MZkbNo95tRgyOwM1CFNcC0hBrXa2jbXJxU7z8hsSaDSgf1tcEGsGDMSTJrN7yojHoEhOW1VTDgtK8DQzcsTpM8udhzom597X0oHCcCt3mQ2DeojTQBKvIS3qEJDwdwY6YB3nKj25QF5BIeKkVwuAiAPtAEb7kc4vrfsBanjsxWjAjxdpEZ75g5NfDLjJqdtxQTE2VFOtIYKnmlxKDpAQUxYREiPHVA7j2cwNUWnZ7cJ8QR2pSaWuKA57nn28agsxTYYQsNT5TqX1ceeqnuAvvohxlhzk1NBwxfqmE2r6nuqICGDR4ptvtesMRFR7D9usHNwDZ1bMGy3dlxoALz71KC9coqxvkOrpoHrYIe885LEk4F8mg9S30oRXG95BdiXtV76CRVcbeZ5VOuWjjGABJSHfyT5sqzqzdY8OCVrzEcjFDe7DQo0FggyG9OfuCiaJyrHy6kfc46Y34cIJc8TFCzp1AFd9PegKgeW2h9WHkBzTUFmlZk9yg9zjndQh13r7UnWe59WIsfxZ8CXChjLUYnycuVM6kVpJoAzBO0Hd4wczh5u4iIn6sxb4fqeEBDqR102VO4HVd3bwHrlt84tTFfB",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mOTXicG3lUJ2wA9NQzFLnoRk5s9sMxKKT0XIkQ8SWPQtuBhGnMUnpyx8Y0KzAEJ6C2JOt9SWeYfYjeGK7E4aPnd93Ko1qnyj0SYCr2TxcRRAjeghnLE0K4MZkbNo95tRgyOwM1CFNcC0hBrXa2jbXJxU7z8hsSaDSgf1tcEGsGDMSTJrN7yojHoEhOW1VTDgtK8DQzcsTpM8udhzom597X0oHCcCt3mQ2DeojTsEvw94OhebTnGbb2ig8unqiExuOEWkR0ZnQw8K0PegSUznN5WxNXZbKbVTX5WZvAO9f8slzQWhOzS1sZIiLD9IXPFDJ8UMxSzxwTxAh4ggfmrts0I7V6TlfRpBIblHL2F7mhHOW8oRepS2e0ZBlRzed2iVYKYdYc3uFcRrrYYQctMsA6yld9fjbBNzpgQFSM2a1rOghbkymeKoQUaQQegtMBqeZlclKFdTx96lclhYysMro2I6KKqRr5e0BmytZaCVkWKv82yxBlOV2WWO0ojxmxL9Dcd8y0lMe2FhDfu1O03LHwLVQj62y90InmPUHPmMptKMa0nXdbx7mxhUU0ULLbFn8MZRLA06oyeGxQ27BKXCAt5xqaMb1XB6R6SfugYdhZDp3x2NFZe5c4xqsoKWbsTNcIeKZ3fQrLFR38RUA2N8TS7Ru0vX5qcpIkmGwA04n15UwFdXFHk6ZCsLuaPuzng6VdtuXYVYzlTvF",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -137,21 +122,6 @@
       "page_url": "https://promoninjaofertas.github.io/produto/escova-alisadora-capilar-aquecida-recarregavel-mini-portatil-rapida-para-viagens-e-uso.html"
     },
     {
-      "source_id": "1005010629132988",
-      "titulo": "Botas de neve masculinas inverno quente casal tênis casuais moda couro esporte ao ar livre correndo tenis masculino antiderrapante tamanho grande 48 treinador",
-      "de": 105.65,
-      "por": 63.39,
-      "desconto": 40,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S5ba67753142f46b699d6fb1b95b56b42T.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kHhSqjE1JDGxfeL8fDhkQS9U7dXszMri8hbXzXUtJGwX8lXN9s7rMhFD7UbCQauzg3ZssD2aiQeu4ZmQE6m2wLW1hNRjpc96u57iTvuCAA8lGNyX4mLnl6t4KV8KMoDRNeqf8a6ropWx2ruBxW9xP52HZdOHRpytCBkkYkOl9hQR1vmLyOYkToumPnLbzw1sXNBWwrSIupaa939v82FHMdIOrmK8ly7qjiBMMiWNC3ZgylvwAjmZdXAOPlUCNlvMfRqnyyhQ89axhoWam9POEssaPofEEhBoILcdcgAgUyRPAWpquJMSA2s627kfYoAwjJYybtkvqcnvYj1gS11XSQGZx4XF8y6INeDlOklX6IHtuVmLVK9FlcoZL5e0CDUihrGON3UpqPK0iGJE9I5Mshqz0b2xEqIGpJWgc0FNQQsuFjcwH0GjfzB1hCcxrziMwu1etCA7pnQJYj3mjBeSIA82FusouD66ZC3Qk7u4NdaJYEzdL6iCKrcsWDgbWQi1GFyQ6g1OI9EDoBWC8D70NNwL0QHQOTcv13CRf2JEqYIRNRTy0mDz2fprJG4ojYncJvJHzRvPBeK7LyBSSCwgppWjYh5oHhlyGQy989qWHOQKDIkt8pLMUMny3a8VarQPlgLYTmQiUC2upuInwAvA33xLLlE63vxROZLZnJlp7XRSe1N2sIcijeqWVMvfPfb9G9gIj1ZqiY4MD",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Moda",
-      "data": "2026-06-22T01:09:15.197775-03:00",
-      "slug": "botas-de-neve-masculinas-inverno-quente-casal-tenis-casuais-moda-couro-esporte-ao-ar",
-      "page_url": "https://promoninjaofertas.github.io/produto/botas-de-neve-masculinas-inverno-quente-casal-tenis-casuais-moda-couro-esporte-ao-ar.html"
-    },
-    {
       "source_id": "1005007166352176",
       "titulo": "sapato masculino tênis masculino 2024 Homens Sapatos de Futebol Tamanho Grande Ultraleve Botas De Futebol Meninos Tênis Não-Deslizamento AG/TF Chuteiras De Futebol Botas De Tornozelo Unisex",
       "de": 386.26,
@@ -180,6 +150,21 @@
       "data": "2026-06-22T01:09:15.197775-03:00",
       "slug": "sapato-masculino-tenis-masculino-homens-sapatos-sapatilhas-homem-casual-sapatos-mascul",
       "page_url": "https://promoninjaofertas.github.io/produto/sapato-masculino-tenis-masculino-homens-sapatos-sapatilhas-homem-casual-sapatos-mascul.html"
+    },
+    {
+      "source_id": "1005010629132988",
+      "titulo": "Botas de neve masculinas inverno quente casal tênis casuais moda couro esporte ao ar livre correndo tenis masculino antiderrapante tamanho grande 48 treinador",
+      "de": 105.65,
+      "por": 63.39,
+      "desconto": 40,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S5ba67753142f46b699d6fb1b95b56b42T.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kHhSqjE1JDGxfeL8fDhkQS9U7dXszMri8hbXzXUtJGwX8lXN9s7rMhFD7UbCQauzg3ZssD2aiQeu4ZmQE6m2wLW1hNRjpc96u57iTvuCAA8lGNyX4mLnl6t4KV8KMoDRNeqf8a6ropWx2ruBxW9xP52HZdOHRpytCBkkYkOl9hQR1vmLyOYkToumPnLbzw1sXNBWwrSIupaa939v82FHMdIOrmK8ly7qjiBMMiWNC3ZgylvwAjmZdXAOPlUCNlvMfRqnyyhQ89axhoWam9POEssaPofEEhBoILcdcgAgUyRPAWpquJMSA2s627kfYoAwjJYybtkvqcnvYj1gS11XSQGZx4XF8y6INeDlOklX6IHtuVmLVK9FlcoZL5e0CDUihrGON3UpqPK0iGJE9I5Mshqz0b2xEqIGpJWgc0FNQQsuFjcwH0GjfzB1hCcxrziMwu1etCA7pnQJYj3mjBeSIA82FusouD66ZC3Qk7u4NdaJYEzdL6iCKrcsWDgbWQi1GFyQ6g1OI9EDoBWC8D70NNwL0QHQOTcv13CRf2JEqYIRNRTy0mDz2fprJG4ojYncJvJHzRvPBeK7LyBSSCwgppWjYh5oHhlyGQy989qWHOQKDIkt8pLMUMny3a8VarQPlgLYTmQiUC2upuInwAvA33xLLlE63vxROZLZnJlp7XRSe1N2sIcijeqWVMvfPfb9G9gIj1ZqiY4MD",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Moda",
+      "data": "2026-06-22T01:09:15.197775-03:00",
+      "slug": "botas-de-neve-masculinas-inverno-quente-casal-tenis-casuais-moda-couro-esporte-ao-ar",
+      "page_url": "https://promoninjaofertas.github.io/produto/botas-de-neve-masculinas-inverno-quente-casal-tenis-casuais-moda-couro-esporte-ao-ar.html"
     }
   ]
 }
