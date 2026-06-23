@@ -1,21 +1,6 @@
 {
-  "atualizado": "2026-06-23T21:02:23.569573+00:00",
+  "atualizado": "2026-06-23T21:12:15.175295+00:00",
   "ofertas": [
-    {
-      "source_id": "2884149",
-      "titulo": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
-      "de": 177.9,
-      "por": 95.92,
-      "desconto": 46,
-      "imagem": "https://m.media-amazon.com/images/I/61S5PedMY6L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Whisky-Escoc%C3%AAs-Black-Label-Garrafa/dp/B00861CC7Y?tag=promoninja0c3-20",
-      "cupom": "BORALEVAR",
-      "loja": "amazon",
-      "categoria": "Bebidas",
-      "data": "2026-06-23T18:02:23.569573-03:00",
-      "slug": "whisky-johnnie-walker-black-label-12-anos-750ml-4",
-      "page_url": "https://promoninjaofertas.github.io/produto/whisky-johnnie-walker-black-label-12-anos-750ml-4.html"
-    },
     {
       "source_id": "1005005499053273",
       "titulo": "sapato masculino Sapatos homens Sapatilhas Masculino casual Sapatos Masculinos tenis Sapatos De Luxo Trainer Race Respirável Sapatos moda mocassins Running Shoes para homens",
@@ -143,7 +128,7 @@
       "por": 1578.64,
       "desconto": 49,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se7e1db5a13d04e519edf325b0e1ba555s.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4nwDfdcuhZZQc2Qy4Fqy71ebetofHqpB2grFSi1tSxd1fd9LoUXlFii2Y4cUpYTwlsIH53FzaIum9Nloim5BpYaplHHrSpVDHikSNcqCGeuVWScLBryxqxFjaC8sBgRMkh6kBD6NYbzPbMzEtiThIv29yZli98fxZrvGd4jODnDSKtcGtaNaqBB03OxvUbwZKeEt41LBqIvF8fp4SoYeXChz2ApleMxS0tR2BY6URc7igFbzXkvK3CSiNrGu3dbpJWY6LMXkK18oJk7JrgXlEStP3uzptXibjDqKnZaVbKAoXjmc8yEJhBrIcRuQ4hB92LyyUr9W4ZpUG8hDbdOp42UEG5cYUJxCAILqHqtbxViovT9CJX35qY902MxIS4ezMfDshxtvYDes6sVla8X7MrcthjcADGL2lqfR6TRW36V0HgqCvvzRlz0cjqH6P43HcGZ7dZQmWOi1D3kk2xJt5OcfybkouxI9HYoGhofmRIxjLUjgfYFXpxWJkqhTnWgYKewdjc9GDgSshEgZDpomAo9cTzLA942OcIawrteodWiMhjxOY7yYWTt6kjJIsup7OYVWbgSGrULlbDCAq1k6I4k59G2oRQn61pmWxSUItb9K2yxHov00CYYq4ch1vDRes4RynB9JSRmeCU8MjPIEZ3RNOqunfLay1QXBoksKsz9ChyayZrDaeJUIrXNZsjhMszEwachcFqJoc0",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4nwDfdcuhZZQc2Qy4Fqy71ebetofHqpB2grFSi1tSxd1fd9LoUXlFii2Y4cUpYTwlsIH53FzaIum9Nloim5BpYaplHHrSpVDHikSNcqCGeuVWScLBryxqxFjaC8sBgRMkh6kBD6NYbzPbMzEtiThIv29yZli98fxZrvGd4jODnDSKtcGtaNaqBB03OxvUbwZKeEt41LBqIvF8fp4SoYeXChz2ApleMxS0tR2BYZiHadoo2Z32S9HUfU73oQpyiEvMB29rYfUuowqwX3K63nzttK3Co76sabMPhKNlDHU8f8cKJ7Th4rvj4jB4cX5l6QV1EQRn8WVOKfF2sAbTGdRVn4PgM3sKvCn6q4x8223EKHelkPwVAfPKtqnu8kfsrvGe5rKhIhOJ7ZuU3WqwzYxrLmrjEA3Gx6V92pGp0ibkAxEBdKdOK9APwlASRbYzOqNL65g0xHyo2TnPBVYRs85tpmZfujbtkE1AdBuEtcGJhN6H1O0l2K9jV1oJ7M4wIKfJKYTBQPDX84gfy3m47xcxOA0H4bbZWhhWogSJklD0eFs28JI1tzZugNzm3UmzmTLpmF6RcbfPaIHcjvoZc36rtEbM3FayaUr8VneY7WsWCisqKaqYzwEIDyZSbBf7WaOmOcwxCaFmY8urnhM2JPpwvZ62UmgsWICpGAftERH1J4nlhObRWrXUGkYnlEoikJMwPTYNYTCjWVU1w",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "TV e Eletronicos",
