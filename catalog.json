@@ -1,6 +1,51 @@
 {
-  "atualizado": "2026-06-23T13:04:48.276179+00:00",
+  "atualizado": "2026-06-23T13:15:06.088380+00:00",
   "ofertas": [
+    {
+      "source_id": "2883340",
+      "titulo": "Fralda Huggies Tripla Proteção G com 36 Unidades",
+      "de": 55.53,
+      "por": 32.71,
+      "desconto": 41,
+      "imagem": "https://m.media-amazon.com/images/I/51cPleOXD-L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B08QG1LNCK?tag=promoninja0c3-20",
+      "cupom": "BOMDIA10",
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-06-23T10:15:06.088380-03:00",
+      "slug": "fralda-huggies-tripla-protecao-g-com-36-unidades",
+      "page_url": "https://promoninjaofertas.github.io/produto/fralda-huggies-tripla-protecao-g-com-36-unidades.html"
+    },
+    {
+      "source_id": "2883347",
+      "titulo": "Red Bull Energético, Energy Drink, 250ml, 4 latas",
+      "de": 41.96,
+      "por": 20.0,
+      "desconto": 52,
+      "imagem": "https://m.media-amazon.com/images/I/71ILkKMv8tL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B004HOEU4M?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Bebidas",
+      "data": "2026-06-23T10:15:06.088380-03:00",
+      "slug": "red-bull-energetico-energy-drink-250ml-4-latas",
+      "page_url": "https://promoninjaofertas.github.io/produto/red-bull-energetico-energy-drink-250ml-4-latas.html"
+    },
+    {
+      "source_id": "2883356",
+      "titulo": "Smart TV 43 Samsung Full HD UN43F6000F",
+      "de": 2079.0,
+      "por": 1286.9,
+      "desconto": 38,
+      "imagem": "https://m.media-amazon.com/images/I/61xNiNl59RL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Monitor-Plataforma-TizenTM/dp/B0FF676FXT?dib=eyJ2IjoiMSJ9.yEsgdYWwIfE6uG0isNukX8u6zDF1joVOepiyeiH-DO-zFw9smsIa7CbndMerdILF_oL_vZwhZiHlrHy4o-Ifdq8psuh_E3yvXqqQ2-lZoMhCZkz4VP4I8EWk45Szp_oS3nMMri2GAlQJ8GTo4a90TFrYXFpDjO2bufr99AWmh_MzMw53b3RnzJBvjogy5ZqiyCNq-rpNvVZ43HTr2o1TKg.9xl8eqT-PeImnXbSBTrbc80UU9TEs0KHPw-BX--sJsE&dib_tag=se&qid=1782217196&s=electronics&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=_J2s0aXpNLiN6&tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "TV e Eletronicos",
+      "data": "2026-06-23T10:15:06.088380-03:00",
+      "slug": "smart-tv-43-samsung-full-hd-un43f6000f",
+      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-43-samsung-full-hd-un43f6000f.html"
+    },
     {
       "source_id": "2883320",
       "titulo": "JBL Go 5 Caixa de Som Bluetooth Portátil",
@@ -15,21 +60,6 @@
       "data": "2026-06-23T10:04:48.276179-03:00",
       "slug": "jbl-go-5-caixa-de-som-bluetooth-portatil",
       "page_url": "https://promoninjaofertas.github.io/produto/jbl-go-5-caixa-de-som-bluetooth-portatil.html"
-    },
-    {
-      "source_id": "2883314",
-      "titulo": "Poli Sports Trampolim Profissional Com Reforço Preto",
-      "de": 599.9,
-      "por": 359.91,
-      "desconto": 40,
-      "imagem": "https://m.media-amazon.com/images/I/6150VXAg0-L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Trampolim-Profissional-Refor%C3%A7o-Polimet-Unissex/dp/B07TST6PN3?amp=&tag=promoninja0c3-20",
-      "cupom": "10%",
-      "loja": "amazon",
-      "categoria": "Esporte e Lazer",
-      "data": "2026-06-23T10:04:48.276179-03:00",
-      "slug": "poli-sports-trampolim-profissional-com-reforco-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/poli-sports-trampolim-profissional-com-reforco-preto.html"
     },
     {
       "source_id": "1005004462182112",
@@ -113,7 +143,7 @@
       "por": 84.99,
       "desconto": 29,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sb5b9a29b17984c7789bdaae4eb8412a1k.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kGJHi5Z0L8nsA5wnRs06zkqb18FvpzB99nES4lJC3Zq2JXhb5GR5XbUhTv2uTFMcNvGhMNN0gUsFOJ6LFi4lShgt8Durg8SRUlRGG9EOSetOtie4angJkmdPB5gZx8GjUeMNVU6ZC0LYkuXl7WpAanoLTqu2tshLGUn6HLnJZknVQNuLDNmifVarqikp5qNR9s9jlvZh9b9H3jWf0mhxmOkiDCKPiFCV229vyxNmn83cjCkodW9sRDvFAA342ADECafOZcaPnHGzU2QSGkR2VKbcYiAh8lD4AdzScKjpTlL6WDmMO5gzpabqTmWdBjSetx0RZbaKpmLCyMsprvkuAJGfjbWHoqSHMWeOI2bc7XBvQqseCmhwBreVYEUNcFOaad0BehCvAFZTfDVgrycgtg7dcLjhsLZGHS1KKcpsXvel0CF6tM3txl7Dc5r7xpBHIKPDqOy8G2DlwymVJ68zsxth7ThQRnt6msw307wqarwYOb5g3GUTc8IOzJ0kDyCaCa3nnQdMhdkl2Um2YKw1DTq58YiiyrIV5zc3PyHRWqnE3simH80djd2AlyvC4f3eZSKIgNobDoKtQRJUQRVqoZBOp8FxwkWvnVfUhMLufcjO8h9zjd4X6Ot0BsXblPGL74JDyotdm9bbgyR2x45mpblsgyMkqpuQFeJAFYQpggad5VbdJyb9binnEjya8nxhCJ90lcJeaBWun",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kGJHi5Z0L8nsA5wnRs06zkqb18FvpzB99nES4lJC3Zq2JXhb5GR5XbUhTv2uTFMcNvGhMNN0gUsFOJ6LFi4lShgt8Durg8SRUlRGG9EOSetOtie4angJkmdPB5gZx8GjUeMNVU6ZC0LYkuXl7WpAanoLTqu2tshLGUn6HLnJZknVQNuLDNmifVarqikp5qNR9s9jlvZh9b9H3jWf0mhxmOkiDCKPiFCV229vyxsPJLwBOT3rNA2hpbzCSAJf7GaE9wfIFm9MuN34FbkYzy1jDbNlE3xAijBH4dVB1PEVTJgV04mZd4DaE2tTzRvptOuAeyD3ICsElV6ctXGT1yDqHYtLeUzSF5Op5OUAB9gmT33c5HafNwzx6loe8Y9fgAVQmUpq0cvJZdYC0Gu75OyTWeEBGvslcOsjWhgc8bCPoc6HvWtventMOA69huSRXRIWlppsnUrKLkSm0AjVrvkWgUSkIBknfZleq6DF5yRWAkiaCLVpImxY3zVqNqiALKAaVxIeeiLbzDtfjFqlLQ6W7VG789CJ9p2ibs2OLqqrf3qzpBOlxOoZjCAizQfzzlinzCXhyVDSHolFgN6zDmvWSeEvDuuiicrVSn4q5cbvcpia4mhFl4BF0So2yB4TsVJhhqlq8qhGOkU6VIqybfV02HXNjEZuXwzCIHDNJKD9vBkGJxLeCfBm8rh4qTzGRHqEAtuhZO2wqOM4X",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Moda",
