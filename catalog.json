@@ -1,20 +1,20 @@
 {
-  "atualizado": "2026-06-23T15:37:17.084843+00:00",
+  "atualizado": "2026-06-23T15:47:16.706833+00:00",
   "ofertas": [
     {
-      "source_id": "2883530",
-      "titulo": "Lâmpada LED Helix 12w Taschibra",
-      "de": 178.5,
-      "por": 69.97,
-      "desconto": 61,
-      "imagem": "https://m.media-amazon.com/images/I/41j0xDlqv4L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0F395PF6B/ref=cm_sw_r_as_gl_api_gl_i_8X260C8SMS6VJ8S8VFPV?_=&tag=promoninja0c3-20",
+      "source_id": "2883488",
+      "titulo": "Cooktop Elgin 2 Bocas",
+      "de": 159.9,
+      "por": 59.0,
+      "desconto": 63,
+      "imagem": "https://m.media-amazon.com/images/I/41z7d-LlVEL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DCM31SDG?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
-      "categoria": "Casa",
-      "data": "2026-06-23T12:37:17.084843-03:00",
-      "slug": "lampada-led-helix-12w-taschibra",
-      "page_url": "https://promoninjaofertas.github.io/produto/lampada-led-helix-12w-taschibra.html"
+      "categoria": "Eletrodomésticos",
+      "data": "2026-06-23T12:47:16.706833-03:00",
+      "slug": "cooktop-elgin-2-bocas",
+      "page_url": "https://promoninjaofertas.github.io/produto/cooktop-elgin-2-bocas.html"
     },
     {
       "source_id": "2883633",
@@ -30,6 +30,21 @@
       "data": "2026-06-23T12:37:17.084843-03:00",
       "slug": "headset-gamer-redragon-zeus-pro-preto-sem-fio-7-1-h510-pro",
       "page_url": "https://promoninjaofertas.github.io/produto/headset-gamer-redragon-zeus-pro-preto-sem-fio-7-1-h510-pro.html"
+    },
+    {
+      "source_id": "2883530",
+      "titulo": "Lâmpada LED Helix 12w Taschibra",
+      "de": 178.5,
+      "por": 69.97,
+      "desconto": 61,
+      "imagem": "https://m.media-amazon.com/images/I/41j0xDlqv4L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0F395PF6B/ref=cm_sw_r_as_gl_api_gl_i_8X260C8SMS6VJ8S8VFPV?_=&tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Casa",
+      "data": "2026-06-23T12:37:17.084843-03:00",
+      "slug": "lampada-led-helix-12w-taschibra",
+      "page_url": "https://promoninjaofertas.github.io/produto/lampada-led-helix-12w-taschibra.html"
     },
     {
       "source_id": "1005007562132622",
@@ -98,7 +113,7 @@
       "por": 139.54,
       "desconto": 42,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S690e5c7710f642c89fa2019eb764f28fD.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4otFPo1vgWk3BcQJRXIA6dKd4BOCTR9zY3Os76jRs6Yl6ytqfQqjbfXCemmTdr136vTuxrBJjDt6n2MXSlYYz91MLiR0FSuts7bFls3vu6KkSCE0lVBsAy8Ox3tUQ2au6xgFHQlyMICXZiAf7zh4Dro8DM0FqQl7b1b0M5ygIEJE3qk4lQnE38KZtppJpm8WMOVvEVGTK15N9eiJ9mO54VLJVeYoErgWqVeUaYKkpUzswoayQtrMJoDYjDgInXccZHYBElXqWGn8sbFbd3gteM3HwF4hNpOE3oLBzGhGYZtCkLoXUrPi8rAqRQAw2wIlbQMgu2phFlml6rEaKyVLEcoiYgPuRoiaZP4zWacVw9M1GEmjm67dFB0LPiRqYnNrYCWWm2IMEVRrQYuA6Id99NypaBMzRPlYpJJ9OwCTp7wiqFMxjn5v47EorudNaSddoGirZAOGkSd2myJbqy060EEV2AiTipCMEUDSsqLBbkMQt5yuIv1hVIPtPq2edq4ItrVD8VykUmj6v8ZBuE9isv14y9Qx0Wa6PlXYTnC3I12C2ZHbD1JYyA3kGMvWgn3Qxk4AoR0rCR3493IjZIPj1PMiFq2hIkwjHJHFmcXw6TYJVAn7neJ2vyOun4IsyBjnK9kobfHon4unnz7ds71ctksIRHfwAdCA9AdI2UXRZQSCbFMjFjINmBHhFOR25FzMYg6C3iLCH6QxEV",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4otFPo1vgWk3BcQJRXIA6dKd4BOCTR9zY3Os76jRs6Yl6ytqfQqjbfXCemmTdr136vTuxrBJjDt6n2MXSlYYz91MLiR0FSuts7bFls3vu6KkSCE0lVBsAy8Ox3tUQ2au6xgFHQlyMICXZiAf7zh4Dro8DM0FqQl7b1b0M5ygIEJE3qk4lQnE38KZtppJpm8WMOVvEVGTK15N9eiJ9mO54VLJVeYoErgWqVeUaYK5OZHoOZ9XY08yGuz4VcoDcp1buUsyUA4Z5az72wkJ16Way3UaqKoRUP9dbq5SqBWOnHBZdnKKQsajHbVzWcM5ON39behIhjeCGsMfhRPddPcFRm53JpABHbol6HVTtTTUsw9gHACbFDwpotXaChr8P8PjP053qQB01W47so7wOe7n2wfCRmt5XSvGdrToAiVaj6I5LGbiE7HM1wX8vBwegDzoJYUQhGL3pqsObw9XNjIrNvAJ6Qui16sMGFirCr4ZkohjiY1nVfoxobBjgPxGn2LAWPQI1bV8JtGZ7jE29C7dmusaeN94uqfddf6a1r8tfcrgINAHGkyxzDMdyKoKjXkHfRFYayLzyvS3PT9GHC1bFd8SMfzf5jE998IzaNkGGLHX9hvdht9kK5pinzYmG2ohWfDuzE9jvnYDDm3d2FcfQG2elgUETGs8wcUM6Ru8ZyJQrUdGb6GZUGuJIrC2T2u0CM05WmbwRW1DxX",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
