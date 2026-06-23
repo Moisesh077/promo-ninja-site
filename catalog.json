@@ -1,21 +1,6 @@
 {
-  "atualizado": "2026-06-23T10:02:09.385655+00:00",
+  "atualizado": "2026-06-23T10:11:58.220408+00:00",
   "ofertas": [
-    {
-      "source_id": "2882983",
-      "titulo": "Blaze Evercade Neo-Geo Super Pocket 14 Jogos",
-      "de": 889.0,
-      "por": 607.65,
-      "desconto": 32,
-      "imagem": "https://m.media-amazon.com/images/I/81DAUsL9WvL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0F3F8J65T?social_share=cm_sw_r_cso_cp_apan_dp_ZXZ7TKFYTDN3ZX9P95XJ&tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Games",
-      "data": "2026-06-23T06:51:56.078831-03:00",
-      "slug": "blaze-evercade-neo-geo-super-pocket-14-jogos",
-      "page_url": "https://promoninjaofertas.github.io/produto/blaze-evercade-neo-geo-super-pocket-14-jogos.html"
-    },
     {
       "source_id": "1005010165722060",
       "titulo": "Tênis casuais masculinos, tênis de luxo, tênis de corrida respiráveis, mocassins da moda para homens.",
@@ -68,7 +53,7 @@
       "por": 210.99,
       "desconto": 36,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sb8ceda3ea46c4c4485ffa87515d4dc62M.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mOTXicG3lUJ2wA9NQzFLnoRk5s9sMxKKT0XIkQ8SWPQtuBhGnMUnpyx8Y0KzAEJ6C2JOt9SWeYfYjeGK7E4aPnd93Ko1qnyj0SYCr2TxcRRAjeghnLE0K4MZkbNo95tRgyOwM1CFNcC0hBrXa2jbXJxU7z8hsSaDSgf1tcEGsGDMSTJrN7yojHoEhOW1VTDgtK8DQzcsTpM8udhzom597X0oHCcCt3mQ2DeojTD1srxvjewArqUOz7KP4VJwUcJxQkxyabf0guoUCYADzjv76f1oKt9dQrHCdAaIQOUsFMyidxVj9psIr2tsa9zn4Mb46sZttZaacLZyLB0gzlCrlPmqCj1GJ6jT8kACLlLofOa3CkwGDSxlfAEmaonXAPGxodMZHecXgNo4Vzf12kgNIwNNmzjoGKp6M9WjuuSBfi2ZQZdAsGcn9ZfQbcY7vSAI8MvULq81aCnZroapMHqxLz276XJlpNP0GcZ3Sezao902AgVaemrIz61kYGhfr85bRULmmqBCDpA8xwZb8VtVtuh7mjX2P7FFw2joD6oZY11HLO0X6DTX3HVq1fqXf3be1DS9XfYxfm295FfdVWloZlBgzyYAoWl96k5mdXzk6OR7hUtSQzlaR7Uqed2NiZRjznK6Rtvj3jsbtc3HwTZhasTDp6hNNDevR3YlKIcJJcdH02Q1s5yl8EKCpQTEmSlmZogF30EAXGShr",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mOTXicG3lUJ2wA9NQzFLnoRk5s9sMxKKT0XIkQ8SWPQtuBhGnMUnpyx8Y0KzAEJ6C2JOt9SWeYfYjeGK7E4aPnd93Ko1qnyj0SYCr2TxcRRAjeghnLE0K4MZkbNo95tRgyOwM1CFNcC0hBrXa2jbXJxU7z8hsSaDSgf1tcEGsGDMSTJrN7yojHoEhOW1VTDgtK8DQzcsTpM8udhzom597X0oHCcCt3mQ2DeojTmWRcsCNIUmsl1QZ7azpFJeXCC14tCqnCfhYcQGHLNqESWqStQqwzIULqm1V42IQ5fdhztZRh44OwfJmpRqwEbEArUPRmk1V3UvTHwA0SGhXj0FzZogutqZYIZ8jsn2ob04KJaPSZvuCDUfQPiuMx81QIiKmZx2mWsxNMkcujegw9XEuA4T0L2G5i6PK6k2Akl182xg5vSJEbXfZ3yNgUaWdZcAdD5Iyrsy5RMbHaJ4uzUkRygk8PWPX0TqiHU3ZZcJyvOy1VOL6jz1qXodwCF7i7OCidYBeec88memOMtsFoDGVMRdZliqD0rnltfrjt2ecxHUXIjJIop22h7uf1Lnt4c4llaMdU2MbXr4OIg4wj0fK5FVhzxxaXUYXbqoDDikUgteroefJ8tYoWAtmESXc4yDMZGDOl1A2s8VfyuR9O8nWUuDjD9g1ax83P0oGdtONhj2fCnDzWEMP4TQmuvDdp08jEaXGEU34kZUh",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
