@@ -1,35 +1,20 @@
 {
-  "atualizado": "2026-06-23T23:44:46.634336+00:00",
+  "atualizado": "2026-06-23T23:55:00.870898+00:00",
   "ofertas": [
     {
-      "source_id": "2884459",
-      "titulo": "Smartwatch, HUAWEI WATCH GT 5 46mm, Nova Experiência de Corrida e Ciclismo, Sharp-Edged Design, Até 2 Semanas de Bateria, Compatível com iOS e Andr",
-      "de": 1399.0,
-      "por": 953.91,
-      "desconto": 32,
-      "imagem": "https://m.media-amazon.com/images/I/614WyM4-+aL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/gp/product/B0DDL8SLXN?tag=promoninja0c3-20",
+      "source_id": "2884507",
+      "titulo": "Smartphone Motorola Moto G77 5g - 256gb 24gb (8gb Ram + 16gb Ram Boost) Camera 108mp Ultra-pixel, Tela 1.5k Extreme Amoled 120hz, Ultrarresistente - V",
+      "de": 1931.47,
+      "por": 1433.4,
+      "desconto": 26,
+      "imagem": "https://m.media-amazon.com/images/I/61VvteJGEVL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLS8QF4B?tag=promoninja0c3-20",
       "cupom": "AQUITEMCUPOM",
       "loja": "amazon",
       "categoria": "Smartphones",
-      "data": "2026-06-23T20:44:46.634336-03:00",
-      "slug": "smartwatch-huawei-watch-gt-5-46mm-nova-experiencia-de-corrida-e-ciclismo-sharp-edged",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartwatch-huawei-watch-gt-5-46mm-nova-experiencia-de-corrida-e-ciclismo-sharp-edged.html"
-    },
-    {
-      "source_id": "2884439",
-      "titulo": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Branca (TF38) 127V",
-      "de": 2899.0,
-      "por": 2099.0,
-      "desconto": 28,
-      "imagem": "https://m.media-amazon.com/images/I/319xY36QjcL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Duplex-Branca-TF38/dp/B0FVMH1K2Y?tag=promoninja0c3-20",
-      "cupom": "AQUITEMCUPOM",
-      "loja": "amazon",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-06-23T20:44:46.634336-03:00",
-      "slug": "electrolux-geladeira-electrolux-frost-free-320l-duplex-branca-tf38-127v",
-      "page_url": "https://promoninjaofertas.github.io/produto/electrolux-geladeira-electrolux-frost-free-320l-duplex-branca-tf38-127v.html"
+      "data": "2026-06-23T20:55:00.870898-03:00",
+      "slug": "smartphone-motorola-moto-g77-5g-256gb-24gb-8gb-ram-16gb-ram-boost-camera-108mp-2",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g77-5g-256gb-24gb-8gb-ram-16gb-ram-boost-camera-108mp-2.html"
     },
     {
       "source_id": "1005009352431525",
