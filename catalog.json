@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-06-23T12:34:36.097036+00:00",
+  "atualizado": "2026-06-23T12:44:35.773546+00:00",
   "ofertas": [
+    {
+      "source_id": "2883258",
+      "titulo": "WAP Aspirador de Pó e Água GTW 10, Compacto, 10 Litros, com Mangueira de 1,5 Metros, Filtro Lavável, 140mbar 1400W 220V",
+      "de": 499.9,
+      "por": 208.6,
+      "desconto": 58,
+      "imagem": "https://m.media-amazon.com/images/I/81O+IX7pYIL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B076YFJVT6?tag=promoninja0c3-20",
+      "cupom": "BOMDIA10",
+      "loja": "amazon",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-06-23T09:44:35.773546-03:00",
+      "slug": "wap-aspirador-de-po-e-agua-gtw-10-compacto-10-litros-com-mangueira-de",
+      "page_url": "https://promoninjaofertas.github.io/produto/wap-aspirador-de-po-e-agua-gtw-10-compacto-10-litros-com-mangueira-de.html"
+    },
+    {
+      "source_id": "2883244",
+      "titulo": "Smart tv 32&#8243; philco roku tv dolby audio hdr10 p32crb",
+      "de": 1099.0,
+      "por": 806.55,
+      "desconto": 27,
+      "imagem": "https://m.media-amazon.com/images/I/81zLY1z0j4L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Smart-Philco-Dolby-%C3%81udio-P32CRB/dp/B0GH34KFLR?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "TV e Eletronicos",
+      "data": "2026-06-23T09:44:35.773546-03:00",
+      "slug": "smart-tv-32-8243-philco-roku-tv-dolby-audio-hdr10-p32crb",
+      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-32-8243-philco-roku-tv-dolby-audio-hdr10-p32crb.html"
+    },
     {
       "source_id": "1005004462182112",
       "titulo": "Jcd 8208 pistola de calor micro estação de solda 750w pistola de ar quente lcd digital secador de cabelo para bga ic ferramentas de reparo de soldagem",
@@ -8,7 +38,7 @@
       "por": 157.59,
       "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sd4ea00a940334b6abd335cf5c4e1fb1fb.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kIWfFctKZoWujrCTLgA0Kc5wj3DWJlnvD4mQPDSVNdVEYzqTrN2xkUGHTG5BLDvaVhuZ0E9U9sIcwtD9pWOtpvQJ8T5XT4zuHotNeO700kYPJ1jgtmsORgxtVIyDz36LZHO7OunWMzqW0f9M4CZ7krw1NHDT4rr5yQZ6DUhromGIqKdAc1IgSmkHMpr6f1dxnuEAras9X0COQiYqf3XLiDceqNcy2f4hfKpvDV7Gs6K2wgx1RZzmjaaNpGGSdq3ilYkK6VXpiocsCB0ubBCPQYaFJR3nPURTGTDkeVivNiAyTQHx7dMMQWENyDPjBITgrGYLxXkPPSAeaG2Ds5EYYWcjtmtURt0vBuanU8hfPKz5b24Tr9NscvAP8jshCsPBZl6mSY6FNxawC3nvVC82RxI70z3UmTgZP29U5W8ylFPoASncUzq0zLwyB54CcqOqdQBtkefIukmRQ2JTINeuxwf3DYxu41ogIifV373MfVnBesOOYW6mnVw7OHNMY0FjlH2KrZA3sIz744llWDkcxNO05Cj4IOLaE3TkKwDC5esgo0HnnnZMl6uQ1cLmZMnuTOLBA27I0Ou6E5sYLJkb9vvpogQG6rH2Uq1gzeu8U6YLM3RpFQu1fXKeRDPvF9hjBEKLOBkc8gLtSfMbFZYGh9HkctOeEWESNl5g44aXQ6RKhT6TSLRo1bmYO3gy3Bz7TjUDvLudHFL0q",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kIWfFctKZoWujrCTLgA0Kc5wj3DWJlnvD4mQPDSVNdVEYzqTrN2xkUGHTG5BLDvaVhuZ0E9U9sIcwtD9pWOtpvQJ8T5XT4zuHotNeO700kYPJ1jgtmsORgxtVIyDz36LZHO7OunWMzqW0f9M4CZ7krw1NHDT4rr5yQZ6DUhromGIqKdAc1IgSmkHMpr6f1dxnuEAras9X0COQiYqf3XLiDceqNcy2f4hfKpvDVtL1um5OvwP9MVvX29UJKNrGnD18E4ThIxGDjhDprPaAdSCEbHxMSGz2nprbidyFQyXeMqHn3Gv6FLDH3JJadyg6GdgWNWvxi17umju7pH3EG8GVGwqxZ1SMJQkpEzY1D2gpRzPzzHxXtdKfOdeMv9y92cGa7bqbYfHIFaxA1tkv4OQAlcwrKtQKkU9eutTUqouPmaPTznEkFwXaSurBHeo3qkPG94Wh0ZIWeCL508RkfciLEGD3Q3ELIbM3bfqqnWSIcl62AzJ63yqpVp6zaJYrBIMPJxOG3e0q3rH2mt06fMMWHLWiwrxpLpg1nZ6rjclA2FkzlmQxMbc2e7zdHhtvtReOoHP5etplz2PdmJ8pQJUTL48DEee96MzsPJAKzpomaTHk4wKtmcANmrPDBaTB76JxUuj4PFSpmujYWNorRzZuxQV91dm9vIjgt2w5bK0kjF4KodV4OUBKeNoRkCkVlVNFLLNFnpe2Ijny",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Beleza",
