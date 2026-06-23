@@ -1,6 +1,51 @@
 {
-  "atualizado": "2026-06-23T11:13:02.990873+00:00",
+  "atualizado": "2026-06-23T11:23:11.388879+00:00",
   "ofertas": [
+    {
+      "source_id": "2883032",
+      "titulo": "Cerveja Belga Tripel Karmeliet 750ml",
+      "de": 130.0,
+      "por": 80.63,
+      "desconto": 38,
+      "imagem": "https://m.media-amazon.com/images/I/51jOUzLhW-L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0030B8G0C?social_share=cm_sw_r_cso_cp_apan_dp_WDMHZMT6FX97H7DBR554&tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Bebidas",
+      "data": "2026-06-23T08:23:11.388879-03:00",
+      "slug": "cerveja-belga-tripel-karmeliet-750ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/cerveja-belga-tripel-karmeliet-750ml.html"
+    },
+    {
+      "source_id": "2883074",
+      "titulo": "Pack de 4 Latas Red Bull Energético, Energy Drink, 250ml",
+      "de": 41.96,
+      "por": 21.99,
+      "desconto": 48,
+      "imagem": "https://m.media-amazon.com/images/I/71ILkKMv8tL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B004HOEU4M///?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Supermercado e Delivery",
+      "data": "2026-06-23T08:23:11.388879-03:00",
+      "slug": "pack-de-4-latas-red-bull-energetico-energy-drink-250ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/pack-de-4-latas-red-bull-energetico-energy-drink-250ml.html"
+    },
+    {
+      "source_id": "2883043",
+      "titulo": "Brilhante Limpeza Total - Lava Roupas Líquido 3L",
+      "de": 39.99,
+      "por": 22.76,
+      "desconto": 43,
+      "imagem": "https://m.media-amazon.com/images/I/71jvqKocIgL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/gp/product/B07DTN9W36?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Supermercado e Delivery",
+      "data": "2026-06-23T08:23:11.388879-03:00",
+      "slug": "brilhante-limpeza-total-lava-roupas-liquido-3l",
+      "page_url": "https://promoninjaofertas.github.io/produto/brilhante-limpeza-total-lava-roupas-liquido-3l.html"
+    },
     {
       "source_id": "2883065",
       "titulo": "Brilhus - Mop Sek+ Lava e Seca com Esponja de Alta Absorção e Cabo Retrátil até 89cm para Limpeza Pesada, Bettanin",
