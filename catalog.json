@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-06-23T12:03:56.679995+00:00",
+  "atualizado": "2026-06-23T12:13:56.008034+00:00",
   "ofertas": [
+    {
+      "source_id": "2883178",
+      "titulo": "Kess Pack Com 3 Escovas Dentais Pro Extra Macias",
+      "de": 29.9,
+      "por": 20.85,
+      "desconto": 30,
+      "imagem": "https://m.media-amazon.com/images/I/71YTXOVXkML._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Belliz-Dental-Extra-Macia-3-2109/dp/B09VC1CN14/?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Beleza",
+      "data": "2026-06-23T09:13:56.008034-03:00",
+      "slug": "kess-pack-com-3-escovas-dentais-pro-extra-macias",
+      "page_url": "https://promoninjaofertas.github.io/produto/kess-pack-com-3-escovas-dentais-pro-extra-macias.html"
+    },
+    {
+      "source_id": "2883164",
+      "titulo": "Camisa Brasil Samba Masculina",
+      "de": 99.9,
+      "por": 72.9,
+      "desconto": 27,
+      "imagem": "https://m.media-amazon.com/images/I/51+v216dCbL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Camisa-Brasil-Samba-Masculina-P/dp/B0FW6JXB2R?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Moda",
+      "data": "2026-06-23T09:13:56.008034-03:00",
+      "slug": "camisa-brasil-samba-masculina",
+      "page_url": "https://promoninjaofertas.github.io/produto/camisa-brasil-samba-masculina.html"
+    },
     {
       "source_id": "2883160",
       "titulo": "Camisa Flamengo Imperadores",
@@ -17,36 +47,6 @@
       "page_url": "https://promoninjaofertas.github.io/produto/camisa-flamengo-imperadores.html"
     },
     {
-      "source_id": "2883150",
-      "titulo": "Regata Vasco Fio Masculino M",
-      "de": 119.9,
-      "por": 57.9,
-      "desconto": 52,
-      "imagem": "https://m.media-amazon.com/images/I/51k+A8cIsaL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Braziline-002007356163-Regata-Vasco-Fio/dp/B0F8JM22MG?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Moda",
-      "data": "2026-06-23T09:03:56.679995-03:00",
-      "slug": "regata-vasco-fio-masculino-m",
-      "page_url": "https://promoninjaofertas.github.io/produto/regata-vasco-fio-masculino-m.html"
-    },
-    {
-      "source_id": "2883153",
-      "titulo": "Camisa Vasco Eterno Preta G",
-      "de": 126.79,
-      "por": 72.9,
-      "desconto": 43,
-      "imagem": "https://m.media-amazon.com/images/I/51Jxa2ojL-L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Braziline-002007585024-Camisa-Vasco-Eterno/dp/B0F8JMB4RK?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Moda",
-      "data": "2026-06-23T09:03:56.679995-03:00",
-      "slug": "camisa-vasco-eterno-preta-g",
-      "page_url": "https://promoninjaofertas.github.io/produto/camisa-vasco-eterno-preta-g.html"
-    },
-    {
       "source_id": "2883151",
       "titulo": "Pasta de Amendoim Dr. Peanut 600g Bombom Italiano",
       "de": 59.9,
@@ -60,21 +60,6 @@
       "data": "2026-06-23T09:03:56.679995-03:00",
       "slug": "pasta-de-amendoim-dr-peanut-600g-bombom-italiano",
       "page_url": "https://promoninjaofertas.github.io/produto/pasta-de-amendoim-dr-peanut-600g-bombom-italiano.html"
-    },
-    {
-      "source_id": "2883132",
-      "titulo": "Brilhus &#8211; mop sek+ lava e seca alta absorcao, cabo retratil ate 89cm, bettanin",
-      "de": 49.9,
-      "por": 39.99,
-      "desconto": 20,
-      "imagem": "https://m.media-amazon.com/images/I/51ap1+WszKS._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/gp/product/B076W8SMXL?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Pet",
-      "data": "2026-06-23T08:53:45.989556-03:00",
-      "slug": "brilhus-8211-mop-sek-lava-e-seca-alta-absorcao-cabo-retratil-ate-89cm-bettanin",
-      "page_url": "https://promoninjaofertas.github.io/produto/brilhus-8211-mop-sek-lava-e-seca-alta-absorcao-cabo-retratil-ate-89cm-bettanin.html"
     },
     {
       "source_id": "1005010165722060",
