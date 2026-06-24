@@ -1,6 +1,21 @@
 {
-  "atualizado": "2026-06-24T01:46:46.425999+00:00",
+  "atualizado": "2026-06-24T01:57:05.099789+00:00",
   "ofertas": [
+    {
+      "source_id": "2884559",
+      "titulo": "Smartphone Xiaomi Poco X8 Pro 512GB 12GB Ram",
+      "de": 3299.9,
+      "por": 2412.0,
+      "desconto": 27,
+      "imagem": "https://m.media-amazon.com/images/I/61U2cKwv20L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-512GB-Preto/dp/B0GN2L3DZZ?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-23T22:57:05.099789-03:00",
+      "slug": "smartphone-xiaomi-poco-x8-pro-512gb-12gb-ram",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-xiaomi-poco-x8-pro-512gb-12gb-ram.html"
+    },
     {
       "source_id": "1005005854834549",
       "titulo": "Novo mini alisador de cabelo ferro plano cerâmica curling ferro cabelo curto portátil dupla utilização modelador de cabelo cuidados com o estilo para viajar",
@@ -8,7 +23,7 @@
       "por": 46.71,
       "desconto": 49,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S3f2f9c19bd144a809bf7bad4ce9da4bfI.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKHzFsVKiu6mHdT04E9H81RUQBhq3uDZmu3zKj1dYeh5E4sXl6uU2eVpLSDX9S4kCiYDSQu3b5wpospPBYv4YZxMMLZnzzqiJc6PUnQI2ltRsHcvvPBX6pqflKGCyaM2JplyurOoFhpbNryR7T1wNscp4p94iGmO56qnOfAkAq6lJUSC55SsfpWhnj06MuvyK905FWDtA7miDUIGcM2lOZf5xUVc0aRiNUGv5ESXrYJOpemg57FO0kVryhzo5b9IjSRINdJGGVPLIiBObU582EsENakglpMldW0fy4srUPPfDuFbi7FSurRKWgRD2j9fbNlJZYueaXpvb4yeljJEZNF5SZutnd5VfzgCP5jhOJHKmzp5CvEYdhAHOhxSs8e2XbH1z5U1h3m340x6RNMKM1f70C2LECjiJK8KQSAiR8xNEN1SceYFDXik5I8hkeAsWB4VcXHY01fyUuuKS8WfBfGjNjublEdIIwnoNsM7EYqaTapHL614rY1UQw1DOiIvwYCPknyCEsk50Qc5qRstxsE4cGYEVmKl2GnTr1bnlEkO6kGxdJOK4uBnI9soiMgbkRyCXUi0XN8m0kBvqYLPh5vO8jurlMiI1t6rfwvSsiCmOwd8nfWKf5hH0DMlXQXhvMp2y3Gx7T71LMBnK7WvRjvZIYoYFJcix3bfidjTbX7Zurv3DzakZWizxRIvpnSTxJTF3UwsoOlja",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKHzFsVKiu6mHdT04E9H81RUQBhq3uDZmu3zKj1dYeh5E4sXl6uU2eVpLSDX9S4kCiYDSQu3b5wpospPBYv4YZxMMLZnzzqiJc6PUnQI2ltRsHcvvPBX6pqflKGCyaM2JplyurOoFhpbNryR7T1wNscp4p94iGmO56qnOfAkAq6lJUSC55SsfpWhnj06MuvyK905FWDtA7miDUIGcM2lOZf5xUVc0aRiNUGv5EHZXMEr4y4cPLhgV9b5odHNEAjZzYNDr2x8OftvplKYoWX5kcHiLykQvDCeZD8i6uO7vHS1MSvtQxQQrZNPMArNJqi3T5hNG7dZQ0K787bymzqf3t8xqPa6D5FKA7439GYZUiFVvnaNovgf9bTvRZvuXsjOQnJ5zM3MRq5DoCzNzxlRl8oUMGaBchgIxL0hsRFdSrXGYDYYZYgkPNiwptLa2g6fLklu8SctPYwVkXkUuaIfeNFnuXqiuVAL8AIQAOxemp90TMSMbmngt45vezF0jiSNPH2EPaCQkExr6gtZuejrEDC0bbOjk7paOfeMl4TZVgYJ0umaJYJcyPS7A7OHTPkque3orDrbAFuNV2DLs5LZSc5JMgT1B5phG20rUpysWsqNGNsbdX8A5HAUBSbsd4KhOvshD3WjEk6xu4W1aMH152dudYsKRfZkI2apFUG45aj0U0aMyLxjXVWODOP0S7XTMRFaEkqW4vngk",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Beleza",
@@ -113,7 +128,7 @@
       "por": 157.99,
       "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sd4ea00a940334b6abd335cf5c4e1fb1fb.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kIWfFctKZoWujrCTLgA0Kc5wj3DWJlnvD4mQPDSVNdVEYzqTrN2xkUGHTG5BLDvaVhuZ0E9U9sIcwtD9pWOtpvQJ8T5XT4zuHotNeO700kYPJ1jgtmsORgxtVIyDz36LZHO7OunWMzqW0f9M4CZ7krw1NHDT4rr5yQZ6DUhromGIqKdAc1IgSmkHMpr6f1dxnuEAras9X0COQiYqf3XLiDceqNcy2f4hfKpvDVWzjYiTS5QRHtpstOtABorIZfLvQeTXlxCjQRaLsSr0YPVUEvgKdwQwvtwD5m26x6YsJenAzV1oRAQAoR7V8Rciqbj4ds6HzhogPJRzgM4VJ3TPNqUHLDhSFnTOrSzweg7pMJAXKvWT2JFAshuo9rwIzV0CIupJn6VuPRaoHBU9SA36NtL8paoNakvTSuNdzMIb1Jg3unk1Qlyi4XGDJIOCPnvmlN7rMHxcEkUjqTTaMq1Xn4FUUE1bTcxKzEk5DbBqrj9lVBVAWZBz5tNiqfsq5qgcw8TXqJEuecnlAAgcj2dZTURFsu6htjrYKXieKk3e2EVpSHlsjpT6ErIc4k5eJYnCw7jZ1rYkHVhP55n9hqAdjwURj2zCIi7XYGTAaEZltqEfzZiwV3fZU6kaf1dmoAjp4NyWVkUYw1ibc74ryqpW2ZlCnq6pAGT3tyrRtH7dSyqB3ZhfBWt5ayQlFheIrh4Rbvzjwn9TcccTo",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kIWfFctKZoWujrCTLgA0Kc5wj3DWJlnvD4mQPDSVNdVEYzqTrN2xkUGHTG5BLDvaVhuZ0E9U9sIcwtD9pWOtpvQJ8T5XT4zuHotNeO700kYPJ1jgtmsORgxtVIyDz36LZHO7OunWMzqW0f9M4CZ7krw1NHDT4rr5yQZ6DUhromGIqKdAc1IgSmkHMpr6f1dxnuEAras9X0COQiYqf3XLiDceqNcy2f4hfKpvDVwadMdMWme3RDJ6OQH7sSodPM19EFu6XwS00HFDz5I6Od1DKGGOXhT1sBcrFJGU7XJ24OEv3p7WgvPd3wcDe09ARPHs7pnbeddPjMDuq5rAar6FRiuPw4maFGoW6QdxKCWV8aq3SqVSLsDRoymdOS4srRCmDaZgoykHtJb3Haq6yBNkn9yShLtEY2xLZw3KVpX8n52b6sX6k4DhOUUuhJ4QMYum9Gkxoc4lW0Nx0rq7Uuw1kkmcUoss6mlJaQqRN6GsdAVMSacY3K5AdypjhxZiTYyxUkkmlt65dYnrOc6YYR3e3gPAzq5YqTyLVzLtcmNv1sUMVei04x1IF5BYrMWpYI1pAobFrhQ0yt2TAXYCnRNIjIkEvPA1qzXVsx1mgBigHq8bmkJluNp3R8bY8aDpUHdFXJW3D8Le5NrqcUS46XoczYSc6JRFplBOgmeqATBvXEpYXwbPRHsEdNhgZnM2BiBmVfqlU2lBiPtt0",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Beleza",
