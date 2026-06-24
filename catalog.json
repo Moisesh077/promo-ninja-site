@@ -1,6 +1,21 @@
 {
-  "atualizado": "2026-06-24T17:39:56.792146+00:00",
+  "atualizado": "2026-06-24T17:50:15.112184+00:00",
   "ofertas": [
+    {
+      "source_id": "2885724",
+      "titulo": "Eudora Kiss Me Deo Colonia Cabernet",
+      "de": 99.99,
+      "por": 79.9,
+      "desconto": 20,
+      "imagem": "https://m.media-amazon.com/images/I/41gW6tyPW0L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0D9WRRQNX/?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Beleza",
+      "data": "2026-06-24T14:50:15.112184-03:00",
+      "slug": "eudora-kiss-me-deo-colonia-cabernet",
+      "page_url": "https://promoninjaofertas.github.io/produto/eudora-kiss-me-deo-colonia-cabernet.html"
+    },
     {
       "source_id": "4000134327513",
       "titulo": "Eachine ev800dm varifocal 5.8g 40ch diversidade fpv óculos com hd dvr 3 Polegada 900x600 vídeo fone de ouvido construir na bateria",
