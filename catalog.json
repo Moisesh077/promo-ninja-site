@@ -1,6 +1,21 @@
 {
-  "atualizado": "2026-06-24T15:37:45.721785+00:00",
+  "atualizado": "2026-06-24T15:47:45.712753+00:00",
   "ofertas": [
+    {
+      "source_id": "2885463",
+      "titulo": "S.T.A.L.K.E.R 2: Heart of Chornobyl - PlayStation 5",
+      "de": 339.9,
+      "por": 180.34,
+      "desconto": 47,
+      "imagem": "https://m.media-amazon.com/images/I/814Ts5PZCQL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FHBSHDN6?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Games",
+      "data": "2026-06-24T12:47:45.712753-03:00",
+      "slug": "s-t-a-l-k-e-r-2-heart-of-chornobyl-playstation-5",
+      "page_url": "https://promoninjaofertas.github.io/produto/s-t-a-l-k-e-r-2-heart-of-chornobyl-playstation-5.html"
+    },
     {
       "source_id": "1005003157220893",
       "titulo": "Ulanzi r094 super braçadeira de metal com cabeça esférica dupla braçadeira de braço mágico com furo de 1/4 \"3/8\" para câmera dslr monitor luz microfone montagem",
@@ -49,11 +64,11 @@
     {
       "source_id": "1005009352431525",
       "titulo": "Homens mulheres de alta qualidade luz tênis almofada sapatos de treinamento leve resistente ao desgaste tênis",
-      "de": 141.78,
-      "por": 94.99,
-      "desconto": 33,
+      "de": 142.37,
+      "por": 95.39,
+      "desconto": 32,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7338aa98d1dd420ab0825e34bd6ea21e2.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ERNdjEho1gQheTSQbfGrj68QMCHxmxRNKBNoW2uyvHI0lpzwL2UmVlK2BaxSpIT7ESwoDLqTFuyybNqBTrRCxIsLIBGF54J08qMV0Nry2Koka28QFifsOgrO208VRuEnLhAXLnuFuAzCPwafYdfIwN8fYiQDWJPNRCxQYXwOSYXxGNOOTp0AJ4CeTsxeivTIFU4bZfn2JeJhZEK0PAuCUr5ljnjlheeUWIfLR8l73DqgghCFWCH5W6mTn94vP0UP3kYCxZCDyfpiECC7xTh3aw2Wfflry3eAaCINcibokdyjjcL0W80lz4WDIaIFWDzFhGmzcocCL5cjWw162g8g3x2cqhDN27Pa6RXlMSTInkpWoLylrqXWi5PShkY8L8MK4OJi1wb8pkI2bu8cWFrRaBcFW6jgIrqtMVh5eNt8WalRkRNfxfhNWB7uea6Pv7tYiiYmy5v8V9IHI6z0jWI0AmXC5NpeBHHfNZnYifkOI3T0yYuTopm8gsU1cbNTy82yjJHtCvn4ozZnbrGzYVKLltJzokYlSbNGEhTEjpswC5xbEkD7eXpNVPoCH45Kf2YpKzCgIM3EcCuFFD1oY4BPuEee7AYAuAgXP6UGt25RplytB7lDRaJqKdcc8uPR9rwxSs6RkoJ048jRqR2CeysMGjKVuFpSi8xK1JWs4qc7dRqNrO6EuTzkfjQ9FjYS98bO1l59KaLtWGvBZ",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ERNdjEho1gQheTSQbfGrj68QMCHxmxRNKBNoW2uyvHI0lpzwL2UmVlK2BaxSpIT7ESwoDLqTFuyybNqBTrRCxIsLIBGF54J08qMV0Nry2Koka28QFifsOgrO208VRuEnLhAXLnuFuAzCPwafYdfIwN8fYiQDWJPNRCxQYXwOSYXxGNOOTp0AJ4CeTsxeivTIFU4bZfn2JeJhZEK0PAuCUr5ljnjlheeUWIfLR8bsRM03zEFYUqNwu2OtXJwNAOEEuMQmciyuY70gTArkIf05VoQQybXxJRgjXbT0AHE7RnVTl2EOZR19oS2JJgNzkcSuxc3mAUsVAkU3qDOIg6TiyAju8uLsLhYY32xd3fUXpRQcum6UR2CcO4l4IoVM4LhV7Nz5FAsj0v9FBhmTMgqqeL0du1nZlUmafGxSc5zQ764IbYPo5t4ew3jydytC1h4TyV0zl6s1l5RtZaABUAqG9xx1zK7vncXjJmWeuBI63YM5kmIViFwR1u1FgeQwsiZ7GUig2oBJ9EsL7TlXgIZQEAH2BmlgF9NkqqPR9CdfEvoXIZ1xc3i5GWmMoyZ4t9mi1HcKf2HjWIlJ0SFrAD2JStTKmjdDlLAuWTxGAcGkBWZYvxHHkqGOx83pYzZjJJcJxmVvP0YnLIcHxDfxMKrKFSmj1zx6PTLHtBwsVob176SKk2kg3z1kpkjQwqq0IFzyOfQlwH62Yfkcf",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Moda",
