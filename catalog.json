@@ -1,6 +1,21 @@
 {
-  "atualizado": "2026-06-24T01:16:30.484985+00:00",
+  "atualizado": "2026-06-24T01:26:46.078522+00:00",
   "ofertas": [
+    {
+      "source_id": "2884645",
+      "titulo": "Tênis de Corrida Mizuno Neo Vortex",
+      "de": 699.99,
+      "por": 359.99,
+      "desconto": 49,
+      "imagem": "https://m.media-amazon.com/images/I/51+MeuHAoML._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B071DY742N/ref=cm_sw_r_as_gl_apa_gl_i_TS3QS2X3TD7N2BFAN9X5?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Moda",
+      "data": "2026-06-23T22:26:46.078522-03:00",
+      "slug": "tenis-de-corrida-mizuno-neo-vortex",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-de-corrida-mizuno-neo-vortex.html"
+    },
     {
       "source_id": "1005009352431525",
       "titulo": "Homens mulheres de alta qualidade luz tênis almofada sapatos de treinamento leve resistente ao desgaste tênis",
