@@ -1,20 +1,35 @@
 {
-  "atualizado": "2026-06-24T16:08:15.105678+00:00",
+  "atualizado": "2026-06-24T16:18:35.010364+00:00",
   "ofertas": [
     {
-      "source_id": "2884996",
-      "titulo": "Oster Cafeteira Flavor Programável, 1,5l, 110v, Vermelhapreto, 1000w, Bvstdc4401rd",
-      "de": 299.0,
-      "por": 224.37,
-      "desconto": 25,
-      "imagem": "https://m.media-amazon.com/images/I/51HQ6ID+8sL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/gp/product/B076FCGPJX/ref=ewc_pr_img_1?tag=promoninja0c3-20",
-      "cupom": "TIMEBR",
+      "source_id": "2885565",
+      "titulo": "Extratora Portátil WAP Spot Cleaner W3 | 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W, 127V",
+      "de": 849.9,
+      "por": 415.47,
+      "desconto": 51,
+      "imagem": "https://m.media-amazon.com/images/I/71YOp9GJX2L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/gp/product/B0CH3WBKN6?tag=promoninja0c3-20",
+      "cupom": "BRASILHOJE",
       "loja": "amazon",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-06-24T13:08:15.105678-03:00",
-      "slug": "oster-cafeteira-flavor-programavel-1-5l-110v-vermelhapreto-1000w-bvstdc4401rd",
-      "page_url": "https://promoninjaofertas.github.io/produto/oster-cafeteira-flavor-programavel-1-5l-110v-vermelhapreto-1000w-bvstdc4401rd.html"
+      "categoria": "Eletroportáteis",
+      "data": "2026-06-24T13:18:35.010364-03:00",
+      "slug": "extratora-portatil-wap-spot-cleaner-w3-3-em-1-borrifa-esfrega-e-extrai-com",
+      "page_url": "https://promoninjaofertas.github.io/produto/extratora-portatil-wap-spot-cleaner-w3-3-em-1-borrifa-esfrega-e-extrai-com.html"
+    },
+    {
+      "source_id": "2885437",
+      "titulo": "Garrafa Térmica Coleman Growler 1,9L",
+      "de": 359.9,
+      "por": 128.0,
+      "desconto": 64,
+      "imagem": "https://m.media-amazon.com/images/I/71aFn0xnL-L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Coleman-110120016926-Growler-9L-Preto/dp/B08YRXP1CM?tag=promoninja0c3-20",
+      "cupom": "TERMICO20",
+      "loja": "amazon",
+      "categoria": "Utilidades Domésticas",
+      "data": "2026-06-24T13:18:35.010364-03:00",
+      "slug": "garrafa-termica-coleman-growler-1-9l",
+      "page_url": "https://promoninjaofertas.github.io/produto/garrafa-termica-coleman-growler-1-9l.html"
     },
     {
       "source_id": "1005003157220893",
