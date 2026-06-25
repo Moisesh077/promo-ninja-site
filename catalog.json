@@ -1,6 +1,51 @@
 {
-  "atualizado": "2026-06-25T01:07:15.192975+00:00",
+  "atualizado": "2026-06-25T01:17:16.516104+00:00",
   "ofertas": [
+    {
+      "source_id": "2886397",
+      "titulo": "Memória Corsair DDR5 16GB 1X16GB PC5200 Vengeance CMK16GX5M1B5200C40",
+      "de": 1500.0,
+      "por": 1169.0,
+      "desconto": 22,
+      "imagem": "https://m.media-amazon.com/images/I/61mf24GAOuL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0BKR2S4F1?tag=promoninja0c3-20",
+      "cupom": "JOGOSFUT",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-24T22:17:16.516104-03:00",
+      "slug": "memoria-corsair-ddr5-16gb-1x16gb-pc5200-vengeance-cmk16gx5m1b5200c40",
+      "page_url": "https://promoninjaofertas.github.io/produto/memoria-corsair-ddr5-16gb-1x16gb-pc5200-vengeance-cmk16gx5m1b5200c40.html"
+    },
+    {
+      "source_id": "1005008988396167",
+      "titulo": "Grande teclado de jogos tapete de mouse t as bruxas mouse pad gamer gabinete deskmat mausepad hd tapete de mesa tapetes estendidos xxl playmat",
+      "de": 88.44,
+      "por": 39.8,
+      "desconto": 55,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sea2add1859444d5fbe79a58745f6bde1e.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FdVfcLVB3YfVsD97DLk4MZz9B0bRH5kY8uFUMCT3Qq4xoIrCZj9Ui3gZ9Y2JpsX21duinrwYTOO7fbKi6qInQOXuZLcNOipN1n0vy4gQKTnbQXaviw5VlVGp6q79YVV6AkRxjo60GiR965aGiIjyFHV8dYfrzLEv0heVKAxv6yHYUBHrUROOhZu9t4GX7zCznWNMwG4PpXSAyZBk4doaGRUmdhk4wPO9n0EKASLB987B6LBys3qG2ri4UT8T8fWmL2otN6S2lBRkRjeTgJVVBFhWF7uW6bPrKNdbCd8giOLUSg8kiprf04Uso6Zw9UHiTntNrfOxBYYJtA0HsuEv20RuRyCGv5xBpkmYqT6VU9blPU6yWPkar5VwuVYYvdeO1R9GBVQmBN1TTEbI70HKDTmgk0Wbx4fiTA6enSnGaoBoT6aEtyjcAkhNWRuYqhwPzsdoeZlHTVzvf5TxmF3qJcfMWuCF5pwt4FaThukCAX9fLVHURTSHE0TRiSTBKZDruapQIpTTQaXBpofEpoDGCxVM8sls3tYRtezHDoXYwhTRPS0qRh3KB0iT3VbqX7ExeX9U8AfrGZTCeWcy8YRPi0uowbz8138WSnbyxDlzn7ZSbXL0QuVpqZkM9MOMflx1D8AFcol6y4f4qzdCu6uHJZc7rVmeZag5FwLq3wGjwNmlt3if7d2FH1dYJu9Dzr6cICK78KcAebLVg",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Hardware",
+      "data": "2026-06-24T21:26:25.885317-03:00",
+      "slug": "grande-teclado-de-jogos-tapete-de-mouse-t-as-bruxas-mouse-pad-gamer-gabinete",
+      "page_url": "https://promoninjaofertas.github.io/produto/grande-teclado-de-jogos-tapete-de-mouse-t-as-bruxas-mouse-pad-gamer-gabinete.html"
+    },
+    {
+      "source_id": "1005008889719985",
+      "titulo": "Genuíno Liteon PA-1331-99 19.5V 16.9A 330W Adaptador AC para Acer Predator Helios Neo 16 PHN16-71-50JG Gaming Laptop fonte de alimentação",
+      "de": 973.51,
+      "por": 661.99,
+      "desconto": 31,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc6933e507c384c489cf8ba89a83c45d6S.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k8HICGMxwUhHgclroDHmgmQB9g2qxzsdEKIIEjbOZWhwMLwmeJwnqnsOGSZ2qL4lMGGU6WQW384uKglB7YTFjKz1umTXKrebbWVG177DjcM8BZ1lXt6kvIUAehpbtfMr2X6dpYBfD2GyCvVbSNp6Gb0n2VIwY6XSeopXztnYqSWrSKzfZUVCjDt0UUOTofWLXNjjx9kUjDIg4x6jVrY6xUG2Y497ZUB8oDZMFlchfdwCaXGt7eRbXazWzMbBm5BCVHTpieTZPUSxt0X66tlANwx1l232176zmcouQJ0VinKxgtFFE8SL7a3LU9rpNOoa1XSbEy9rC7t5qPkL2kJOJzhvgZz8ZB3vRSjEOyxBTkNUmrXlOXPnGAyddDxkxekOySPiLHBaX6y0aQ4dFj1DrXIHJbRsDP2QfXPTWa3wSmH1PITzyStcasjPBBSpvWaOGIiSs8oq70Y0hOsfuZLW2Cc7TNgOocr8VPrr3xJeUSt9GvV2fU0ciIkPy7igxHlnOclbILNbLIzf9qJiFcHDeGk132LHpfIrpUWmpxiM42FcdgkvwjnjNJntn5olONNCKjaN6c6sa3rzKsz4RtiChIyvkZfxlzlwYJ3f7pAxWjhS4yaEKFpbix78RtUkgIc6BoAoBrZekS6szSlZQScSPx12IkS1UoAzd7lfCLEZDZFYnMBBHME2ajv1mzL4MfQ4uxt58s5Aaw50x",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Pet",
+      "data": "2026-06-24T21:26:25.885317-03:00",
+      "slug": "genuino-liteon-pa-1331-99-19-5v-16-9a-330w-adaptador-ac-para-acer",
+      "page_url": "https://promoninjaofertas.github.io/produto/genuino-liteon-pa-1331-99-19-5v-16-9a-330w-adaptador-ac-para-acer.html"
+    },
     {
       "source_id": "1005004587511307",
       "titulo": "Genuíno para clevo p770dm p750zm p775dm p771dm gaming portátil adaptador chicony 19.5v 11.8a 230w A12-230P1A carregador de alimentação",
@@ -47,36 +92,6 @@
       "page_url": "https://promoninjaofertas.github.io/produto/genuino-delta-adp-330cb-b-19-5v-16-9a-330w-adaptador-ac-carregador-para.html"
     },
     {
-      "source_id": "1005008889719985",
-      "titulo": "Genuíno Liteon PA-1331-99 19.5V 16.9A 330W Adaptador AC para Acer Predator Helios Neo 16 PHN16-71-50JG Gaming Laptop fonte de alimentação",
-      "de": 973.51,
-      "por": 661.99,
-      "desconto": 31,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc6933e507c384c489cf8ba89a83c45d6S.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k8HICGMxwUhHgclroDHmgmQB9g2qxzsdEKIIEjbOZWhwMLwmeJwnqnsOGSZ2qL4lMGGU6WQW384uKglB7YTFjKz1umTXKrebbWVG177DjcM8BZ1lXt6kvIUAehpbtfMr2X6dpYBfD2GyCvVbSNp6Gb0n2VIwY6XSeopXztnYqSWrSKzfZUVCjDt0UUOTofWLXNjjx9kUjDIg4x6jVrY6xUG2Y497ZUB8oDZMFlchfdwCaXGt7eRbXazWzMbBm5BCVHTpieTZPUSxt0X66tlANwx1l232176zmcouQJ0VinKxgtFFE8SL7a3LU9rpNOoa1XSbEy9rC7t5qPkL2kJOJzhvgZz8ZB3vRSjEOyxBTkNUmrXlOXPnGAyddDxkxekOySPiLHBaX6y0aQ4dFj1DrXIHJbRsDP2QfXPTWa3wSmH1PITzyStcasjPBBSpvWaOGIiSs8oq70Y0hOsfuZLW2Cc7TNgOocr8VPrr3xJeUSt9GvV2fU0ciIkPy7igxHlnOclbILNbLIzf9qJiFcHDeGk132LHpfIrpUWmpxiM42FcdgkvwjnjNJntn5olONNCKjaN6c6sa3rzKsz4RtiChIyvkZfxlzlwYJ3f7pAxWjhS4yaEKFpbix78RtUkgIc6BoAoBrZekS6szSlZQScSPx12IkS1UoAzd7lfCLEZDZFYnMBBHME2ajv1mzL4MfQ4uxt58s5Aaw50x",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Pet",
-      "data": "2026-06-24T21:26:25.885317-03:00",
-      "slug": "genuino-liteon-pa-1331-99-19-5v-16-9a-330w-adaptador-ac-para-acer",
-      "page_url": "https://promoninjaofertas.github.io/produto/genuino-liteon-pa-1331-99-19-5v-16-9a-330w-adaptador-ac-para-acer.html"
-    },
-    {
-      "source_id": "1005008988396167",
-      "titulo": "Grande teclado de jogos tapete de mouse t as bruxas mouse pad gamer gabinete deskmat mausepad hd tapete de mesa tapetes estendidos xxl playmat",
-      "de": 88.44,
-      "por": 39.8,
-      "desconto": 55,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sea2add1859444d5fbe79a58745f6bde1e.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FdVfcLVB3YfVsD97DLk4MZz9B0bRH5kY8uFUMCT3Qq4xoIrCZj9Ui3gZ9Y2JpsX21duinrwYTOO7fbKi6qInQOXuZLcNOipN1n0vy4gQKTnbQXaviw5VlVGp6q79YVV6AkRxjo60GiR965aGiIjyFHV8dYfrzLEv0heVKAxv6yHYUBHrUROOhZu9t4GX7zCznWNMwG4PpXSAyZBk4doaGRUmdhk4wPO9n0EKASLB987B6LBys3qG2ri4UT8T8fWmL2otN6S2lBRkRjeTgJVVBFhWF7uW6bPrKNdbCd8giOLUSg8kiprf04Uso6Zw9UHiTntNrfOxBYYJtA0HsuEv20RuRyCGv5xBpkmYqT6VU9blPU6yWPkar5VwuVYYvdeO1R9GBVQmBN1TTEbI70HKDTmgk0Wbx4fiTA6enSnGaoBoT6aEtyjcAkhNWRuYqhwPzsdoeZlHTVzvf5TxmF3qJcfMWuCF5pwt4FaThukCAX9fLVHURTSHE0TRiSTBKZDruapQIpTTQaXBpofEpoDGCxVM8sls3tYRtezHDoXYwhTRPS0qRh3KB0iT3VbqX7ExeX9U8AfrGZTCeWcy8YRPi0uowbz8138WSnbyxDlzn7ZSbXL0QuVpqZkM9MOMflx1D8AFcol6y4f4qzdCu6uHJZc7rVmeZag5FwLq3wGjwNmlt3if7d2FH1dYJu9Dzr6cICK78KcAebLVg",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-06-24T21:26:25.885317-03:00",
-      "slug": "grande-teclado-de-jogos-tapete-de-mouse-t-as-bruxas-mouse-pad-gamer-gabinete",
-      "page_url": "https://promoninjaofertas.github.io/produto/grande-teclado-de-jogos-tapete-de-mouse-t-as-bruxas-mouse-pad-gamer-gabinete.html"
-    },
-    {
       "source_id": "1005006269826245",
       "titulo": "Marvel deadpool anime mouse pad escritório pc gamer gabinete mouse tapete portátil 900x400 teclado mousepad estendido tapete de mesa legal",
       "de": 78.53,
@@ -105,6 +120,21 @@
       "data": "2026-06-24T21:16:16.839861-03:00",
       "slug": "mousepad-de-borracha-mouse-pad-jogos-s-star-w-wars-d-darth-v-dader",
       "page_url": "https://promoninjaofertas.github.io/produto/mousepad-de-borracha-mouse-pad-jogos-s-star-w-wars-d-darth-v-dader.html"
+    },
+    {
+      "source_id": "1005005744459503",
+      "titulo": "Painel de iluminação gpu argb 5090 5080, placa traseira rtx4090 4070 vga, placa lateral da placa de vídeo mod 3090, lâmpada de fé do armário de jogadores aura sincronização",
+      "de": 82.99,
+      "por": 58.09,
+      "desconto": 30,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S39e2320bb5df44649da138abf427a29fc.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mkVLDjfhzbZ9zuUQOD2BwZQYshu3mSr6kdfyiKDuaIe9W85tI05QHpaWEVKg1rMdX6Z6omfXNOOB1Bei2celswQC0xIRc2qNlXxldeC9xoALrNeZ0xqSJZnlYYATNrUF64Icg2eIL2MX9aNH7GcVPI9Sx0qE3L04bpc5U8Py3A11bitPIY6ajy6oK4bPrRXRbq7nqTCkS5eV8hK5Kyx6Lv2ZJ3DdcfwTZEpLVK6S0QQX9gdwvN3z6bcEGQvoU2WqSc6gB9aq8uTJ7kP1DhsbYyvhrmFvwn5K9nwxgQnXoVwkjH0hXMhoCOme6ULTsbQQ0cHAqenpYK8djG9ueeiIv5kUmR85BlHrNIP7XUIe3z1tDANUXdLhvI1heOVMhQMmSDhkJDqtLx01dTFTrIG3oSVpqCoB1HE6d0VsVAaZBlu2aHjpxv6DCvk6LPXjlnk5NTlzMv5y62hDuZC2p9V4nUxK3Aut8VrCjs1IbJ2QK6jDFW9xooIYj8KTRDD3MWd5Oh6GDAEZLOYjrjF92gdmbJBpKj4lyQo7VImlmajQgR7TtNxDAEQza7JKB1rCSKBpVtCOpoPXpjqgoF3xkFRS0G20uhX4plwG2vseJsGTtPCKy91p61yZqWGQPxryDfz1T81CmV39xvSIXQK34JcCuTmGp05alhj3KGb2MmpJJIm5gCaBVtAq4IpzDS5teykyOeYoFWqzduc3m",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Hardware",
+      "data": "2026-06-24T21:16:16.839861-03:00",
+      "slug": "painel-de-iluminacao-gpu-argb-5090-5080-placa-traseira-rtx4090-4070-vga-placa-lateral",
+      "page_url": "https://promoninjaofertas.github.io/produto/painel-de-iluminacao-gpu-argb-5090-5080-placa-traseira-rtx4090-4070-vga-placa-lateral.html"
     },
     {
       "source_id": "1005009011988640",
@@ -137,19 +167,19 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kawaii-mouse-pad-portatil-anime-gamer-gabinete-teclado-tapete-bonito-dos-desenhos-anim.html"
     },
     {
-      "source_id": "1005005744459503",
-      "titulo": "Painel de iluminação gpu argb 5090 5080, placa traseira rtx4090 4070 vga, placa lateral da placa de vídeo mod 3090, lâmpada de fé do armário de jogadores aura sincronização",
-      "de": 82.99,
-      "por": 58.09,
-      "desconto": 30,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S39e2320bb5df44649da138abf427a29fc.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mkVLDjfhzbZ9zuUQOD2BwZQYshu3mSr6kdfyiKDuaIe9W85tI05QHpaWEVKg1rMdX6Z6omfXNOOB1Bei2celswQC0xIRc2qNlXxldeC9xoALrNeZ0xqSJZnlYYATNrUF64Icg2eIL2MX9aNH7GcVPI9Sx0qE3L04bpc5U8Py3A11bitPIY6ajy6oK4bPrRXRbq7nqTCkS5eV8hK5Kyx6Lv2ZJ3DdcfwTZEpLVK6S0QQX9gdwvN3z6bcEGQvoU2WqSc6gB9aq8uTJ7kP1DhsbYyvhrmFvwn5K9nwxgQnXoVwkjH0hXMhoCOme6ULTsbQQ0cHAqenpYK8djG9ueeiIv5kUmR85BlHrNIP7XUIe3z1tDANUXdLhvI1heOVMhQMmSDhkJDqtLx01dTFTrIG3oSVpqCoB1HE6d0VsVAaZBlu2aHjpxv6DCvk6LPXjlnk5NTlzMv5y62hDuZC2p9V4nUxK3Aut8VrCjs1IbJ2QK6jDFW9xooIYj8KTRDD3MWd5Oh6GDAEZLOYjrjF92gdmbJBpKj4lyQo7VImlmajQgR7TtNxDAEQza7JKB1rCSKBpVtCOpoPXpjqgoF3xkFRS0G20uhX4plwG2vseJsGTtPCKy91p61yZqWGQPxryDfz1T81CmV39xvSIXQK34JcCuTmGp05alhj3KGb2MmpJJIm5gCaBVtAq4IpzDS5teykyOeYoFWqzduc3m",
+      "source_id": "1005010007281472",
+      "titulo": "1 peça adaptador de leitor de cartão de memória mini usb 3.0 de alumínio para tf micro sd pc computador laptop sd",
+      "de": 46.41,
+      "por": 32.49,
+      "desconto": 29,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sca94e3b9fe5c41b69adace35bb0e69a3h.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mkxVu2aguNsKlqjfwoCCm2FwGhROFFqbyBa1RmvZZTtdvoBG9hr4OktIfXlfwUXux5RHgpIoz2BFOLKpMBI3bVNvEF8BYMBVY89iWCvR2jAMnKuLx8XNxGK2KmQcNtOxed5xv0DJgHKxpeinxqd3tmbQAZCOJeycmUMcAmQCHE80RA1jtzIKPEVlwUcL8aJ0EbDRzkFWTt1eecrz0A40ysOEhmm9HUK8NwqARioUNFkeXKJGtvvMIoM0sfM83T8WOldoTC5xNP3Oo5toxGVillA0szRzRx0D2sEK2aWZbF5eIoEcwUOLZfGtj2t1LmiWwRbj4gGMUtM6izR3XENYWXvt2jQlLHKaHV8DiP2ZfyRyYN2EZDS4VxTg3uBZT2FM2pOIyurgP9uMAQY6GTZ2MsDJ6BbLimEeBWZ8x4eEtFTuz6DUuPX4UMeSc3xBWUp0YLHxWsLX8ncdPVp7CzoYK4puORSzaL6orbPModggqygz9JvCaBkast9xxMKQ2HFryD4pR1BxrMQaRfA3gpIwGqJ8rIAUnHNwLxmNxR9Y74vZxM2SYZOzch7EvDcragGNtiDFf6ZGW7KYJfzkNyNK0WcHpi4aMI47TkA5GwykaMyS9eLRNft8AfJfVCUuGaERywG4TPIGQGHH9Dt9iM4b8lAikcrnmSZLrt7MEK8XBNoaYuRvwNfGOJn210416ZDA2rNfGm9eOpFCG",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
-      "data": "2026-06-24T21:16:16.839861-03:00",
-      "slug": "painel-de-iluminacao-gpu-argb-5090-5080-placa-traseira-rtx4090-4070-vga-placa-lateral",
-      "page_url": "https://promoninjaofertas.github.io/produto/painel-de-iluminacao-gpu-argb-5090-5080-placa-traseira-rtx4090-4070-vga-placa-lateral.html"
+      "data": "2026-06-24T20:45:45.087630-03:00",
+      "slug": "1-peca-adaptador-de-leitor-de-cartao-de-memoria-mini-usb-3-0-de",
+      "page_url": "https://promoninjaofertas.github.io/produto/1-peca-adaptador-de-leitor-de-cartao-de-memoria-mini-usb-3-0-de.html"
     },
     {
       "source_id": "4000630813764",
@@ -167,36 +197,6 @@
       "page_url": "https://promoninjaofertas.github.io/produto/toshiba-500gb-computador-desktop-hdd-3-5-disco-rigido-mecanico-interno-sata3-6-gb.html"
     },
     {
-      "source_id": "1005010007281472",
-      "titulo": "1 peça adaptador de leitor de cartão de memória mini usb 3.0 de alumínio para tf micro sd pc computador laptop sd",
-      "de": 46.41,
-      "por": 32.49,
-      "desconto": 29,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sca94e3b9fe5c41b69adace35bb0e69a3h.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mkxVu2aguNsKlqjfwoCCm2FwGhROFFqbyBa1RmvZZTtdvoBG9hr4OktIfXlfwUXux5RHgpIoz2BFOLKpMBI3bVNvEF8BYMBVY89iWCvR2jAMnKuLx8XNxGK2KmQcNtOxed5xv0DJgHKxpeinxqd3tmbQAZCOJeycmUMcAmQCHE80RA1jtzIKPEVlwUcL8aJ0EbDRzkFWTt1eecrz0A40ysOEhmm9HUK8NwqARioUNFkeXKJGtvvMIoM0sfM83T8WOldoTC5xNP3Oo5toxGVillA0szRzRx0D2sEK2aWZbF5eIoEcwUOLZfGtj2t1LmiWwRbj4gGMUtM6izR3XENYWXvt2jQlLHKaHV8DiP2ZfyRyYN2EZDS4VxTg3uBZT2FM2pOIyurgP9uMAQY6GTZ2MsDJ6BbLimEeBWZ8x4eEtFTuz6DUuPX4UMeSc3xBWUp0YLHxWsLX8ncdPVp7CzoYK4puORSzaL6orbPModggqygz9JvCaBkast9xxMKQ2HFryD4pR1BxrMQaRfA3gpIwGqJ8rIAUnHNwLxmNxR9Y74vZxM2SYZOzch7EvDcragGNtiDFf6ZGW7KYJfzkNyNK0WcHpi4aMI47TkA5GwykaMyS9eLRNft8AfJfVCUuGaERywG4TPIGQGHH9Dt9iM4b8lAikcrnmSZLrt7MEK8XBNoaYuRvwNfGOJn210416ZDA2rNfGm9eOpFCG",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-06-24T20:45:45.087630-03:00",
-      "slug": "1-peca-adaptador-de-leitor-de-cartao-de-memoria-mini-usb-3-0-de",
-      "page_url": "https://promoninjaofertas.github.io/produto/1-peca-adaptador-de-leitor-de-cartao-de-memoria-mini-usb-3-0-de.html"
-    },
-    {
-      "source_id": "1005004855019116",
-      "titulo": "Dissipador de Calor para Memória RAM DDR5 Bykski B-MRC-X, Cobre Vermelho Completo, Cooler Prateado com Armadura para Desempenho Aprimorado",
-      "de": 264.99,
-      "por": 211.99,
-      "desconto": 20,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S46e338f342a5498e8e8bc821b647aad0t.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k6sMlyjTbcVRQgHhGlbGrMbBSlL1AI7PsS8zhC8efeaWshbC2FR9bfSsba0scLUGg1264c6O7t1kDPVC4Q5KZPy44xzjqsbcGUO7yhzyysDiNmTXryos2v9tecMCbiMmkPdvfCUNUflkIhQaCMeQPDQgjNW67ao9f3cbr6emFKUiFX4HUMGPgKgvVpgEfTvTQmaidTsRsVmvi25m8BPJvdFVAnthrw4xsdJwLQBfrim9tM73HlDTk4YsG1rbgWRnKXz3S9Pp6z2ZbEYgJfrG0z4fyy8bmOR2LyH7EkFjIvHvZTjrmGapqFyJfRdTCEsGHyaAP7HqnzK5VldNBUKn54NjRReJRnQHWIlECVbmlINSPL8YRf2AQAv3IkcCWOPJHGlSx2zJK37QnjIw7gsrtrI1WzzTq1Yjz04aiz3BO92lQRNffSNZA9pseaSspz8szJRpTVAt0q0bwIJ8IHVwg4k1knl9LCR0c8QRRU3CNZs1VteqEWfVoNi69assTFTF9wNazfsp6232SLGZhwYLpLsHw1Sskdz1q9Gla1skAbbCJODhCFASxYbjcUmhVAQFYra5MQ90gJg31MCWRV6Xj0HxTxp70pHxvv6l9bfYxkeHDFSIqubxkIIkxFlW75abRh6fTIp5cX4aAgEjRgQWoZVvWc8LlION1KVm70DbvKeSwY8LRsTMDMq6mAX4Dm9wKhl9QglqZnNcq",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-06-24T20:25:15.077492-03:00",
-      "slug": "dissipador-de-calor-para-memoria-ram-ddr5-bykski-b-mrc-x-cobre-vermelho-completo",
-      "page_url": "https://promoninjaofertas.github.io/produto/dissipador-de-calor-para-memoria-ram-ddr5-bykski-b-mrc-x-cobre-vermelho-completo.html"
-    },
-    {
       "source_id": "1005008511993058",
       "titulo": "Conversor de cartão de memória ram conector adaptador ddr3 ddr4 ddr5 portátil SO-DIMM para adaptador desktop",
       "de": 31.31,
@@ -212,19 +212,19 @@
       "page_url": "https://promoninjaofertas.github.io/produto/conversor-de-cartao-de-memoria-ram-conector-adaptador-ddr3-ddr4-ddr5-portatil-so-dimm.html"
     },
     {
-      "source_id": "1005009584131694",
-      "titulo": "Placa-mãe MACHINIST MR9A-H X99 Suporte para Intel Xeon E5 V3 V4 LGA 2011-3 CPU e DDR4 RAM NVME M.2 USB3.0 de canal duplo",
-      "de": 698.04,
-      "por": 369.94,
-      "desconto": 47,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf86cc8b7948b4924ab2e422fd62fa662n.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k9hrkFwWoPoe3dx2yf0KB39wOjo26f3bATUbRK2tQmKPFeCcKTRp4wsUygS5LXvyIQkLoV4MmhAfzsbtlr6BS0ROfrG66OZNeTGlSMQIHhJYqLaENhCyf3pQYOgKzNQYsnYfEVZWKtquZbMtLvxVZIftR4KvK1U1XW8LjX0xdtMIaT6EwUo1j26tdkLxemR7NgGA3D8Oo2uMtYu05uwEDofIvU6dGN08uyWmKz9pwdfS9oGo2RbFHbWHciszZPgbZWWylxbtlpt50BmQhWQGVIfF8nrl3DdBzTQ2Z7VRafZor42PW4wHbladTqXBoLQwTt3G8bCnyt7ohdujR8Zy3uWcvK0arAwuiSsBGb3HGPJgWwusTMJcyfD5SmZuXPl93hbtFO4meHeuoIMHlzpOcAN35SIVZv44L3ahUJXdJ303jjA5JNhXSfmN7D4BTErZdDGVRyJEvHctXTwVQhuTTKVqrvIXQewEVjBdfauimjr21Gdz9ByRX1jAJcjYSEjyFEuYaKM49qXJTSXhchZvhAebSOIcQDj3RnhiXEH4H36ibq22QQkIP9NKPGd1F1eEW7we5fldDDn5ikHTjjev9gjjqJ0rjTrqtvrtGIZDA7q3DJFf0XPOYVtKtdQwkcXz7mDJcDL3uvHLCWTds1eGwzuFza1fYwBinRKLqW3GGDRqZ6UdccK3p10BKyvShyGVlW9QNZ1e5kyV7",
+      "source_id": "1005004855019116",
+      "titulo": "Dissipador de Calor para Memória RAM DDR5 Bykski B-MRC-X, Cobre Vermelho Completo, Cooler Prateado com Armadura para Desempenho Aprimorado",
+      "de": 264.99,
+      "por": 211.99,
+      "desconto": 20,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S46e338f342a5498e8e8bc821b647aad0t.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k6sMlyjTbcVRQgHhGlbGrMbBSlL1AI7PsS8zhC8efeaWshbC2FR9bfSsba0scLUGg1264c6O7t1kDPVC4Q5KZPy44xzjqsbcGUO7yhzyysDiNmTXryos2v9tecMCbiMmkPdvfCUNUflkIhQaCMeQPDQgjNW67ao9f3cbr6emFKUiFX4HUMGPgKgvVpgEfTvTQmaidTsRsVmvi25m8BPJvdFVAnthrw4xsdJwLQBfrim9tM73HlDTk4YsG1rbgWRnKXz3S9Pp6z2ZbEYgJfrG0z4fyy8bmOR2LyH7EkFjIvHvZTjrmGapqFyJfRdTCEsGHyaAP7HqnzK5VldNBUKn54NjRReJRnQHWIlECVbmlINSPL8YRf2AQAv3IkcCWOPJHGlSx2zJK37QnjIw7gsrtrI1WzzTq1Yjz04aiz3BO92lQRNffSNZA9pseaSspz8szJRpTVAt0q0bwIJ8IHVwg4k1knl9LCR0c8QRRU3CNZs1VteqEWfVoNi69assTFTF9wNazfsp6232SLGZhwYLpLsHw1Sskdz1q9Gla1skAbbCJODhCFASxYbjcUmhVAQFYra5MQ90gJg31MCWRV6Xj0HxTxp70pHxvv6l9bfYxkeHDFSIqubxkIIkxFlW75abRh6fTIp5cX4aAgEjRgQWoZVvWc8LlION1KVm70DbvKeSwY8LRsTMDMq6mAX4Dm9wKhl9QglqZnNcq",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
-      "data": "2026-06-24T20:15:05.118036-03:00",
-      "slug": "placa-mae-machinist-mr9a-h-x99-suporte-para-intel-xeon-e5-v3-v4-lga",
-      "page_url": "https://promoninjaofertas.github.io/produto/placa-mae-machinist-mr9a-h-x99-suporte-para-intel-xeon-e5-v3-v4-lga.html"
+      "data": "2026-06-24T20:25:15.077492-03:00",
+      "slug": "dissipador-de-calor-para-memoria-ram-ddr5-bykski-b-mrc-x-cobre-vermelho-completo",
+      "page_url": "https://promoninjaofertas.github.io/produto/dissipador-de-calor-para-memoria-ram-ddr5-bykski-b-mrc-x-cobre-vermelho-completo.html"
     },
     {
       "source_id": "1005002918413097",
@@ -257,6 +257,21 @@
       "page_url": "https://promoninjaofertas.github.io/produto/samsung-laptop-ram-ddr4-4gb-8gb-16gb-3200mhz-2666mhz-2400mhz-2133mhz-sodimm-pc4-3200aa.html"
     },
     {
+      "source_id": "1005009584131694",
+      "titulo": "Placa-mãe MACHINIST MR9A-H X99 Suporte para Intel Xeon E5 V3 V4 LGA 2011-3 CPU e DDR4 RAM NVME M.2 USB3.0 de canal duplo",
+      "de": 698.04,
+      "por": 369.94,
+      "desconto": 47,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf86cc8b7948b4924ab2e422fd62fa662n.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k9hrkFwWoPoe3dx2yf0KB39wOjo26f3bATUbRK2tQmKPFeCcKTRp4wsUygS5LXvyIQkLoV4MmhAfzsbtlr6BS0ROfrG66OZNeTGlSMQIHhJYqLaENhCyf3pQYOgKzNQYsnYfEVZWKtquZbMtLvxVZIftR4KvK1U1XW8LjX0xdtMIaT6EwUo1j26tdkLxemR7NgGA3D8Oo2uMtYu05uwEDofIvU6dGN08uyWmKz9pwdfS9oGo2RbFHbWHciszZPgbZWWylxbtlpt50BmQhWQGVIfF8nrl3DdBzTQ2Z7VRafZor42PW4wHbladTqXBoLQwTt3G8bCnyt7ohdujR8Zy3uWcvK0arAwuiSsBGb3HGPJgWwusTMJcyfD5SmZuXPl93hbtFO4meHeuoIMHlzpOcAN35SIVZv44L3ahUJXdJ303jjA5JNhXSfmN7D4BTErZdDGVRyJEvHctXTwVQhuTTKVqrvIXQewEVjBdfauimjr21Gdz9ByRX1jAJcjYSEjyFEuYaKM49qXJTSXhchZvhAebSOIcQDj3RnhiXEH4H36ibq22QQkIP9NKPGd1F1eEW7we5fldDDn5ikHTjjev9gjjqJ0rjTrqtvrtGIZDA7q3DJFf0XPOYVtKtdQwkcXz7mDJcDL3uvHLCWTds1eGwzuFza1fYwBinRKLqW3GGDRqZ6UdccK3p10BKyvShyGVlW9QNZ1e5kyV7",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Hardware",
+      "data": "2026-06-24T20:15:05.118036-03:00",
+      "slug": "placa-mae-machinist-mr9a-h-x99-suporte-para-intel-xeon-e5-v3-v4-lga",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-mae-machinist-mr9a-h-x99-suporte-para-intel-xeon-e5-v3-v4-lga.html"
+    },
+    {
       "source_id": "4001072067946",
       "titulo": "IMRAM-Unidade Interna de Estado Sólido para Laptop e Desktop, Disco Rígido SSD, SATA3, Hdd, 32GB, 64GB, 120GB, 240GB, 480GB, 512GB",
       "de": 102.94,
@@ -272,34 +287,19 @@
       "page_url": "https://promoninjaofertas.github.io/produto/imram-unidade-interna-de-estado-solido-para-laptop-e-desktop-disco-rigido-ssd-sata3.html"
     },
     {
-      "source_id": "4001072133790",
-      "titulo": "Disco rígido interno de estado sólido para servidor portátil, mini SSD SATA, iMRAM mSATA, 32GB, 64GB, 120GB, 240GB, 128GB, 256GB, 480GB, 512GB",
-      "de": 114.58,
-      "por": 84.79,
-      "desconto": 25,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sbca0853d753349f3b07348c884c6e5eeN.jpg",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVFiyMmn1MUHDLokf8IonzIfGI9kiiVdn11leRNERIJTlqhH3h8xA40A0FC6C9rPDqNnwhavDbqFVTaqdvkZtIUVhhmZL0jJg3Dm0W4BD4LbK680jrsX8hhNGqQ7ORJT3yHudfbBSl6kkyvPgW1D6xQLulrOjHxUkEmrNwgP5mfulu7LT9opSdl5Iip7z9UEJtJUUSLsDlGCMhx1qYQXrnDzTpW06C3ejHZy87qOga4GRXFQlljHrSDr2afcUAGfpP4L1ysRGSY8bFQSLVQypc3ij113Wa9H5V063jNo6BN368JZT82YWXbDzyfJBuAjAdsgv1FQ7QPfxIQBBqKxXIDOZcghidJdJ8Ww85LrnXM3KY5Nkapx6kWwFRDA6qEyngqaGsIf4UFafg6fZRKr41E9fHZEsB8ZIbN0PXc2XOLt6rXr8ZBbpluxE7SUca5j1BKbZ17n45G19ixGXUSkAMkNZEXLGj6ba8r2SrngNPcMdsmF8JPYfSrOeGtOfEeFo6KcLI500Z7hwms29FI3IXi2U4rFOiHorhEft6DxXoc0RAJNaM12ud8ehlbgOr4SKQCzA2KDifLTjyLSg18Xmj8qloXriEaXdd5ctLdPC2UiW0qhLrqyx4MqAyrtBJa998i8l5OZYSS48hLW5dKIPFbZxEuqCwBQzAuvsU1ZaYSwzJ4KzXdGISaz0cFpw1vP4kmcjHOYwNjXQe7h",
+      "source_id": "1005006990334284",
+      "titulo": "Hagibis cabo curto usb c 40gbps cabo usb4 pd 240w carregamento rápido para ssd iphone 16 power bank usb dac & amp amplificador de fone de ouvido",
+      "de": 72.65,
+      "por": 43.59,
+      "desconto": 40,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa90b812daf3c4325ae3a52d56d83b8e5T.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EwgreXsrNp2HER5F0j87D7Cc2GTQ1kBJ3aPkAgKMjnAceyOeFVR5xn0K0TNXSo8TT6LnoWq0V9q2oRxQzKKtwfzwqfjpmqgxTIxnuFWL52iwVO3z0eZ8pe2yHvPJqmMnAnGslLjiwLps0MaUNDYeYAQlONh5D0TWLPKzdP3Lv1Kuk7RK0up5KtIpzsDaz2vBBGyB7U2ENJIzsmYbGaj97pKGuHvpjIbqFMwyqrD1fDi9IYjXfLnGQXF1IuUt6yrMaCZSgMkRfhRnvWdpKxFq6GqoV8BH6BpjlCkhCbZk9D15TJIDXOLQSonppJswrqMO7FAIykhRCnbliHNhL41c5FVLdq6TrDPq8DWQehiLzyMmnFKa1WKbRje7QXBVRgrunDhpbc1oDzU3ufvhDmQYYhKSR1iBmQREnaYWWnPUboM12EZkaviCngMzAad652lpr9VBbt9QYqrIJMtgavK39cFcrM5M2MnMRF3npbiJLiKmE4TAmQXwFomtXJW0GBmFKFbpmg2UdHmIOPVG1e3R32QH70te5WSmoO5oPg9ZDQPEp1hh4AjFL131BYNkNBY0bIKHSyBv7XO2X9B7ivRvtT7pTJY7MnyFuDJQosSyeY3lbblTuW2xYxY5jR5h79rHoGCfhfZHDeewqeTReO2ODUKS9bcrWNNas9TaQu0ZjqEsHz6K0ypXjHXK5CxAkH4HpgYemzAnf3U9i",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
       "data": "2026-06-24T20:04:47.491831-03:00",
-      "slug": "disco-rigido-interno-de-estado-solido-para-servidor-portatil-mini-ssd-sata-imram-msata",
-      "page_url": "https://promoninjaofertas.github.io/produto/disco-rigido-interno-de-estado-solido-para-servidor-portatil-mini-ssd-sata-imram-msata.html"
-    },
-    {
-      "source_id": "1005010327881800",
-      "titulo": "Estação de disco rígido 7 em 1, usb3.0, 5gbps, sata, hdd, docking station para 2.5/3.5 \", hdd/ssd offline, gabinete clone, cartão tf/sd",
-      "de": 168.35,
-      "por": 92.59,
-      "desconto": 45,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sd246e9ce08574169b55509aa74852bee4.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k8CSgzBDzmKyGQWJ0U4J5qXINADLeRNC5z8dkrAxStUssSLMoPvRElVED7UWOG0hQtp6kaafTYN4Upg2NTzMGqKnX6NtTErhtvg13Lbpmtmy633t9WMZ2bOvxI0reV2OIqaMWhpqVggvctC0aocL6XLPoZoVNbUuxcg5UxPA8fZ7gBEOmaZizkniesqQm4kz2KMQW79wu3NYPC7lwCDV3pYe2He6KJHy88esgnMcqlkOqkWSlHlHuu73nbV1XXxG5sSjBy4OItPYefzhdSrIifdLEXiBZCWwSK6lPfdjM4602NfaK4zmbIvLAwXGTt98wQTHQ0aThwSa1Nd1ZZWtJzkMmUP3bfsoGgnD5gULebWRjROkYM9OoaidickdKzN0RGRFptIe9X3I8qv8QpXUedXd7Vzq6lyUH8zHZlAYkNEQs59xmirebAkg7fIwiZzhIPNN5kizXFMs13pCt752MEEdgPpR7W9d4UVuFJstYcoijhOx3Jhry4rJVKDRUGDS8K0qTk884VIUEEGd1ZxEaUYo2uy7IzEbrW8YWybdwqUpjoVJZWwc1D8MXoYFCbsG61XxZFi58nXqP55oRcbTnx3WuwONWLVeRFvziboVC6hvfBJBt0KlS9G2OfPsHisdMOw55dzxsR3cOkZTkDImHv2iA1cil5c375FgiUEZrPk85KYe43JPldrOD06X1e4YOQewYVo2EW6va",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-06-24T20:04:47.491831-03:00",
-      "slug": "estacao-de-disco-rigido-7-em-1-usb3-0-5gbps-sata-hdd-docking-station",
-      "page_url": "https://promoninjaofertas.github.io/produto/estacao-de-disco-rigido-7-em-1-usb3-0-5gbps-sata-hdd-docking-station.html"
+      "slug": "hagibis-cabo-curto-usb-c-40gbps-cabo-usb4-pd-240w-carregamento-rapido-para-ssd",
+      "page_url": "https://promoninjaofertas.github.io/produto/hagibis-cabo-curto-usb-c-40gbps-cabo-usb4-pd-240w-carregamento-rapido-para-ssd.html"
     },
     {
       "source_id": "1005008681681429",
@@ -347,34 +347,49 @@
       "page_url": "https://promoninjaofertas.github.io/produto/godo-usb-3-0-e-type-c-hdd-dock-para-unidades-sata-de-2.html"
     },
     {
-      "source_id": "1005006990334284",
-      "titulo": "Hagibis cabo curto usb c 40gbps cabo usb4 pd 240w carregamento rápido para ssd iphone 16 power bank usb dac & amp amplificador de fone de ouvido",
-      "de": 72.65,
-      "por": 43.59,
-      "desconto": 40,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa90b812daf3c4325ae3a52d56d83b8e5T.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EwgreXsrNp2HER5F0j87D7Cc2GTQ1kBJ3aPkAgKMjnAceyOeFVR5xn0K0TNXSo8TT6LnoWq0V9q2oRxQzKKtwfzwqfjpmqgxTIxnuFWL52iwVO3z0eZ8pe2yHvPJqmMnAnGslLjiwLps0MaUNDYeYAQlONh5D0TWLPKzdP3Lv1Kuk7RK0up5KtIpzsDaz2vBBGyB7U2ENJIzsmYbGaj97pKGuHvpjIbqFMwyqrD1fDi9IYjXfLnGQXF1IuUt6yrMaCZSgMkRfhRnvWdpKxFq6GqoV8BH6BpjlCkhCbZk9D15TJIDXOLQSonppJswrqMO7FAIykhRCnbliHNhL41c5FVLdq6TrDPq8DWQehiLzyMmnFKa1WKbRje7QXBVRgrunDhpbc1oDzU3ufvhDmQYYhKSR1iBmQREnaYWWnPUboM12EZkaviCngMzAad652lpr9VBbt9QYqrIJMtgavK39cFcrM5M2MnMRF3npbiJLiKmE4TAmQXwFomtXJW0GBmFKFbpmg2UdHmIOPVG1e3R32QH70te5WSmoO5oPg9ZDQPEp1hh4AjFL131BYNkNBY0bIKHSyBv7XO2X9B7ivRvtT7pTJY7MnyFuDJQosSyeY3lbblTuW2xYxY5jR5h79rHoGCfhfZHDeewqeTReO2ODUKS9bcrWNNas9TaQu0ZjqEsHz6K0ypXjHXK5CxAkH4HpgYemzAnf3U9i",
+      "source_id": "4001072133790",
+      "titulo": "Disco rígido interno de estado sólido para servidor portátil, mini SSD SATA, iMRAM mSATA, 32GB, 64GB, 120GB, 240GB, 128GB, 256GB, 480GB, 512GB",
+      "de": 114.58,
+      "por": 84.79,
+      "desconto": 25,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sbca0853d753349f3b07348c884c6e5eeN.jpg",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVFiyMmn1MUHDLokf8IonzIfGI9kiiVdn11leRNERIJTlqhH3h8xA40A0FC6C9rPDqNnwhavDbqFVTaqdvkZtIUVhhmZL0jJg3Dm0W4BD4LbK680jrsX8hhNGqQ7ORJT3yHudfbBSl6kkyvPgW1D6xQLulrOjHxUkEmrNwgP5mfulu7LT9opSdl5Iip7z9UEJtJUUSLsDlGCMhx1qYQXrnDzTpW06C3ejHZy87qOga4GRXFQlljHrSDr2afcUAGfpP4L1ysRGSY8bFQSLVQypc3ij113Wa9H5V063jNo6BN368JZT82YWXbDzyfJBuAjAdsgv1FQ7QPfxIQBBqKxXIDOZcghidJdJ8Ww85LrnXM3KY5Nkapx6kWwFRDA6qEyngqaGsIf4UFafg6fZRKr41E9fHZEsB8ZIbN0PXc2XOLt6rXr8ZBbpluxE7SUca5j1BKbZ17n45G19ixGXUSkAMkNZEXLGj6ba8r2SrngNPcMdsmF8JPYfSrOeGtOfEeFo6KcLI500Z7hwms29FI3IXi2U4rFOiHorhEft6DxXoc0RAJNaM12ud8ehlbgOr4SKQCzA2KDifLTjyLSg18Xmj8qloXriEaXdd5ctLdPC2UiW0qhLrqyx4MqAyrtBJa998i8l5OZYSS48hLW5dKIPFbZxEuqCwBQzAuvsU1ZaYSwzJ4KzXdGISaz0cFpw1vP4kmcjHOYwNjXQe7h",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
       "data": "2026-06-24T20:04:47.491831-03:00",
-      "slug": "hagibis-cabo-curto-usb-c-40gbps-cabo-usb4-pd-240w-carregamento-rapido-para-ssd",
-      "page_url": "https://promoninjaofertas.github.io/produto/hagibis-cabo-curto-usb-c-40gbps-cabo-usb4-pd-240w-carregamento-rapido-para-ssd.html"
+      "slug": "disco-rigido-interno-de-estado-solido-para-servidor-portatil-mini-ssd-sata-imram-msata",
+      "page_url": "https://promoninjaofertas.github.io/produto/disco-rigido-interno-de-estado-solido-para-servidor-portatil-mini-ssd-sata-imram-msata.html"
     },
     {
-      "source_id": "1005007861373640",
-      "titulo": "Alientek t80 t80p ferro de solda inteligente pd 65w qc temperatura constante ajustável portátil kit de ferro de solda inteligente ferramentas c245",
-      "de": 299.98,
-      "por": 197.99,
-      "desconto": 33,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sdc5a76b0d97c4855a4940525453d3659x.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EIT9oCSCWqNgvDUUkdXOv8VE8DV3Pckq9zdQJruCP6x2iSgF5x8NK5BcM3LCgQPCvnVA31hoFlXT92RuY6d97ttMmUIYDi8s5yYv4U8hY3d34RfyUmll2O6Ucv1tziVSQPqV0mVM9puS5G4Sm4dD24PM5TKGpu8J667E6a5bYuWT4ox2sncXxlK5oQV4wn1K4AmoioDGKzP1ictNotVayjakgLZRxtrhXu3c5NXl1tCufnFhUqYgfxHnn8gtqLh2wDsTOMvLglT1OMf7SJnleE7NQ89lnlU5BrBifLLEF99QsSqfJIbezCDZ369xCgW9dwb9GfemaGUc1LeNKXe3sXLjziATaBLDxA1W9JtIGhRIaBF6kkmMszfPKzKTobHWCrNedbmx3pTXDPqt8YJCsP94rrz5sfrrogzFXfg7dILgWsCc76iM4tQAGJaJH8Vas4RRmDA7f20Q1znvhr8xel8srF0Awk3powqdHnCo8BTIotpkp95xy290HZFmYSbcQ7SoM9OPvceFZZmcFc80PVtxIODlEGK618J2fsh4Z2v9hW8pprOpRDDHF4eYEK5H1uHQOTnBN5jFT8HO5ZOI53RBJ4AAo1mfJwvDaLvxzWdeUSVBDjpQoy3faR7IlNs1n7LV1stuCHYoOH9O23AU5FSMA2dp2qhnqm1wnKxRlP2ilZ0eiTs3ObK1eZbFcHO1xowcupL0MQ6xF",
+      "source_id": "1005010327881800",
+      "titulo": "Estação de disco rígido 7 em 1, usb3.0, 5gbps, sata, hdd, docking station para 2.5/3.5 \", hdd/ssd offline, gabinete clone, cartão tf/sd",
+      "de": 168.35,
+      "por": 92.59,
+      "desconto": 45,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sd246e9ce08574169b55509aa74852bee4.jpeg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k8CSgzBDzmKyGQWJ0U4J5qXINADLeRNC5z8dkrAxStUssSLMoPvRElVED7UWOG0hQtp6kaafTYN4Upg2NTzMGqKnX6NtTErhtvg13Lbpmtmy633t9WMZ2bOvxI0reV2OIqaMWhpqVggvctC0aocL6XLPoZoVNbUuxcg5UxPA8fZ7gBEOmaZizkniesqQm4kz2KMQW79wu3NYPC7lwCDV3pYe2He6KJHy88esgnMcqlkOqkWSlHlHuu73nbV1XXxG5sSjBy4OItPYefzhdSrIifdLEXiBZCWwSK6lPfdjM4602NfaK4zmbIvLAwXGTt98wQTHQ0aThwSa1Nd1ZZWtJzkMmUP3bfsoGgnD5gULebWRjROkYM9OoaidickdKzN0RGRFptIe9X3I8qv8QpXUedXd7Vzq6lyUH8zHZlAYkNEQs59xmirebAkg7fIwiZzhIPNN5kizXFMs13pCt752MEEdgPpR7W9d4UVuFJstYcoijhOx3Jhry4rJVKDRUGDS8K0qTk884VIUEEGd1ZxEaUYo2uy7IzEbrW8YWybdwqUpjoVJZWwc1D8MXoYFCbsG61XxZFi58nXqP55oRcbTnx3WuwONWLVeRFvziboVC6hvfBJBt0KlS9G2OfPsHisdMOw55dzxsR3cOkZTkDImHv2iA1cil5c375FgiUEZrPk85KYe43JPldrOD06X1e4YOQewYVo2EW6va",
       "cupom": null,
       "loja": "aliexpress",
-      "categoria": "Ferramentas",
+      "categoria": "Hardware",
+      "data": "2026-06-24T20:04:47.491831-03:00",
+      "slug": "estacao-de-disco-rigido-7-em-1-usb3-0-5gbps-sata-hdd-docking-station",
+      "page_url": "https://promoninjaofertas.github.io/produto/estacao-de-disco-rigido-7-em-1-usb3-0-5gbps-sata-hdd-docking-station.html"
+    },
+    {
+      "source_id": "1005010057573337",
+      "titulo": "6 pçs/kit CANNI TPO GRÁTIS HEMA GRÁTIS Halloween Unhas Cor Conjunto Vermelho Escuro Semi Permanente Soak off UV LED Gel Verniz Presente de Natal",
+      "de": 96.9,
+      "por": 50.39,
+      "desconto": 47,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sbe8fe5c2bb074ea8a9ed4ed7522647c80.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4o406d1Gg0qvP6XEHgqkuIMYIN0WidobVTDg98SNKiEe5rry5iRMJHz4c5JiwlGAfHWbqzG66ow8QNjf9lgASQalWHACUl39XjSFARajQQpJL3wOfv51lB7ULPmUWz96Jio0WZTVXw40tkIXjuSoDQbYVU6tBqViR4AMuOTNCQsOLO19Gf8NVGIZwCBfLuhCyozTvIwTxhbYF6WK4kzIOGDS95EBv0mHIwPmR1I1bL8nWqvDb80LWIqc2ecBtYgCYj3VcygWU2mLbMyp7goUVHWf5PBCvBulihOHNzXV1kpPrzFdWhPGBxdrgquunHgUHTi47dEQt5X93JE2kVazhOuZ4zhfvbvPsM5OeQlAarKJ82d6uVUXEMprwIZal5J2vOsrwxgnFohG6JVHlr2oAVlzrajjdaQgilRDwrrO9qXgyPml9Dh9oUfWzGJqefb9ZYzHobddwxGg34H2CQbJeT7j8CYFyS9I1pbPYYaXoZgz2JtSaj8s0xCt27YpSN3YbBXTxyW14R74wPujpr2WS4ajzZ0ISYJyVAIYW1BsRNHyNVQbgniX5ZC7xhc3vAbCsDKYx76VZjaWtg3QZn4UWfgM2XXqzLoyoNmXBNLol30MYYW9YBuDFkthibSBxevGftZSjO3Z1WVSQPPKprdDZUJ8cW3coyKCUAXVA3vDOfsib0zts7qdbdEgYmKoaggTiJXmWzA9J9LCyK",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Beleza",
       "data": "2026-06-24T19:44:30.786482-03:00",
-      "slug": "alientek-t80-t80p-ferro-de-solda-inteligente-pd-65w-qc-temperatura-constante-ajustavel",
-      "page_url": "https://promoninjaofertas.github.io/produto/alientek-t80-t80p-ferro-de-solda-inteligente-pd-65w-qc-temperatura-constante-ajustavel.html"
+      "slug": "6-pcs-kit-canni-tpo-gratis-hema-gratis-halloween-unhas-cor-conjunto-vermelho-escuro",
+      "page_url": "https://promoninjaofertas.github.io/produto/6-pcs-kit-canni-tpo-gratis-hema-gratis-halloween-unhas-cor-conjunto-vermelho-escuro.html"
     },
     {
       "source_id": "1005008405415959",
@@ -407,19 +422,19 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-de-lamina-de-serra-oscilante-de-carboneto-de-dente-japones-10-39-pecas.html"
     },
     {
-      "source_id": "1005010057573337",
-      "titulo": "6 pçs/kit CANNI TPO GRÁTIS HEMA GRÁTIS Halloween Unhas Cor Conjunto Vermelho Escuro Semi Permanente Soak off UV LED Gel Verniz Presente de Natal",
-      "de": 96.9,
-      "por": 50.39,
-      "desconto": 47,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sbe8fe5c2bb074ea8a9ed4ed7522647c80.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4o406d1Gg0qvP6XEHgqkuIMYIN0WidobVTDg98SNKiEe5rry5iRMJHz4c5JiwlGAfHWbqzG66ow8QNjf9lgASQalWHACUl39XjSFARajQQpJL3wOfv51lB7ULPmUWz96Jio0WZTVXw40tkIXjuSoDQbYVU6tBqViR4AMuOTNCQsOLO19Gf8NVGIZwCBfLuhCyozTvIwTxhbYF6WK4kzIOGDS95EBv0mHIwPmR1I1bL8nWqvDb80LWIqc2ecBtYgCYj3VcygWU2mLbMyp7goUVHWf5PBCvBulihOHNzXV1kpPrzFdWhPGBxdrgquunHgUHTi47dEQt5X93JE2kVazhOuZ4zhfvbvPsM5OeQlAarKJ82d6uVUXEMprwIZal5J2vOsrwxgnFohG6JVHlr2oAVlzrajjdaQgilRDwrrO9qXgyPml9Dh9oUfWzGJqefb9ZYzHobddwxGg34H2CQbJeT7j8CYFyS9I1pbPYYaXoZgz2JtSaj8s0xCt27YpSN3YbBXTxyW14R74wPujpr2WS4ajzZ0ISYJyVAIYW1BsRNHyNVQbgniX5ZC7xhc3vAbCsDKYx76VZjaWtg3QZn4UWfgM2XXqzLoyoNmXBNLol30MYYW9YBuDFkthibSBxevGftZSjO3Z1WVSQPPKprdDZUJ8cW3coyKCUAXVA3vDOfsib0zts7qdbdEgYmKoaggTiJXmWzA9J9LCyK",
+      "source_id": "1005007861373640",
+      "titulo": "Alientek t80 t80p ferro de solda inteligente pd 65w qc temperatura constante ajustável portátil kit de ferro de solda inteligente ferramentas c245",
+      "de": 299.98,
+      "por": 197.99,
+      "desconto": 33,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sdc5a76b0d97c4855a4940525453d3659x.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EIT9oCSCWqNgvDUUkdXOv8VE8DV3Pckq9zdQJruCP6x2iSgF5x8NK5BcM3LCgQPCvnVA31hoFlXT92RuY6d97ttMmUIYDi8s5yYv4U8hY3d34RfyUmll2O6Ucv1tziVSQPqV0mVM9puS5G4Sm4dD24PM5TKGpu8J667E6a5bYuWT4ox2sncXxlK5oQV4wn1K4AmoioDGKzP1ictNotVayjakgLZRxtrhXu3c5NXl1tCufnFhUqYgfxHnn8gtqLh2wDsTOMvLglT1OMf7SJnleE7NQ89lnlU5BrBifLLEF99QsSqfJIbezCDZ369xCgW9dwb9GfemaGUc1LeNKXe3sXLjziATaBLDxA1W9JtIGhRIaBF6kkmMszfPKzKTobHWCrNedbmx3pTXDPqt8YJCsP94rrz5sfrrogzFXfg7dILgWsCc76iM4tQAGJaJH8Vas4RRmDA7f20Q1znvhr8xel8srF0Awk3powqdHnCo8BTIotpkp95xy290HZFmYSbcQ7SoM9OPvceFZZmcFc80PVtxIODlEGK618J2fsh4Z2v9hW8pprOpRDDHF4eYEK5H1uHQOTnBN5jFT8HO5ZOI53RBJ4AAo1mfJwvDaLvxzWdeUSVBDjpQoy3faR7IlNs1n7LV1stuCHYoOH9O23AU5FSMA2dp2qhnqm1wnKxRlP2ilZ0eiTs3ObK1eZbFcHO1xowcupL0MQ6xF",
       "cupom": null,
       "loja": "aliexpress",
-      "categoria": "Beleza",
+      "categoria": "Ferramentas",
       "data": "2026-06-24T19:44:30.786482-03:00",
-      "slug": "6-pcs-kit-canni-tpo-gratis-hema-gratis-halloween-unhas-cor-conjunto-vermelho-escuro",
-      "page_url": "https://promoninjaofertas.github.io/produto/6-pcs-kit-canni-tpo-gratis-hema-gratis-halloween-unhas-cor-conjunto-vermelho-escuro.html"
+      "slug": "alientek-t80-t80p-ferro-de-solda-inteligente-pd-65w-qc-temperatura-constante-ajustavel",
+      "page_url": "https://promoninjaofertas.github.io/produto/alientek-t80-t80p-ferro-de-solda-inteligente-pd-65w-qc-temperatura-constante-ajustavel.html"
     },
     {
       "source_id": "1005008405990173",
@@ -737,21 +752,6 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-casuais-respiraveis-masculinos-de-luxo-treinador-moda-mocassins-tenis-de-corrida.html"
     },
     {
-      "source_id": "1005010615263726",
-      "titulo": "Foshio escova de cabelo de cerdas profissional, 12 '', ferramenta de filme de embrulho, lavagem de carro, tingimento de janela, papel de parede, decalque, colagem portátil mais suave",
-      "de": 270.98,
-      "por": 162.59,
-      "desconto": 39,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se2d3f0bced9e4ccfa9cfff12dbfbbd523.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FmOcsTb3E3wa0N5kr2BaosI6p0rJCLwSjC7cmAec5hQbLs9Dd1pQt4K8bJqAGLNKtpR13UXdrMJZdGYU9br1AWTvdOGr9P3aahOeO8j0jV75V1OIhWkF6Mf7Y8S2SzXOQ1SCguMv4GynwbpMZnMqPzBZRzCyvPiTHzzvDX6PNQjg3z9rYnMs2DxWpCcg8dOVtK46lfpquVoUsimMWnzlNGNGbEZC3SKduNiJXTXZRbmKKWyMaWesnr1xCDGC0fhaC7OboOu1Rn8kyVTegdNkT7QxFi2YBN49i8PZd2N8jCVA7JAAiALj4iRYDgBsINhVfORwCfefprzTULcChdf7vM6Vlz6AeWJsrWoLiC3DIZS7PHbK10OlOEHGzGhwulEzquQE9Uc7CxicuxYM6kOPUuxLyqVUojEMPyFBcCQA2lMMxlkxwpw8BEceoRiVH5yftong5zG18tn5n2Hrja3wj6pOzDM5ngSTd3NtAdwN5GkA6MtA28wgiu2PuIvJCHhunFJAuVvbXrYjr6J3eDJdA7eF2Jslsp9NOXQ5xzLcjKcFBfAq603Ua6CEc7lMw0qjnSDNGRgTUdqR9BI1fAji9iOg5xRPji53MFcx4PS2eGTt5eloO1qR1ZcOaohfRgOskunXLS0PLcHUi5xRVUvNmfhXmygVfjl5LT47xpYRH2grokMlhRKJWITbltQNefpUMIV7l41pxD6oE",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Beleza",
-      "data": "2026-06-24T19:14:15.116967-03:00",
-      "slug": "foshio-escova-de-cabelo-de-cerdas-profissional-12-ferramenta-de-filme-de-embrulho-lava",
-      "page_url": "https://promoninjaofertas.github.io/produto/foshio-escova-de-cabelo-de-cerdas-profissional-12-ferramenta-de-filme-de-embrulho-lava.html"
-    },
-    {
       "source_id": "1005010774473268",
       "titulo": "Escova Alisadora Mini Recarregável com Aquecimento Rápido em 30s, Design Compacto para Alisar e Dar Volume",
       "de": 37.99,
@@ -765,6 +765,21 @@
       "data": "2026-06-24T19:14:15.116967-03:00",
       "slug": "escova-alisadora-mini-recarregavel-com-aquecimento-rapido-em-30s-design-compacto-para",
       "page_url": "https://promoninjaofertas.github.io/produto/escova-alisadora-mini-recarregavel-com-aquecimento-rapido-em-30s-design-compacto-para.html"
+    },
+    {
+      "source_id": "1005005610658731",
+      "titulo": "Mulheres secador de cabelo escova alisador modelador massageador 4 em 1 aquecimento rápido um passo volumizador escovas de cabelo de ar quente",
+      "de": 57.78,
+      "por": 28.89,
+      "desconto": 50,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf6b92f0fb2104ebd95a6342fc8ad0ae5X.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kyLw7WkIjqHmzOzGz9JXoPqOo71x4EOAc0Ft13v5Au92zjZM45ULaXLJNNfnfeWIJJ6ynLjdygmm0D6NKx9B6Ex9KMbzlnmcih6RNQ1bGsqpIZRjpChtRTatRxG6iewLecq3SRyDsf891MDzLQRYDbDs9warDdhPRYdm2sgT9I5oFiAW6FKMusGOM6h4CmrtmKl68t4v2cX4XrNT9gBcNY3c8TfW34Vh09nCZgbq3x8ysNmWL26DbMZDeo8QFGX0hiBonVtXKzoHJm2fKMr1gZP6yLVmnnZ4QGhICVt15piI7EHrC4qc7V8wfy38T4TZyYJesBoGft2iR1gl1gEgIuYDQJX90270NSxKS9XEZMgVzB04uPNmC5ijBP8VsfIDDcW1sbrY7wr6siHCiokoKca2NcbwXl1F3jdKc5PUW5Y5Goqae8M1JhjpCG5eKrlRo4CY8RWkxqfM0S1OqvgTrD7ghms8yuaEBDIUgb1VgxdTRCIf7wwh29ufehJXFums00mdbFeVRFWNqbPHo5dbcGilhygH2Nm1IlaMS4FDOCcardJ1el9VxzAung3s9ypAF90CGtQ2Oa2dY86jK5sf1sXmNRZ0Z2HTyCjgdLVbB3bjol7oNgUoOJaQyU9nKgSd5boBSZbfJFZXjoynDZ5JAAJM6W4393lMHvZ02aPBxO9Xu9BE5WzG5cfkSsHgvYc7U6aGRGgbif5Ji",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Beleza",
+      "data": "2026-06-24T19:14:15.116967-03:00",
+      "slug": "mulheres-secador-de-cabelo-escova-alisador-modelador-massageador-4-em-1-aquecimento-ra",
+      "page_url": "https://promoninjaofertas.github.io/produto/mulheres-secador-de-cabelo-escova-alisador-modelador-massageador-4-em-1-aquecimento-ra.html"
     },
     {
       "source_id": "1005002863842339",
@@ -782,19 +797,19 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jcd-750w-micro-pistola-de-ar-quente-8208-portatil-display-lcd-estacao-retrabalho-pisto.html"
     },
     {
-      "source_id": "1005005610658731",
-      "titulo": "Mulheres secador de cabelo escova alisador modelador massageador 4 em 1 aquecimento rápido um passo volumizador escovas de cabelo de ar quente",
-      "de": 57.78,
-      "por": 28.89,
-      "desconto": 50,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf6b92f0fb2104ebd95a6342fc8ad0ae5X.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kyLw7WkIjqHmzOzGz9JXoPqOo71x4EOAc0Ft13v5Au92zjZM45ULaXLJNNfnfeWIJJ6ynLjdygmm0D6NKx9B6Ex9KMbzlnmcih6RNQ1bGsqpIZRjpChtRTatRxG6iewLecq3SRyDsf891MDzLQRYDbDs9warDdhPRYdm2sgT9I5oFiAW6FKMusGOM6h4CmrtmKl68t4v2cX4XrNT9gBcNY3c8TfW34Vh09nCZgbq3x8ysNmWL26DbMZDeo8QFGX0hiBonVtXKzoHJm2fKMr1gZP6yLVmnnZ4QGhICVt15piI7EHrC4qc7V8wfy38T4TZyYJesBoGft2iR1gl1gEgIuYDQJX90270NSxKS9XEZMgVzB04uPNmC5ijBP8VsfIDDcW1sbrY7wr6siHCiokoKca2NcbwXl1F3jdKc5PUW5Y5Goqae8M1JhjpCG5eKrlRo4CY8RWkxqfM0S1OqvgTrD7ghms8yuaEBDIUgb1VgxdTRCIf7wwh29ufehJXFums00mdbFeVRFWNqbPHo5dbcGilhygH2Nm1IlaMS4FDOCcardJ1el9VxzAung3s9ypAF90CGtQ2Oa2dY86jK5sf1sXmNRZ0Z2HTyCjgdLVbB3bjol7oNgUoOJaQyU9nKgSd5boBSZbfJFZXjoynDZ5JAAJM6W4393lMHvZ02aPBxO9Xu9BE5WzG5cfkSsHgvYc7U6aGRGgbif5Ji",
+      "source_id": "1005010615263726",
+      "titulo": "Foshio escova de cabelo de cerdas profissional, 12 '', ferramenta de filme de embrulho, lavagem de carro, tingimento de janela, papel de parede, decalque, colagem portátil mais suave",
+      "de": 270.98,
+      "por": 162.59,
+      "desconto": 39,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se2d3f0bced9e4ccfa9cfff12dbfbbd523.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FmOcsTb3E3wa0N5kr2BaosI6p0rJCLwSjC7cmAec5hQbLs9Dd1pQt4K8bJqAGLNKtpR13UXdrMJZdGYU9br1AWTvdOGr9P3aahOeO8j0jV75V1OIhWkF6Mf7Y8S2SzXOQ1SCguMv4GynwbpMZnMqPzBZRzCyvPiTHzzvDX6PNQjg3z9rYnMs2DxWpCcg8dOVtK46lfpquVoUsimMWnzlNGNGbEZC3SKduNiJXTXZRbmKKWyMaWesnr1xCDGC0fhaC7OboOu1Rn8kyVTegdNkT7QxFi2YBN49i8PZd2N8jCVA7JAAiALj4iRYDgBsINhVfORwCfefprzTULcChdf7vM6Vlz6AeWJsrWoLiC3DIZS7PHbK10OlOEHGzGhwulEzquQE9Uc7CxicuxYM6kOPUuxLyqVUojEMPyFBcCQA2lMMxlkxwpw8BEceoRiVH5yftong5zG18tn5n2Hrja3wj6pOzDM5ngSTd3NtAdwN5GkA6MtA28wgiu2PuIvJCHhunFJAuVvbXrYjr6J3eDJdA7eF2Jslsp9NOXQ5xzLcjKcFBfAq603Ua6CEc7lMw0qjnSDNGRgTUdqR9BI1fAji9iOg5xRPji53MFcx4PS2eGTt5eloO1qR1ZcOaohfRgOskunXLS0PLcHUi5xRVUvNmfhXmygVfjl5LT47xpYRH2grokMlhRKJWITbltQNefpUMIV7l41pxD6oE",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Beleza",
       "data": "2026-06-24T19:14:15.116967-03:00",
-      "slug": "mulheres-secador-de-cabelo-escova-alisador-modelador-massageador-4-em-1-aquecimento-ra",
-      "page_url": "https://promoninjaofertas.github.io/produto/mulheres-secador-de-cabelo-escova-alisador-modelador-massageador-4-em-1-aquecimento-ra.html"
+      "slug": "foshio-escova-de-cabelo-de-cerdas-profissional-12-ferramenta-de-filme-de-embrulho-lava",
+      "page_url": "https://promoninjaofertas.github.io/produto/foshio-escova-de-cabelo-de-cerdas-profissional-12-ferramenta-de-filme-de-embrulho-lava.html"
     },
     {
       "source_id": "1005010295214683",
@@ -947,6 +962,21 @@
       "page_url": "https://promoninjaofertas.github.io/produto/500w-ventilador-de-ar-comprimido-eletrico-espanador-spray-de-ar-enlatado-para-computad.html"
     },
     {
+      "source_id": "1005001344485526",
+      "titulo": "Imilab ec3 lite câmera de proteção segurança em casa 2k hd ao ar livre wi fi ip sirene inteligente cor visão noturna cctv detecção humana webcam",
+      "de": 230.63,
+      "por": 156.27,
+      "desconto": 32,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S1bcc0a7e181343bf8bd4b38ee47af925Y.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4m77KwkP0hgBlOB5nXKDE3aBfGfJrXLwxOvAePkvJJsQRqtU0PnbfC29YmOAlInhPOvUZkN0JGkVL00OjIzrLjwR0cRO5kzcoHmu9WADpwGIKLdC5gFpxcdNVRSHkknYIi9M760UOBGBNusqc82oR4CdAvju5M2jYTQ4vA4hDCFwDfUoiQjjUw2LZg8p99FGHzmbrGTA2GP4eavGWyYUwZXHw3XPBu29HVlHaWGBLaZKCRhDpDsd24SArtI2dXPOSXgyk24MdapZvdc8VL8f8buushkNWaJ9xGEVfBuHO7wuWofTYIVtf0qE6nlp3r43Fi0H6BV0ZN1Oq2KbCtx3KQzwZRstKhkrZdc528VpSIX85rZYmCSFrZ7XYETiKwrJioD2RRF7hjhIqxAbIGs5pTPoBu2rgLrL7ssBoalucJdONdQUxRdAEZwXBYSsfh1DAj53wrb2lAruTCqVlOtCQ4Av0GD6I5QaCurjHVlVWbrI0tjnUyCayh0yxxZOr9AbKhN72TmPMyjbg4znzOSxBhjPg4t0RHdasq1sy7rTLPlxxrgD4GKigC4K5yLcNRNvPcDf40OD2RUK8Df5Ja2C5kcPcm4ELHIZDoLu5qvCV9rL8qyHmDxsusMRSxM2P4bNBGGtfWTUH7tPbwiOtoVZSQeS3CjHngLDRORICGo9tFZEY0iUVFQ74vWNEDoDgsjjY2aPNKRSYnmS98",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Hardware",
+      "data": "2026-06-24T18:43:52.181986-03:00",
+      "slug": "imilab-ec3-lite-camera-de-protecao-seguranca-em-casa-2k-hd-ao-ar-livre",
+      "page_url": "https://promoninjaofertas.github.io/produto/imilab-ec3-lite-camera-de-protecao-seguranca-em-casa-2k-hd-ao-ar-livre.html"
+    },
+    {
       "source_id": "1005002747828816",
       "titulo": "Yi pro 2k wifi câmera doméstica 2/4pcs kit 3mp com visão noturna proteção de segurança ip ai alimentado humano/detecção de som",
       "de": 580.61,
@@ -977,34 +1007,19 @@
       "page_url": "https://promoninjaofertas.github.io/produto/protetor-de-lente-para-dji-mini-5-pro-drone-camera-hd-vidro-temperado-anti.html"
     },
     {
-      "source_id": "1005001344485526",
-      "titulo": "Imilab ec3 lite câmera de proteção segurança em casa 2k hd ao ar livre wi fi ip sirene inteligente cor visão noturna cctv detecção humana webcam",
-      "de": 230.63,
-      "por": 156.27,
-      "desconto": 32,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S1bcc0a7e181343bf8bd4b38ee47af925Y.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4m77KwkP0hgBlOB5nXKDE3aBfGfJrXLwxOvAePkvJJsQRqtU0PnbfC29YmOAlInhPOvUZkN0JGkVL00OjIzrLjwR0cRO5kzcoHmu9WADpwGIKLdC5gFpxcdNVRSHkknYIi9M760UOBGBNusqc82oR4CdAvju5M2jYTQ4vA4hDCFwDfUoiQjjUw2LZg8p99FGHzmbrGTA2GP4eavGWyYUwZXHw3XPBu29HVlHaWGBLaZKCRhDpDsd24SArtI2dXPOSXgyk24MdapZvdc8VL8f8buushkNWaJ9xGEVfBuHO7wuWofTYIVtf0qE6nlp3r43Fi0H6BV0ZN1Oq2KbCtx3KQzwZRstKhkrZdc528VpSIX85rZYmCSFrZ7XYETiKwrJioD2RRF7hjhIqxAbIGs5pTPoBu2rgLrL7ssBoalucJdONdQUxRdAEZwXBYSsfh1DAj53wrb2lAruTCqVlOtCQ4Av0GD6I5QaCurjHVlVWbrI0tjnUyCayh0yxxZOr9AbKhN72TmPMyjbg4znzOSxBhjPg4t0RHdasq1sy7rTLPlxxrgD4GKigC4K5yLcNRNvPcDf40OD2RUK8Df5Ja2C5kcPcm4ELHIZDoLu5qvCV9rL8qyHmDxsusMRSxM2P4bNBGGtfWTUH7tPbwiOtoVZSQeS3CjHngLDRORICGo9tFZEY0iUVFQ74vWNEDoDgsjjY2aPNKRSYnmS98",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-06-24T18:43:52.181986-03:00",
-      "slug": "imilab-ec3-lite-camera-de-protecao-seguranca-em-casa-2k-hd-ao-ar-livre",
-      "page_url": "https://promoninjaofertas.github.io/produto/imilab-ec3-lite-camera-de-protecao-seguranca-em-casa-2k-hd-ao-ar-livre.html"
-    },
-    {
-      "source_id": "1005007944025643",
-      "titulo": "Filtro de Drone K&F CONCEPT para DJI Mini 3 Pro & Mini 3 UV/CPL/ND2-ND32/ND32-ND512, Filtro de Lente de Vidro Óptico com Revestimento Variável",
-      "de": 232.53,
-      "por": 118.59,
-      "desconto": 49,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S8f450c18bb774066b081f1dd10c7aaaf2.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mr1LC9aHjtildUSN1VrykHLNkHPyipC5xXiaEqCYGc7xldlnqXbEWxMpHvsvsIUziyP3NnyqMRSM3Sno5AUtNsQI2FSqJE7pepRo7sZQlE0ExxiyGhY0fdyMXVwHXDxUHsfXOAP2U85pHEyNWZDLkyFaEmtBS0GvRwq1xOELfxbKyv23k6M0lgYWcoByB8ll7zNKfv1mB9ZFxuhAi4rV6C82rVFe2Xas8FWzk3lFfUu0fA4RHWmphnHvD0x65t4Ncp4vkwK7ycx3WjyhukqBn7V1wVFI4jCRr05E1dEqgMjY9FYzkRPYPDjyMsNlX0QQAfig3r2vwN8F5E06ap7ziE7GVpwBe45oueJf61WCo5qvjwxDssPU2vdrbFIrxwxrCoqqK6GLhy3DJEVs6Opk1kFTSBHeg26q1QgyQo2M8m8glvIc6GYazD9tcYmz9kMOmcCUnJUhIBMfLorVlvqBYRpiNH2Czv7MFmFUrHyMfTxWmHyhZroFteUuihPq6JzMPTiMA4G2VfNwmsOLd8ExIaOG2RrNGvZFNmXRg1py7OyKbhn6dqu9OyHWSmYlEbCAAJJZBMzW847KXqrUKEx8uosBXCAZxo2pvZ2wi4qIg1QcpEYeHdGtlXtXuVHx0CJNeqLtkeGzGc3feCNPoMtW3vdhI267TGU42syzvXmPYyuwmxNXn314yB3JRdWC9Ck8wRBJ4HP9o0ll0",
+      "source_id": "1005007176883817",
+      "titulo": "Rstoq para dji mini 4k drone lentes conjunto de filtro uv/cpl/4ndpl/8ndpl/16npl/32 nd pl filtro de lente da câmera para dji mini 4k acessórios",
+      "de": 58.13,
+      "por": 40.69,
+      "desconto": 30,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7a63a4c480d644a29bb69c9d212b483eo.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4odfUtcJcCag0rTCvhhTIhyYFdsQVoBMxnJno97ZXyRbWv0TkqTtcgvHMVDmaZUVyAvsc3WoGOlD6hwzpP4MF8FlYSGW2mg6189pUgQwir1WOqjQZlsyEWMpKFTqmRtwmMAagSkbA77MOnEkwTV14nltsmImzVmhZVbRgblm5aqMkvAny0axPrRKlk3JrgC948zjdzJEkcA18yWb4hq4VSCgyLVa2um6Qe3PDH1rcLWAJIdiweUe9cEqEc2B0u9gMzl6ImhaJedgMds3crXqXA5mYMYvJ03nUZx8PyX1ErV8FVwGRaq8NnHVhXWDVd2u0t19y0EYMtISY5jj8RTiWfu40WRBJ8sDH7D76a4LRE2M3fZ4xAGeMcbTpQvndtTmQAD1zelD01YysEMTPYRQ5EAyjaGt5ZMI9l2wja4r9t0rN0I41HChB4e0EqOluyTCeppP47DfY4y5lQq3Dq8de5XGDwBnj10ddL1GNA7bYOi6VNWH2js263oi1Klw9XjlFRuxKfVxPlATcxhju4uDTZLtwLoednGw2rjCr64ThHOB0LIMZhQinFKvxYAgEk1hJlY9PdavaPaNjptgv6hwczcWNigY79CQmFrYdRL1bG3LtvJnUjJXyN5f2u5lI8pdvAEC8WILklurQofBzzdA9EyJD47iDoploOLPasn0JemxsIBvHk99bQDttDBJqmBwX4clbs9L9brPau",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "TV e Eletronicos",
       "data": "2026-06-24T18:33:45.095158-03:00",
-      "slug": "filtro-de-drone-k-f-concept-para-dji-mini-3-pro-mini-3-uv",
-      "page_url": "https://promoninjaofertas.github.io/produto/filtro-de-drone-k-f-concept-para-dji-mini-3-pro-mini-3-uv.html"
+      "slug": "rstoq-para-dji-mini-4k-drone-lentes-conjunto-de-filtro-uv-cpl-4ndpl-8ndpl",
+      "page_url": "https://promoninjaofertas.github.io/produto/rstoq-para-dji-mini-4k-drone-lentes-conjunto-de-filtro-uv-cpl-4ndpl-8ndpl.html"
     },
     {
       "source_id": "1005008742203667",
@@ -1020,21 +1035,6 @@
       "data": "2026-06-24T18:33:45.095158-03:00",
       "slug": "freewell-nd-filtros-kit-4-pacote-nd8-nd16-nd32-nd64-filtro-drone-para-dji",
       "page_url": "https://promoninjaofertas.github.io/produto/freewell-nd-filtros-kit-4-pacote-nd8-nd16-nd32-nd64-filtro-drone-para-dji.html"
-    },
-    {
-      "source_id": "1005007176883817",
-      "titulo": "Rstoq para dji mini 4k drone lentes conjunto de filtro uv/cpl/4ndpl/8ndpl/16npl/32 nd pl filtro de lente da câmera para dji mini 4k acessórios",
-      "de": 58.13,
-      "por": 40.69,
-      "desconto": 30,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7a63a4c480d644a29bb69c9d212b483eo.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4odfUtcJcCag0rTCvhhTIhyYFdsQVoBMxnJno97ZXyRbWv0TkqTtcgvHMVDmaZUVyAvsc3WoGOlD6hwzpP4MF8FlYSGW2mg6189pUgQwir1WOqjQZlsyEWMpKFTqmRtwmMAagSkbA77MOnEkwTV14nltsmImzVmhZVbRgblm5aqMkvAny0axPrRKlk3JrgC948zjdzJEkcA18yWb4hq4VSCgyLVa2um6Qe3PDH1rcLWAJIdiweUe9cEqEc2B0u9gMzl6ImhaJedgMds3crXqXA5mYMYvJ03nUZx8PyX1ErV8FVwGRaq8NnHVhXWDVd2u0t19y0EYMtISY5jj8RTiWfu40WRBJ8sDH7D76a4LRE2M3fZ4xAGeMcbTpQvndtTmQAD1zelD01YysEMTPYRQ5EAyjaGt5ZMI9l2wja4r9t0rN0I41HChB4e0EqOluyTCeppP47DfY4y5lQq3Dq8de5XGDwBnj10ddL1GNA7bYOi6VNWH2js263oi1Klw9XjlFRuxKfVxPlATcxhju4uDTZLtwLoednGw2rjCr64ThHOB0LIMZhQinFKvxYAgEk1hJlY9PdavaPaNjptgv6hwczcWNigY79CQmFrYdRL1bG3LtvJnUjJXyN5f2u5lI8pdvAEC8WILklurQofBzzdA9EyJD47iDoploOLPasn0JemxsIBvHk99bQDttDBJqmBwX4clbs9L9brPau",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "TV e Eletronicos",
-      "data": "2026-06-24T18:33:45.095158-03:00",
-      "slug": "rstoq-para-dji-mini-4k-drone-lentes-conjunto-de-filtro-uv-cpl-4ndpl-8ndpl",
-      "page_url": "https://promoninjaofertas.github.io/produto/rstoq-para-dji-mini-4k-drone-lentes-conjunto-de-filtro-uv-cpl-4ndpl-8ndpl.html"
     },
     {
       "source_id": "1005007301004000",
@@ -1097,6 +1097,36 @@
       "page_url": "https://promoninjaofertas.github.io/produto/filtro-para-dji-mini-3-pro-filtros-de-lente-uv-cpl-nd-estrela-noite.html"
     },
     {
+      "source_id": "1005007944025643",
+      "titulo": "Filtro de Drone K&F CONCEPT para DJI Mini 3 Pro & Mini 3 UV/CPL/ND2-ND32/ND32-ND512, Filtro de Lente de Vidro Óptico com Revestimento Variável",
+      "de": 232.53,
+      "por": 118.59,
+      "desconto": 49,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S8f450c18bb774066b081f1dd10c7aaaf2.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mr1LC9aHjtildUSN1VrykHLNkHPyipC5xXiaEqCYGc7xldlnqXbEWxMpHvsvsIUziyP3NnyqMRSM3Sno5AUtNsQI2FSqJE7pepRo7sZQlE0ExxiyGhY0fdyMXVwHXDxUHsfXOAP2U85pHEyNWZDLkyFaEmtBS0GvRwq1xOELfxbKyv23k6M0lgYWcoByB8ll7zNKfv1mB9ZFxuhAi4rV6C82rVFe2Xas8FWzk3lFfUu0fA4RHWmphnHvD0x65t4Ncp4vkwK7ycx3WjyhukqBn7V1wVFI4jCRr05E1dEqgMjY9FYzkRPYPDjyMsNlX0QQAfig3r2vwN8F5E06ap7ziE7GVpwBe45oueJf61WCo5qvjwxDssPU2vdrbFIrxwxrCoqqK6GLhy3DJEVs6Opk1kFTSBHeg26q1QgyQo2M8m8glvIc6GYazD9tcYmz9kMOmcCUnJUhIBMfLorVlvqBYRpiNH2Czv7MFmFUrHyMfTxWmHyhZroFteUuihPq6JzMPTiMA4G2VfNwmsOLd8ExIaOG2RrNGvZFNmXRg1py7OyKbhn6dqu9OyHWSmYlEbCAAJJZBMzW847KXqrUKEx8uosBXCAZxo2pvZ2wi4qIg1QcpEYeHdGtlXtXuVHx0CJNeqLtkeGzGc3feCNPoMtW3vdhI267TGU42syzvXmPYyuwmxNXn314yB3JRdWC9Ck8wRBJ4HP9o0ll0",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "TV e Eletronicos",
+      "data": "2026-06-24T18:33:45.095158-03:00",
+      "slug": "filtro-de-drone-k-f-concept-para-dji-mini-3-pro-mini-3-uv",
+      "page_url": "https://promoninjaofertas.github.io/produto/filtro-de-drone-k-f-concept-para-dji-mini-3-pro-mini-3-uv.html"
+    },
+    {
+      "source_id": "1005007959204936",
+      "titulo": "IMILAB EC6 Dual Pro 10MP Câmera de segurança WiFi com visão noturna colorida Detecção e rastreamento humano inteligente compatível com aplicativo MiHome",
+      "de": 923.25,
+      "por": 535.5,
+      "desconto": 42,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S5504126dae6b4fe780cb567c67763b99D.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FmGZgjfJ7qjCWTnUc8wOLU5nRWLfGXCFDG5IchSaFRaymLN07I1uvfdsypbYA62NbpSf4juxGtdpEmB4ZSjSoJPMaUbu2GtMTWMaO7GmJahT05YUCNIRMNgugme9iYUGl1hdNlsAKUoYDsQFr0FVc1W133dO4pZvkAZY3A9xYYjqUOekr1iGcShuu2t6UmLjRs5Hdm6EpHc00kJ2sIbyZ4DVufCsLps5XnxDuCZ8m5wW87Vmcwcaqolf6YcH72XA1iTHdL1SwjpcvP5LsTdqQl3rQKaYVSwtCHSIWMJOl4NlRrEUvGlImm9UfOcqWQL4Zpsbg8zOmr9yXCKBk8rjhnn4GQLaRfx8CfnhADnFY7T4F0UVK9ZHcbxu8RFmt6GioDVWNkeZdqOzc6uLK7zvIrv4RhxJkod88gjLXyU7Tryd29Xmh37tBNc874te5K8y9l52MFIkJwtqMhfFfpooyCjj5MSk70tUBonM8ewy6Y9o3KJe3gQ8Kk3pVKsCMkY360WWhyudBSwi9Pp7kY5xxeTqlOTAa4eynRQ7A1qF4J5G3NrNKVvkzxigUUseKm2L2tBvhsfbwI4KGvMcm9hWN3GQKZr6G4P9nYt4hc81CTMKd2vcybDbRVZle1LeIuuXJbyVBM4cTRw48MUqOdfXtTLMRjEdvceqZlwXnabFJepI0aFpyKjxTww1zbyF8wdGUq11xEu2cQqjR",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "TV e Eletronicos",
+      "data": "2026-06-24T18:23:25.704171-03:00",
+      "slug": "imilab-ec6-dual-pro-10mp-camera-de-seguranca-wifi-com-visao-noturna-colorida-deteccao",
+      "page_url": "https://promoninjaofertas.github.io/produto/imilab-ec6-dual-pro-10mp-camera-de-seguranca-wifi-com-visao-noturna-colorida-deteccao.html"
+    },
+    {
       "source_id": "1005006301805369",
       "titulo": "ANRAN Câmera de segurança solar externa com bateria 3MP 2.4G WIFI Bateria Armazenamento em nuvem Cor Visão noturna Não pode adicionar NVR",
       "de": 382.84,
@@ -1140,21 +1170,6 @@
       "data": "2026-06-24T18:23:25.704171-03:00",
       "slug": "4k-diy-sem-fio-wifi-camera-movel-app-visualizacao-remota-bateria-embutida-1080p-pixel",
       "page_url": "https://promoninjaofertas.github.io/produto/4k-diy-sem-fio-wifi-camera-movel-app-visualizacao-remota-bateria-embutida-1080p-pixel.html"
-    },
-    {
-      "source_id": "1005007959204936",
-      "titulo": "IMILAB EC6 Dual Pro 10MP Câmera de segurança WiFi com visão noturna colorida Detecção e rastreamento humano inteligente compatível com aplicativo MiHome",
-      "de": 923.25,
-      "por": 535.5,
-      "desconto": 42,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S5504126dae6b4fe780cb567c67763b99D.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FmGZgjfJ7qjCWTnUc8wOLU5nRWLfGXCFDG5IchSaFRaymLN07I1uvfdsypbYA62NbpSf4juxGtdpEmB4ZSjSoJPMaUbu2GtMTWMaO7GmJahT05YUCNIRMNgugme9iYUGl1hdNlsAKUoYDsQFr0FVc1W133dO4pZvkAZY3A9xYYjqUOekr1iGcShuu2t6UmLjRs5Hdm6EpHc00kJ2sIbyZ4DVufCsLps5XnxDuCZ8m5wW87Vmcwcaqolf6YcH72XA1iTHdL1SwjpcvP5LsTdqQl3rQKaYVSwtCHSIWMJOl4NlRrEUvGlImm9UfOcqWQL4Zpsbg8zOmr9yXCKBk8rjhnn4GQLaRfx8CfnhADnFY7T4F0UVK9ZHcbxu8RFmt6GioDVWNkeZdqOzc6uLK7zvIrv4RhxJkod88gjLXyU7Tryd29Xmh37tBNc874te5K8y9l52MFIkJwtqMhfFfpooyCjj5MSk70tUBonM8ewy6Y9o3KJe3gQ8Kk3pVKsCMkY360WWhyudBSwi9Pp7kY5xxeTqlOTAa4eynRQ7A1qF4J5G3NrNKVvkzxigUUseKm2L2tBvhsfbwI4KGvMcm9hWN3GQKZr6G4P9nYt4hc81CTMKd2vcybDbRVZle1LeIuuXJbyVBM4cTRw48MUqOdfXtTLMRjEdvceqZlwXnabFJepI0aFpyKjxTww1zbyF8wdGUq11xEu2cQqjR",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "TV e Eletronicos",
-      "data": "2026-06-24T18:23:25.704171-03:00",
-      "slug": "imilab-ec6-dual-pro-10mp-camera-de-seguranca-wifi-com-visao-noturna-colorida-deteccao",
-      "page_url": "https://promoninjaofertas.github.io/produto/imilab-ec6-dual-pro-10mp-camera-de-seguranca-wifi-com-visao-noturna-colorida-deteccao.html"
     }
   ]
 }
