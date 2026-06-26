@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-26T20:00:56.382052+00:00",
+  "atualizado": "2026-06-26T20:11:02.576849+00:00",
   "ofertas": [
     {
       "source_id": "2889171",
@@ -19,25 +19,6 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "2889167",
-      "titulo": "Mouse Gamer RGB Logitech G403 HERO com Tecnologia LIGHTSYNC 6 Botões Programáveis Ajuste de Peso e Sensor HERO 25K",
-      "de": 249.9,
-      "por": 189.0,
-      "desconto": 24,
-      "imagem": "https://m.media-amazon.com/images/I/61CF3xAQtEL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B07W6PD7QJ?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-06-26T16:50:35.796747-03:00",
-      "slug": "mouse-gamer-rgb-logitech-g403-hero-com-tecnologia-lightsync-6-botoes-programaveis-ajus",
-      "page_url": "https://promoninjaofertas.github.io/produto/mouse-gamer-rgb-logitech-g403-hero-com-tecnologia-lightsync-6-botoes-programaveis-ajus.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 8
     },
     {
       "source_id": "2889143",
