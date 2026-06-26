@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-26T10:29:29.270767+00:00",
+  "atualizado": "2026-06-26T10:49:35.993329+00:00",
   "ofertas": [
+    {
+      "source_id": "23294396394",
+      "titulo": "X55 Fones De Ouvido TWS Sleep Sem Fio Bluetooth Display Led HIFI Som Estéreo Fone",
+      "de": 25.88,
+      "por": 21.88,
+      "desconto": 78,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-melpdu2qtuyp49",
+      "link": "https://s.shopee.com.br/6L2NQ3JAS4",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Audio",
+      "data": "2026-06-26T07:49:35.993329-03:00",
+      "slug": "x55-fones-de-ouvido-tws-sleep-sem-fio-bluetooth-display-led-hifi-som-estereo",
+      "page_url": "https://promoninjaofertas.github.io/produto/x55-fones-de-ouvido-tws-sleep-sem-fio-bluetooth-display-led-hifi-som-estereo.html",
+      "avaliacao": 4.8,
+      "avaliacoes": null,
+      "vendas": 5865,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "2888350",
       "titulo": "Smart TV 40” Philco Roku LED Dolby Audio",
