@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-26T20:11:02.576849+00:00",
+  "atualizado": "2026-06-26T20:21:05.781146+00:00",
   "ofertas": [
     {
       "source_id": "2889171",
@@ -19,25 +19,6 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "2889143",
-      "titulo": "Smartphone Motorola Moto g56 5G - 256GB 24GB (8GB RAM+16GB Ram Boost) e 50MP Sony Lytia 600 Camera Ultrarresistencia militar IP68 + IP69 - Verde",
-      "de": 1999.0,
-      "por": 1199.91,
-      "desconto": 40,
-      "imagem": "https://m.media-amazon.com/images/I/51AqAm0zZ2L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0F9MSZ87B?tag=promoninja0c3-20",
-      "cupom": "JOGACO",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-26T16:30:27.689072-03:00",
-      "slug": "smartphone-motorola-moto-g56-5g-256gb-24gb-8gb-ram-16gb-ram-boost-e-50mp-2",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g56-5g-256gb-24gb-8gb-ram-16gb-ram-boost-e-50mp-2.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 10
     },
     {
       "source_id": "2889065",
@@ -207,7 +188,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fone-de-ouvido-headset-p9-pro-max-bluetooth-5-1-max-varias-cores.html",
       "avaliacao": 4.6,
       "avaliacoes": null,
-      "vendas": 4684,
+      "vendas": 4847,
       "nota_qualidade": 8
     },
     {
