@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-06-26T21:01:20.181654+00:00",
+  "atualizado": "2026-06-26T21:32:02.186185+00:00",
   "ofertas": [
-    {
-      "source_id": "2889065",
-      "titulo": "NOVO CUPOM AMAZON",
-      "de": 124.99,
-      "por": 40.0,
-      "desconto": 68,
-      "imagem": "https://m.media-amazon.com/images/I/71LjO7+wmeL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0F9Z3D8TZ?tag=promoninja0c3-20",
-      "cupom": "AMAZON",
-      "loja": "amazon",
-      "categoria": "Outros",
-      "data": "2026-06-26T16:00:10.693613-03:00",
-      "slug": "novo-cupom-amazon",
-      "page_url": "https://promoninjaofertas.github.io/produto/novo-cupom-amazon.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7
-    },
     {
       "source_id": "23194856784",
       "titulo": "Perfume Lattafa Asad 100ml Eau De Parfum Árabe E Selo Lataffa",
