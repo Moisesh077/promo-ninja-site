@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-26T19:40:29.710027+00:00",
+  "atualizado": "2026-06-26T19:50:35.796747+00:00",
   "ofertas": [
+    {
+      "source_id": "2889167",
+      "titulo": "Mouse Gamer RGB Logitech G403 HERO com Tecnologia LIGHTSYNC 6 Botões Programáveis Ajuste de Peso e Sensor HERO 25K",
+      "de": 249.9,
+      "por": 189.0,
+      "desconto": 24,
+      "imagem": "https://m.media-amazon.com/images/I/61CF3xAQtEL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B07W6PD7QJ?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-26T16:50:35.796747-03:00",
+      "slug": "mouse-gamer-rgb-logitech-g403-hero-com-tecnologia-lightsync-6-botoes-programaveis-ajus",
+      "page_url": "https://promoninjaofertas.github.io/produto/mouse-gamer-rgb-logitech-g403-hero-com-tecnologia-lightsync-6-botoes-programaveis-ajus.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "2889153",
       "titulo": "Refrigerador 240L 1 Porta Classe A 110 Volts, Branco, Electrolux",
@@ -40,25 +59,6 @@
       "nota_qualidade": 10
     },
     {
-      "source_id": "2889143",
-      "titulo": "Smartphone Motorola Moto g56 5G - 256GB 24GB (8GB RAM+16GB Ram Boost) e 50MP Sony Lytia 600 Camera Ultrarresistencia militar IP68 + IP69 - Verde",
-      "de": 1999.0,
-      "por": 1199.91,
-      "desconto": 40,
-      "imagem": "https://m.media-amazon.com/images/I/51AqAm0zZ2L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0F9MSZ87B?tag=promoninja0c3-20",
-      "cupom": "JOGACO",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-26T16:30:27.689072-03:00",
-      "slug": "smartphone-motorola-moto-g56-5g-256gb-24gb-8gb-ram-16gb-ram-boost-e-50mp-2",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g56-5g-256gb-24gb-8gb-ram-16gb-ram-boost-e-50mp-2.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 10
-    },
-    {
       "source_id": "2889139",
       "titulo": "Memória Corsair DDR5 16GB 1X16GB PC5200 Vengeance CMK16GX5M1B5200C40",
       "de": 1500.0,
@@ -76,6 +76,25 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7
+    },
+    {
+      "source_id": "2889143",
+      "titulo": "Smartphone Motorola Moto g56 5G - 256GB 24GB (8GB RAM+16GB Ram Boost) e 50MP Sony Lytia 600 Camera Ultrarresistencia militar IP68 + IP69 - Verde",
+      "de": 1999.0,
+      "por": 1199.91,
+      "desconto": 40,
+      "imagem": "https://m.media-amazon.com/images/I/51AqAm0zZ2L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0F9MSZ87B?tag=promoninja0c3-20",
+      "cupom": "JOGACO",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-26T16:30:27.689072-03:00",
+      "slug": "smartphone-motorola-moto-g56-5g-256gb-24gb-8gb-ram-16gb-ram-boost-e-50mp-2",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g56-5g-256gb-24gb-8gb-ram-16gb-ram-boost-e-50mp-2.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 10
     },
     {
       "source_id": "2889065",
@@ -169,7 +188,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/pilha-aaa-palito-com-120-unidades.html",
       "avaliacao": 4.8,
       "avaliacoes": null,
-      "vendas": 2232,
+      "vendas": 2286,
       "nota_qualidade": 8
     },
     {
