@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-26T18:29:36.182190+00:00",
+  "atualizado": "2026-06-26T18:49:56.888482+00:00",
   "ofertas": [
+    {
+      "source_id": "2889016",
+      "titulo": "Smartphone Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Preto)",
+      "de": 3299.0,
+      "por": 1898.39,
+      "desconto": 42,
+      "imagem": "https://m.media-amazon.com/images/I/515VjUyFG6L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GVT89H5W?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-26T15:49:56.888482-03:00",
+      "slug": "smartphone-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp-preto.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 9
+    },
     {
       "source_id": "23194856784",
       "titulo": "Perfume Lattafa Asad 100ml Eau De Parfum Árabe E Selo Lataffa",
