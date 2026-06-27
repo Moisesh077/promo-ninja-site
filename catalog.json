@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-06-27T21:33:03.081303+00:00",
+  "atualizado": "2026-06-27T21:35:19.087784+00:00",
   "ofertas": [
-    {
-      "source_id": "2890312",
-      "titulo": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Lavanda)",
-      "de": 3299.0,
-      "por": 1899.0,
-      "desconto": 42,
-      "imagem": "https://m.media-amazon.com/images/I/51aUn8rRtBL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GVSZXP9M?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-27T21:29:57.671951+00:00",
-      "slug": "celular-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp-lavanda",
-      "page_url": "https://promoninjaofertas.github.io/produto/celular-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp-lavanda.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 10,
-      "nota_qualidade": 7
-    },
     {
       "source_id": "pechinchou-147037",
       "titulo": "Kit Peseira Manta Tricot Cama King Aconchego + 2 Capas 45cm",
@@ -388,7 +369,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPN6o2tlRXZ3NQoxogADtsq7a49TGcC8QQVIybHI7C6Yc8uLmHoAo1U3i6rdMTxiSlpz2s4ElWt2mYbeAysZmcAEJgbVyFSLktmk84XfbWAcS3MogE16iKbyaOPx2s1Of9rYPg1JCkrYXR0ZeSEhW5mFfM3VASoOo4eoiSDBFbKkPDSgMqPsOcP6HYimlXyfCBXAxA5X2QAvetyb4dOTidr4BPruzBonSrJDwuRmFhjpT7UQ4dCoW06wXqclfEQA9kANxeeX3iuq2YFg9VmVqLr8xAdPOdpxM9cLKLbp29g6zPwLPtoLui3PvdDPITh1touqH5gq8uZIsRSWI4dwoW9Z79aTJxVrGgxqL27ND6HfaTmJeX2YGYMws7gKVAptjoFiGU1JpMUWKDnmics9FiGBgCiBXjnw3AOzWkj4sCSVF7lES0InoUz1JIkmq7ey4geYlSMnR6IY82mJytpxLCIsi8zOuMWfOpBBRVRY8K",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMuIxJzjKdqM52CSx7kaid5EATCgNSG03VD6TfkZbSKW6RVnNttYtayT8oMawR9pko6EFSALXFqoRF5gt5g7Lc1nQsyVo3tTA7YOnIKMjk7OLOr0FACgjgCxWEyCdBvULcTWuz69MwLf5RKdiNL2NCxQsDGyB1LKYrI3cIeVtZUeUDuaSGEt7tkiF4S4MtATw0TzvmQmCd3yf45pvVQZa3fHfahRNUjk79NfuHprgnIwMhpbltdSGpUwTRh8i8y5s04EuAMzBP8tKEATI44MtdAwH5xgLONgyuYQ9xP722vxoN62o0TfrpygUErixLCSamea7GfD7xCEfdwHqxVV8A8R7XWK97gj4Hv3euapqcj97Cz2t5vWEuXofpblCMNJjOiYQP2tLcyoUosSfVxvoeipiGwxxycJOfRFyQKlD70lu4Sv7tAE2jWaYrLLauTt01g5sJOxnoxt1PrxzUQdCnFlyDxNz3pnnigHuOj2a",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
