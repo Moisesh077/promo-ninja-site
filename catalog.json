@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-27T06:33:50.880404+00:00",
+  "atualizado": "2026-06-27T06:54:09.889788+00:00",
   "ofertas": [
     {
       "source_id": "2889726",
@@ -19,25 +19,6 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8
-    },
-    {
-      "source_id": "2884198",
-      "titulo": "ELG, SHCF601, Câmera Externa Full Color 1080P IP65, Lente 3.6mm, Grava Full HD 1080p, Inteligente, Wi-Fi, Protocolo ONVO",
-      "de": 555.0,
-      "por": 98.1,
-      "desconto": 82,
-      "imagem": "https://m.media-amazon.com/images/I/51vYba51ceL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0B8FXCW2Z?tag=promoninja0c3-20",
-      "cupom": "BORALEVAR",
-      "loja": "amazon",
-      "categoria": "TV e Eletronicos",
-      "data": "2026-06-27T02:53:23.491618-03:00",
-      "slug": "elg-shcf601-camera-externa-full-color-1080p-ip65-lente-3-6mm-grava-full-hd-2",
-      "page_url": "https://promoninjaofertas.github.io/produto/elg-shcf601-camera-externa-full-color-1080p-ip65-lente-3-6mm-grava-full-hd-2.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7
     },
     {
       "source_id": "1005007826954443",
