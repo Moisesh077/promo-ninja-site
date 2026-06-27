@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-27T20:39:28.392558+00:00",
+  "atualizado": "2026-06-27T20:48:09.492811+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-116056",
+      "titulo": "Tênis Masculino Progress Lite Fila",
+      "de": 349.99,
+      "por": 147.04,
+      "desconto": 58,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/teste_uOAfaxl.png",
+      "link": "https://meli.la/27o7RCF",
+      "cupom": "VEMAPROVEITAR",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-06-27T20:48:09.492811+00:00",
+      "slug": "tenis-masculino-progress-lite-fila",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-masculino-progress-lite-fila.html",
+      "avaliacao": null,
+      "avaliacoes": 3,
+      "vendas": 144,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "2890312",
       "titulo": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Lavanda)",
@@ -55,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/drone-s103-pro-2-cameras-2-baterias-com-app-e-controle-blue.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 336,
+      "vendas": 453,
       "nota_qualidade": 7
     },
     {
@@ -369,7 +388,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNpiO5ATFzzEmWh2YPQrMfz97GJk1znrQK8V3KaYflec0ILy1GqlQTX40uWf9NVBa0ZnrUjAZePGx3UUwM6rpBDRxsNxZ6jzPb8PsxQqvv6bzBgj7Yh5MFZvQJ652bnWPQQrd6YrXyCP5EEHVX4Uu95T1xij2EGLnQXrfghdtYFT5WQdNfnHOZRzAI5tHjyzbJY7rdPfrnSTCshwjtBQPVTtdWp65N9SWMXzr7TvMbDHSg2W2mC6oZRr5FqBHUIBvZ9lE918JNG8dFOgZYeaxeizfqxwaggnzdS7QuU18jn14lr2aEuO7yJKjVwkvcAxKBCD81JeeplfiemdqDcpyXxyx1zpGq8xhYSAyEP0DnJPmHggWvsVNAbF6kyQ0Wpuz7hUCUga5XKHgs8gJu5MGYTB1SzdabPUQ8ioLL1qRH55969Jid9QaeRU0rLec5sdZSzEETHRhw8MnshFXjhonIsfNCU3daDq7q7eqpB5o",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNDWnr9mT1b9dAqM5bArkLUMRBS6BEMWnVFPTEn3pUaxuzt7Kkq4zfPCVcC1PsamIhby96DTaUAkADXl99vN1kd35osEaSYK7kpXUMo8X20Z220KUjVldVVOKcDzyxvpZaAsmelJcEsmwC7AkENNz8LUv06OSuL4RjfZQVv5oYv24c3ZZOFXgTZmi89EFe6wywadmtYnFuNptZmQnwCQm3TVLmDrIYEkjrmuktrGdagEgLwnKv7Xx6Y1xL51gEvdQyFVQz9mIrGysZd0Y4PSVu6zqDqKKOgGhBVDQRgDcEhnqV5O2Y3NuIhhsEFDTmHwnd3LqRwFzKjiY2ey2M0V24NfOo10of817x9dhkvG2ZaVeEpRQ28RrYvR7OxcI7kkY96QtZ6hN6qDmMTH8ehVj4blYtMvOTNEk1lVTiaYFkGuYaVxBwEjLMuMRZA062h4HcHg9X1eRoaiwqVYFXocqSelMRqxLUlSmOFPF76l4",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -378,7 +397,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fifine-microfone-dinamico-usb-xlr-com-controle-rgb-jack-de-fone-de-ouvido-mudo.html",
       "avaliacao": 4.9350000000000005,
       "avaliacoes": null,
-      "vendas": 16956,
+      "vendas": 16957,
       "nota_qualidade": 8
     }
   ]
