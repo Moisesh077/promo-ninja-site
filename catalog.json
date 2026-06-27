@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-06-27T15:25:42.485088+00:00",
+  "atualizado": "2026-06-27T15:29:09.423616+00:00",
   "ofertas": [
-    {
-      "source_id": "2889944",
-      "titulo": "Smart TV Stick Full HD Intelbras",
-      "de": 319.9,
-      "por": 187.25,
-      "desconto": 41,
-      "imagem": "https://m.media-amazon.com/images/I/41TzIa17yCL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0CH3QJBSB?tag=promoninja0c3-20",
-      "cupom": "SOMOSAMAZON",
-      "loja": "amazon",
-      "categoria": "TV e Eletronicos",
-      "data": "2026-06-27T15:25:42.485088+00:00",
-      "slug": "smart-tv-stick-full-hd-intelbras",
-      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-stick-full-hd-intelbras.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 10,
-      "nota_qualidade": 8
-    },
     {
       "source_id": "pechinchou-146404",
       "titulo": "Casal Body Splash Bold Homme E My Sweet Delight Barbour",
@@ -56,25 +37,6 @@
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": 13,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "2889949",
-      "titulo": "Smartwatch Samsung Galaxy Fit3",
-      "de": 599.0,
-      "por": 184.0,
-      "desconto": 69,
-      "imagem": "https://m.media-amazon.com/images/I/51bjAlTBzZL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-27T14:58:11.389072+00:00",
-      "slug": "smartwatch-samsung-galaxy-fit3",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartwatch-samsung-galaxy-fit3.html",
-      "avaliacao": null,
-      "avaliacoes": 9,
-      "vendas": 30,
       "nota_qualidade": 7
     },
     {
@@ -198,7 +160,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNqgetn63uYa2koMVgsqXDunUY4nI8uLleGO60u5dW2rjqIyhjPhmPqkUnj6eHVMPSdsCTNXQCH3uExGwFrJAWXObjLViWD5R7lr0gBfiGYlukofAbmoJw9PhKXccMs3RkpH9qWGnaCL6AXxzJ1q2uBIPcj079VcxbtH3k0qCEriKwERNu1FtjfJhsR3rsitJ2n8vGrEZuCCJPvzItxYNS2G1hGYiMnSrlinvXqzQbxPeEUx0edoYY4akuekMhcUNkFwTMERBKDE5OGb5TCZg12SCRIRpdyANhHBQeMiY1bTuVFQWi9xxleLqkM6fOieOgqGgtoRFe9YyAYEz6POEUcZv4w1Sy8s72t587glXvBNVlHH6PYSiKZf0BWxCr8fVvQZTkGn3QUujSr2Cwlna88DHgDMxz9ZMMd4jIT8KBHlduJoUCxuvCWKO9QBWrd21dhlIh5BuCvj6H8dy2kd67CTzsC4ujjY4WxWMacdU",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPN08qerJnagplUMguJpbfvtIZaZ4dV3H2WbbCWvvzjjS2gK9Nf0XqkQcOFGQ09qpQoidh9GrAgWsiLGRuLE4IMmW5H59nePDvgSEFpQoTsMWHQZ5nfxUdB71pn5Yfx60gkP43NPRsjiI8r5hdPUDYxtqgMD8vlc1SQtXRXhiGWras03W28jtiOYyNWxiyMoCB5AdPDHTGrW8IG04tFpTY5m6ZZ1VXL3vQwJySYiTpDRRdXF1geGVlsIES3KdStLq6SihEZC9HPKd2UWxZ5hwFa2zLgeSmwUpTrw6QoXmXds0zjuEWvnGx9yVV1W0xvZrX88NDcmgzKAe0JwCmU7ZPV5iDrBegl8gnYGSDY2oNcaZJL8ZaapOMDqiJQnCIZaZVc33Mv9O0SnwvYvn5yvZQiIKdx9CvVCvLm3ezlmZy5Iyje21wtx0fU5TeWe6MU6CGTqdkKO1xn0waP9JwmvhY6qcGYKSjv5ZQMlpEYRmw",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -207,7 +169,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fifine-microfone-dinamico-usb-xlr-com-controle-rgb-jack-de-fone-de-ouvido-mudo.html",
       "avaliacao": 4.9350000000000005,
       "avaliacoes": null,
-      "vendas": 17020,
+      "vendas": 17021,
       "nota_qualidade": 8
     }
   ]
