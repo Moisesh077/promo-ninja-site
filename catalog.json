@@ -1,6 +1,44 @@
 {
-  "atualizado": "2026-06-27T15:15:29.987454+00:00",
+  "atualizado": "2026-06-27T15:25:20.883804+00:00",
   "ofertas": [
+    {
+      "source_id": "2889944",
+      "titulo": "Smart TV Stick Full HD Intelbras",
+      "de": 319.9,
+      "por": 187.25,
+      "desconto": 41,
+      "imagem": "https://m.media-amazon.com/images/I/41TzIa17yCL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0CH3QJBSB?tag=promoninja0c3-20",
+      "cupom": "SOMOSAMAZON",
+      "loja": "amazon",
+      "categoria": "TV e Eletronicos",
+      "data": "2026-06-27T15:25:20.883804+00:00",
+      "slug": "smart-tv-stick-full-hd-intelbras",
+      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-stick-full-hd-intelbras.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 10,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "pechinchou-146404",
+      "titulo": "Casal Body Splash Bold Homme E My Sweet Delight Barbour",
+      "de": 98.9,
+      "por": 71.01,
+      "desconto": 28,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_915160-MLA110015193967_042026-O.webp",
+      "link": "https://meli.la/2pMva4F",
+      "cupom": "ALEGRIA",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-06-27T15:25:20.883804+00:00",
+      "slug": "casal-body-splash-bold-homme-e-my-sweet-delight-barbour",
+      "page_url": "https://promoninjaofertas.github.io/produto/casal-body-splash-bold-homme-e-my-sweet-delight-barbour.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 100,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-146918",
       "titulo": "Barbeador Elétrico Pba08 À Prova Dágua Bivolt Philco Preto",
@@ -17,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/barbeador-eletrico-pba08-a-prova-dagua-bivolt-philco-preto.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 9
+      "vendas": 13,
+      "nota_qualidade": 7
     },
     {
       "source_id": "2889949",
@@ -55,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-de-corrida-masculino-runfalcon-6-cloudfoam-adidas.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 53,
+      "vendas": 79,
       "nota_qualidade": 8
     },
     {
@@ -74,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/conjunto-feminino-de-frio-2-pecas-moderno-confortavel.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1535,
+      "vendas": 1576,
       "nota_qualidade": 8
     },
     {
@@ -93,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-toalhas-toquio-g3-5-pecas-cinza-steel-altenburg.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 154,
+      "vendas": 180,
       "nota_qualidade": 7
     },
     {
@@ -112,7 +150,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 16,
-      "vendas": 4145,
+      "vendas": 4148,
       "nota_qualidade": 7
     },
     {
@@ -131,7 +169,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/lavadora-de-alta-pressao-electrolux-1600psi-1400w-de-potencia-com-engate-rapido-easywa.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 927,
+      "vendas": 955,
       "nota_qualidade": 9
     },
     {
@@ -150,7 +188,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/o-boticario-kit-nativa-spa-ameixa-3-itens.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 60,
+      "vendas": 62,
       "nota_qualidade": 8
     },
     {
@@ -160,7 +198,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNqYbi1Ap1a5GZBkB0M16A8SrAMJAriAFWajnPgGGhR1KXdDcep7Gz4XhLiBZkYZeiUaUadsufCRfS3PbsLNW6cjLhMMmrVFPdkjOhMe06pRXOSJTQmyFSnMc2gQS5tWyOn7DO3WxSSzPUS5kxaN87BuQkd5iRVAY67WUSqrd41y1A75HPGYvrH2jizwpmsT8ATijsFqC7mXL5K8Wq0IJHrBkl83Z4ThuHIryS2oEVBf4LyGvv8ApteKA8eizxNTPys4mZxzZFEDPuYXTm59N4K4AM49PknvVTYcaAy0u9bZOUdABquSoqh9niyGuSPypkyc3Ji1DmvZMoGS6i0HTRiXQUnF089yAdwbsMweiU8lZ7MlbHGiTaNIwliOvD4ISflPnTIjurBj6pq2cDz03eq5MjU37DCPHkIYj6IwKUvBSci4iO1QV0Xy0BNBpgfKLfbUbKrxFEGl4mvyEvU5K54CxYEzJMPLJ6n0QCWwq",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMuygLwgcxBXc3mqo0jgYjMvgdoCbX03NBFwF0e336D83OemQeQwabCS0LR4Y1ZRl958N0CygPQ8z3Aj5ysVGzr2AscHeqNnnYNTOWijh3g3NiE5RnjEllHC2WG7o3ompZNa1BLdeNBzVGfQ2Sv8qW4PG8U1aYAbPalCgDHSsCHRQpkvDIfx5W3ILQcF1XOiqhwEAw4BzPFndAQzFQc97YGCHzPj3TuXLOQrFYKGRLwgjLQByc2b5QrlH7hdR0Je8UyGW6xWeelykmCxwzfEGMIWbgJmS8pJujQ4n9xTL1MIAfkvLikFa3KMUXPPF4cf8NpQvlxPhM9QvtaSsnIioLtPzuVpmcKTsjvkbFlCPfBRnh9VdqUTZFhaLKyk6vVG2Pzogbt6cKQS9GygNR3orMnTaiVaMmJzOl8KTgvApFgKgAI1STeDhSR6YAOKUe3lu7EkjERgaqUdcXKEYdUgkKSfSqWwVffvlkMl7LTd0",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -171,25 +209,6 @@
       "avaliacoes": null,
       "vendas": 17020,
       "nota_qualidade": 8
-    },
-    {
-      "source_id": "pechinchou-146404",
-      "titulo": "Casal Body Splash Bold Homme E My Sweet Delight Barbour",
-      "de": 98.9,
-      "por": 71.01,
-      "desconto": 28,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_915160-MLA110015193967_042026-O.webp",
-      "link": "https://meli.la/2pMva4F",
-      "cupom": "ALEGRIA",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-06-27T11:45:37.587598-03:00",
-      "slug": "casal-body-splash-bold-homme-e-my-sweet-delight-barbour",
-      "page_url": "https://promoninjaofertas.github.io/produto/casal-body-splash-bold-homme-e-my-sweet-delight-barbour.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7
     }
   ]
 }
