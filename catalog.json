@@ -1,6 +1,44 @@
 {
-  "atualizado": "2026-06-27T20:09:06.512221+00:00",
+  "atualizado": "2026-06-27T20:19:17.770803+00:00",
   "ofertas": [
+    {
+      "source_id": "2890312",
+      "titulo": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Lavanda)",
+      "de": 3299.0,
+      "por": 1899.0,
+      "desconto": 42,
+      "imagem": "https://m.media-amazon.com/images/I/51aUn8rRtBL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GVSZXP9M?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-27T20:19:17.770803+00:00",
+      "slug": "celular-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp-lavanda",
+      "page_url": "https://promoninjaofertas.github.io/produto/celular-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp-lavanda.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 5,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "2890309",
+      "titulo": "Jogo de Churrasco Tradicional 3 Peças - Tramontina",
+      "de": 104.0,
+      "por": 77.0,
+      "desconto": 26,
+      "imagem": "https://m.media-amazon.com/images/I/81NUeCtVs0L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B07GS3MLJX?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Utilidades Domésticas",
+      "data": "2026-06-27T20:19:17.770803+00:00",
+      "slug": "jogo-de-churrasco-tradicional-3-pecas-tramontina",
+      "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-churrasco-tradicional-3-pecas-tramontina.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 0,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-146691",
       "titulo": "Bicicleta Ergométrica Fitness Para Cardio E Musculação Com Base Cor Preto E Vermelho Marca Sevenfit",
@@ -74,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fantasy-britney-spears-eau-de-parfum-perfume-feminino-100ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 252,
+      "vendas": 271,
       "nota_qualidade": 7
     },
     {
