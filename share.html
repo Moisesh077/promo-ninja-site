@@ -6,7 +6,7 @@
   <meta name="robots" content="noindex,nofollow">
   <meta name="referrer" content="no-referrer">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self'; img-src 'self' https: data:; connect-src 'self' https://images.weserv.nl; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; upgrade-insecure-requests">
-  <title>Compartilhar promocao | Promo Ninja</title>
+  <title>Compartilhar promoção | Promo Ninja</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
@@ -32,11 +32,11 @@
 <body>
   <main>
     <header><span class="brand">PROMO NINJA</span><span class="badge" id="badge">SHARE</span></header>
-    <div class="media"><img id="photo" alt="Foto da promocao"></div>
+    <div class="media"><img id="photo" alt="Foto da promoção"></div>
     <section class="content">
       <p id="copy"></p>
       <a id="link" target="_blank" rel="noopener noreferrer"></a>
-      <button id="share" type="button">Compartilhar promocao</button>
+      <button id="share" type="button">Compartilhar promoção</button>
       <p id="status"></p>
     </section>
   </main>
@@ -82,7 +82,7 @@
         let shareData = { title: 'Promo Ninja', text: fullText };
         if (proxyUrl) {
           const response = await fetch(proxyUrl);
-          if (!response.ok) throw new Error('imagem indisponivel');
+          if (!response.ok) throw new Error('imagem indisponível');
           const blob = await response.blob();
           const file = new File([blob], 'promo-ninja.jpg', { type: blob.type || 'image/jpeg' });
           const withFile = { ...shareData, files: [file] };
@@ -94,7 +94,7 @@
         if (error && error.name === 'AbortError') {
           status.textContent = 'Compartilhamento cancelado.';
         } else {
-          status.textContent = 'Seu celular nao aceitou a foto. Abrindo ' + targetName + ' com texto e link.';
+          status.textContent = 'Seu celular não aceitou a foto. Abrindo ' + targetName + ' com texto e link.';
           openFallback();
         }
       } finally {
