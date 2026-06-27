@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-27T06:03:21.883979+00:00",
+  "atualizado": "2026-06-27T06:33:50.880404+00:00",
   "ofertas": [
+    {
+      "source_id": "2889726",
+      "titulo": "Monitor Gamer AOC Destiny 24,5\" 240Hz",
+      "de": 1799.0,
+      "por": 899.0,
+      "desconto": 50,
+      "imagem": "https://m.media-amazon.com/images/I/61aBgNvGk0L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0CJ9NVNW6?tag=promoninja0c3-20",
+      "cupom": "TORNEIOFUT",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-27T03:33:50.880404-03:00",
+      "slug": "monitor-gamer-aoc-destiny-24-5-240hz",
+      "page_url": "https://promoninjaofertas.github.io/produto/monitor-gamer-aoc-destiny-24-5-240hz.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "2884198",
       "titulo": "ELG, SHCF601, Câmera Externa Full Color 1080P IP65, Lente 3.6mm, Grava Full HD 1080p, Inteligente, Wi-Fi, Protocolo ONVO",
