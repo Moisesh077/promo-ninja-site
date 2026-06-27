@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-27T19:58:45.973496+00:00",
+  "atualizado": "2026-06-27T20:09:06.512221+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-146691",
+      "titulo": "Bicicleta Ergométrica Fitness Para Cardio E Musculação Com Base Cor Preto E Vermelho Marca Sevenfit",
+      "de": 630.0,
+      "por": 389.75,
+      "desconto": 38,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_648742-MLA112544780466_062026-O.webp",
+      "link": "https://meli.la/1d5dorZ",
+      "cupom": "APROVEITAHOJE",
+      "loja": "mercadolivre",
+      "categoria": "Pet",
+      "data": "2026-06-27T20:09:06.512221+00:00",
+      "slug": "bicicleta-ergometrica-fitness-para-cardio-e-musculacao-com-base-cor-preto-e-vermelho-m",
+      "page_url": "https://promoninjaofertas.github.io/produto/bicicleta-ergometrica-fitness-para-cardio-e-musculacao-com-base-cor-preto-e-vermelho-m.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 237,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-84704",
       "titulo": "Aspirador Automotivo Portátil WAP CAR com Filtro HEPA e Cabo de 3,7m",
@@ -17,7 +36,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/aspirador-automotivo-portatil-wap-car-com-filtro-hepa-e-cabo-de-3-7m.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 151,
+      "vendas": 219,
       "nota_qualidade": 8
     },
     {
@@ -55,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fantasy-britney-spears-eau-de-parfum-perfume-feminino-100ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 231,
+      "vendas": 252,
       "nota_qualidade": 7
     },
     {
@@ -93,8 +112,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-natura-kaiak-pulso-100-ml.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 92,
-      "nota_qualidade": 7
+      "vendas": 109,
+      "nota_qualidade": 9
     },
     {
       "source_id": "pechinchou-115617",
@@ -245,7 +264,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 16,
-      "vendas": 4202,
+      "vendas": 4206,
       "nota_qualidade": 7
     },
     {
