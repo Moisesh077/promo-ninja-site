@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-27T21:50:01.983328+00:00",
+  "atualizado": "2026-06-27T21:55:13.378306+00:00",
   "ofertas": [
+    {
+      "source_id": "2890312",
+      "titulo": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Lavanda)",
+      "de": 3299.0,
+      "por": 1899.0,
+      "desconto": 42,
+      "imagem": "https://m.media-amazon.com/images/I/51aUn8rRtBL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GVSZXP9M?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-27T21:55:13.378306+00:00",
+      "slug": "celular-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp-lavanda",
+      "page_url": "https://promoninjaofertas.github.io/produto/celular-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp-lavanda.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 10,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "58255159172",
       "titulo": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
@@ -42,9 +61,9 @@
     {
       "source_id": "22794927027",
       "titulo": "Celuar Xiaomi Poco X8 Pro 512GB / 256GB 5G NFC Versão Global Original e Envio Imediato Com NF",
-      "de": 2430.0,
+      "de": 2350.0,
       "por": 2250.0,
-      "desconto": 59,
+      "desconto": 55,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-moo1vcisbrib78",
       "link": "https://s.shopee.com.br/903AulWa8d",
       "cupom": null,
@@ -93,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-peseira-manta-tricot-cama-king-aconchego-2-capas-45cm.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 311,
+      "vendas": 340,
       "nota_qualidade": 8
     },
     {
@@ -112,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-masculino-progress-lite-fila.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 683,
+      "vendas": 763,
       "nota_qualidade": 7
     },
     {
@@ -131,7 +150,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/drone-s103-pro-2-cameras-2-baterias-com-app-e-controle-blue.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 725,
+      "vendas": 764,
       "nota_qualidade": 7
     },
     {
@@ -150,7 +169,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/bicicleta-ergometrica-fitness-para-cardio-e-musculacao-com-base-cor-preto-e-vermelho-m.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 882,
+      "vendas": 919,
       "nota_qualidade": 7
     },
     {
@@ -169,7 +188,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/aspirador-automotivo-portatil-wap-car-com-filtro-hepa-e-cabo-de-3-7m.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 497,
+      "vendas": 511,
       "nota_qualidade": 8
     },
     {
@@ -397,7 +416,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 16,
-      "vendas": 4229,
+      "vendas": 4230,
       "nota_qualidade": 7
     },
     {
