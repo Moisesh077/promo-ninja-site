@@ -1,6 +1,44 @@
 {
-  "atualizado": "2026-06-27T19:18:20.883471+00:00",
+  "atualizado": "2026-06-27T19:38:27.011967+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-84704",
+      "titulo": "Aspirador Automotivo Portátil WAP CAR com Filtro HEPA e Cabo de 3,7m",
+      "de": 119.0,
+      "por": 89.1,
+      "desconto": 25,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_955645-MLA100007404949_122025-O.webp",
+      "link": "https://meli.la/29eLevM",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-06-27T19:38:27.011967+00:00",
+      "slug": "aspirador-automotivo-portatil-wap-car-com-filtro-hepa-e-cabo-de-3-7m",
+      "page_url": "https://promoninjaofertas.github.io/produto/aspirador-automotivo-portatil-wap-car-com-filtro-hepa-e-cabo-de-3-7m.html",
+      "avaliacao": null,
+      "avaliacoes": 3,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "1005007701197697",
+      "titulo": "Interface VCDS VAGCOM 2026 VCDSCAN HEX V2 Atualização 26.3 para VW, AUDI, Skoda, Seat - Ferramentas de Diagnóstico Automotivo Multilíngue",
+      "de": 186.56,
+      "por": 130.59,
+      "desconto": 30,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiwfO4lsWvdLSQtRaA3eu67HG1N4cd9EUNwQ3HlSjvH6lVUn6hyn9xVjJkmHDYnJlY2MjdpiajsX9xdRFRSdSfDAXLXrFHK6D8kGHw4QluWMJWz6wn8oeFdQrCYQbnjrbE2D0txrtl9Hm2cgqhY0OoaynTC2QCxvJTMK63R8iuGfA70Pd5rWudhtrWozIiHlT4YxeZsmVxX3yyvGmzPlgwQT39JvICsVakkvVBwTJ21cCfaLUXNDc15b7m4PAOOFpy4PN6IWzknVuqDFwhz8oRxSCjx9nZqaWfbJ3KWGMkDq4XXq6FaTfpJoWdGy3wiB7RbEsDYFvT5BvQUbGyH2e4HFLt2Jv2vPAoQ2Nw83lL4j7E2yfXUprthcdARdgWbbD3AhQY5ASMviEGLNvbTdwKixnM03lVpNGGDv5sUtlRga5FTUfdJzW4q6Zq4dkJmfGNUDO7SINvgTV5Wa8u52i2KndWxxeKXoI0U8eymMl",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Ferramentas",
+      "data": "2026-06-27T19:38:27.011967+00:00",
+      "slug": "interface-vcds-vagcom-2026-vcdscan-hex-v2-atualizacao-26-3-para-vw-audi-skoda",
+      "page_url": "https://promoninjaofertas.github.io/produto/interface-vcds-vagcom-2026-vcdscan-hex-v2-atualizacao-26-3-para-vw-audi-skoda.html",
+      "avaliacao": 4.64,
+      "avaliacoes": null,
+      "vendas": 13815,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-147413",
       "titulo": "Fantasy Britney Spears Eau de Parfum Perfume Feminino 100ml",
@@ -17,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fantasy-britney-spears-eau-de-parfum-perfume-feminino-100ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 128,
+      "vendas": 163,
       "nota_qualidade": 7
     },
     {
@@ -55,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-natura-kaiak-pulso-100-ml.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 66,
+      "vendas": 78,
       "nota_qualidade": 7
     },
     {
