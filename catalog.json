@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-27T15:29:09.423616+00:00",
+  "atualizado": "2026-06-27T15:35:41.291004+00:00",
   "ofertas": [
+    {
+      "source_id": "2889949",
+      "titulo": "Smartwatch Samsung Galaxy Fit3",
+      "de": 599.0,
+      "por": 184.0,
+      "desconto": 69,
+      "imagem": "https://m.media-amazon.com/images/I/51bjAlTBzZL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-27T15:35:41.291004+00:00",
+      "slug": "smartwatch-samsung-galaxy-fit3",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartwatch-samsung-galaxy-fit3.html",
+      "avaliacao": null,
+      "avaliacoes": 9,
+      "vendas": 30,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-146404",
       "titulo": "Casal Body Splash Bold Homme E My Sweet Delight Barbour",
@@ -17,7 +36,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/casal-body-splash-bold-homme-e-my-sweet-delight-barbour.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 100,
+      "vendas": 128,
       "nota_qualidade": 7
     },
     {
@@ -36,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/barbeador-eletrico-pba08-a-prova-dagua-bivolt-philco-preto.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 13,
+      "vendas": 20,
       "nota_qualidade": 7
     },
     {
@@ -55,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-de-corrida-masculino-runfalcon-6-cloudfoam-adidas.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 79,
+      "vendas": 99,
       "nota_qualidade": 8
     },
     {
@@ -74,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/conjunto-feminino-de-frio-2-pecas-moderno-confortavel.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1576,
+      "vendas": 1626,
       "nota_qualidade": 8
     },
     {
@@ -93,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-toalhas-toquio-g3-5-pecas-cinza-steel-altenburg.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 180,
+      "vendas": 205,
       "nota_qualidade": 7
     },
     {
@@ -112,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 16,
-      "vendas": 4148,
+      "vendas": 4149,
       "nota_qualidade": 7
     },
     {
@@ -131,7 +150,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/lavadora-de-alta-pressao-electrolux-1600psi-1400w-de-potencia-com-engate-rapido-easywa.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 955,
+      "vendas": 975,
       "nota_qualidade": 9
     },
     {
@@ -150,7 +169,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/o-boticario-kit-nativa-spa-ameixa-3-itens.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 62,
+      "vendas": 64,
       "nota_qualidade": 8
     },
     {
@@ -160,7 +179,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPN08qerJnagplUMguJpbfvtIZaZ4dV3H2WbbCWvvzjjS2gK9Nf0XqkQcOFGQ09qpQoidh9GrAgWsiLGRuLE4IMmW5H59nePDvgSEFpQoTsMWHQZ5nfxUdB71pn5Yfx60gkP43NPRsjiI8r5hdPUDYxtqgMD8vlc1SQtXRXhiGWras03W28jtiOYyNWxiyMoCB5AdPDHTGrW8IG04tFpTY5m6ZZ1VXL3vQwJySYiTpDRRdXF1geGVlsIES3KdStLq6SihEZC9HPKd2UWxZ5hwFa2zLgeSmwUpTrw6QoXmXds0zjuEWvnGx9yVV1W0xvZrX88NDcmgzKAe0JwCmU7ZPV5iDrBegl8gnYGSDY2oNcaZJL8ZaapOMDqiJQnCIZaZVc33Mv9O0SnwvYvn5yvZQiIKdx9CvVCvLm3ezlmZy5Iyje21wtx0fU5TeWe6MU6CGTqdkKO1xn0waP9JwmvhY6qcGYKSjv5ZQMlpEYRmw",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMz9Wk1iqMKpPkK96bP2jSYaqI88cBzup6BfRllWT00LPnqUQf0zIZ9xunhx6L0Pqm3nLcWn5pFYYp1UTnjMELnmGJysSe1u1sILYOdJstQA6AAjyxAiDOuXziDpSfE9V00PEM36l3kEpVVt4dUqcv1R42dpuYDoWSYft8smXJ12sRqU0AvujdYqQg6vEXVUD9VDHmgXyLgYfkaIyjgvZF0uch1vFydiNSbkqTTiBMWOZUmVpaOqnVKnzyMyYn5RZNhKdbgJxpAhdFMSnn4YW3hWJTXnAX3fYPW6plQl3Wo501fUTkWRyr5WuJyvEVCKsFZNmVm7OXSpNSQo5Z1sGzB7vN4GD1iB4A1YqVnWshhpjBiYwLYbg3AroVPV7pf9FpSwDh2Bq1MHPlYCKZ5z00XiDos5bcQBHW5328KVSSmuzgVshzM9yFNcAsnegcMvgPibm6z6v1VAyY73zRaOzF931sBSIWae2Dt5zBh7G",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
