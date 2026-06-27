@@ -25,6 +25,14 @@
 <meta name="twitter:title" content="Ofertas gamer, consoles e perifericos | Promo Ninja">
 <meta name="twitter:description" content="Ofertas gamer de consoles, teclados, mouses, headsets, monitores e acessorios para jogos.">
 <meta name="twitter:image" content="https://promoninjaofertas.github.io/promo-ninja-logo.png">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YXXY5RJWNJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-YXXY5RJWNJ');
+</script>
 <title>Ofertas gamer, consoles e perifericos | Promo Ninja</title>
 <script type="application/ld+json">
 {
@@ -395,6 +403,10 @@
   const storeSelect = document.getElementById('storeSelect');
   const orderSelect = document.getElementById('orderSelect');
 
+  function trackEvent(name, params = {}){
+    if(typeof gtag === 'function')gtag('event', name, params);
+  }
+
   const money = value => Number(value || 0).toLocaleString('pt-BR',{style:'currency',currency:'BRL'});
   const escapeHtml = value => String(value ?? '').replace(/[&<>"]/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[char]));
   const safeUrl = value => /^https:\/\//i.test(String(value || '')) ? String(value) : '#';
@@ -483,7 +495,7 @@
         ${coupon}
         <div class="prices">${oldPrice}<strong class="current-price">${money(offer.por)}</strong></div>
         <span class="verified">${CHECK_ICON}Oferta verificada</span>
-        <a class="buy-button" href="${link}" target="_blank" rel="noopener">${CART_ICON}Garantir oferta</a>
+        <a class="buy-button" href="${link}" target="_blank" rel="noopener" data-store="${escapeHtml(offer.lojaN)}" data-title="${escapeHtml(offer.titulo)}">${CART_ICON}Garantir oferta</a>
       </div>
     </article>`;
   }
@@ -500,12 +512,23 @@
     if(!button)return;
     event.preventDefault();
     state.category=button.dataset.category;
+    trackEvent('filter_category',{category:state.category});
     history.replaceState(null,'',button.href);
     render();
   });
-  searchInput.addEventListener('input',render);
-  storeSelect.addEventListener('change',()=>{state.store=storeSelect.value;render();});
-  orderSelect.addEventListener('change',()=>{state.order=orderSelect.value;render();});
+  searchInput.addEventListener('input',()=>{
+    render();
+    const term=searchInput.value.trim();
+    if(term.length>=3)trackEvent('search',{search_term:term});
+  });
+  storeSelect.addEventListener('change',()=>{state.store=storeSelect.value;trackEvent('filter_store',{store:state.store});render();});
+  orderSelect.addEventListener('change',()=>{state.order=orderSelect.value;trackEvent('sort_offers',{order:state.order});render();});
+  document.addEventListener('click',event=>{
+    const buy=event.target.closest('.buy-button');
+    if(buy)trackEvent('click_offer',{store:buy.dataset.store||'',item_name:buy.dataset.title||'',link_url:buy.href});
+    const social=event.target.closest('.social-button,.flash-cta,.floating-telegram,footer a');
+    if(social)trackEvent('click_social',{link_text:(social.textContent||social.getAttribute('aria-label')||'').trim(),link_url:social.href||''});
+  });
 
   renderCategories();
   const initialQuery=new URLSearchParams(location.search).get('q');

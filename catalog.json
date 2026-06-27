@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-27T01:19:06.811706+00:00",
+  "atualizado": "2026-06-27T01:34:28.674150+00:00",
   "ofertas": [
     {
       "source_id": "2889541",
@@ -19,44 +19,6 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8
-    },
-    {
-      "source_id": "2889527",
-      "titulo": "Granado Perfume Vintage Époque Tropical EDP",
-      "de": 345.0,
-      "por": 168.0,
-      "desconto": 51,
-      "imagem": "https://m.media-amazon.com/images/I/71XMQ9w5mlL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0G1V42GCY?tag=promoninja0c3-20",
-      "cupom": "PEGALOGO",
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-06-26T22:19:06.811706-03:00",
-      "slug": "granado-perfume-vintage-epoque-tropical-edp",
-      "page_url": "https://promoninjaofertas.github.io/produto/granado-perfume-vintage-epoque-tropical-edp.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "2889524",
-      "titulo": "Perfume Granado Vintage Fervo Intenso EDP",
-      "de": 345.0,
-      "por": 165.0,
-      "desconto": 52,
-      "imagem": "https://m.media-amazon.com/images/I/715rtYXpWGL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0G216DVCG?tag=promoninja0c3-20",
-      "cupom": "PEGALOGO",
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-06-26T22:19:06.811706-03:00",
-      "slug": "perfume-granado-vintage-fervo-intenso-edp",
-      "page_url": "https://promoninjaofertas.github.io/produto/perfume-granado-vintage-fervo-intenso-edp.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7
     },
     {
       "source_id": "2889559",
