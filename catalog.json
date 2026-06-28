@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-28T01:33:56.279365+00:00",
+  "atualizado": "2026-06-28T01:38:58.583511+00:00",
   "ofertas": [
+    {
+      "source_id": "2890499",
+      "titulo": "Fone de Ouvido Samsung Galaxy Buds Core",
+      "de": 349.0,
+      "por": 186.06,
+      "desconto": 47,
+      "imagem": "https://m.media-amazon.com/images/I/31zLQOfTQ2L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FP8T2RDC?tag=promoninja0c3-20",
+      "cupom": "CURTEAI",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-28T01:38:58.583511+00:00",
+      "slug": "fone-de-ouvido-samsung-galaxy-buds-core",
+      "page_url": "https://promoninjaofertas.github.io/produto/fone-de-ouvido-samsung-galaxy-buds-core.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 30,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-132040",
       "titulo": "Esmerilhadeira Lixadeira Angular 880w 115mm Hanabi Cor Azul-petróleo Frequência 60hz",
