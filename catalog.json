@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-28T18:38:57.819165+00:00",
+  "atualizado": "2026-06-28T18:44:10.817817+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-146000",
+      "titulo": "Torneira Cozinha Bancada Monocomando Flexível De Pia Gourmet",
+      "de": 149.99,
+      "por": 75.55,
+      "desconto": 50,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_780342-MLB91759681791_092025-O.webp",
+      "link": "https://meli.la/1YStt8U",
+      "cupom": "CASAHOJE",
+      "loja": "mercadolivre",
+      "categoria": "Casa",
+      "data": "2026-06-28T18:44:10.817817+00:00",
+      "slug": "torneira-cozinha-bancada-monocomando-flexivel-de-pia-gourmet",
+      "page_url": "https://promoninjaofertas.github.io/produto/torneira-cozinha-bancada-monocomando-flexivel-de-pia-gourmet.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-116977",
       "titulo": "Calça Jeans Feminina Wide Leg Marmorizada 100% Algodão",
@@ -36,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/panela-de-pressao-philco-ppp02pi-inox-multifuncional-5l-cor-preto.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 11,
+      "vendas": 20,
       "nota_qualidade": 8
     },
     {
@@ -340,7 +359,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 16,
-      "vendas": 4370,
+      "vendas": 4374,
       "nota_qualidade": 7
     },
     {
