@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-28T17:42:34.716904+00:00",
+  "atualizado": "2026-06-28T17:47:45.005345+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-137410",
@@ -608,25 +608,6 @@
       "avaliacoes": null,
       "vendas": 383,
       "nota_qualidade": 10
-    },
-    {
-      "source_id": "pechinchou-133542",
-      "titulo": "Relógio Smartwatch Bettdow Fb050 Gps Tela Amoled 1.43 Cinza",
-      "de": 599.0,
-      "por": 267.96,
-      "desconto": 55,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_732420-MLA111132950305_052026-O.webp",
-      "link": "https://meli.la/2rAVFCC",
-      "cupom": "MELIACHA",
-      "loja": "mercadolivre",
-      "categoria": "Eletrônicos",
-      "data": "2026-06-27T17:47:10.384593+00:00",
-      "slug": "relogio-smartwatch-bettdow-fb050-gps-tela-amoled-1-43-cinza",
-      "page_url": "https://promoninjaofertas.github.io/produto/relogio-smartwatch-bettdow-fb050-gps-tela-amoled-1-43-cinza.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 810,
-      "nota_qualidade": 9
     }
   ]
 }
