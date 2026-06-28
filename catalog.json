@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-28T22:19:20.720394+00:00",
+  "atualizado": "2026-06-28T22:24:38.611186+00:00",
   "ofertas": [
     {
       "source_id": "1005007701197697",
@@ -18,25 +18,6 @@
       "avaliacao": 4.635,
       "avaliacoes": null,
       "vendas": 13792,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "2891249",
-      "titulo": "Tênis Olympikus Zex 2 Masculino",
-      "de": 249.99,
-      "por": 161.99,
-      "desconto": 35,
-      "imagem": "https://m.media-amazon.com/images/I/5190JDleDFL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DWCB2LYH?tag=promoninja0c3-20",
-      "cupom": "ALOCUPOM",
-      "loja": "amazon",
-      "categoria": "Moda",
-      "data": "2026-06-28T22:03:50.899806+00:00",
-      "slug": "tenis-olympikus-zex-2-masculino",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-zex-2-masculino.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 30,
       "nota_qualidade": 7
     },
     {
@@ -920,7 +901,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMzfY7NuqoHn4J5oGnCTlEkokU2lIJSkMZmgSSiIuIJlRRr1zHywwakBgWLxSsKrETyCVho6wugAH5lrF4a8GR1BN4HK7DjfrtpfSL1sy063TJAajkrYiIdQoC4yv0mqCgxuxnO9oLLiM5Pxz949BWx4SLAF9YNYHTShmtBDskTtKBhG3xf4eRN4JJaPJCGbntR1i95soKdxKWoZSF10uMOetWxIyECCuDnDiygDKQ379A0dlNyYiNf96RImVBjkW9z7NseQuBE9DVsDP6E2zqplFXH45NNlAN44Ml92hCqCn166p8wZA2TZHlWgLyQJIJm6u1bmBkiogkNWsSQmtywYVj2qpO1CrGBzr3C7EkSGJXK272CnycK6I6TnzkcvNEFevwZiR4uCkrJaqowKbLQtU4jy7tsBE79BIsarBUS5825lhqG1iHtIoByn1XXObIHkUFNLpwURFneQY42J57rdqbeYvYF3wq5Y9AEIQ",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNZH6m2vdFE3V48J5he86rKBZXnsXK5lttZj5Jw5rZvZtgQ7lhXzuxMsrYrNibkTmVS4waQXbo4lJjMqN9pLVLU1G3Cc6oyPymba4FSNmQWHnPwBLrq9GHqp6CyfgnCdWJQSCrGcDVtxb0Jco7k9qTMaJpF0pzJI4wOpZAU816aO9GC9mAyOv13ZJI676rDjMBWFWKy0a5QZZZ0OGCNVRW6AlnTWKrquh1Z3QhsXw02KREU7TdGI9JGoaw17q3ijCrYDotKcFxEXTz7xEggQu8ZZIEPZe7f3HJ5i61aVadvG9xPzEiO1mfflDLfDS9UuhhA0o8NYqhf2x1BSmoLMU4u7JkTY3H3FfFzZ2kf3VJLYCNQfjLHlMDM3lya3osWPuu6MHkkzNYouj0pZAcgFRRODxiD96V9oxZEQ5LvrsDMEXLqJKCUryawAzIH10sFnOlsOPbmGPgvUZMBdBJf2kXVXy0tndPVHRN9K0Zr26",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
