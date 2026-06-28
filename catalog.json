@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-28T17:01:34.716946+00:00",
+  "atualizado": "2026-06-28T17:06:35.113614+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-137494",
+      "titulo": "Jogo De Banho E Rosto 4 Pçs Algodão Venus Select Camesa Lisa Piscina Claro Com Piscina Escuro",
+      "de": 119.9,
+      "por": 63.92,
+      "desconto": 47,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_bNXC70P.jpg",
+      "link": "https://meli.la/1mUDMBR",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Casa",
+      "data": "2026-06-28T17:06:35.113614+00:00",
+      "slug": "jogo-de-banho-e-rosto-4-pcs-algodao-venus-select-camesa-lisa-piscina-claro",
+      "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-banho-e-rosto-4-pcs-algodao-venus-select-camesa-lisa-piscina-claro.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 151,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-146080",
       "titulo": "Gabinete Armário Banheiro 50cm Branco Cuba Redonda Suspenso Lavabo Lavatório Pia",
@@ -55,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-6-pares-meias-puma-cano-medio-alto-atoalhada-original.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 30,
+      "vendas": 51,
       "nota_qualidade": 8
     },
     {
@@ -93,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 16,
-      "vendas": 4343,
+      "vendas": 4346,
       "nota_qualidade": 7
     },
     {
@@ -302,7 +321,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-masculino-progress-lite-fila.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 2375,
+      "vendas": 2390,
       "nota_qualidade": 7
     },
     {
