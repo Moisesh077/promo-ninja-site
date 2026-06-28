@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-28T17:57:57.822037+00:00",
+  "atualizado": "2026-06-28T18:02:57.881059+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-146680",
+      "titulo": "Kit 4 Cabide Para Saia Multifuncional Calças Retrátil Aço",
+      "de": 89.9,
+      "por": 55.99,
+      "desconto": 38,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_xRW6t8i.jpg",
+      "link": "https://meli.la/1hvptbU",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Informática",
+      "data": "2026-06-28T18:02:57.881059+00:00",
+      "slug": "kit-4-cabide-para-saia-multifuncional-calcas-retratil-aco",
+      "page_url": "https://promoninjaofertas.github.io/produto/kit-4-cabide-para-saia-multifuncional-calcas-retratil-aco.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-137410",
       "titulo": "Kit 2 Camisetas Oversized Masculina Texturizado Premium",
