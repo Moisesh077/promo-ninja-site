@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-28T19:04:36.181094+00:00",
+  "atualizado": "2026-06-28T19:09:50.712098+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-136499",
+      "titulo": "Ilía Flor De Laranjeira 50ml Deo Parfum Feminino Natura",
+      "de": 173.9,
+      "por": 76.46,
+      "desconto": 56,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/NATBRA-21864_1_T5y139J_Z6CaqJf_v4JFkbV.jpg",
+      "link": "https://meli.la/1rpnjag",
+      "cupom": "7DO7ENTREGASFULL",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-06-28T19:09:50.712098+00:00",
+      "slug": "ilia-flor-de-laranjeira-50ml-deo-parfum-feminino-natura",
+      "page_url": "https://promoninjaofertas.github.io/produto/ilia-flor-de-laranjeira-50ml-deo-parfum-feminino-natura.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 2,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-146565",
       "titulo": "Botica 214 Arabian Oasis Edp Masculino - Boticário 90ml",
@@ -416,7 +435,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 16,
-      "vendas": 4380,
+      "vendas": 4384,
       "nota_qualidade": 7
     },
     {
@@ -722,25 +741,6 @@
       "avaliacoes": null,
       "vendas": 271,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-89745",
-      "titulo": "Tênis Masculino Skyrocket Lite Puma",
-      "de": 349.99,
-      "por": 145.34,
-      "desconto": 58,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_920849-MLB77483427725_072024-O_gUUz6Ud.webp",
-      "link": "https://meli.la/24Uyhg6",
-      "cupom": "7D07SITETODO",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-06-27T19:08:08.320353+00:00",
-      "slug": "tenis-masculino-skyrocket-lite-puma",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-masculino-skyrocket-lite-puma.html",
-      "avaliacao": null,
-      "avaliacoes": 5,
-      "vendas": 165,
-      "nota_qualidade": 9
     }
   ]
 }
