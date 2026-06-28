@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-06-28T22:08:57.775573+00:00",
+  "atualizado": "2026-06-28T22:14:06.515867+00:00",
   "ofertas": [
-    {
-      "source_id": "2891256",
-      "titulo": "Smartphone Samsung Galaxy A07 256gb, 8gb, Câm. 50mp, Tela 6.7\"- Preto",
-      "de": 1199.0,
-      "por": 798.9,
-      "desconto": 33,
-      "imagem": "https://m.media-amazon.com/images/I/61AYtRHD0SL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FPHX81RQ?tag=promoninja0c3-20",
-      "cupom": "ALOCUPOM",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-28T22:08:57.775573+00:00",
-      "slug": "smartphone-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-6-7-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-6-7-preto.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 15,
-      "nota_qualidade": 7
-    },
     {
       "source_id": "2891249",
       "titulo": "Tênis Olympikus Zex 2 Masculino",
@@ -38,25 +19,6 @@
       "avaliacoes": 1,
       "vendas": 30,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "2891251",
-      "titulo": "Smartphone Motorola Moto G06-128gb 12gb (4gb Ram + 8gb Ram Boost) E Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9\" - Laranja",
-      "de": 999.0,
-      "por": 583.2,
-      "desconto": 42,
-      "imagem": "https://m.media-amazon.com/images/I/51FCuOjQjWL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FR5GNJDB?tag=promoninja0c3-20",
-      "cupom": "ALOCUPOM",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-28T22:03:50.899806+00:00",
-      "slug": "smartphone-motorola-moto-g06-128gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g06-128gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 20,
-      "nota_qualidade": 8
     },
     {
       "source_id": "58255159172",
@@ -1045,25 +1007,6 @@
       "avaliacoes": null,
       "vendas": 945,
       "nota_qualidade": 10
-    },
-    {
-      "source_id": "pechinchou-145703",
-      "titulo": "Escrivaninha Mesa Para Computador Gamer Cor Preto",
-      "de": 151.99,
-      "por": 89.49,
-      "desconto": 41,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_jdS3G43.jpg",
-      "link": "https://meli.la/2a22Min",
-      "cupom": "MELIHOJE",
-      "loja": "mercadolivre",
-      "categoria": "Casa",
-      "data": "2026-06-27T22:13:39.974832+00:00",
-      "slug": "escrivaninha-mesa-para-computador-gamer-cor-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/escrivaninha-mesa-para-computador-gamer-cor-preto.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 2543,
-      "nota_qualidade": 7
     }
   ]
 }
