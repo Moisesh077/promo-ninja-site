@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-28T03:00:57.981488+00:00",
+  "atualizado": "2026-06-28T03:05:59.883492+00:00",
   "ofertas": [
     {
       "source_id": "2890499",
@@ -19,25 +19,6 @@
       "avaliacoes": 1,
       "vendas": 50,
       "nota_qualidade": 8
-    },
-    {
-      "source_id": "2890583",
-      "titulo": "Cooktop a Gás 4 Bocas Mondial",
-      "de": 499.9,
-      "por": 301.05,
-      "desconto": 40,
-      "imagem": "https://m.media-amazon.com/images/I/517E2Ia2cWL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B085JFRRSW?tag=promoninja0c3-20",
-      "cupom": "BORALEVAR",
-      "loja": "amazon",
-      "categoria": "Eletrodomésticos",
-      "data": "2026-06-28T03:00:57.981488+00:00",
-      "slug": "cooktop-a-gas-4-bocas-mondial",
-      "page_url": "https://promoninjaofertas.github.io/produto/cooktop-a-gas-4-bocas-mondial.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 10,
-      "nota_qualidade": 7
     },
     {
       "source_id": "58206670114",
@@ -559,7 +540,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMvEryRk1EvwfaWBNu1TkxDeLFOzdJSVCa6A3IjvlwXXh5Cb54QbPen0ubRnb3fUWdYjkidvK5BeJjaXubBwFr9AlPcO0b6IyuNYqJuyM1mqh0hL4dpvHKKoVMiPbmN7VPDonbQ4jNT1DxHvSPdCJzxTaNGFmawDLtakacXqaHA2TeqvWr0UQjHu7BTE4Z4UFx8Nn7ICyyyjMiOogqJXh9DtgKHF02j9hLjNjNJLBP9v0pC06uYI5dw9VOazwxpDMVtZQ7ngo2bLli0kuV5VKmdeVFh1lzpM21Ad3wKz4pvlFj3fERmfmm2ZrIe35mL3w3wZddNxUELxwtuAI3r3wIJb3dYwVaEsccPBOp7TCdyigBT1G20OzPeuMG4QqB8Aq51KIZBT6VMWQcua69mFeclRgGLUoey2x9fJzrDVmFHbFDBtSAxa6L6LViAuOI3YsxPJjNzUfkI9PH078PA5L757Z8yT5N4TebPQ5AOWm",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNrr5s8lf2BbjH1RFShTeIJyeGaZ5IxGmk2DsMy1fGwyq83GziyVr33qmKQhhNyOvsOidEgdbF8qvqXseL77jVNzXd1DsGv324WZ9ekrbWTUIPQSjefNjPQHfKXHiYYQOchfPdaor9lNRIGvdipV8rPBDNMrnWCatiAFGfzW35vhlxhbiLY4KfiNPdzGQxStKP8PePRmlMzrV6VpXAxf61H82SAlj3xkt3mWq5RzvIE6cVJwlmyABqC7d58xZ1WRC6MRFb8mGAeo631YbI4vXSgRfWF9vKIy9vgO4rcHJN7z63yxcDeNKrJGKODdnBL7OfA8MzNh6ZM2NXMC82FaLp76yCFIKJr7DN9eGDhNVqaHKp6mcKT7nbkB5QLUCpJxfNl6cGwxqUBB45UZDDjC3M4RtaKnWdHICZ08twQB14KfLp6ufWdIJs4PXzGEZax7dBJAdHMqatpSfG2ztDhY6oRjfBkBx9cEk3q2lZ0Om",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
