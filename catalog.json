@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-28T19:55:58.716771+00:00",
+  "atualizado": "2026-06-28T20:00:59.703891+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-135217",
+      "titulo": "O Boticário The Blend Bourbon Eau De Parfum 100ml",
+      "de": 359.9,
+      "por": 259.13,
+      "desconto": 28,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_693022-MLA107407032828_032026-O.webp",
+      "link": "https://meli.la/2tE5G2M",
+      "cupom": "LOUCOFUT",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-06-28T20:00:59.703891+00:00",
+      "slug": "o-boticario-the-blend-bourbon-eau-de-parfum-100ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/o-boticario-the-blend-bourbon-eau-de-parfum-100ml.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-87261",
       "titulo": "Air Fryer Britânia 4,2L Dura Mais 1500W BFR38 127V",
@@ -521,7 +540,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMvef9CElxmqXA3MqFU8Rb8UbL65DSYxUCSZprx8aqtO6WRuiUglSHdVbAmIvgnELbtpsIrv2LzdV1Po1fHYxfPB5RV7F6aG5bNQLLG4mZlFrBpfvJrvKKgBZoyU6mGUCUTJ3NUeQ0GHy8wvUrQYQ35LCgMMJUkCTQM2cybWNSBBKs0D3Rum2WVwW67ltBwTJQ3eqUYUOdM4am3NPuVLfr0Towq4NA5Imo3AFLJx19BwlWUosTet9inC49UdZ9UjqTml3yddZvwMohs8itOiIdnHV2FpaGsI4yYyCh8TLdJP55aazN3zGH0HpjDA0itkmlu7Ub6jjgk1I6CLEhYJ8ZqAN0HGtsJg9XK9g45i2AA7gfJlrVzm0bnh8HlOTS9vgo6VkdNELLBZ8KTg8OFz8KekPcOJ7LFq9v6YqLNgHFeRTpl5qfl2VQq8mABdgQIG63LdWKsbdecYX0KyksrD2Ni0qa2JGHeN767hqxFB4",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMzU2cH1Jorcu44V3YFFbszHHmTAFtt1xa9hTqJsWVgJe9j8O5yYD4mpXjVsXKneugPm95VYt2a6m6H1tnRVhHTPvkUykglyfs7R9jaEFrvJgtAzJY2bzOE1tkZtAtbXNkYtPBeqnTKcvx35nYblRePjkBZvQrj9FXs5FWfmCXEoHx4kj2K7AW7Gt1Cxu8oYN72QtajGPMGKvDvTaHuTvp6CGVXeAMYP8G32eorX2AtKthNRcSLJcqTBmo7Yhv0US26k6dGMqGRuoJRsN40CggzunEJey8FxLPzohjb5J8M7X74C1AzYlc9G5DYI2HVXzNqo9fqZB8Ve2VhElXgHuLD5q8DHdhniPBZfVXRKySAdVC6ZPVTSWOkMxdRo0C223IGSzymvT8DTWE2wqIyTTahsMZDEpl2BjUb5UX3BkQth4dcvyc8erXmURZhFEqYge4HiRKxEqv7kJNAhjjfX30j4l7jzh9cAFhxPfjdWK",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
