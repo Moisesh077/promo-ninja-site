@@ -1,6 +1,44 @@
 {
-  "atualizado": "2026-06-28T18:59:27.871129+00:00",
+  "atualizado": "2026-06-28T19:04:36.181094+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-146565",
+      "titulo": "Botica 214 Arabian Oasis Edp Masculino - Boticário 90ml",
+      "de": 239.9,
+      "por": 149.33,
+      "desconto": 38,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_648685-MLA111900968843_052026-O.webp",
+      "link": "https://meli.la/134SfjC",
+      "cupom": "LOUCOFUT",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-06-28T19:04:36.181094+00:00",
+      "slug": "botica-214-arabian-oasis-edp-masculino-boticario-90ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/botica-214-arabian-oasis-edp-masculino-boticario-90ml.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "pechinchou-49796",
+      "titulo": "Robô Aspirador De Pó Wap Robot W90 Pérola Automático 3 Em 1",
+      "de": 409.9,
+      "por": 228.65,
+      "desconto": 44,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/teste_IMoOl8s.png",
+      "link": "https://meli.la/2XAwaju",
+      "cupom": "OFERTASMELI",
+      "loja": "mercadolivre",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-06-28T19:04:36.181094+00:00",
+      "slug": "robo-aspirador-de-po-wap-robot-w90-perola-automatico-3-em-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/robo-aspirador-de-po-wap-robot-w90-perola-automatico-3-em-1.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 2,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-51934",
       "titulo": "Agratto Fogão eletrico de mesa 2 pratos FMP-02 preto 220V 2500W",
@@ -17,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/agratto-fogao-eletrico-de-mesa-2-pratos-fmp-02-preto-220v-2500w.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 135,
+      "vendas": 176,
       "nota_qualidade": 7
     },
     {
@@ -74,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/panela-de-pressao-philco-ppp02pi-inox-multifuncional-5l-cor-preto.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 23,
+      "vendas": 24,
       "nota_qualidade": 8
     },
     {
