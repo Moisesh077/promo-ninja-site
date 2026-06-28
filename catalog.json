@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-28T20:06:09.317241+00:00",
+  "atualizado": "2026-06-28T20:11:20.709777+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-146770",
@@ -816,25 +816,6 @@
       "avaliacao": null,
       "avaliacoes": 3,
       "vendas": 1733,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-146691",
-      "titulo": "Bicicleta Ergométrica Fitness Para Cardio E Musculação Com Base Cor Preto E Vermelho Marca Sevenfit",
-      "de": 630.0,
-      "por": 389.75,
-      "desconto": 38,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_648742-MLA112544780466_062026-O.webp",
-      "link": "https://meli.la/1d5dorZ",
-      "cupom": "APROVEITAHOJE",
-      "loja": "mercadolivre",
-      "categoria": "Pet",
-      "data": "2026-06-27T20:09:06.512221+00:00",
-      "slug": "bicicleta-ergometrica-fitness-para-cardio-e-musculacao-com-base-cor-preto-e-vermelho-m",
-      "page_url": "https://promoninjaofertas.github.io/produto/bicicleta-ergometrica-fitness-para-cardio-e-musculacao-com-base-cor-preto-e-vermelho-m.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 1595,
       "nota_qualidade": 7
     }
   ]
