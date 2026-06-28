@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-06-28T06:11:01.578528+00:00",
+  "atualizado": "2026-06-28T06:16:06.990058+00:00",
   "ofertas": [
-    {
-      "source_id": "2890499",
-      "titulo": "Fone de Ouvido Samsung Galaxy Buds Core",
-      "de": 349.0,
-      "por": 186.06,
-      "desconto": 47,
-      "imagem": "https://m.media-amazon.com/images/I/31zLQOfTQ2L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FP8T2RDC?tag=promoninja0c3-20",
-      "cupom": "CURTEAI",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-28T06:11:01.578528+00:00",
-      "slug": "fone-de-ouvido-samsung-galaxy-buds-core",
-      "page_url": "https://promoninjaofertas.github.io/produto/fone-de-ouvido-samsung-galaxy-buds-core.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 60,
-      "nota_qualidade": 8
-    },
     {
       "source_id": "1005008405990173",
       "titulo": "Eixo de Mandril para Chave de Impacto 1/2 com Luva, Peça de Reposição para Chave Elétrica, Conjunto de Cabeça de Conversão para Parafusadeira Parkside B3 C3 D3",
@@ -559,7 +540,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNfXlchetT4XiuOAiJ4ePCU9XptsXoImBC28L9Odr4nAZ4sda8FCeIJEtDpAsEH1CEZBII6uEZSAamIgKZdWuKny8Y0DR9rUzE6J2WWkcrbNuPkAb4i1AeNxk0x3Nn05xjEvdlfij2KR1uMWuuAdqYTtRhhE7McCWg6MbanSIE0jhwWiDngNTppKB20FvKxXhk5IV7nuNK6kWlOGurZPUCRINmsohuo0CzgQyWHU16jhEjiNKhhUgqiOEck5BVR5WdeBTAImjA1G0B0GOCUsmu0LxhWdJiMncZneDbM81H5ofaxPekNg3uaxiPWUyjoVBO6T2AMIlm1ix1tqhnkn9yMKY0KkuxmSMOzcGwddHAk0uQe8D3L5gAzPrveFwXJ6p02LHYjxiSuIgKQKQ4mAwdLkIXNMRSKqGy74G4AYPqA5I9pq2sjUqJ5vMYgv5egRjP5H9TdvR8cRDHehfnrBbYaIpp9k6vGA5oG8UAH4O",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNr4IQIbf60SiqTE7fPc4uQMbtteo8zKRtUdTUBjNZYgouVDY98YWUwGbHmbyDY4DDYDUOdPCzgP4m9RiOOE6u9dq9J4SKedciQ3mQSoQ57z4qPAR2uC4Ituxi4PuMLvx1YBVnWePnlvEdxnwIIWgYzxlVKTMkHBYJQ9utaH191KxG856vp9ZbHhWut0i8Mk6z0sWqwYWSSBaGbzH2V75Rd3lT8VKDuuaxZ3VuWRHAcYMy1F2IzoclcGGVtVIKCv5eJTC79rFVeKOrDXgZw9KtAUiAirr9FgqtcwDojFnUZK9zaeZX7i69pBjAH39gyTiv1qST8dvyLqXuqaOwG6Ta3WmWsSx92O00hGQxpMvWHWxT654OMEDlfjG1CofK0hPofdZQlVIRLSqalHgnxNEoanIoqDv1j2oFaSTJey1vfIj70GVD70mN0l54OTZfUBDXmoDIt9qrCDSohuiavvYDYkzYmFdXnm3B2TTrNLc",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
