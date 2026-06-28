@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-06-28T23:46:22.671981+00:00",
+  "atualizado": "2026-06-28T23:51:25.492304+00:00",
   "ofertas": [
-    {
-      "source_id": "2891249",
-      "titulo": "Tênis Olympikus Zex 2 Masculino",
-      "de": 249.99,
-      "por": 161.99,
-      "desconto": 35,
-      "imagem": "https://m.media-amazon.com/images/I/5190JDleDFL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DWCB2LYH?tag=promoninja0c3-20",
-      "cupom": "ALOCUPOM",
-      "loja": "amazon",
-      "categoria": "Moda",
-      "data": "2026-06-28T23:46:22.671981+00:00",
-      "slug": "tenis-olympikus-zex-2-masculino",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-zex-2-masculino.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 40,
-      "nota_qualidade": 7
-    },
     {
       "source_id": "pechinchou-133810",
       "titulo": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless – Preta",
@@ -112,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-mizuno-city-wall.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 180,
+      "vendas": 195,
       "nota_qualidade": 7
     },
     {
@@ -1034,7 +1015,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMjSpClsMOWGFlHHx2X05QlqA5D3gXqfqzWLaoj33pMh5Lm5qb00fCxOtlz7veE0kJCfKh9HXYSRehlSLQ9i2Sfvw4DmgbW9LNSHzopLPC8UkF40aOd5e7zJWPshCTV5CEBx4OKG6emUfMkdygDuF6lFR0XZFQUvFYaVHcq1QeVy2gdHGfK1BaP2bzmWRRnxxkzMEd1RV04EEd1oS9QfiHtARKk0N2hGSHSCbD807DsAt2rKKDyZ1MutPddYhM7iglqotzLuyQAtTxMjgNjBw8RBisbfF90DVnjK9OjAr4BCghSirwfp2yaLMYHAKqp1bTXgQramvraabYNHxc6bKepw6bxUYidDSCFIfDw7v7sBAiufM7tpYFEbSh1v6zfSl86tyywSNiyjdbynxs7hvPKaz5DCfTTgiaq6EQSEx81p3yY0oNKjVG0kyr0fjicw2jaLEmlArBI2pDvAEN0Lk9LIslMMWaseXbKqKbyOO",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPND4zu1NE0xXguTsPTuIVOBRUS96GxLbIzlpab1YJEcafXQ6NiibD7nIFvTQXE0vFfKlwYtX5URFS0KuuqZ6FbbVgE373d9pcSi24VyPkmxb78sqAkeAUXoQ5plWCIkvkouyv9PSAcQeKzIC9d9KqJpO3arGhTI8unTMTQu67KM2q6xi2Qfysxuh2mom22mT1mYBVTy0LBTogjBLlhfvupG57sYUR3mVOLDawXCmFFgwM8WBbJ0PNhG6eSZa5PjjDnjNCRe4UO07uwQDR7rvHrHVbDV9o2pKmMJ68co6B3tYZY0EBA75CeeaffOUZtJCWSo0XBv082VeUqoyzgZbaGsI5l8kVQ1DmGQhyYBURbot6fC45QkKUJNOjoH0iqhHAmbrCs13mo7KHo0I4nyRVqXa7P2wowm0BgOSrMtrzlFuyBHUjPNu79VNY4LRTLKBiAujXfXN8fsqHFqm6jumrZKiIj1Oiwb3mNTuFHk7u",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -1043,7 +1024,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fifine-microfone-dinamico-usb-xlr-com-controle-rgb-jack-de-fone-de-ouvido-mudo.html",
       "avaliacao": 4.9350000000000005,
       "avaliacoes": null,
-      "vendas": 16897,
+      "vendas": 16898,
       "nota_qualidade": 8
     },
     {
