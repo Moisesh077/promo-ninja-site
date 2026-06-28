@@ -1,6 +1,63 @@
 {
-  "atualizado": "2026-06-28T20:26:57.800214+00:00",
+  "atualizado": "2026-06-28T20:32:10.721853+00:00",
   "ofertas": [
+    {
+      "source_id": "2891249",
+      "titulo": "Tênis Olympikus Zex 2 Masculino",
+      "de": 249.99,
+      "por": 161.99,
+      "desconto": 35,
+      "imagem": "https://m.media-amazon.com/images/I/5190JDleDFL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DWCB2LYH?tag=promoninja0c3-20",
+      "cupom": "ALOCUPOM",
+      "loja": "amazon",
+      "categoria": "Moda",
+      "data": "2026-06-28T20:32:10.721853+00:00",
+      "slug": "tenis-olympikus-zex-2-masculino",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-zex-2-masculino.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 15,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "2891251",
+      "titulo": "Smartphone Motorola Moto G06-128gb 12gb (4gb Ram + 8gb Ram Boost) E Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9\" - Laranja",
+      "de": 999.0,
+      "por": 583.2,
+      "desconto": 42,
+      "imagem": "https://m.media-amazon.com/images/I/51FCuOjQjWL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FR5GNJDB?tag=promoninja0c3-20",
+      "cupom": "ALOCUPOM",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-28T20:32:10.721853+00:00",
+      "slug": "smartphone-motorola-moto-g06-128gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g06-128gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 10,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "2891256",
+      "titulo": "Smartphone Samsung Galaxy A07 256gb, 8gb, Câm. 50mp, Tela 6.7\"- Preto",
+      "de": 1199.0,
+      "por": 798.9,
+      "desconto": 33,
+      "imagem": "https://m.media-amazon.com/images/I/61AYtRHD0SL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FPHX81RQ?tag=promoninja0c3-20",
+      "cupom": "ALOCUPOM",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-28T20:32:10.721853+00:00",
+      "slug": "smartphone-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-6-7-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-6-7-preto.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 10,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-144773",
       "titulo": "Aparelho de Jantar Canyon em Porcelana Decorada 20 Peças Tramontina",
@@ -17,8 +74,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/aparelho-de-jantar-canyon-em-porcelana-decorada-20-pecas-tramontina.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 9
+      "vendas": 9,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-146640",
@@ -55,8 +112,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/camera-lampada-de-seguranca-casenn-ip-wifi-com-visao-noturna-interna-externa-app-yoose.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 35,
-      "nota_qualidade": 7
+      "vendas": 110,
+      "nota_qualidade": 9
     },
     {
       "source_id": "pechinchou-135217",
@@ -74,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/o-boticario-the-blend-bourbon-eau-de-parfum-100ml.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 46,
+      "vendas": 60,
       "nota_qualidade": 7
     },
     {
@@ -606,7 +663,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 16,
-      "vendas": 4407,
+      "vendas": 4408,
       "nota_qualidade": 7
     },
     {
@@ -816,25 +873,6 @@
       "avaliacao": null,
       "avaliacoes": 4,
       "vendas": 2423,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-147208",
-      "titulo": "Drone S103 Pro 2 Câmeras 2 Baterias Com App E Controle Blue",
-      "de": 199.99,
-      "por": 160.07,
-      "desconto": 20,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_934153-MLA110646055136_052026-O.webp",
-      "link": "https://meli.la/2AvFAHe",
-      "cupom": "MELIACHA",
-      "loja": "mercadolivre",
-      "categoria": "TV e Eletronicos",
-      "data": "2026-06-27T20:29:17.594184+00:00",
-      "slug": "drone-s103-pro-2-cameras-2-baterias-com-app-e-controle-blue",
-      "page_url": "https://promoninjaofertas.github.io/produto/drone-s103-pro-2-cameras-2-baterias-com-app-e-controle-blue.html",
-      "avaliacao": null,
-      "avaliacoes": 3,
-      "vendas": 1733,
       "nota_qualidade": 7
     }
   ]
