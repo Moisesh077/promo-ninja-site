@@ -1,6 +1,44 @@
 {
-  "atualizado": "2026-06-28T19:30:20.721458+00:00",
+  "atualizado": "2026-06-28T19:35:40.714704+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-136713",
+      "titulo": "Smartphone Motorola Moto G06-128gb 12gb (4gb Ram + 8gb Ram Boost) E Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9\" - Laranja",
+      "de": 999.0,
+      "por": 583.2,
+      "desconto": 42,
+      "imagem": "https://m.media-amazon.com/images/I/51FCuOjQjWL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FR5GNJDB?tag=promoninja0c3-20",
+      "cupom": "ALOCUPOM",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-28T19:35:40.714704+00:00",
+      "slug": "smartphone-motorola-moto-g06-128gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g06-128gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp.html",
+      "avaliacao": null,
+      "avaliacoes": 7,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "pechinchou-112003",
+      "titulo": "O Boticário Floratta Red Passion Eau De Parfum 75ml",
+      "de": 219.99,
+      "por": 133.28,
+      "desconto": 39,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_668945-MLA82336789277_022025-O.webp",
+      "link": "https://meli.la/1csUzFT",
+      "cupom": "OFERTASMELI",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-06-28T19:35:40.714704+00:00",
+      "slug": "o-boticario-floratta-red-passion-eau-de-parfum-75ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/o-boticario-floratta-red-passion-eau-de-parfum-75ml.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 9
+    },
     {
       "source_id": "pechinchou-133464",
       "titulo": "Máquina De Cortar Cabelo Fazer Barba Barbeador Acabamento Pelo B-Max Bmc036 5 Em 1 Cor Preto",
@@ -74,8 +112,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/ilia-flor-de-laranjeira-50ml-deo-parfum-feminino-natura.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 33,
-      "nota_qualidade": 8
+      "vendas": 106,
+      "nota_qualidade": 10
     },
     {
       "source_id": "pechinchou-146565",
@@ -112,7 +150,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/robo-aspirador-de-po-wap-robot-w90-perola-automatico-3-em-1.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 25,
+      "vendas": 44,
       "nota_qualidade": 7
     },
     {
@@ -464,7 +502,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMutzT5vD4Me0mBoJOM1r2amKPQ72REgDhVRz9XbCqmCWG8ZK66gHOnBTj5vyfKhcPFlNGZWofNVK5xQAUohgI70YNmtrxTuHE10f2d55Fd1IVzMYI7UOMHa7MmqscM7NOvGPrtx6t7zzvcVzf2BAR2JnRTZGsdip9JHeD6CVwex1jcwwO6hgvxYVM9wo5AHNPBIIwtv6Wa64yg7xD53CejtZ9S5YMLyHwlsuhuGRGmKd5OjnacwlADHf0CXCKB7O49gFKoOZN6lfGxmxu8UMrxZQBJz8mLBIexklz0uYqCwZhJpjTqJxJ2UPw5IG6L9XVf8DdtJcwYnyR8SpShSnY283Rsgi6na5Jsa375WQ60RpcRo8VoeRcIzrxMfDYRPHDxi8jnMFz5sacUFT6x0QRgAX8Eub4WjSn3I63PSVBLzGem7g8c3C59A2bnJRajOX9DfUqCuQhJHxIZinpNofmRYdNC7vnk75tBG5cboQ",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNGbESlHXLRw4a6sZnhvK5ivUm6l2LsF3DBbeNw8TDPuzerGyJ5TE7v9hWK2usi3CRJPcclwPjWdhVh2o5kdmnmWTvroOMQkEnfX7UtwyjR1mubFXqHhJwLrLbxqblu4F9cFjCQ1FWp3JDVwfqJAXoRUD3hyontCZwDQIGj2CSxMVPbgOCwiYToNkHjWTFTX9cZ7svVO8oG9YtU5N5yPJuxrL1G9wGIK6AIkkvMbViIosjOSbXJSNqp3C27QpRTeRb0vFiEDNE8JDZx79YLAz6OXcPM5Izyv851ShHkXHqzX8FCqmFRSHszxOcD3DyZlJL2lNWyGCERK5yBjwMQhWhsPpGQVMvvOimKmgdmh8BMSg9PBk7pTc29jFc8zjFEcoAlPVsJmHE1S6dyWWY77NheruvtSfDKcUIRBScD8X4KgMVF1HAOIGqEvOtM4Dx0weEFBEFdQ88HfXPGdt3YStZnGXuL7grBd44hxRe7n8",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -606,7 +644,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fones-de-ouvido-sem-fio-bluetooth-compactos-xiaomi-redmi-airdots-com-estojo-recarregav.html",
       "avaliacao": 4.8,
       "avaliacoes": null,
-      "vendas": 5465,
+      "vendas": 5469,
       "nota_qualidade": 10
     },
     {
