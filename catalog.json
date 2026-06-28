@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-28T20:16:40.720646+00:00",
+  "atualizado": "2026-06-28T20:21:43.525486+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-146640",
+      "titulo": "Torneira Cozinha Bancada Inox 304 Água Fria Bica Alta Gourmet 4 Modos De Água Estilo Cascata Torneira Pia Cozinha Moderna, Torneira Flexivel, Torneira De Cozinha Premium Para Cuba",
+      "de": 141.4,
+      "por": 78.4,
+      "desconto": 45,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_a2Gqkkk.jpg",
+      "link": "https://meli.la/1RZinSF",
+      "cupom": "DECORAÇÃO",
+      "loja": "mercadolivre",
+      "categoria": "Casa",
+      "data": "2026-06-28T20:21:43.525486+00:00",
+      "slug": "torneira-cozinha-bancada-inox-304-agua-fria-bica-alta-gourmet-4-modos-de-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/torneira-cozinha-bancada-inox-304-agua-fria-bica-alta-gourmet-4-modos-de-agua.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-146770",
       "titulo": "Câmera Lampada De Segurança Casenn Ip Wifi Com Visão Noturna Interna Externa App Yoosee Espiã 360º Cor Branco",
@@ -17,8 +36,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/camera-lampada-de-seguranca-casenn-ip-wifi-com-visao-noturna-interna-externa-app-yoose.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 35,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-135217",
@@ -227,25 +246,6 @@
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": 176,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-146000",
-      "titulo": "Torneira Cozinha Bancada Monocomando Flexível De Pia Gourmet",
-      "de": 149.99,
-      "por": 75.55,
-      "desconto": 50,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_780342-MLB91759681791_092025-O.webp",
-      "link": "https://meli.la/1YStt8U",
-      "cupom": "CASAHOJE",
-      "loja": "mercadolivre",
-      "categoria": "Casa",
-      "data": "2026-06-28T18:44:10.817817+00:00",
-      "slug": "torneira-cozinha-bancada-monocomando-flexivel-de-pia-gourmet",
-      "page_url": "https://promoninjaofertas.github.io/produto/torneira-cozinha-bancada-monocomando-flexivel-de-pia-gourmet.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
       "nota_qualidade": 7
     },
     {
@@ -559,7 +559,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNCWiUth7qi6hoXs57kCwfTjkqjeuFc9LqynrARaJ1MYrHvluuyNEtJCEpB52jtFzH3TYxRAh5apUDVunnqJCxIDzXAj3cNuWtsE4OcFbXwvCwI50OhwnM1uuy1AhiKQrupXpfvsEibtrBgLtdrAKdXr8qMISJZyDkbtuF3kWs7uTUVrYJBzMwDOaJVJuemd8UFms2d6tvg3c7MPS5ZHD7WBvAzkKVYJX7cWQ56z3QBPoCMrKDmjueEWzvDHSGbO3Q8HpZgfNufOj9O9rR1qdwVKepDfZWAX2jqVISkK7NHLdsdinQM5DE1F7zwSiQnrpbHRjpnQZ7yCsDS2snK3HgrdwarbMxjTPIplQMqMiINQ2Hnf0PISp4pUsMLPnAqOVpfcBaJzOoWfM4SxsXTvGszoonFXjra3Pi3XxcWSXjmSnF19GvQIesuCfEcX3GoBdePLtM7yZauOul0PVLgoRYslpvjFxWrkSLjoD5cs2",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNmcLYANxWJwbJoj9GW5gDekk2xLTdi8tIZPEnfsJvnFgmN8PmwUa0jd3K2BYbyE53FxrxCpyoEMm6nBeKQ0fsdOgTOpARlu2pBpnjZvBD8wFM5EnfYsUa3C3lbNc2rOmBFzV5QPN45jE9zpsBudQ90gRgr5yjg3Hq0ymksbf6p6ODXHCASBoO6ViEqUFxkjCDTRVIq4z1gTWlXKZD1ndM5prRIebKyuJplxJx9wTXlr5p1YG4UrvWAv1mrIsVbzWuSdCZ0FVjdKdOHNLwH62zeDKIcXuVy6T4jQYiNcDRMy5L213T6tkcrLrb7tK64aKIbL8lYSUogivmWi4Ef0LJMW7w3aFRNRvok2GKRmKXe9BgwnIYwq1XDu4TXapcHzu6WS073WwZiSHldc34NfmwJr4StDyJjES315mtaxqOO9Qe804pmpVGAGVSHmChDuNbCBPZA8gGMvllFHWLzEAdT0P0n6O91kYEJ39EtvC",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
