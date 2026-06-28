@@ -1,6 +1,44 @@
 {
-  "atualizado": "2026-06-28T17:37:22.422012+00:00",
+  "atualizado": "2026-06-28T17:42:34.716904+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-137410",
+      "titulo": "Kit 2 Camisetas Oversized Masculina Texturizado Premium",
+      "de": 99.9,
+      "por": 42.41,
+      "desconto": 58,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/e1c6f1d7-593c-438e-8d22-9e964f8f664b.png",
+      "link": "https://meli.la/2iWnf4C",
+      "cupom": "VEMAPROVEITAR",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-06-28T17:42:34.716904+00:00",
+      "slug": "kit-2-camisetas-oversized-masculina-texturizado-premium",
+      "page_url": "https://promoninjaofertas.github.io/produto/kit-2-camisetas-oversized-masculina-texturizado-premium.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 125,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "pechinchou-144732",
+      "titulo": "Fechadura Digital Keltech Kt-1000 Biométrica Senha App Tuya Cor Preto",
+      "de": 435.0,
+      "por": 274.95,
+      "desconto": 37,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/teste_Ohj6bAM.png",
+      "link": "https://meli.la/1DB1sc4",
+      "cupom": "CASAHOJE",
+      "loja": "mercadolivre",
+      "categoria": "Eletrônicos",
+      "data": "2026-06-28T17:42:34.716904+00:00",
+      "slug": "fechadura-digital-keltech-kt-1000-biometrica-senha-app-tuya-cor-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/fechadura-digital-keltech-kt-1000-biometrica-senha-app-tuya-cor-preto.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 131,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-142343",
       "titulo": "[Regional] Mixer Power Inox 3 Em 1 600w Elgin Lunar 220v - Mixer, Triturador E Batedor",
@@ -17,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/regional-mixer-power-inox-3-em-1-600w-elgin-lunar-220v-mixer-triturador-e.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 4,
+      "vendas": 40,
       "nota_qualidade": 7
     },
     {
@@ -36,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-60-neo-5g-512gb-24gb-12gb-ram-12gb-ram-boost-50mp.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 129,
+      "vendas": 175,
       "nota_qualidade": 7
     },
     {
@@ -55,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/organizadora-vertical-5-prateleiras-madeira-pinus-versatil.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 273,
+      "vendas": 423,
       "nota_qualidade": 7
     },
     {
@@ -74,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-10-esmaltes-unha-gel-polygel-manicure-pedicure.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 344,
+      "vendas": 427,
       "nota_qualidade": 7
     },
     {
@@ -93,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/aspirador-de-po-vertical-com-fio-portatil-de-mao-2-em-1-com-1.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 335,
+      "vendas": 397,
       "nota_qualidade": 8
     },
     {
@@ -112,7 +150,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-banho-e-rosto-4-pcs-algodao-venus-select-camesa-lisa-piscina-claro.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 306,
+      "vendas": 345,
       "nota_qualidade": 7
     },
     {
@@ -207,7 +245,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 16,
-      "vendas": 4351,
+      "vendas": 4357,
       "nota_qualidade": 7
     },
     {
