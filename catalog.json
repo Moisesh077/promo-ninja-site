@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-29T23:50:09.598844+00:00",
+  "atualizado": "2026-06-29T23:55:16.214011+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-147205",
+      "titulo": "Nível Laser Verde 16 Linhas Autonivelante Tela Lcd 2 Bateria",
+      "de": 292.06,
+      "por": 172.32,
+      "desconto": 41,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/teste_hbes7A3.png",
+      "link": "https://meli.la/2MgCYbZ",
+      "cupom": "CUPOMOFF",
+      "loja": "mercadolivre",
+      "categoria": "Eletrônicos",
+      "data": "2026-06-29T23:55:16.214011+00:00",
+      "slug": "nivel-laser-verde-16-linhas-autonivelante-tela-lcd-2-bateria",
+      "page_url": "https://promoninjaofertas.github.io/produto/nivel-laser-verde-16-linhas-autonivelante-tela-lcd-2-bateria.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-81924",
       "titulo": "Tênis Masculino Grand Court 3.0 Adidas",
@@ -16,9 +35,9 @@
       "slug": "tenis-masculino-grand-court-3-0-adidas",
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-masculino-grand-court-3-0-adidas.html",
       "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 9
+      "avaliacoes": 1,
+      "vendas": 17,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-144528",
@@ -26,7 +45,7 @@
       "de": 4499.0,
       "por": 1924.1,
       "desconto": 57,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/61kJFrH6wML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61kJFrH6wML._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FDX5DXL9?tag=promoninja0c3-20",
       "cupom": "PRIMEDAY2026",
       "loja": "amazon",
@@ -36,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch8-classic-smartwatch-46mm-lte-galaxy-ai-branco.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 10
+      "vendas": 8,
+      "nota_qualidade": 9
     },
     {
       "source_id": "pechinchou-141321",
@@ -1138,7 +1157,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4613,
+      "vendas": 4614,
       "nota_qualidade": 7
     },
     {
@@ -1518,7 +1537,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cafe-melitta-sabor-da-fazenda-vacuo-500g.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 2230,
+      "vendas": 2245,
       "nota_qualidade": 7
     },
     {
@@ -1603,7 +1622,7 @@
       "de": 122.9,
       "por": 49.9,
       "desconto": 59,
-      "imagem": "https://m.media-amazon.com/images/I/51k9hj+RYjL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_ygwjlJd.jpg",
       "link": "https://www.amazon.com.br/dp/B0G8XBXNK8?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -1613,7 +1632,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 2336,
+      "vendas": 2340,
       "nota_qualidade": 7
     },
     {
