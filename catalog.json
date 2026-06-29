@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-29T04:17:02.484413+00:00",
+  "atualizado": "2026-06-29T04:22:11.892731+00:00",
   "ofertas": [
     {
       "source_id": "2891242",
@@ -18,25 +18,6 @@
       "avaliacao": null,
       "avaliacoes": 1,
       "vendas": 586,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "2891584",
-      "titulo": "Mouse Pad Logitech Studio Series",
-      "de": 56.9,
-      "por": 38.96,
-      "desconto": 32,
-      "imagem": "https://m.media-amazon.com/images/I/81WQsjtppYL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B09DV56338?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-06-29T04:11:52.998414+00:00",
-      "slug": "mouse-pad-logitech-studio-series",
-      "page_url": "https://promoninjaofertas.github.io/produto/mouse-pad-logitech-studio-series.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 25,
       "nota_qualidade": 7
     },
     {
@@ -255,7 +236,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiviUYhQLI9VLAi9PulDf0rB66ACFc866p85A0dbG9LfYenrPboZqmPCAvpf9gSixJlVm3PNK9qIjilgweWLNo79CrmdYxON7xkFLlwnBVczJX8UdonHiqr7wFuNZMGRBk6gLo61SqvCGEwcqHY6KHhFaBbzqAvJRq93noDntY70R2IjqLKalCqYpwJEOZuaiP02LbwkPn4IQZuFMeNLSoy7ZSyUgBn2LI2SCgqoiVLNqe1Zhc53VzdaStjNkmA9tgZTF1mPUbO61Hu14yIomYuyNu5M0HshwPrZgm4i9MfhxXNIZYw0PiAYwpZV7Wp02XyqW5PdCA0lJRagrMTlPZtj0XB4vSZC4goqfHwrx4njT0CqOt62E3H2WqqHNS9vryeFVOzQJBneEvRoIqQyHxSY4ecWJzHuhRvGOWLx8HU1NR4JAAwuZfI1KzPVWlSqvlgcmOEpbOpeFnYplcfeNoczX9SI8XJYTSJcFSSeh",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiSH7vEugr1pteJOWLpcchUPoNlc5ne3MFwMxcJmHcvDBzkrfVKV3XHa2EnmE4BJoY2e5jblVj18yzuXxOBPMz9wJuJpH4lHoqS8n5o4LNmuN84FjtBYo9jsq9RB7SdmWUqyWEWVRd9SqGV25iqoQOlLEzEZyEbcuBa1Ikauk1q5kqmOJy9nQjFvVfJvQsP5srLNMbhnj0xVN8mdnEP9mONluYEAlhtR4NhWX3fOIuId2hRoF153M7ndH7nxC6DCRBqLDtXJAkLFuwfuMUhJmNlp7LvaygMAEIrW2I7dRt4i80KRy961JxP1Rfs0bPVra40uHFnYHnNnmEDrXpspEXIT8UpyuT5knD0DaDW0O0ooSe3wBtThQWThHEwdIPQAeigLSIyKepwFI9CT3t7n9ce73621I1HvZfc4YzqxD4nTv5D6pfyCxAhhPzRmt866FJd0uot2ApMF7r5BLllKwejYNvpRG8pHCNziVz0Gl",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -1148,7 +1129,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPND2rBnRttzivKvMSc5CYM8mSliUxqusL03RJgtEzY3YC7pspPTlEInclsLQPR8WwaykUC5jEpbf7iAGPQ2HQOy20yfYmX1NCVKoUeMxBwxJYI7eKLiYc0f5po2W5zAD7ddw9MXmX7SvwCVLdVNpEQ2T7LmKhVF8xchI5oEG1NGAI85Qq2bJOrm3kQrYqvXsGLF5rZxyLe9o01TS7f5hi2PyW6CXGfHBUFrfGdZnwGPrAUy7wsdx7OQD5ZAQqFCZ9ZS9lNBHIdU1vEQYtPCHUWLSMMcvX6OSrOYGOZ4OtTEs91935dvVezwTlYDA1ZemtKbeSrcz7d7IrPZWITXbUML5UTQ90SpOvXfJ1pVyzbcvZwNTSyKAWxSmxRT1guH6n8Y1Uy7uyRCYeZ6O2l3ITy9C3GmV57ctmpi0nTA1wqwCEHV8n9GxxXem0wEZoWncMumu6NldXs9U72cGLjV1vAMqmlLZ0kgtBoTUgIrwS",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMAzdDIzkzFkalgBgoBXe1Hhde4MtSAPPkbFMbxsr7V8udsspwKSLmEKso0vl63Aw5gqUOGLlV7cFWait6gak8zUOqbWlIFCm6C0V8vSNQG41aag20BROjkDnOuYwtKvsab2QlWkmGVTMGMGV9pKqFGScuvRvnu8AU5d8Nnzbsim71j5rw4F0bKNYeGsmQmx7tR7Y36tfpyKyZZCQTQwVOmDjDX0j71mXCCEjFejNhYwt8Vo4vihDsZ3ybDx3pbsHDeHWJItfAik8UihzP17G6GHt1HyPh9TFkUEG661oRIaNRnwykk2To56Fqx1peqfsN8v9con9bzT9KMD2g6cRhcqRAS3q5Qqlicwu4JsJLpEgpfrZrMXwxyYLdotUw0weFg31b5jzn1JxKhoTsvCVxT0OwcdSFNpf3ZgRQzgfI4bPsOHP00ONxvKgNsJPssv4rlSiXq7io3HY3P3TiGjU6b1IV7nj8pygSfbYzT2w",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
