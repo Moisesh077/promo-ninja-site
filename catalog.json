@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-06-29T13:00:23.588157+00:00",
+  "atualizado": "2026-06-29T13:05:32.290888+00:00",
   "ofertas": [
-    {
-      "source_id": "2892320",
-      "titulo": "Philips Colgate Escova De Dente Elétrica SonicPro 50 Remove 600% Mais Placa Gengivas 100% Mais Saudáveis Recarregá",
-      "de": 762.17,
-      "por": 275.49,
-      "desconto": 64,
-      "imagem": "https://m.media-amazon.com/images/I/61V6xO-n7VL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B09GL5MXNV?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-06-29T13:00:23.588157+00:00",
-      "slug": "philips-colgate-escova-de-dente-eletrica-sonicpro-50-remove-600-mais-placa-gengivas-10",
-      "page_url": "https://promoninjaofertas.github.io/produto/philips-colgate-escova-de-dente-eletrica-sonicpro-50-remove-600-mais-placa-gengivas-10.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 0,
-      "nota_qualidade": 8
-    },
     {
       "source_id": "pechinchou-147841",
       "titulo": "O Boticario Coffee Man Duo Fougere Ambarado Colonia Masc 100ml",
@@ -56,25 +37,6 @@
       "avaliacao": null,
       "avaliacoes": 8,
       "vendas": 3,
-      "nota_qualidade": 8
-    },
-    {
-      "source_id": "2892057",
-      "titulo": "Placa de Vídeo ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS",
-      "de": 3373.27,
-      "por": 1536.0,
-      "desconto": 54,
-      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
-      "cupom": "CHEGOUPRIME",
-      "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-06-29T12:55:12.573659+00:00",
-      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits",
-      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 50,
       "nota_qualidade": 8
     },
     {
