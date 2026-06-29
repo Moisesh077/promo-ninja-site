@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-29T03:51:32.574485+00:00",
+  "atualizado": "2026-06-29T03:56:42.777326+00:00",
   "ofertas": [
+    {
+      "source_id": "2891584",
+      "titulo": "Mouse Pad Logitech Studio Series",
+      "de": 56.9,
+      "por": 38.96,
+      "desconto": 32,
+      "imagem": "https://m.media-amazon.com/images/I/81WQsjtppYL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B09DV56338?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-29T03:56:42.777326+00:00",
+      "slug": "mouse-pad-logitech-studio-series",
+      "page_url": "https://promoninjaofertas.github.io/produto/mouse-pad-logitech-studio-series.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 25,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "2891242",
       "titulo": "Tênis Mizuno City Wall",
@@ -17,7 +36,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-mizuno-city-wall.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 581,
+      "vendas": 586,
       "nota_qualidade": 7
     },
     {
@@ -112,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/armario-de-cozinha-multiuso-aereo-c-nicho-moderno-ajl-store.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 124,
+      "vendas": 125,
       "nota_qualidade": 7
     },
     {
@@ -188,7 +207,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-arabe-lattafa-fakhar-gold-extrait-eau-de-parfum-100ml.html",
       "avaliacao": null,
       "avaliacoes": 6,
-      "vendas": 658,
+      "vendas": 666,
       "nota_qualidade": 7
     },
     {
@@ -302,7 +321,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tramontina-flex-79167150-verde-escuro-1-2-15-m.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 97,
+      "vendas": 98,
       "nota_qualidade": 8
     },
     {
@@ -321,7 +340,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/aspirador-de-po-vertical-turbo-sweep-1350w-ho601-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 763,
+      "vendas": 770,
       "nota_qualidade": 7
     },
     {
@@ -340,7 +359,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/modulo-prateleira-porta-temperos-especiarias-papel-toalha-marrom-claro.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 548,
+      "vendas": 555,
       "nota_qualidade": 8
     },
     {
@@ -910,7 +929,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-2-camisetas-oversized-masculina-texturizado-premium.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 3372,
+      "vendas": 3386,
       "nota_qualidade": 7
     },
     {
@@ -948,7 +967,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/regional-mixer-power-inox-3-em-1-600w-elgin-lunar-220v-mixer-triturador-e.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 937,
+      "vendas": 941,
       "nota_qualidade": 9
     },
     {
