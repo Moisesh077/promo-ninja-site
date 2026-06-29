@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-29T12:50:04.092991+00:00",
+  "atualizado": "2026-06-29T12:55:12.573659+00:00",
   "ofertas": [
+    {
+      "source_id": "2892057",
+      "titulo": "Placa de Vídeo ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS",
+      "de": 3373.27,
+      "por": 1536.0,
+      "desconto": 54,
+      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
+      "cupom": "CHEGOUPRIME",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-29T12:55:12.573659+00:00",
+      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 45,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "1005008368580264",
       "titulo": "HYPERX SAVAGE Memória RAM DDR4 8GB 16GB 3200MHz 2666MHz 2400 2133 MHz Desktop 1.2V PC4-21300 25600 19200 RAM Memória DIMM para jogos",
@@ -93,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-club-120-bluetooth-show-de-luzes-a-prova-de.html",
       "avaliacao": null,
       "avaliacoes": 9,
-      "vendas": 108,
+      "vendas": 114,
       "nota_qualidade": 9
     },
     {
