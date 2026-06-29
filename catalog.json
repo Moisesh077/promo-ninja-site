@@ -1,43 +1,43 @@
 {
-  "atualizado": "2026-06-29T14:01:33.181067+00:00",
+  "atualizado": "2026-06-29T14:06:42.671979+00:00",
   "ofertas": [
     {
-      "source_id": "2892502",
-      "titulo": "Escova Dentes Elétrica Philips SonicPro 50 Recarregável",
-      "de": 762.17,
-      "por": 275.0,
-      "desconto": 64,
-      "imagem": "https://m.media-amazon.com/images/I/61V6xO-n7VL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B09GL5MXNV?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-06-29T14:01:33.181067+00:00",
-      "slug": "escova-dentes-eletrica-philips-sonicpro-50-recarregavel",
-      "page_url": "https://promoninjaofertas.github.io/produto/escova-dentes-eletrica-philips-sonicpro-50-recarregavel.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 0,
-      "nota_qualidade": 8
-    },
-    {
-      "source_id": "2892057",
-      "titulo": "Placa de Vídeo ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS",
-      "de": 3373.27,
-      "por": 1536.0,
-      "desconto": 54,
-      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
+      "source_id": "pechinchou-142485",
+      "titulo": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless – Squad",
+      "de": 3396.99,
+      "por": 2274.05,
+      "desconto": 33,
+      "imagem": "https://m.media-amazon.com/images/I/71v3HSGXNhL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FK1DZHNP?tag=promoninja0c3-20",
       "cupom": "CHEGOUPRIME",
       "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-06-29T14:01:33.181067+00:00",
-      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits",
-      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits.html",
+      "categoria": "Audio",
+      "data": "2026-06-29T14:06:42.671979+00:00",
+      "slug": "jbl-caixa-de-som-boombox-4-bluetooth-som-jbl-pro-ai-sound-boost-graves",
+      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-boombox-4-bluetooth-som-jbl-pro-ai-sound-boost-graves.html",
       "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 80,
-      "nota_qualidade": 8
+      "avaliacoes": null,
+      "vendas": 16,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "pechinchou-145391",
+      "titulo": "L'Oréal Paris Elseve Bond Repair Kit Reparação Molecular com Ácido Cítrico para Cabelos Danificados, Reconstrói Ligações e Devolve Força (Shampoo + Condicionador + Sachê Pré-Shampoo)",
+      "de": 94.69,
+      "por": 52.9,
+      "desconto": 44,
+      "imagem": "https://m.media-amazon.com/images/I/81is-MgIP+L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0F6NN7SBX?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-06-29T14:06:42.671979+00:00",
+      "slug": "l-oreal-paris-elseve-bond-repair-kit-reparacao-molecular-com-acido-citrico-para-cabelo",
+      "page_url": "https://promoninjaofertas.github.io/produto/l-oreal-paris-elseve-bond-repair-kit-reparacao-molecular-com-acido-citrico-para-cabelo.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 148,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-86290",
@@ -74,8 +74,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-lg-ai-smart-inverter-voice-9000-btus-frio-branco.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": null,
-      "nota_qualidade": 7
+      "vendas": 117,
+      "nota_qualidade": 8
     },
     {
       "source_id": "1005006965436436",
@@ -302,7 +302,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cafe-melitta-sabor-da-fazenda-vacuo-500g.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 1464,
+      "vendas": 1493,
       "nota_qualidade": 7
     },
     {
@@ -397,7 +397,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1841,
+      "vendas": 1860,
       "nota_qualidade": 7
     },
     {
@@ -496,25 +496,6 @@
       "nota_qualidade": 7
     },
     {
-      "source_id": "pechinchou-133810",
-      "titulo": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless – Preta",
-      "de": 3649.9,
-      "por": 2193.45,
-      "desconto": 40,
-      "imagem": "https://m.media-amazon.com/images/I/71FPDlwePVL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FK1NJLXB?tag=promoninja0c3-20",
-      "cupom": "CUPOMAGORA",
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-06-28T23:31:00.297777+00:00",
-      "slug": "jbl-caixa-de-som-boombox-4-bluetooth-som-jbl-pro-ai-sound-boost-graves",
-      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-boombox-4-bluetooth-som-jbl-pro-ai-sound-boost-graves.html",
-      "avaliacao": null,
-      "avaliacoes": 12,
-      "vendas": null,
-      "nota_qualidade": 7
-    },
-    {
       "source_id": "pechinchou-140891",
       "titulo": "Máquina de lavar 12Kg Philco 16 Modos de operação PLR12A 220V",
       "de": 2399.0,
@@ -597,7 +578,7 @@
       "por": 129.99,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiXolcJJMdkJcK0TFPHUKDB33zJiRkRZufmiekaleIeJLZfprcbHlZLfacE4h1RgwQdFXvuev5l12BrnQbVbVnaZkQEtbIOxsaluJICgQMcEnWYIcb5JOeOmeHEXcCHhfdVsBLBr07s9COsP9k5DnNCy8N9znnjNn5xb26ODHcGuoAUDuDYap1XqF8Ibqh6maNagWxWDKWci3YsEU6cVtU7lw0kpU95rHahrO1jldKYhPL8uJw5REUWJVe1qqgJ7i0aKx1TKgJlfiyxZbw763PAP20tTCGUqfYdtbr3h0NyjWtBxDbnSOaSEAV1iAOebjUhtjUVpvP2JGFkau6iuoQ3IFK8AfsEgU03gM7Dp2pB2n6C2I4UdNrLo6gM46F4W329kSPbvY2v3csmg1aQXMYi9FLKG7uLq41CaONnB9DnzkZM3H6GupZF7hVCOHF0az6rP7BtkZKfGuZHPeSFcsJ24g3lnRyRN8BejQWPWl",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiHIYL94WNVRPYgCHPe5XH88r6s7ei40JiVDwXyMBs541JvD2mV3503Yha5lnuIo6FJXlm6bd1QxTBQ1yQEb6XY3dwz5b7ZNpA1wTXMHDZp6mOvMTnznvKVCkTLysXkQB7n2M8y9iWBpjum7MKWCqWRpCcxl34NaJcne8LAsNCQHeKy42Ig66cEJcDOyb5vxfFoA4kpMDciBeA571uXMsjyfzRLPtE3qmbAMF6SbLyq9Kd2jmTP2DOU72n8FO00d3WPomAhGx1CNJqsYF4xZQntyvJXHYgLhCide8jUlrAk2RBetQZyzzIVfYsKtUgIrSzWhRmOeWGaPfZQYN9fO6lP6nPggxG0t3CbfCe2uwpW8HwMr0cZKTHRdNX0mcOddITv6ooTkkUb6cQ9zd7DqJdcusOUXhjjEiwJJzlSTS2Uw1LWeILHytIpjDiwFeV6NmkJVBWRJ8LZyRIkyyr1OwJNjuOXIetW86vJWvFmhR",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -1328,7 +1309,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/regional-mixer-power-inox-3-em-1-600w-elgin-lunar-220v-mixer-triturador-e.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1054,
+      "vendas": 1056,
       "nota_qualidade": 9
     },
     {
@@ -1518,7 +1499,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 16,
-      "vendas": 4525,
+      "vendas": 4528,
       "nota_qualidade": 7
     }
   ]
