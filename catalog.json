@@ -1,43 +1,43 @@
 {
-  "atualizado": "2026-06-29T13:25:55.381228+00:00",
+  "atualizado": "2026-06-29T13:31:02.604537+00:00",
   "ofertas": [
     {
-      "source_id": "2892398",
-      "titulo": "Galaxy Watch 8 Bluetooth 40 mm",
-      "de": 2999.0,
-      "por": 1399.0,
-      "desconto": 53,
-      "imagem": "https://m.media-amazon.com/images/I/61iTGVZS+0L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FDX8YCRH?tag=promoninja0c3-20",
-      "cupom": "CHEGOUPRIME",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-29T13:25:55.381228+00:00",
-      "slug": "galaxy-watch-8-bluetooth-40-mm",
-      "page_url": "https://promoninjaofertas.github.io/produto/galaxy-watch-8-bluetooth-40-mm.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 0,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "2892057",
-      "titulo": "Placa de Vídeo ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS",
+      "source_id": "2892249",
+      "titulo": "Placa de Vídeo ASRock Intel Arc B580 Challenger 12G OC, 12GB",
       "de": 3373.27,
       "por": 1536.0,
       "desconto": 54,
       "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
-      "cupom": "CHEGOUPRIME",
+      "cupom": null,
       "loja": "amazon",
       "categoria": "Hardware",
-      "data": "2026-06-29T13:25:55.381228+00:00",
-      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits",
-      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits.html",
+      "data": "2026-06-29T13:31:02.604537+00:00",
+      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-12gb",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-12gb.html",
       "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 65,
-      "nota_qualidade": 8
+      "avaliacoes": 1,
+      "vendas": 15,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "2891242",
+      "titulo": "Tênis Mizuno City Wall",
+      "de": 329.99,
+      "por": 153.89,
+      "desconto": 53,
+      "imagem": "https://m.media-amazon.com/images/I/61F9hLDrvDL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FFTTDX1W?tag=promoninja0c3-20",
+      "cupom": "ALOCUPOM",
+      "loja": "amazon",
+      "categoria": "Moda",
+      "data": "2026-06-29T13:31:02.604537+00:00",
+      "slug": "tenis-mizuno-city-wall",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-mizuno-city-wall.html",
+      "avaliacao": null,
+      "avaliacoes": 3,
+      "vendas": 841,
+      "nota_qualidade": 7
     },
     {
       "source_id": "1005006965436436",
@@ -150,7 +150,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/mala-de-rodinha-tiny-love-croco.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 145,
+      "vendas": 354,
       "nota_qualidade": 7
     },
     {
@@ -169,7 +169,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/o-boticario-coffee-man-duo-fougere-ambarado-colonia-masc-100ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 58,
+      "vendas": 67,
       "nota_qualidade": 8
     },
     {
@@ -264,7 +264,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cafe-melitta-sabor-da-fazenda-vacuo-500g.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 1306,
+      "vendas": 1373,
       "nota_qualidade": 7
     },
     {
@@ -359,7 +359,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1784,
+      "vendas": 1798,
       "nota_qualidade": 7
     },
     {
@@ -555,11 +555,11 @@
     {
       "source_id": "1005007701197697",
       "titulo": "Interface VCDS VAGCOM 2026 VCDSCAN HEX V2 Atualização 26.3 para VW, AUDI, Skoda, Seat - Ferramentas de Diagnóstico Automotivo Multilíngue",
-      "de": 186.56,
-      "por": 130.59,
+      "de": 185.7,
+      "por": 129.99,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPjFcFIGgyrLGoCUNZx4ELb0VhajX1xDkzg4OotPq50kXbNhd4q9Iv0BuvioDPal0IndSKfBoVoHnUJuNSYWfHB6xk9uoky0SZsjruA2868fkOZ0kq88YezMVhvdh2El8i8NzsBwXbRJkyIxG0pF97O54VSHmKJwyUCRxi3H9RjRQ83Zf5sOMHdKJDhHNyepOUS5s8gKEQ37cGKkYbPWdLKwJk5zbvxflf75CMlwJjUZlIqcBTVIX2bKXOoEmtyegl2eU9mNpF3FxjPQNh1gTqbDbs32ECUthawAHacnYtYQyvvZHHZ3w0ZPE19OeCrpk3Ai6vE3lya25KN3tEWPdHb1cqf88uPv2MUO5VzFNehe5D3wOuiTxAvWNm7kon9c0Iy6xCOd5nzYPxP7PZ5eNNY2Ayrjq1J2jzITN8x5v1gOOHmjALfkOJYZxcNZXsbqqUHxWq2Y8YLpPyf63gROGAfIRTIJZ1YPUcRPhlAzuD",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiSxSgkWgZwjAAikAjjXiVJf367X0aIVCUw5F3coxmgJ2eISUtKUHhS9NaApwtsBhjUyU8kh5K5o4xmbcJAunh0zc9pDHuHTV3i5X5zGOsULMqBqIC56IT8tHqp9KPoOKT0HHtvSZ643nSt1X2eVdwbhVD9LlxW86hFHpS98Tpux8UMT8bPVx1BNUWIYi1MPmIzowvvgMRpJeY6X7pIzkOtSD8cOexD1pvUIub5LuoIBJGrxMVtQJppqrVL4NIfYM8rbvkGm8fKZf7zlRblMyXnN5KiGLbdWsuHPkO1uNwzlKAcHr3SFzCRQXiNbnCozKDLJumo3bzNm7IlryhUBVhjhakSuG1vBkNKoEKnK28eJffguH4iwc7JzAUKx8iq5i1B775nY4hY1yQ9ukar4Li7vZ2DV8B8XZESgOcuEXR1CcadI4Sr6BopPPFZVw9Sn9P3C5eOoi7B13XIEcHlW9STvNe8UnC2NGJsZMqzy1",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -853,7 +853,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-esportivo-masculino-voa-2-olympikus.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 26,
+      "vendas": 69,
       "nota_qualidade": 7
     },
     {
@@ -1290,7 +1290,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/regional-mixer-power-inox-3-em-1-600w-elgin-lunar-220v-mixer-triturador-e.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1042,
+      "vendas": 1046,
       "nota_qualidade": 9
     },
     {
