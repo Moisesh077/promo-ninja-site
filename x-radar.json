@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-06-29T23:14:25.901Z",
+  "updated_at": "2026-06-29T23:22:16.902Z",
   "page": "https://promoninjaofertas.github.io/x-radar.html",
   "auto_follow": {
     "enabled": false,
     "daily_limit": 4,
+    "big_profile_daily_limit": 1,
     "min_score": 18,
     "followed_today_before": 0,
     "followed_this_run": 0
@@ -31,6 +32,52 @@
       "suggested_replies": [
         "Esse encaixa bem em setup. Se aparecer com cupom bom, vale muito ficar de olho.",
         "Para setup, desconto real e avaliacao boa fazem muita diferenca. Bom achado."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "casimiro",
+      "display_name": "Casimiro",
+      "url": "https://x.com/casimiro",
+      "score": 24,
+      "kind": "big_profile",
+      "category": "entretenimento",
+      "discovered_at": "2026-06-29T23:22:16.890Z",
+      "last_seen_at": "2026-06-29T23:22:16.890Z",
+      "query": "lista manual de perfis grandes",
+      "reasons": [
+        "perfil grande brasileiro",
+        "alto alcance orgânico",
+        "público jovem e engajado"
+      ],
+      "sample_text": "Perfil grande para monitorar tendências e oportunidades de interação orgânica em entretenimento.",
+      "suggested_replies": [
+        "Esse assunto movimenta bastante gente. Se aparecer oferta boa relacionada, vale entrar na conversa.",
+        "Boa pauta para observar tendência e entender o que o público está comentando."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "felipeneto",
+      "display_name": "Felipe Neto",
+      "url": "https://x.com/felipeneto",
+      "score": 23,
+      "kind": "big_profile",
+      "category": "entretenimento",
+      "discovered_at": "2026-06-29T23:22:16.890Z",
+      "last_seen_at": "2026-06-29T23:22:16.890Z",
+      "query": "lista manual de perfis grandes",
+      "reasons": [
+        "perfil grande brasileiro",
+        "alto volume de conversa",
+        "público amplo"
+      ],
+      "sample_text": "Perfil grande para monitorar tendências e oportunidades de interação orgânica em entretenimento.",
+      "suggested_replies": [
+        "Esse assunto movimenta bastante gente. Se aparecer oferta boa relacionada, vale entrar na conversa.",
+        "Boa pauta para observar tendência e entender o que o público está comentando."
       ],
       "followed_at": null,
       "follow_status": "candidate"
@@ -112,6 +159,75 @@
       "suggested_replies": [
         "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "whindersson",
+      "display_name": "Whindersson",
+      "url": "https://x.com/whindersson",
+      "score": 22,
+      "kind": "big_profile",
+      "category": "entretenimento",
+      "discovered_at": "2026-06-29T23:22:16.890Z",
+      "last_seen_at": "2026-06-29T23:22:16.890Z",
+      "query": "lista manual de perfis grandes",
+      "reasons": [
+        "perfil grande brasileiro",
+        "alcance nacional",
+        "público amplo"
+      ],
+      "sample_text": "Perfil grande para monitorar tendências e oportunidades de interação orgânica em entretenimento.",
+      "suggested_replies": [
+        "Esse assunto movimenta bastante gente. Se aparecer oferta boa relacionada, vale entrar na conversa.",
+        "Boa pauta para observar tendência e entender o que o público está comentando."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "cellbit",
+      "display_name": "Cellbit",
+      "url": "https://x.com/cellbit",
+      "score": 21,
+      "kind": "big_profile",
+      "category": "games",
+      "discovered_at": "2026-06-29T23:22:16.890Z",
+      "last_seen_at": "2026-06-29T23:22:16.890Z",
+      "query": "lista manual de perfis grandes",
+      "reasons": [
+        "perfil grande de games",
+        "público jovem",
+        "boa conexão com tecnologia"
+      ],
+      "sample_text": "Perfil grande para monitorar tendências e oportunidades de interação orgânica em games.",
+      "suggested_replies": [
+        "Quando o assunto é setup, desconto real em periférico bom some rápido. Vou ficar de olho.",
+        "Esse tema combina muito com achadinho de hardware. Se aparecer preço bom, vale compartilhar."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "alanzoka",
+      "display_name": "Alanzoka",
+      "url": "https://x.com/alanzoka",
+      "score": 20,
+      "kind": "big_profile",
+      "category": "games",
+      "discovered_at": "2026-06-29T23:22:16.890Z",
+      "last_seen_at": "2026-06-29T23:22:16.890Z",
+      "query": "lista manual de perfis grandes",
+      "reasons": [
+        "perfil grande de games",
+        "público interessado em setup",
+        "boa conexão com hardware"
+      ],
+      "sample_text": "Perfil grande para monitorar tendências e oportunidades de interação orgânica em games.",
+      "suggested_replies": [
+        "Quando o assunto é setup, desconto real em periférico bom some rápido. Vou ficar de olho.",
+        "Esse tema combina muito com achadinho de hardware. Se aparecer preço bom, vale compartilhar."
       ],
       "followed_at": null,
       "follow_status": "candidate"
@@ -220,6 +336,51 @@
       "follow_status": "candidate"
     },
     {
+      "username": "gaules",
+      "display_name": "Gaules",
+      "url": "https://x.com/gaules",
+      "score": 19,
+      "kind": "big_profile",
+      "category": "games",
+      "discovered_at": "2026-06-29T23:22:16.890Z",
+      "last_seen_at": "2026-06-29T23:22:16.890Z",
+      "query": "lista manual de perfis grandes",
+      "reasons": [
+        "perfil grande de games",
+        "público gamer",
+        "boa conexão com periféricos"
+      ],
+      "sample_text": "Perfil grande para monitorar tendências e oportunidades de interação orgânica em games.",
+      "suggested_replies": [
+        "Quando o assunto é setup, desconto real em periférico bom some rápido. Vou ficar de olho.",
+        "Esse tema combina muito com achadinho de hardware. Se aparecer preço bom, vale compartilhar."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "manualdomundo",
+      "display_name": "Manual do Mundo",
+      "url": "https://x.com/manualdomundo",
+      "score": 18,
+      "kind": "big_profile",
+      "category": "tecnologia",
+      "discovered_at": "2026-06-29T23:22:16.890Z",
+      "last_seen_at": "2026-06-29T23:22:16.890Z",
+      "query": "lista manual de perfis grandes",
+      "reasons": [
+        "perfil grande de tecnologia/curiosidades",
+        "público interessado em gadgets"
+      ],
+      "sample_text": "Perfil grande para monitorar tendências e oportunidades de interação orgânica em tecnologia.",
+      "suggested_replies": [
+        "Esse tipo de gadget costuma variar bastante de preço. Boa pauta para ficar monitorando.",
+        "Tecnologia boa com desconto real é exatamente o tipo de coisa que vale acompanhar."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
       "username": "jealouslingorm",
       "display_name": "Alessandra",
       "url": "https://x.com/jealouslingorm",
@@ -255,6 +416,116 @@
       "suggested_replies": [
         "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "coisadenerd",
+      "display_name": "Coisa de Nerd",
+      "url": "https://x.com/coisadenerd",
+      "score": 17,
+      "kind": "big_profile",
+      "category": "tecnologia",
+      "discovered_at": "2026-06-29T23:22:16.890Z",
+      "last_seen_at": "2026-06-29T23:22:16.890Z",
+      "query": "lista manual de perfis grandes",
+      "reasons": [
+        "perfil grande de tecnologia e games",
+        "público de gadgets e consumo"
+      ],
+      "sample_text": "Perfil grande para monitorar tendências e oportunidades de interação orgânica em tecnologia.",
+      "suggested_replies": [
+        "Esse tipo de gadget costuma variar bastante de preço. Boa pauta para ficar monitorando.",
+        "Tecnologia boa com desconto real é exatamente o tipo de coisa que vale acompanhar."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "canaltech",
+      "display_name": "Canaltech",
+      "url": "https://x.com/canaltech",
+      "score": 16,
+      "kind": "big_profile",
+      "category": "tecnologia",
+      "discovered_at": "2026-06-29T23:22:16.890Z",
+      "last_seen_at": "2026-06-29T23:22:16.890Z",
+      "query": "lista manual de perfis grandes",
+      "reasons": [
+        "perfil grande de tecnologia",
+        "bom para monitorar tendências de produtos"
+      ],
+      "sample_text": "Perfil grande para monitorar tendências e oportunidades de interação orgânica em tecnologia.",
+      "suggested_replies": [
+        "Esse tipo de gadget costuma variar bastante de preço. Boa pauta para ficar monitorando.",
+        "Tecnologia boa com desconto real é exatamente o tipo de coisa que vale acompanhar."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "tecmundo",
+      "display_name": "TecMundo",
+      "url": "https://x.com/tecmundo",
+      "score": 16,
+      "kind": "big_profile",
+      "category": "tecnologia",
+      "discovered_at": "2026-06-29T23:22:16.890Z",
+      "last_seen_at": "2026-06-29T23:22:16.890Z",
+      "query": "lista manual de perfis grandes",
+      "reasons": [
+        "perfil grande de tecnologia",
+        "bom para temas de smartphones e eletrônicos"
+      ],
+      "sample_text": "Perfil grande para monitorar tendências e oportunidades de interação orgânica em tecnologia.",
+      "suggested_replies": [
+        "Esse tipo de gadget costuma variar bastante de preço. Boa pauta para ficar monitorando.",
+        "Tecnologia boa com desconto real é exatamente o tipo de coisa que vale acompanhar."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "adrenaline",
+      "display_name": "Adrenaline",
+      "url": "https://x.com/adrenaline",
+      "score": 16,
+      "kind": "big_profile",
+      "category": "hardware",
+      "discovered_at": "2026-06-29T23:22:16.890Z",
+      "last_seen_at": "2026-06-29T23:22:16.890Z",
+      "query": "lista manual de perfis grandes",
+      "reasons": [
+        "perfil de hardware e games",
+        "público com interesse em setup e peças"
+      ],
+      "sample_text": "Perfil grande para monitorar tendências e oportunidades de interação orgânica em hardware.",
+      "suggested_replies": [
+        "Quando o assunto é setup, desconto real em periférico bom some rápido. Vou ficar de olho.",
+        "Esse tema combina muito com achadinho de hardware. Se aparecer preço bom, vale compartilhar."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "mkbhd",
+      "display_name": "Marques Brownlee",
+      "url": "https://x.com/mkbhd",
+      "score": 16,
+      "kind": "big_profile",
+      "category": "tecnologia global",
+      "discovered_at": "2026-06-29T23:22:16.890Z",
+      "last_seen_at": "2026-06-29T23:22:16.890Z",
+      "query": "lista manual de perfis grandes",
+      "reasons": [
+        "perfil global de tecnologia",
+        "referência em gadgets e eletrônicos"
+      ],
+      "sample_text": "Perfil grande para monitorar tendências e oportunidades de interação orgânica em tecnologia global.",
+      "suggested_replies": [
+        "Esse tipo de gadget costuma variar bastante de preço. Boa pauta para ficar monitorando.",
+        "Tecnologia boa com desconto real é exatamente o tipo de coisa que vale acompanhar."
       ],
       "followed_at": null,
       "follow_status": "candidate"

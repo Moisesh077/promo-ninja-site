@@ -62,7 +62,7 @@
     }
     .stats {
       display:grid;
-      grid-template-columns:repeat(4,minmax(0,1fr));
+      grid-template-columns:repeat(5,minmax(0,1fr));
       gap:12px;
       margin:18px 0;
     }
@@ -184,6 +184,7 @@
     }
     .status.followed { background:var(--green); color:#052611; }
     .status.candidate { background:var(--yellow); }
+    .status.big_profile { background:var(--blue); color:#fff; }
     .empty {
       padding:28px;
       border:1px dashed var(--line);
@@ -220,6 +221,7 @@
 
     <section class="stats" aria-label="Resumo do radar">
       <div class="stat"><strong id="total">0</strong><span>perfis no radar</span></div>
+      <div class="stat"><strong id="bigProfiles">0</strong><span>perfis grandes</span></div>
       <div class="stat"><strong id="followedToday">0</strong><span>seguidos hoje</span></div>
       <div class="stat"><strong id="autoFollow">-</strong><span>auto-follow</span></div>
       <div class="stat"><strong id="updated">-</strong><span>última atualização</span></div>
@@ -229,6 +231,7 @@
       <input id="search" type="search" placeholder="Buscar perfil, motivo ou termo...">
       <select id="statusFilter" aria-label="Filtrar status">
         <option value="all">Todos os perfis</option>
+        <option value="big_profile">Perfis grandes</option>
         <option value="candidate">Candidatos</option>
         <option value="followed">Já seguidos</option>
       </select>
@@ -271,7 +274,9 @@
       const profiles = Array.isArray(payload.profiles) ? payload.profiles : [];
       const today = new Date().toISOString().slice(0, 10);
       const followed = profiles.filter((profile) => String(profile.followed_at || '').slice(0, 10) === today).length;
+      const bigProfiles = profiles.filter((profile) => profile.kind === 'big_profile').length;
       document.querySelector('#total').textContent = profiles.length;
+      document.querySelector('#bigProfiles').textContent = bigProfiles;
       document.querySelector('#followedToday').textContent = followed;
       document.querySelector('#autoFollow').textContent = payload.auto_follow?.enabled ? 'Ligado' : 'Manual';
       document.querySelector('#updated').textContent = payload.updated_at ? formatDate(payload.updated_at) : '-';
@@ -280,7 +285,11 @@
     function render() {
       const term = state.search;
       const profiles = state.profiles
-        .filter((profile) => state.status === 'all' || profile.follow_status === state.status)
+        .filter((profile) => {
+          if (state.status === 'all') return true;
+          if (state.status === 'big_profile') return profile.kind === 'big_profile';
+          return profile.follow_status === state.status;
+        })
         .filter((profile) => {
           if (!term) return true;
           const haystack = [
@@ -302,7 +311,12 @@
     }
 
     function cardHtml(profile) {
-      const status = profile.follow_status || 'candidate';
+      const status = profile.kind === 'big_profile' ? 'big_profile' : (profile.follow_status || 'candidate');
+      const statusLabel = profile.kind === 'big_profile'
+        ? 'Perfil grande'
+        : status === 'followed'
+          ? 'Seguido'
+          : 'Candidato';
       const reasons = (profile.reasons || []).map((reason) => `<span class="pill">${escapeHtml(reason)}</span>`).join('');
       const replies = (profile.suggested_replies || [])
         .slice(0, 3)
@@ -321,7 +335,7 @@
             <div class="pill-row">${reasons}</div>
             <p class="sample">${escapeHtml(profile.sample_text || 'Sem amostra de texto.')}</p>
             <div class="suggestions">${replies}</div>
-            <span class="status ${escapeAttr(status)}">${status === 'followed' ? 'Seguido' : 'Candidato'}</span>
+            <span class="status ${escapeAttr(status)}">${statusLabel}</span>
           </div>
         </article>
       `;
