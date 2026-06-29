@@ -1,6 +1,44 @@
 {
-  "atualizado": "2026-06-29T19:12:43.583399+00:00",
+  "atualizado": "2026-06-29T19:17:43.686235+00:00",
   "ofertas": [
+    {
+      "source_id": "2892932",
+      "titulo": "GPU ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS (B580 CL 12GO) 90-GA5LZZ-00UANF",
+      "de": 3373.27,
+      "por": 1557.42,
+      "desconto": 54,
+      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
+      "cupom": "GOOOL10",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-29T19:17:43.686235+00:00",
+      "slug": "gpu-asrock-intel-arc-b580-challenger-12g-oc-192-bits-b580-cl-12go-90",
+      "page_url": "https://promoninjaofertas.github.io/produto/gpu-asrock-intel-arc-b580-challenger-12g-oc-192-bits-b580-cl-12go-90.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 35,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "pechinchou-147853",
+      "titulo": "Colchão Casal Luuna Essential, D28 Firme 9/10, Ortopédico, 10 Anos Gar.",
+      "de": 1149.0,
+      "por": 860.0,
+      "desconto": 25,
+      "imagem": "https://m.media-amazon.com/images/I/61P03mn1nYL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B09WCSLCSD?tag=promoninja0c3-20",
+      "cupom": "GOOOL10",
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-06-29T19:17:43.686235+00:00",
+      "slug": "colchao-casal-luuna-essential-d28-firme-9-10-ortopedico-10-anos-gar",
+      "page_url": "https://promoninjaofertas.github.io/produto/colchao-casal-luuna-essential-d28-firme-9-10-ortopedico-10-anos-gar.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 218,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-146570",
       "titulo": "Samsung Smart Monitor TV 43\", HD, Plataforma Tizen™",
@@ -853,7 +891,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/celular-lancamento-xiaomi-poco-x8-pro-5g-nfc-512gb-256gb-8ram-ou-12-ram.html",
       "avaliacao": 4.9,
       "avaliacoes": null,
-      "vendas": 1097,
+      "vendas": 1082,
       "nota_qualidade": 9
     },
     {
@@ -1062,7 +1100,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/celuar-xiaomi-poco-x8-pro-512gb-256gb-5g-nfc-versao-global-original-e-envio.html",
       "avaliacao": 4.8,
       "avaliacoes": null,
-      "vendas": 1079,
+      "vendas": 1039,
       "nota_qualidade": 8
     },
     {
@@ -1501,25 +1539,6 @@
       "avaliacoes": null,
       "vendas": 138,
       "nota_qualidade": 8
-    },
-    {
-      "source_id": "pechinchou-142268",
-      "titulo": "Furadeira Philco Force 3000 Rpm Mandril 13mm 850w Pfu04 Cor Preto Com Detalhes Em Azul",
-      "de": 252.9,
-      "por": 107.02,
-      "desconto": 58,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/69a49a2018bb0a90b73a7d06de067fe0_mBZKEyz_q5m4aRK.webp",
-      "link": "https://meli.la/2tiEhev",
-      "cupom": "OFERTASMELI",
-      "loja": "mercadolivre",
-      "categoria": "Ferramentas",
-      "data": "2026-06-28T19:14:57.778534+00:00",
-      "slug": "furadeira-philco-force-3000-rpm-mandril-13mm-850w-pfu04-cor-preto-com-detalhes-em",
-      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-philco-force-3000-rpm-mandril-13mm-850w-pfu04-cor-preto-com-detalhes-em.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 22,
-      "nota_qualidade": 7
     }
   ]
 }
