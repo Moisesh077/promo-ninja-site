@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-29T14:06:42.671979+00:00",
+  "atualizado": "2026-06-29T14:11:50.194091+00:00",
   "ofertas": [
+    {
+      "source_id": "2892057",
+      "titulo": "Placa de Vídeo ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS",
+      "de": 3373.27,
+      "por": 1536.0,
+      "desconto": 54,
+      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
+      "cupom": "CHEGOUPRIME",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-29T14:11:50.194091+00:00",
+      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 85,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-142485",
       "titulo": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless – Squad",
@@ -578,7 +597,7 @@
       "por": 129.99,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiHIYL94WNVRPYgCHPe5XH88r6s7ei40JiVDwXyMBs541JvD2mV3503Yha5lnuIo6FJXlm6bd1QxTBQ1yQEb6XY3dwz5b7ZNpA1wTXMHDZp6mOvMTnznvKVCkTLysXkQB7n2M8y9iWBpjum7MKWCqWRpCcxl34NaJcne8LAsNCQHeKy42Ig66cEJcDOyb5vxfFoA4kpMDciBeA571uXMsjyfzRLPtE3qmbAMF6SbLyq9Kd2jmTP2DOU72n8FO00d3WPomAhGx1CNJqsYF4xZQntyvJXHYgLhCide8jUlrAk2RBetQZyzzIVfYsKtUgIrSzWhRmOeWGaPfZQYN9fO6lP6nPggxG0t3CbfCe2uwpW8HwMr0cZKTHRdNX0mcOddITv6ooTkkUb6cQ9zd7DqJdcusOUXhjjEiwJJzlSTS2Uw1LWeILHytIpjDiwFeV6NmkJVBWRJ8LZyRIkyyr1OwJNjuOXIetW86vJWvFmhR",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPislk8z4BQ5ArolHl84aGY3fM73wR420RIgxsuQvBpU8kw2cqtOtQgxbt0gCQc4EozlvBa8YgSX0tNeuOacmf2nK3rWNQ0ddVZ2QlSpG0wMfL8NBx1gcqzO0w93dxcCZys3bzIc7XQYnDfhV9Jm14Izug6yxpZLU3Z167CiIdlKVmA9Ty7EvNfBzYIBoneiLzmYGG9plFJJMuI4z3OH6QbUY6E8w1YCo5FXrE7KrIQRLdmsmDbNEjTGfgEWFOxIf1PF2Rxk32s59tlaKtuteCtF3fNec9cF0KNxDefNftfQtibzInJ54EfqOTNf299hdC7Krq02kuzGOjqa2O24khkQBT25abcaxB161fRBKlbEZO2SdkO3NjXCkQmj3jYhYDXDAtCwX6Z0bA5fl5PHmLugnwZrYDIykYsGeqdQ6EzPNeiqRfzxU8NashIueOQ3VnNsQv3qRCTWsFMIAfVQKIlpvjujg9NSXAFBjIDfRr",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -587,7 +606,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/interface-vcds-vagcom-2026-vcdscan-hex-v2-atualizacao-26-3-para-vw-audi-skoda.html",
       "avaliacao": 4.635,
       "avaliacoes": null,
-      "vendas": 13816,
+      "vendas": 13817,
       "nota_qualidade": 7
     },
     {
@@ -1467,11 +1486,11 @@
     {
       "source_id": "1005006356702381",
       "titulo": "Fifine microfone dinâmico usb/xlr com controle rgb/jack de fone de ouvido/mudo, microfone para gravação de jogos de pc streaming AmpliGame-AM8",
-      "de": 529.66,
-      "por": 280.73,
+      "de": 528.25,
+      "por": 279.99,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNc8awDsLg3UJbkiaVWkNDPrv5QktiBVpb0L7SnIdKjs96ujb6hNMBWlEYweEl8ugvhv3KoIEStVii0jkmjUQDyIoPoX4nkHHEdF9a3lBXPxGD0h5Apt16yeaSbRt9w5obvZXnfUWBjRVhz8UXsnuIy2xCYPlR4hZRwsaNmMQ0HMOhQGWXkRPt6SpIso5d7JofYodQvShUKJcerk6R5R9NsWy9LNN1UNpOp8qA01pxKr5RdOYO8Dmqxpf3W6zosM3J0eMVp8pcnDb8b9MQI5TGnwVvu9P27yrhchgFIvQ3zeJI5TYogR3FE0Iz1ZA450qFXCJjUcKwLBqJXzmgzjZYEcStJoDXrrCxGY7m1cLHnrYiwP9K7hszs3cF3reDjVCF3J3PyaLNIbvuDYbyn6iVWI8diKD4nNb4CtP3c5uFOFjo0I32aXKiMGjfH9kdEM1ag5zmHqEUz8g4ZezFll4OdGofLkAfX0pWPqYC4KQ",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNWcsU3pWZ02FiSecS5f5aV0RvkffJxjgP0If0n52qjRRbZp2vjx0hEKxnGMzo30pcJ26OsW5J6RNpZXZg7sWxCYqlRt2zMJSSldDtkVl0WbXkbzHfoOxd8VyK1Ps89LAW36T67A7HsZdwIeF6a2C12B3iJV154GvM0vOq0ueE6WZ4S3shir7K9mrrIMyrlRIx87styDsEO9XjXUKMhtCgdQ20KO4YhQPRgT0CEebyw001bVEejY26EMCe5N6S6PN9reqoOdhmFUwMe0ZvA8BgmQsBAxePDh5kt8aAcgfC7gJQrJmTjm5xsfKV9dmrP8mFn3j8xjza5wIyniVLEMOExWxmnsgNklm0mpl9o14I9OD8LL4JqJayQmwwmxFcL9wq4pnZ8csYG0EOi9hquoHWIORicRVG8o4hw0KZfhEr1upUX28qr49eRJgePXmLk884EmKWjF95EabLuqr8ALvsjukyVwCuTjr9ANV0Y0E",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -1480,7 +1499,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fifine-microfone-dinamico-usb-xlr-com-controle-rgb-jack-de-fone-de-ouvido-mudo.html",
       "avaliacao": 4.9350000000000005,
       "avaliacoes": null,
-      "vendas": 16909,
+      "vendas": 16910,
       "nota_qualidade": 8
     },
     {
