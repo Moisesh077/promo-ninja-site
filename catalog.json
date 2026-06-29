@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-29T06:10:05.181788+00:00",
+  "atualizado": "2026-06-29T06:15:12.082177+00:00",
   "ofertas": [
     {
       "source_id": "2891242",
@@ -17,26 +17,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-mizuno-city-wall.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 606,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "2891249",
-      "titulo": "Tênis Olympikus Zex 2 Masculino",
-      "de": 249.99,
-      "por": 161.99,
-      "desconto": 35,
-      "imagem": "https://m.media-amazon.com/images/I/5190JDleDFL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DWCB2LYH?tag=promoninja0c3-20",
-      "cupom": "ALOCUPOM",
-      "loja": "amazon",
-      "categoria": "Moda",
-      "data": "2026-06-29T06:10:05.181788+00:00",
-      "slug": "tenis-olympikus-zex-2-masculino",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-zex-2-masculino.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 60,
+      "vendas": 611,
       "nota_qualidade": 7
     },
     {
@@ -93,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 438,
+      "vendas": 475,
       "nota_qualidade": 7
     },
     {
@@ -264,7 +245,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-arabe-lattafa-fakhar-gold-extrait-eau-de-parfum-100ml.html",
       "avaliacao": null,
       "avaliacoes": 6,
-      "vendas": 701,
+      "vendas": 703,
       "nota_qualidade": 7
     },
     {
@@ -293,7 +274,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPimHcHZAPAg4F9bjFMv9LyJDYM3001p5zpW5VYvOybQMYmL0vtKwoKO4yEyEYAxwYzM4rjxDwtIm56RUUlBjJSc1WAVff8g5Jbf3JtvF2AP7C4oBfoHglTG2AQkRL7bw3N7YnYEbBbAv40YrsfBKYtOFYMriHJgIRUuerINzRyXLBKbXTzyJ0sQoCYfg1Y9sxpBVoYHVQlqmbd9TDzYqZ1jkJ6BjhD8XmwZNbxFqwmJDEfnwITne5PPUbFB1SURMThiuHPULy02hJgnhP2yyhlvxJ25vDuvDMxficc8pIjotTBrxxZrqdlGlRmgQqqpxEywlEZpjo1cS0L29NyFsehqnRs0Do0YX20zZ8mQ3OPagCMRGbIdOjX5BMxuIyFlhcGP1jfC9cOEg8PxDzjNgF1eGZqj23YMXovVhpNDrKAkXVdZgjHjAYtCRwLOnnVqVuMpVIfdTZdin95yf5p9iDnsBzc9BEj1jqBR5Gjivf",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPj4blDpTAVLXfTboZPzX4IjRigM3buuOseTMupEQ7hsn7WfHGvKgTn941abYqOlYAcrvw1hZALvn4DUH2QZnUObUd6mXskG9YM4PsMomuUrjQezw59Np8nx1oDrTX65hUVbw71z2J9fUt133LVP92uUCGoBO2dZ2AoTOtj6ZpZAK4ss4RTC0vmsK6E8OnXVCyWXJ1C59JnzLaAWFIvNvFr2RJGGf5lONkmqEGmhe8O5xETddvjdzQalPfL6RLjLo8OnRKTVhjF7YIzQa82oqGUZwVawIM0v67lkY1dRr02o4049e4sjzMp3TbD8yjXAVTnV0DZr4MqSzMMR9sk001Mp22mu3T9q6c5TyQ0r8e1ZTQxtkKfAqSVIk5VrLhyNXsBO2apVXJuhhLdqwmQlZzihNoSVs6zEcTwUaYVI658COhuHBW2cvCjzSwbQvtDyFmnBTrfuvJgCq4uVNGGQPYFSpsWHqx7SRvYHCglX7f",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -302,7 +283,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/interface-vcds-vagcom-2026-vcdscan-hex-v2-atualizacao-26-3-para-vw-audi-skoda.html",
       "avaliacao": 4.635,
       "avaliacoes": null,
-      "vendas": 13796,
+      "vendas": 13797,
       "nota_qualidade": 7
     },
     {
@@ -397,7 +378,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/aspirador-de-po-vertical-turbo-sweep-1350w-ho601-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 798,
+      "vendas": 800,
       "nota_qualidade": 7
     },
     {
@@ -416,7 +397,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/modulo-prateleira-porta-temperos-especiarias-papel-toalha-marrom-claro.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 570,
+      "vendas": 571,
       "nota_qualidade": 8
     },
     {
@@ -986,7 +967,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-2-camisetas-oversized-masculina-texturizado-premium.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 3415,
+      "vendas": 3416,
       "nota_qualidade": 7
     },
     {
@@ -1024,7 +1005,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/regional-mixer-power-inox-3-em-1-600w-elgin-lunar-220v-mixer-triturador-e.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 949,
+      "vendas": 950,
       "nota_qualidade": 9
     },
     {
@@ -1186,7 +1167,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNcCqXtWaLVMlFaYoYlxnbfLt9B1HPh9r2lOgwRFXDmrwXMMxe1HwoskGC4rku22Pw5Hju7J8hME1aqHqMQWVZT2mS0dc6sEEHeUvdYgtXzafC15WdATmcLYrVIz1v07g5bdj80SHQtf4BX4crveLkOxVfUj957cfI0P9zzXlMATOybT3MRaRcOLXcZbVl8bWyCUbw685e2m5VVIdy6nRT4e7tibKvRbNIzspOEeMoCc6fLXjk7Pf5aFQi55lhfU9wxD4EiRqJAeaL58Ne3Ot99L1NORvL6yyk2tSuxSGQHdWFRFE5pJrVPD57A04s0dMIWlNanL1Jl4GPdeO1YWwaE3fQyS6BJZaP3xamQdukgHxhVbdpYdE0gITdUxz2a8IWZkuJyprl1sZLdu7lQzHBk0BAfPBib78IP5bKzfZvqhtzSeUgaJ8GMLorZIaHvAIiOz3f8xHXh1JAc8PbO0kPdQIdz6o5hZnRmawy3pg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPN6GkfQhDX4fDZy4YWlx5De8czgwMTjPUBgnr1UquaLCuKhSxjZGjqqoZnDwhM0yK3HQvkNuPUNvcrX6jGBsSBeUHpmDCvucc1vKLrGPgrMJzcvrQs7yLO1dWgvTByyQdMkM62ZcuKoz1iBP8EQvVlNFueFEY6IBgsCUQ71ghVPF4YmPCmfD9Db3g4X731eJf8eQ1dN7Ur2RbydqMBs35wEtS1fail9SKzmezFvmflxwTxxYYBKCvw20c6qozaDI21bQj2QNtlfpyRbPlQ7WJ25ZKJBQaUCcQpotyZPNbAUTC9rvNoJZVcFLQ7Sw8kDEYGxE4kxvN0CfUCkOhjMOOISHpFvW7QYGLt7RVAAVcydOd8QicDshFvcZ2ZYI7X8bnWH6gxlvmY3xAg9zgAYvndkB3MEapLwAVBRxw15KImPYfmQt4kzzWSfNhZBDRDJ46r5vNwE7xzANsAs9I63Ek0NVZ5Nn5qsKbjKD95r8m",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
