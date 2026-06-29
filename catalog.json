@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-06-29T12:45:02.381781+00:00",
+  "atualizado": "2026-06-29T12:50:04.092991+00:00",
   "ofertas": [
-    {
-      "source_id": "2892249",
-      "titulo": "Placa de Vídeo ASRock Intel Arc B580 Challenger 12G OC, 12GB",
-      "de": 3373.27,
-      "por": 1536.0,
-      "desconto": 54,
-      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-06-29T12:45:02.381781+00:00",
-      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-12gb",
-      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-12gb.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 5,
-      "nota_qualidade": 7
-    },
     {
       "source_id": "1005008368580264",
       "titulo": "HYPERX SAVAGE Memória RAM DDR4 8GB 16GB 3200MHz 2666MHz 2400 2133 MHz Desktop 1.2V PC4-21300 25600 19200 RAM Memória DIMM para jogos",
@@ -93,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cafe-melitta-sabor-da-fazenda-vacuo-500g.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 1143,
+      "vendas": 1194,
       "nota_qualidade": 7
     },
     {
@@ -188,7 +169,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1713,
+      "vendas": 1739,
       "nota_qualidade": 7
     },
     {
@@ -388,7 +369,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiwyrujgqNE7TFiegurgCU4rcxMsMfKZpJkcinZP1K47GTgxnZAej9r5G2I2uZrZKKy2jL068DS4BEGaO5pmM66oGqu8Qy0O3X9Yhyb5T4NfEfScVcdlHdq3ftthTxTZZwkH5cVAbbImkiQUnRvfY7aWq0XdO6iRtOTMxMFj2MI5ZDFhsBjpEftnOt6CwVSGhA7EmpJ0a5dui1zsmckLXDfsbaRikY1DBAq8oRDtrTktfc5w3SR5NVPnTmB76FCvG2cTGe3hkjqSoaqmHVOcZrJRl6hL6HSNZ1vxHF660EsKawLomXd7dSgHOeg8JmNgXSuq98hN1jK5op3lDtk9MH3EGifbIXI1O0gjMUn9L1jQ9LQWBs0f0CLJS3BEs7speDQi4sCcSvmJSpUCXVHAqLySERlcfZJlUD7dAuY9cUa7msgOWGmXqPMecxeRcMhnd3scQ3NeJgHf5UETiGJWBwgPe8tYVcv18FJ1YWznB",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiHor8Neyi7NCkFP9eI8AqxzoGjpMNwl8P7jNEZrDP7K55PK61wUPdOz8wutjqYIGOpiHwk40aN3YEv5EhuzAMyf8h7nYfT1Z3KjIwVyieSj4f3c2YXrzqKYCIqR00debIGKlvnuBsHh2Gpo4Fam0QZUs5aSgbzXQ58FBVqDl1nEBHhyrEq4Z0STTLSoFgev70BDKrRGTEByDuWgyg2O71bWSoEnjl9TGUpL9mmFwesEl5wnQz1vaqOBSgQrQq4f0eEMKNnJPERG9Nzs7W6ZTAYxQtVGA90gszJ8mx9fSzTuP440NW9tInURhCXej1jYJYExCOx8vjGX0COwd77Sh0Mrcorun5AD0WF0BcZIMRJR9UFIxDswlxax975YxLOjzRKULqaHZzKkNbBvd5ItaQYF0wDNh7qq1kRYFQysV9TuMvYk0SL5trlxMwAMPD0lOUngaLMJ5crBCMqNnaMBS2qN2jRgVS2vvecBF1Af7",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -1119,7 +1100,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/regional-mixer-power-inox-3-em-1-600w-elgin-lunar-220v-mixer-triturador-e.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1025,
+      "vendas": 1032,
       "nota_qualidade": 9
     },
     {
