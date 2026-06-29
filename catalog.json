@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-29T14:52:42.886922+00:00",
+  "atualizado": "2026-06-29T14:57:42.570683+00:00",
   "ofertas": [
+    {
+      "source_id": "2892057",
+      "titulo": "Placa de Vídeo ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS",
+      "de": 3373.27,
+      "por": 1536.0,
+      "desconto": 54,
+      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
+      "cupom": "CHEGOUPRIME",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-29T14:57:42.570683+00:00",
+      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 100,
+      "nota_qualidade": 9
+    },
     {
       "source_id": "pechinchou-133810",
       "titulo": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless",
