@@ -1,6 +1,63 @@
 {
-  "atualizado": "2026-06-29T16:24:39.285064+00:00",
+  "atualizado": "2026-06-29T16:29:52.771329+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-75035",
+      "titulo": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 127V",
+      "de": 849.9,
+      "por": 370.15,
+      "desconto": 56,
+      "imagem": "https://m.media-amazon.com/images/I/71YOp9GJX2L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0CH3WBKN6?tag=promoninja0c3-20",
+      "cupom": "ASPIRAPRIME",
+      "loja": "amazon",
+      "categoria": "Eletroportáteis",
+      "data": "2026-06-29T16:29:52.771329+00:00",
+      "slug": "wap-extratora-portatil-spot-cleaner-w3-3-em-1-borrifa-esfrega-e-extrai-com",
+      "page_url": "https://promoninjaofertas.github.io/produto/wap-extratora-portatil-spot-cleaner-w3-3-em-1-borrifa-esfrega-e-extrai-com.html",
+      "avaliacao": null,
+      "avaliacoes": 8,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "pechinchou-146570",
+      "titulo": "Samsung Smart Monitor TV 43\", HD, Plataforma Tizen™",
+      "de": 2039.0,
+      "por": 1236.9,
+      "desconto": 39,
+      "imagem": "https://m.media-amazon.com/images/I/61xNiNl59RL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FF676FXT?tag=promoninja0c3-20",
+      "cupom": "PRIME50OFF",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-29T16:29:52.771329+00:00",
+      "slug": "samsung-smart-monitor-tv-43-hd-plataforma-tizentm",
+      "page_url": "https://promoninjaofertas.github.io/produto/samsung-smart-monitor-tv-43-hd-plataforma-tizentm.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "pechinchou-102161",
+      "titulo": "WAAW by ALOK Caixa de Som INFINITE 100 Bluetooth, Tipo Torre, Até 14h de Autonomia, 4 Alto-Falantes, TWS, 100W RMS",
+      "de": 1399.9,
+      "por": 624.4,
+      "desconto": 55,
+      "imagem": "https://m.media-amazon.com/images/I/61mr8Fpv2TL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0CP8G6T3H?tag=promoninja0c3-20",
+      "cupom": "PRIME50OFF",
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-06-29T16:29:52.771329+00:00",
+      "slug": "waaw-by-alok-caixa-de-som-infinite-100-bluetooth-tipo-torre-ate-14h-de",
+      "page_url": "https://promoninjaofertas.github.io/produto/waaw-by-alok-caixa-de-som-infinite-100-bluetooth-tipo-torre-ate-14h-de.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-116613",
       "titulo": "Caixa De Som Jbl Partybox Club 120 Bluetooth 160w Cor Preto",
@@ -17,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-jbl-partybox-club-120-bluetooth-160w-cor-preto.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 10,
+      "vendas": 32,
       "nota_qualidade": 8
     },
     {
@@ -57,25 +114,6 @@
       "avaliacoes": 1,
       "vendas": 0,
       "nota_qualidade": 8
-    },
-    {
-      "source_id": "2892819",
-      "titulo": "TCL Smart TV 32 Polegadas HD QLED WiFi Bluetooth Google TV 2 HDMI HDR10 Dolby Audio 32S5K",
-      "de": 1299.0,
-      "por": 899.99,
-      "desconto": 31,
-      "imagem": "https://m.media-amazon.com/images/I/81iCR9kQFbL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FTGL2XBC?tag=promoninja0c3-20",
-      "cupom": "PRIME50OFF",
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-06-29T16:14:22.713542+00:00",
-      "slug": "tcl-smart-tv-32-polegadas-hd-qled-wifi-bluetooth-google-tv-2-hdmi-hdr10",
-      "page_url": "https://promoninjaofertas.github.io/produto/tcl-smart-tv-32-polegadas-hd-qled-wifi-bluetooth-google-tv-2-hdmi-hdr10.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 0,
-      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-139827",
@@ -131,8 +169,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-partybox-encore-2-com-microfone-jbl-preto.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 63,
-      "nota_qualidade": 7
+      "vendas": 137,
+      "nota_qualidade": 9
     },
     {
       "source_id": "pechinchou-137675",
