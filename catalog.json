@@ -1,63 +1,6 @@
 {
-  "atualizado": "2026-06-29T00:52:52.982201+00:00",
+  "atualizado": "2026-06-29T00:58:02.391642+00:00",
   "ofertas": [
-    {
-      "source_id": "2891249",
-      "titulo": "Tênis Olympikus Zex 2 Masculino",
-      "de": 249.99,
-      "por": 161.99,
-      "desconto": 35,
-      "imagem": "https://m.media-amazon.com/images/I/5190JDleDFL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DWCB2LYH?tag=promoninja0c3-20",
-      "cupom": "ALOCUPOM",
-      "loja": "amazon",
-      "categoria": "Moda",
-      "data": "2026-06-29T00:52:52.982201+00:00",
-      "slug": "tenis-olympikus-zex-2-masculino",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-zex-2-masculino.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 50,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "2891458",
-      "titulo": "Smartphone Motorola Moto G15 5G 128 gb 12 gb ( 4gb de ram + 8gb ram boost) Câmera 50 mp com AI e Night Vision Bateria",
-      "de": 1099.0,
-      "por": 719.08,
-      "desconto": 35,
-      "imagem": "https://www.promobit.com.br/static/p/398654378117826870839829700925.png",
-      "link": "https://meli.la/1y5RzsK",
-      "cupom": "OFERTAPARAVC",
-      "loja": "mercadolivre",
-      "categoria": "Smartphones",
-      "data": "2026-06-29T00:52:52.982201+00:00",
-      "slug": "smartphone-motorola-moto-g15-5g-128-gb-12-gb-4gb-de-ram-8gb-ram",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g15-5g-128-gb-12-gb-4gb-de-ram-8gb-ram.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 10,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "2891452",
-      "titulo": "Smartphone Motorola Moto G77 5G 256 gb 24 gb ( 8gb de ram + 16gb ram boost) Câmera 108mp Ultra-Pixel Tela 1.5k Extreme",
-      "de": 2499.0,
-      "por": 1486.46,
-      "desconto": 41,
-      "imagem": "https://www.promobit.com.br/static/p/889252789017826857277459781102.png",
-      "link": "https://meli.la/1w88uUb",
-      "cupom": "OFERTAPARAVC",
-      "loja": "mercadolivre",
-      "categoria": "Smartphones",
-      "data": "2026-06-29T00:52:52.982201+00:00",
-      "slug": "smartphone-motorola-moto-g77-5g-256-gb-24-gb-8gb-de-ram-16gb-ram",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g77-5g-256-gb-24-gb-8gb-de-ram-16gb-ram.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 10,
-      "nota_qualidade": 7
-    },
     {
       "source_id": "pechinchou-145879",
       "titulo": "Armário De Cozinha Multiuso Aéreo C/ Nicho Moderno Ajl Store",
@@ -169,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-mizuno-city-wall.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 380,
+      "vendas": 385,
       "nota_qualidade": 7
     },
     {
@@ -1091,7 +1034,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPN2EUoo7eSERInhA7uMJhVNSk9Iwgef38Dqgy5iKBbru2zov6ni38RwBbdMCRD690Lzp5p938apgzoZTswv7SFsnKt4Jk1ZlJgrkTK42JKXy9UZmGq0lI7jJq15A3pMm1ayodJkkc4mLPgYGpsLtogtjEipH65xcPyZsngny8HCEtThf6REzOklrnUvKgZczXiONwE5RgWnyJvfgqGCvwXGf8DKKbRmKEbbvFPAjiRJnQIy3SkUX0X6dClIVs0vfOGoj8Z2OJ7xnxiQpgCO40erBi6d1JkQdWxxbBMKz3MdcePZWSzNdaZit0kj59QzVY6DSbxzrk2PxLSykcLmvAHGuMCMKBbKBEYeMXzSx8M5o8lC0t9t4ZyjKETonEVJLfDxTBNfHRfZH2AA6szzFo9Galz7tLufhDYXNLlbfpEZbk2VsW8G0DfU3JBESEOzMkpVtHdPLSo2HUv5EVYRzblhImPjCs53ilpDeJwMCK",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNl9OitFmsNErCFakffsfrnc4LRuxKPUyxlH0a3GzXD421NhnHf7ZXrGZOmoVB2K3k3FW5d1LbUNpM4YILTixyQhNUecEuchcbB9tX5quWUbRy7EFMr2S62JghbKpU8KOBaBNpOGdZoMKQBFQUeSz9uhkCD7F8t77qmDFaKksBALiFjx7RpqKMIlYtVjxkUz9uomk5HPu1SFviTDRcnaTQ1wzDCsabx6LL3O952WEsNNtxUdoaEp3LSHCw5QTMPZcmE12TubDI1fGJsGppAaELsdi3k4RFTxgwIywoRaN42HQSE80nelDsygddB5aN9m5z8cj4ffouMZA3iRfeIrxarTMDRUWHhc11CfNb97AgfEeGmchOP2S7BRkCwlygCgOV5JPFehV9jcGDpg1NVAcmpZlhB50RTA5T1hJUHVimdslwyIBOqbtk6H1eiQ9bUGpjXlZNgACRmKdnGC47qc8qXxvTrWkasymHp08ceP0",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -1159,25 +1102,6 @@
       "avaliacoes": null,
       "vendas": 1097,
       "nota_qualidade": 9
-    },
-    {
-      "source_id": "pechinchou-132040",
-      "titulo": "Esmerilhadeira Lixadeira Angular 880w 115mm Hanabi Cor Azul-petróleo Frequência 60hz",
-      "de": 229.9,
-      "por": 107.18,
-      "desconto": 53,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_648864-MLA99989596123_112025-O.webp",
-      "link": "https://meli.la/2qPooE3",
-      "cupom": "CUPOMOFF",
-      "loja": "mercadolivre",
-      "categoria": "Ferramentas",
-      "data": "2026-06-28T00:57:57.683027+00:00",
-      "slug": "esmerilhadeira-lixadeira-angular-880w-115mm-hanabi-cor-azul-petroleo-frequencia-60hz",
-      "page_url": "https://promoninjaofertas.github.io/produto/esmerilhadeira-lixadeira-angular-880w-115mm-hanabi-cor-azul-petroleo-frequencia-60hz.html",
-      "avaliacao": null,
-      "avaliacoes": 3,
-      "vendas": 172,
-      "nota_qualidade": 7
     }
   ]
 }
