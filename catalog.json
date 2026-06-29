@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-29T21:52:12.384060+00:00",
+  "atualizado": "2026-06-29T21:57:22.574081+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-117513",
@@ -701,7 +701,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 17,
-      "vendas": 4591,
+      "vendas": 4592,
       "nota_qualidade": 7
     },
     {
@@ -720,7 +720,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-boombox-4-bluetooth-som-jbl-pro-ai-sound-boost-graves.html",
       "avaliacao": null,
       "avaliacoes": 12,
-      "vendas": null,
+      "vendas": 135,
       "nota_qualidade": 7
     },
     {
@@ -1081,7 +1081,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cafe-melitta-sabor-da-fazenda-vacuo-500g.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 2132,
+      "vendas": 2139,
       "nota_qualidade": 7
     },
     {
@@ -1176,7 +1176,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 2269,
+      "vendas": 2276,
       "nota_qualidade": 7
     },
     {
@@ -1368,63 +1368,6 @@
       "avaliacoes": null,
       "vendas": 13757,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "58255159172",
-      "titulo": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
-      "de": 48.99,
-      "por": 20.79,
-      "desconto": 60,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mltkawis4qo439",
-      "link": "https://s.shopee.com.br/4qDetx9OsH",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-06-28T21:53:40.104278+00:00",
-      "slug": "fones-de-ouvido-sem-fio-bluetooth-compactos-xiaomi-redmi-airdots-com-estojo-recarregav",
-      "page_url": "https://promoninjaofertas.github.io/produto/fones-de-ouvido-sem-fio-bluetooth-compactos-xiaomi-redmi-airdots-com-estojo-recarregav.html",
-      "avaliacao": 4.8,
-      "avaliacoes": null,
-      "vendas": 5415,
-      "nota_qualidade": 10
-    },
-    {
-      "source_id": "22794927027",
-      "titulo": "Celuar Xiaomi Poco X8 Pro 512GB / 256GB 5G NFC Versão Global Original e Envio Imediato Com NF",
-      "de": 2430.0,
-      "por": 2282.0,
-      "desconto": 59,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-moo1vcisbrib78",
-      "link": "https://s.shopee.com.br/70I7gAStM6",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-06-28T21:53:40.104278+00:00",
-      "slug": "celuar-xiaomi-poco-x8-pro-512gb-256gb-5g-nfc-versao-global-original-e-envio",
-      "page_url": "https://promoninjaofertas.github.io/produto/celuar-xiaomi-poco-x8-pro-512gb-256gb-5g-nfc-versao-global-original-e-envio.html",
-      "avaliacao": 4.8,
-      "avaliacoes": null,
-      "vendas": 1039,
-      "nota_qualidade": 9
-    },
-    {
-      "source_id": "7283213553",
-      "titulo": "Mouse Bluetooth Sem Fio Logitech M330 M350 Pebble Sem Fio Bluetooth Fino Pequeno Silencioso Eucalipto Cinza Azul1000Dpi",
-      "de": 39.99,
-      "por": 32.5,
-      "desconto": 75,
-      "imagem": "https://cf.shopee.com.br/file/e9ecc75d070ec41adb346b299cd3e01c",
-      "link": "https://s.shopee.com.br/7Kuwvhlj31",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-06-28T21:53:40.104278+00:00",
-      "slug": "mouse-bluetooth-sem-fio-logitech-m330-m350-pebble-sem-fio-bluetooth-fino-pequeno-silen",
-      "page_url": "https://promoninjaofertas.github.io/produto/mouse-bluetooth-sem-fio-logitech-m330-m350-pebble-sem-fio-bluetooth-fino-pequeno-silen.html",
-      "avaliacao": 4.8,
-      "avaliacoes": null,
-      "vendas": 145,
-      "nota_qualidade": 10
     }
   ]
 }
