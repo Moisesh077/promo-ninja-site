@@ -1,6 +1,44 @@
 {
-  "atualizado": "2026-06-29T15:38:27.674466+00:00",
+  "atualizado": "2026-06-29T15:43:29.978116+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-78053",
+      "titulo": "Tablet Vaio Tl10 4gb Ram 128gb Octa-core, Tela 10.4” 2k, 4g Wifi Dual Band, Câmera 8mp + Selfie 5mp, 7000mah, Android 16, Com Teclado Magnético De Conexão Inteligente – Preto",
+      "de": 1669.9,
+      "por": 1061.82,
+      "desconto": 36,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_911625-MLA111714671966_062026-O.webp",
+      "link": "https://meli.la/1yVXY9X",
+      "cupom": "OFERTAPARAVC",
+      "loja": "mercadolivre",
+      "categoria": "Hardware",
+      "data": "2026-06-29T15:43:29.978116+00:00",
+      "slug": "tablet-vaio-tl10-4gb-ram-128gb-octa-core-tela-10-4-2k-4g-wifi",
+      "page_url": "https://promoninjaofertas.github.io/produto/tablet-vaio-tl10-4gb-ram-128gb-octa-core-tela-10-4-2k-4g-wifi.html",
+      "avaliacao": null,
+      "avaliacoes": 6,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "pechinchou-105647",
+      "titulo": "Tênis Carina Feminino Puma",
+      "de": 399.99,
+      "por": 175.99,
+      "desconto": 56,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_E8yIpgq.jpg",
+      "link": "https://meli.la/1mo2YKV",
+      "cupom": "ESTILOEBELEZA",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-06-29T15:43:29.978116+00:00",
+      "slug": "tenis-carina-feminino-puma",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-carina-feminino-puma.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 16,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-147679",
       "titulo": "Bicicleta Ergométrica Spinning Premium-JN Fitness+Garrafa grátis modelo JN-1104 Preto 110kg",
@@ -764,9 +802,9 @@
     {
       "source_id": "22794927027",
       "titulo": "Celuar Xiaomi Poco X8 Pro 512GB / 256GB 5G NFC Versão Global Original e Envio Imediato Com NF",
-      "de": 2430.0,
+      "de": 2350.0,
       "por": 2282.0,
-      "desconto": 59,
+      "desconto": 54,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-moo1vcisbrib78",
       "link": "https://s.shopee.com.br/70I7gAStM6",
       "cupom": null,
@@ -778,7 +816,7 @@
       "avaliacao": 4.8,
       "avaliacoes": null,
       "vendas": 1079,
-      "nota_qualidade": 9
+      "nota_qualidade": 8
     },
     {
       "source_id": "7283213553",
