@@ -1,23 +1,23 @@
 {
-  "atualizado": "2026-06-29T19:48:22.690527+00:00",
+  "atualizado": "2026-06-29T19:53:32.670056+00:00",
   "ofertas": [
     {
-      "source_id": "2893045",
-      "titulo": "Monitor Gamer Samsung Odyssey G5 32'', QHD, 165Hz, 1ms",
-      "de": 1599.0,
-      "por": 1019.0,
-      "desconto": 36,
-      "imagem": "https://m.media-amazon.com/images/I/616NYrEQ6QL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DWQNS8TN?tag=promoninja0c3-20",
+      "source_id": "pechinchou-106255",
+      "titulo": "Smart TV 32\" Philco Roku TV Dolby Áudio HDR10 P32CRB",
+      "de": 879.0,
+      "por": 679.2,
+      "desconto": 23,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/61V9d30QZKL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GH34KFLR?tag=promoninja0c3-20",
       "cupom": "BOLANAREDE10",
       "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-06-29T19:48:22.690527+00:00",
-      "slug": "monitor-gamer-samsung-odyssey-g5-32-qhd-165hz-1ms",
-      "page_url": "https://promoninjaofertas.github.io/produto/monitor-gamer-samsung-odyssey-g5-32-qhd-165hz-1ms.html",
+      "categoria": "TV e Eletronicos",
+      "data": "2026-06-29T19:53:32.670056+00:00",
+      "slug": "smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb",
+      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb.html",
       "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 0,
+      "avaliacoes": 7,
+      "vendas": null,
       "nota_qualidade": 8
     },
     {
@@ -45,7 +45,7 @@
       "de": 1159.9,
       "por": 692.84,
       "desconto": 40,
-      "imagem": "https://m.media-amazon.com/images/I/51rDbX0su5L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/41aOI79kdTL_Awj1ac8.__AC_SX300_SY300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B0CT922NH7?tag=promoninja0c3-20",
       "cupom": "BOLANAREDE10",
       "loja": "amazon",
@@ -55,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jbl-soundbar-bluetooth-cinema-sb180-2-1-canais-subwoofer-de-6-5-sem-fio.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": null,
-      "nota_qualidade": 9
+      "vendas": 34,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-146570",
@@ -64,7 +64,7 @@
       "de": 2039.0,
       "por": 1236.9,
       "desconto": 39,
-      "imagem": "https://m.media-amazon.com/images/I/61xNiNl59RL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_vjnBTKa.jpg",
       "link": "https://www.amazon.com.br/dp/B0FF676FXT?tag=promoninja0c3-20",
       "cupom": "PRIME50OFF",
       "loja": "amazon",
@@ -74,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/samsung-smart-monitor-tv-43-hd-plataforma-tizentm.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 232,
+      "vendas": 238,
       "nota_qualidade": 8
     },
     {
@@ -93,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-encore-essential-2.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 15,
+      "vendas": 25,
       "nota_qualidade": 8
     },
     {
@@ -454,7 +454,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 17,
-      "vendas": 4571,
+      "vendas": 4575,
       "nota_qualidade": 7
     },
     {
@@ -834,7 +834,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cafe-melitta-sabor-da-fazenda-vacuo-500g.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 2011,
+      "vendas": 2021,
       "nota_qualidade": 7
     },
     {
@@ -919,7 +919,7 @@
       "de": 122.9,
       "por": 49.9,
       "desconto": 59,
-      "imagem": "https://m.media-amazon.com/images/I/51k9hj+RYjL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_ygwjlJd.jpg",
       "link": "https://www.amazon.com.br/dp/B0G8XBXNK8?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -929,7 +929,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 2176,
+      "vendas": 2187,
       "nota_qualidade": 7
     },
     {
