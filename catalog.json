@@ -1,6 +1,63 @@
 {
-  "atualizado": "2026-06-29T21:05:52.999951+00:00",
+  "atualizado": "2026-06-29T21:10:58.285153+00:00",
   "ofertas": [
+    {
+      "source_id": "2893242",
+      "titulo": "Mondial Fritadeira Air Fryer Forno Oven 12l, Pretoinox, 2000w, 110v - Afon-12l-bi",
+      "de": 599.0,
+      "por": 431.99,
+      "desconto": 28,
+      "imagem": "https://m.media-amazon.com/images/I/51G4AxVAJxL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0BZJDLT6Z?tag=promoninja0c3-20",
+      "cupom": "GOLACO10",
+      "loja": "amazon",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-06-29T21:10:58.285153+00:00",
+      "slug": "mondial-fritadeira-air-fryer-forno-oven-12l-pretoinox-2000w-110v-afon-12l-bi",
+      "page_url": "https://promoninjaofertas.github.io/produto/mondial-fritadeira-air-fryer-forno-oven-12l-pretoinox-2000w-110v-afon-12l-bi.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 5,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "2893140",
+      "titulo": "Placa de Vídeo ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS",
+      "de": 3373.27,
+      "por": 1436.0,
+      "desconto": 57,
+      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
+      "cupom": "BOLANAREDE10",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-29T21:10:58.285153+00:00",
+      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 35,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "pechinchou-107371",
+      "titulo": "Deo Parfum Natura Essencial Oud Masculino 100ml",
+      "de": 189.9,
+      "por": 75.48,
+      "desconto": 60,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_870899-MLA47617970801_092021-O.jpg",
+      "link": "https://meli.la/2xKZemc",
+      "cupom": "AQUITEMCUPOM",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-06-29T21:10:58.285153+00:00",
+      "slug": "deo-parfum-natura-essencial-oud-masculino-100ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/deo-parfum-natura-essencial-oud-masculino-100ml.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 9
+    },
     {
       "source_id": "pechinchou-117720",
       "titulo": "Lavadora de alta pressão Vonder Leve LAV1300 220V amarela de 1.3kW com 90bar de pressão máxima - 60Hz",
@@ -93,7 +150,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/parafusadeira-e-furadeira-de-impacto-wf-12k3-2-wap.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 125,
+      "vendas": 173,
       "nota_qualidade": 9
     },
     {
@@ -112,7 +169,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/lixadeira-orbital-elo-250-fw008918-cinza-amarelo-e-preto-wap-127v.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 39,
+      "vendas": 44,
       "nota_qualidade": 8
     },
     {
