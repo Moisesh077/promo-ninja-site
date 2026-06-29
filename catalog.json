@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-29T12:34:45.606982+00:00",
+  "atualizado": "2026-06-29T12:39:53.290180+00:00",
   "ofertas": [
+    {
+      "source_id": "2892057",
+      "titulo": "Placa de Vídeo ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS",
+      "de": 3373.27,
+      "por": 1536.0,
+      "desconto": 54,
+      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
+      "cupom": "CHEGOUPRIME",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-29T12:39:53.290180+00:00",
+      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 40,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-65627",
       "titulo": "Café Melitta Sabor Da Fazenda Vácuo 500g",
@@ -17,7 +36,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cafe-melitta-sabor-da-fazenda-vacuo-500g.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 1089,
+      "vendas": 1143,
       "nota_qualidade": 7
     },
     {
@@ -112,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1681,
+      "vendas": 1713,
       "nota_qualidade": 7
     },
     {
@@ -312,7 +331,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPina66gJOwlebFsAoRWYKI4xcCxUmLbDPx4gGmU1Tw6TAhMnH3BStvWHhXDBQg2rDItkyBISnVF8L8SllBosQNtJEbq8QdxO8pY9GeHFtOZXWEBv2MwBj5u09a1L3txV8yDDJgQpYZJYB40URn9S87NUuMaTdGBkhhRCVbXMMMOTWm3cSvYGpA1pgtcKpd3vJ2mj0v1BSdbXual373NnqC4HCZnKk0SPZog6GifkQJP24fWLxKOpMvVP9KnJO3uLYFODpwmb0bNEBhEy6O1EZ5F1fsBcj8VKPnn6l6Z86zgfikiliFgkw3dEFek6TAbxVmjhuFTgDMO4JTgFGWmX5lcINRDjlNRiLKkYsNelvTbSegRclBatsno6njhX4rLszXW8QzpHOtu8hkNMwbFLtlIFwydBSHIEtsPxNAIMlomBwiTihWhAWERUMEIc4jkDRMBKGNc7KMm4FHUI3IpSjzCphVvCQpg8smaQcOSOh",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiS83j7bwVpynmveg1SsqyHquIkFmz26up0M4SYdCD2JmcvvIxMLcnRMO38rwO43JRvg1AeGeR59ztWdIzHxRKQZU2mGPI1JZHtx8EhJc4lGLGhE39THDB2ZiazSPWhlkiRgfP2GMTueHkMF24nxCsNGGRKCSiCCcUr8XqcSsgRZ4GeR6ZfNQG5A2No3JY60obPkQonC4XauAqBQWeCWca6BpA4KELJmadbLknDbvGtZHSplpJhCwhcESnXrPLE1x6PHMgLcHTlBCwlioNiJsssOccv8FJLe9BZ0qStsIaZOGUbsQxyUFGgfJcxNOaP8XJjCNc8WPiOakKFqzLRvQANbn0PwmY4fFnsgLLHmHYMU21dJcRFrgri0rVn6583xiYhZLSYrtyxCpmOtjl47xcFv6pIMVPGYi7OoEUZWKits42h7CsDeePBG99xIxaAWreqaYnFQjn0FtsOwW8u7bP7KdbmNNsV3fgzxGw01R",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -1043,7 +1062,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/regional-mixer-power-inox-3-em-1-600w-elgin-lunar-220v-mixer-triturador-e.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1021,
+      "vendas": 1025,
       "nota_qualidade": 9
     },
     {
@@ -1233,7 +1252,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 16,
-      "vendas": 4515,
+      "vendas": 4517,
       "nota_qualidade": 7
     }
   ]
