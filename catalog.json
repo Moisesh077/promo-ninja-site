@@ -1,61 +1,23 @@
 {
-  "atualizado": "2026-06-29T04:01:43.502429+00:00",
+  "atualizado": "2026-06-29T04:06:42.990354+00:00",
   "ofertas": [
     {
-      "source_id": "2891249",
-      "titulo": "Tênis Olympikus Zex 2 Masculino",
-      "de": 249.99,
-      "por": 161.99,
-      "desconto": 35,
-      "imagem": "https://m.media-amazon.com/images/I/5190JDleDFL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DWCB2LYH?tag=promoninja0c3-20",
-      "cupom": "ALOCUPOM",
-      "loja": "amazon",
-      "categoria": "Moda",
-      "data": "2026-06-29T04:01:43.502429+00:00",
-      "slug": "tenis-olympikus-zex-2-masculino",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-zex-2-masculino.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 60,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "2891584",
-      "titulo": "Mouse Pad Logitech Studio Series",
-      "de": 56.9,
-      "por": 38.96,
-      "desconto": 32,
-      "imagem": "https://m.media-amazon.com/images/I/81WQsjtppYL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B09DV56338?tag=promoninja0c3-20",
+      "source_id": "pechinchou-69010",
+      "titulo": "Colgate Caneta Clareadora Dental Luminous White Gloss 2.5ml",
+      "de": 122.9,
+      "por": 49.9,
+      "desconto": 59,
+      "imagem": "https://m.media-amazon.com/images/I/51k9hj+RYjL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0G8XBXNK8?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-06-29T03:56:42.777326+00:00",
-      "slug": "mouse-pad-logitech-studio-series",
-      "page_url": "https://promoninjaofertas.github.io/produto/mouse-pad-logitech-studio-series.html",
+      "categoria": "Saúde",
+      "data": "2026-06-29T04:06:42.990354+00:00",
+      "slug": "colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 25,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "2891242",
-      "titulo": "Tênis Mizuno City Wall",
-      "de": 329.99,
-      "por": 153.89,
-      "desconto": 53,
-      "imagem": "https://m.media-amazon.com/images/I/61F9hLDrvDL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FFTTDX1W?tag=promoninja0c3-20",
-      "cupom": "ALOCUPOM",
-      "loja": "amazon",
-      "categoria": "Moda",
-      "data": "2026-06-29T03:51:32.574485+00:00",
-      "slug": "tenis-mizuno-city-wall",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-mizuno-city-wall.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 586,
+      "avaliacoes": null,
+      "vendas": 117,
       "nota_qualidade": 7
     },
     {
@@ -226,7 +188,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-arabe-lattafa-fakhar-gold-extrait-eau-de-parfum-100ml.html",
       "avaliacao": null,
       "avaliacoes": 6,
-      "vendas": 666,
+      "vendas": 675,
       "nota_qualidade": 7
     },
     {
@@ -340,7 +302,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tramontina-flex-79167150-verde-escuro-1-2-15-m.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 98,
+      "vendas": 99,
       "nota_qualidade": 8
     },
     {
@@ -359,7 +321,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/aspirador-de-po-vertical-turbo-sweep-1350w-ho601-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 770,
+      "vendas": 775,
       "nota_qualidade": 7
     },
     {
@@ -378,7 +340,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/modulo-prateleira-porta-temperos-especiarias-papel-toalha-marrom-claro.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 555,
+      "vendas": 557,
       "nota_qualidade": 8
     },
     {
@@ -948,7 +910,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-2-camisetas-oversized-masculina-texturizado-premium.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 3386,
+      "vendas": 3395,
       "nota_qualidade": 7
     },
     {
@@ -986,7 +948,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/regional-mixer-power-inox-3-em-1-600w-elgin-lunar-220v-mixer-triturador-e.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 941,
+      "vendas": 943,
       "nota_qualidade": 9
     },
     {
@@ -1148,7 +1110,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPN1Va2UDwiBNikztStVtx8k9vdZDQojy45TkQxqakZNb22jQexVVi0qeZsBTPqgOTO6jSAUvCnmreZwCZHavlef2s074l2kvyTHS0mzABh71c8paAs4xfFgU5gzbu0J8sWC9cxxsNkDS5sNV9xH5sMuLWT7hyTjhN7BakDbhWFmwZGq18oRmxwluKXrKsCTV5LN1QSBGYm2yQl4Zg2ostUIcfJU9EHIZ85lCOFf1f5tKCDRRTSq5Vkw6tynRpfFWoXeccwioCrxEIPsWIw1wDc6Iz17YXyKZsNqqPNiziar1plsEfjzQcQ5nHgT6wTBb29B3NxuX2SunzvCP8o1753Ey6OWe6kINTfHT3B7fTnko5dGujPSlAINsJrb8Xad9FebR0csBXUjd7BgsdnJ4ngGwauRpI5nMa7Fz85f6mh6Gj19f7BSf218noSvjNH3d28SuOiTdOHX7yUuJocYURaZeDLeIBUaKHoebmwwZ4",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNrtK5dRSRr9Ie3jW5owjZfxdzPARwMYIZRl99Tujr4vykM28AxVPXBtI0f0GHzkCcgXiUAnEsJMQCps63fTkaSvesjUK795nX7OwAcLV4FGyw2YwAXyWQngC0gfD9NIPeyZXH63GeXY30CUqVoSx72Cz8SU80EoLuwKwVdRibGCiS8NIELD68r9a0qhSH2sVraJZZjrrChr5LTxN30qCYvUf0seDPfcgsowYxaH6NxbzW2B1th0VnMl40wS0aGGVHB7s1zZe7hJsWZzWbHtJEGVeoXRLjixOWwlXFAskLcmDaHFJnLiqdgS59Ha8ld1qS2hdirE0BH58AUYUWLo51pbZIU6gXUQeFaz5MZjKoufst1wGji6vHuhtDhXTlPBIVTmUIyuRAtzwSdmQAokC8ss29LUecF6vCQSLEFizj4KWWr79yVVHu4GUIwF3Eya1dyhlL43Us0bYyKyqOx8hm2IOqd74dEQEnmXbzkXo",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
