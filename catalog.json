@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-29T19:53:32.670056+00:00",
+  "atualizado": "2026-06-29T19:58:41.075639+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-40176",
+      "titulo": "Máquina de Lavar Electrolux 11kg Branca Essential Care Easy Clean Filtro Fiapos 220v LES11",
+      "de": 2479.9,
+      "por": 1448.0,
+      "desconto": 42,
+      "imagem": "https://m.media-amazon.com/images/I/41+50Z4TgEL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/exec/obidos/ASIN/B084RCXNJX/?tag=promoninja0c3-20",
+      "cupom": "BOLANAREDE10",
+      "loja": "amazon",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-06-29T19:58:41.075639+00:00",
+      "slug": "maquina-de-lavar-electrolux-11kg-branca-essential-care-easy-clean-filtro-fiapos-220v-l",
+      "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-electrolux-11kg-branca-essential-care-easy-clean-filtro-fiapos-220v-l.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-106255",
       "titulo": "Smart TV 32\" Philco Roku TV Dolby Áudio HDR10 P32CRB",
@@ -36,15 +55,15 @@
       "page_url": "https://promoninjaofertas.github.io/produto/bola-epp-club-adidas.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 9
+      "vendas": 4,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-88131",
       "titulo": "JBL, Soundbar, Bluetooth, Cinema SB180, 2.1 Canais, Subwoofer de 6,5\" Sem Fio",
       "de": 1159.9,
-      "por": 692.84,
-      "desconto": 40,
+      "por": 686.4,
+      "desconto": 41,
       "imagem": "https://assets.pechinchou.com.br/media/img/products/41aOI79kdTL_Awj1ac8.__AC_SX300_SY300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B0CT922NH7?tag=promoninja0c3-20",
       "cupom": "BOLANAREDE10",
@@ -75,25 +94,6 @@
       "avaliacao": null,
       "avaliacoes": 4,
       "vendas": 238,
-      "nota_qualidade": 8
-    },
-    {
-      "source_id": "2893020",
-      "titulo": "JBL Caixa de Som PartyBox Encore Essential 2",
-      "de": 1899.0,
-      "por": 1048.9,
-      "desconto": 45,
-      "imagem": "https://m.media-amazon.com/images/I/6157Cv5UEZL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0H1282J24?tag=promoninja0c3-20",
-      "cupom": "BOLANAREDE10",
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-06-29T19:38:08.381200+00:00",
-      "slug": "jbl-caixa-de-som-partybox-encore-essential-2",
-      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-encore-essential-2.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 25,
       "nota_qualidade": 8
     },
     {
@@ -824,7 +824,7 @@
       "de": 49.9,
       "por": 23.31,
       "desconto": 53,
-      "imagem": "https://m.media-amazon.com/images/I/616UuoWJ72L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/61ULmBvv4bS._AC_SL1000_.jpg",
       "link": "https://www.amazon.com.br/dp/B07YCQ64HM?tag=promoninja0c3-20",
       "cupom": "PRIME10",
       "loja": "amazon",
@@ -1500,25 +1500,6 @@
       "avaliacao": null,
       "avaliacoes": 2,
       "vendas": 60,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-87261",
-      "titulo": "Air Fryer Britânia 4,2L Dura Mais 1500W BFR38 127V",
-      "de": 479.9,
-      "por": 176.33,
-      "desconto": 63,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_821658-MLB74618193206_022024-O_TsCOnBm_KxeypVm_M3s8SgR.jpg",
-      "link": "https://meli.la/2GXJqHh",
-      "cupom": "LOUCOFUT",
-      "loja": "mercadolivre",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-06-28T19:55:58.716771+00:00",
-      "slug": "air-fryer-britania-4-2l-dura-mais-1500w-bfr38-127v",
-      "page_url": "https://promoninjaofertas.github.io/produto/air-fryer-britania-4-2l-dura-mais-1500w-bfr38-127v.html",
-      "avaliacao": null,
-      "avaliacoes": 3,
-      "vendas": 187,
       "nota_qualidade": 7
     }
   ]
