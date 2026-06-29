@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-29T08:02:42.369739+00:00",
+  "atualizado": "2026-06-29T08:18:02.487287+00:00",
   "ofertas": [
+    {
+      "source_id": "2891242",
+      "titulo": "Tênis Mizuno City Wall",
+      "de": 329.99,
+      "por": 153.89,
+      "desconto": 53,
+      "imagem": "https://m.media-amazon.com/images/I/61F9hLDrvDL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FFTTDX1W?tag=promoninja0c3-20",
+      "cupom": "ALOCUPOM",
+      "loja": "amazon",
+      "categoria": "Moda",
+      "data": "2026-06-29T08:18:02.487287+00:00",
+      "slug": "tenis-mizuno-city-wall",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-mizuno-city-wall.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 631,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "1005008175022509",
       "titulo": "Placa de captura de vídeo Fifine 4K HDMI para transmissão ao vivo e jogos, compatível com PS4/PS5/Windows/Mac OS/Switch/Xbox - V3",
@@ -255,7 +274,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPj4izpaOBn9DlT6pU2CvIH8X7yWN90C3L9DzdF4HpjbgLb3svpbdpiENg1QufVUjWpSiGdLdhDgpPpozIlrCXB5wCUcv4hf0HG7IQqMsrenP2eDJwr4V5xdro4egvNaEyiYzo3nPgkoHxl7GQMvkYw3HImjvnaDK3Ur7QlkkLGSyWceAEPIwBGHwjv0CORUg8SB7wd5gQuU9YxCNSZOzWfCfsJs8qJRWtJw3rgQrNnao3MqNqhTPNwhYp5lM4wkTByzcNqWb8Qmv6pVoHIyM2wfhthu9NFSquCY3eWmPs3GSYR7UMbOwOhpPvw5A5WmmcMbRUsyJ2x4ZEIJcGDwYEar4of7Tj8Baso4VY7wWCo8xvsoYDlXsjGjY194Fk4u6iRZ6uq9ecdXCmsSVn7wWnRIlgfbrdhHWVLPCHJ3SW72ZztbGoZ3DALPlKOElwqcTqhftJq7mBE9N6DIo6yJqCr9l9yf1wA4pCFN1wy6Hf",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPih4imsAxApTyciho7iHrmjwuNsKbRoqTQsSWwZagjOISJR2JJ4SQUpJ3WklYdz9Ym5aCDcaHyGYEUKY7AOyeYMC7DOL2lyt6CMg8Wzv3uAfjVW7KETWBEhznEnMo9gyDvIalDoop2BoL9NdQlAejJth7crX8iNNWLFoP3dPGKocA003YgB96i1oC1rFbB68taGarTCZqun1P0mhBPnshX1ds9oeYqqgCai6anwdiVAUl3u3IXXHHnszcuidujgIC9vT7NGjgoeY4AaTWtt0xMiHAfcD07ro3fWkGQYhMPo41bKUCCnIex6rEgtYULMOpXDcmfOHOZOA6jnyZAgtFjAIpCQrgpfj1vdlxiuGQZnYTfGnXhmRHsQZpLsBE7DZPeMmLfaOsOXLicfMNa9UTA1CKzj4l4NOC7puWA8TEZpl6DTGOxLksiiGt8qyPogOdAyxUlXq3TqSA4qOqmjjHCTecXk09wWuLyQmwLdO9",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -264,7 +283,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/interface-vcds-vagcom-2026-vcdscan-hex-v2-atualizacao-26-3-para-vw-audi-skoda.html",
       "avaliacao": 4.635,
       "avaliacoes": null,
-      "vendas": 13797,
+      "vendas": 13800,
       "nota_qualidade": 7
     },
     {
