@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-29T15:23:13.875342+00:00",
+  "atualizado": "2026-06-29T15:28:13.381245+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-106435",
+      "titulo": "Jogo De Panelas Brinox Antiaderente Ceramic Indução 5 Peças",
+      "de": 769.99,
+      "por": 281.0,
+      "desconto": 64,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_925503-MLA79754522417_102024-O_WBNUPqZ.jpg",
+      "link": "https://meli.la/1yF2p5T",
+      "cupom": "CASAHOJE",
+      "loja": "mercadolivre",
+      "categoria": "Casa",
+      "data": "2026-06-29T15:28:13.381245+00:00",
+      "slug": "jogo-de-panelas-brinox-antiaderente-ceramic-inducao-5-pecas",
+      "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-panelas-brinox-antiaderente-ceramic-inducao-5-pecas.html",
+      "avaliacao": null,
+      "avaliacoes": 3,
+      "vendas": 156,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "1005006356702381",
       "titulo": "Fifine microfone dinâmico usb/xlr com controle rgb/jack de fone de ouvido/mudo, microfone para gravação de jogos de pc streaming AmpliGame-AM8",
@@ -74,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/relogio-smartwatch-bettdow-fb050-gps-tela-amoled-1-43-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 2126,
+      "vendas": 2129,
       "nota_qualidade": 8
     },
     {
@@ -93,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-ultimashow-2-0-adidas.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 450,
+      "vendas": 533,
       "nota_qualidade": 9
     },
     {
@@ -416,7 +435,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cafe-melitta-sabor-da-fazenda-vacuo-500g.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 1674,
+      "vendas": 1707,
       "nota_qualidade": 7
     },
     {
@@ -511,7 +530,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1956,
+      "vendas": 1972,
       "nota_qualidade": 7
     },
     {
