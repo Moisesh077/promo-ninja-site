@@ -1,23 +1,42 @@
 {
-  "atualizado": "2026-06-29T20:14:12.884373+00:00",
+  "atualizado": "2026-06-29T20:19:22.575976+00:00",
   "ofertas": [
     {
-      "source_id": "2893110",
-      "titulo": "Smart TV 32\" Philco Roku TV Dolby Áudio HDR10 P32CRB",
-      "de": 1099.0,
-      "por": 679.2,
-      "desconto": 38,
-      "imagem": "https://m.media-amazon.com/images/I/81zLY1z0j4L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GH34KFLR?tag=promoninja0c3-20",
-      "cupom": "PRIME50OFF",
+      "source_id": "2893140",
+      "titulo": "Placa de Vídeo ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS",
+      "de": 3373.27,
+      "por": 1436.0,
+      "desconto": 57,
+      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
+      "cupom": "BOLANAREDE10",
       "loja": "amazon",
-      "categoria": "TV e Eletronicos",
-      "data": "2026-06-29T20:14:12.884373+00:00",
-      "slug": "smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb",
-      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb.html",
+      "categoria": "Hardware",
+      "data": "2026-06-29T20:19:22.575976+00:00",
+      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 0,
+      "vendas": 5,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "pechinchou-90708",
+      "titulo": "Parafusadeira e Furadeira de Impacto 3/8\" WAP K21 ID02 2000 mAh",
+      "de": 398.47,
+      "por": 167.2,
+      "desconto": 58,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/Screenshot_1907.png",
+      "link": "https://meli.la/1M9XMUj",
+      "cupom": "7DO7FERRAMENTAS",
+      "loja": "mercadolivre",
+      "categoria": "Ferramentas",
+      "data": "2026-06-29T20:19:22.575976+00:00",
+      "slug": "parafusadeira-e-furadeira-de-impacto-3-8-wap-k21-id02-2000-mah",
+      "page_url": "https://promoninjaofertas.github.io/produto/parafusadeira-e-furadeira-de-impacto-3-8-wap-k21-id02-2000-mah.html",
+      "avaliacao": null,
+      "avaliacoes": 4,
+      "vendas": null,
       "nota_qualidade": 8
     },
     {
@@ -74,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/bola-epp-club-adidas.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 27,
+      "vendas": 38,
       "nota_qualidade": 8
     },
     {
@@ -463,7 +482,7 @@
       "de": 719.9,
       "por": 418.4,
       "desconto": 42,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_KwNxafC.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/81o4MCqBv5L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0H6KT2RWH?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -473,7 +492,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 17,
-      "vendas": 4575,
+      "vendas": 4578,
       "nota_qualidade": 7
     },
     {
@@ -843,7 +862,7 @@
       "de": 49.9,
       "por": 23.31,
       "desconto": 53,
-      "imagem": "https://m.media-amazon.com/images/I/616UuoWJ72L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/61ULmBvv4bS._AC_SL1000_.jpg",
       "link": "https://www.amazon.com.br/dp/B07YCQ64HM?tag=promoninja0c3-20",
       "cupom": "PRIME10",
       "loja": "amazon",
@@ -853,7 +872,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cafe-melitta-sabor-da-fazenda-vacuo-500g.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 2024,
+      "vendas": 2042,
       "nota_qualidade": 7
     },
     {
@@ -948,7 +967,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 2192,
+      "vendas": 2209,
       "nota_qualidade": 7
     },
     {
