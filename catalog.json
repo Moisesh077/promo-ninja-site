@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-29T22:27:57.978220+00:00",
+  "atualizado": "2026-06-29T22:32:58.394067+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-111455",
+      "titulo": "Natura Essencial Oud Deo parfum 100ml Feminino",
+      "de": 189.9,
+      "por": 96.9,
+      "desconto": 49,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_782069-MLA74781913649_022024-O.webp",
+      "link": "https://meli.la/2qqB8HK",
+      "cupom": "HORADOGOL",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-06-29T22:32:58.394067+00:00",
+      "slug": "natura-essencial-oud-deo-parfum-100ml-feminino",
+      "page_url": "https://promoninjaofertas.github.io/produto/natura-essencial-oud-deo-parfum-100ml-feminino.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 9
+    },
     {
       "source_id": "pechinchou-146252",
       "titulo": "Smartphone Samsung Galaxy A06 5G 128GB, 4GB, IP54, Tela 6.7\" - Preto",
@@ -74,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/boticario-liz-deo-colonia-feminino-100ml.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 213,
+      "vendas": 456,
       "nota_qualidade": 7
     },
     {
@@ -132,25 +151,6 @@
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": null,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-130271",
-      "titulo": "Deo Parfum Ilía Feminino Natura 50 ml",
-      "de": 141.31,
-      "por": 76.5,
-      "desconto": 46,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/Captura_de_tela_2025-10-18_164356.png",
-      "link": "https://meli.la/1hGcRs8",
-      "cupom": "JOGAJUNTO",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-06-29T22:02:31.485074+00:00",
-      "slug": "deo-parfum-ilia-feminino-natura-50-ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/deo-parfum-ilia-feminino-natura-50-ml.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 65,
       "nota_qualidade": 7
     },
     {
