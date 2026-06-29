@@ -1,23 +1,42 @@
 {
-  "atualizado": "2026-06-29T15:53:48.784563+00:00",
+  "atualizado": "2026-06-29T15:59:02.582556+00:00",
   "ofertas": [
     {
-      "source_id": "2892547",
-      "titulo": "Placa de Vídeo ASRock Intel Arc B580 Challenger 12G OC, 12GB",
-      "de": 3373.27,
-      "por": 1536.0,
-      "desconto": 54,
-      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
-      "cupom": "CHEGOUPRIME",
-      "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-06-29T15:53:48.784563+00:00",
-      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-12gb",
-      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-12gb.html",
+      "source_id": "pechinchou-137675",
+      "titulo": "Caixa de Som Boombox Plus 200W 220V AIWA BBS-01-B",
+      "de": 1500.0,
+      "por": 1106.53,
+      "desconto": 26,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_7ZFluBs.jpg",
+      "link": "https://meli.la/1m3pdD5",
+      "cupom": "MELHORESOFERTASM",
+      "loja": "mercadolivre",
+      "categoria": "Audio",
+      "data": "2026-06-29T15:59:02.582556+00:00",
+      "slug": "caixa-de-som-boombox-plus-200w-220v-aiwa-bbs-01-b",
+      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-boombox-plus-200w-220v-aiwa-bbs-01-b.html",
       "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 40,
+      "avaliacoes": 2,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "pechinchou-84408",
+      "titulo": "Ar Split Electrolux Color Adapt Wi-fi 12k Inverter R-32 220v",
+      "de": 3199.0,
+      "por": 1517.08,
+      "desconto": 53,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/imagem_2024-03-27_213557883_uLPIT05_sWVy36J_Ndq0Mwd_ImcXfYP_Y9trJGM_fSfW4BR_x6T2hMZ_IsYGciS_N3lCeEo_j0QlU4L_AvU9MYL_qUGgduX_kuRvwul_z6x5gPY_2nH5Be3_JaMAvy6_Z2IPlym_PoDxOFd_OijlAoi_RF5WZiu_ksBUxh8_vJ0gmd4_q8ZXyJm_oiiGsyP_09XpGpO_KW_Mh2HvZi.png",
+      "link": "https://meli.la/2HZ6ebY",
+      "cupom": "MELHORESOFERTASM",
+      "loja": "mercadolivre",
+      "categoria": "Pet",
+      "data": "2026-06-29T15:59:02.582556+00:00",
+      "slug": "ar-split-electrolux-color-adapt-wi-fi-12k-inverter-r-32-220v",
+      "page_url": "https://promoninjaofertas.github.io/produto/ar-split-electrolux-color-adapt-wi-fi-12k-inverter-r-32-220v.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
       "nota_qualidade": 8
     },
     {
@@ -36,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-portinari-absoluto-colonia-100ml-o-boticario-volume-da-unidade-100-ml.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 1,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-88927",
@@ -55,8 +74,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fechadura-digital-de-sobrepor-fr201-preto-intelbras.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 9
+      "vendas": 5,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-78053",
@@ -549,7 +568,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cafe-melitta-sabor-da-fazenda-vacuo-500g.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 1724,
+      "vendas": 1742,
       "nota_qualidade": 7
     },
     {
@@ -644,7 +663,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1985,
+      "vendas": 1997,
       "nota_qualidade": 7
     },
     {
@@ -1632,8 +1651,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/aspirador-de-po-vertical-com-fio-portatil-de-mao-2-em-1-com-1.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 4,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-137494",
