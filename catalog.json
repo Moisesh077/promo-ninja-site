@@ -1,23 +1,42 @@
 {
-  "atualizado": "2026-06-29T11:12:33.192606+00:00",
+  "atualizado": "2026-06-29T11:17:39.174529+00:00",
   "ofertas": [
     {
-      "source_id": "2892028",
-      "titulo": "Neutrogena Sun Fresh Protetor Solar Facial Para Pele Oleosa Derm Care FPS 70 Sem Cor Kit com 2 Unidades de 40g",
-      "de": 99.89,
-      "por": 66.87,
-      "desconto": 33,
-      "imagem": "https://m.media-amazon.com/images/I/51O6Vi4beAL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0F4G9HWF7?tag=promoninja0c3-20",
-      "cupom": null,
+      "source_id": "2891242",
+      "titulo": "Tênis Mizuno City Wall",
+      "de": 329.99,
+      "por": 153.89,
+      "desconto": 53,
+      "imagem": "https://m.media-amazon.com/images/I/61F9hLDrvDL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FFTTDX1W?tag=promoninja0c3-20",
+      "cupom": "ALOCUPOM",
       "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-06-29T11:12:33.192606+00:00",
-      "slug": "neutrogena-sun-fresh-protetor-solar-facial-para-pele-oleosa-derm-care-fps-70-sem",
-      "page_url": "https://promoninjaofertas.github.io/produto/neutrogena-sun-fresh-protetor-solar-facial-para-pele-oleosa-derm-care-fps-70-sem.html",
+      "categoria": "Moda",
+      "data": "2026-06-29T11:17:39.174529+00:00",
+      "slug": "tenis-mizuno-city-wall",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-mizuno-city-wall.html",
       "avaliacao": null,
-      "avaliacoes": 3,
-      "vendas": 0,
+      "avaliacoes": 2,
+      "vendas": 721,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "2891249",
+      "titulo": "Tênis Olympikus Zex 2 Masculino",
+      "de": 249.99,
+      "por": 161.99,
+      "desconto": 35,
+      "imagem": "https://m.media-amazon.com/images/I/5190JDleDFL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DWCB2LYH?tag=promoninja0c3-20",
+      "cupom": "ALOCUPOM",
+      "loja": "amazon",
+      "categoria": "Moda",
+      "data": "2026-06-29T11:17:39.174529+00:00",
+      "slug": "tenis-olympikus-zex-2-masculino",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-zex-2-masculino.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 65,
       "nota_qualidade": 7
     },
     {
@@ -36,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/o-boticario-floratta-my-blue-colonia-75ml.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": null,
-      "nota_qualidade": 7
+      "vendas": 162,
+      "nota_qualidade": 8
     },
     {
       "source_id": "1005008175022509",
@@ -93,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1405,
+      "vendas": 1446,
       "nota_qualidade": 7
     },
     {
@@ -1024,7 +1043,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/regional-mixer-power-inox-3-em-1-600w-elgin-lunar-220v-mixer-triturador-e.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 985,
+      "vendas": 989,
       "nota_qualidade": 9
     },
     {
@@ -1186,7 +1205,7 @@
       "por": 280.73,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNWpdTFQ7xEnuHomlcCnCSWDjS2Di2ftngFlp7siubmSp9eWPSCc6WRkR0N13NPOER7Rb87yZz4gsiHxQurWyEOiBmX3qRIXbi0FUFzQcJ696GDFgx24isnFeSd1XJX267b4VqNdC3TXa69nOSfoP1Xw0UpGYWhPGk4kEwk3uJqSX9Zwbh2oijFNW1DNzKgpkux5AiuRVLIrJjjRCGtAT6ZSCbXvsnfNO6DT4AR4hN6o7YPAzZ0RqrWRWIv4AwEcOHUyzJJy6XIpxXmJoNIvM2kBxjc0ojpgKTc0DJMpbqTAobqn3fqdananvJjdnDoeYJu3KdRCxJX7ROHjVrATya7qg4LOPHPmq1vIJvVCqm84r9PndGppAVsb1b3rSq46KoLbn3OwnF1ckXHN4xsJuwujpPXmNH2TVP0RQHA6NIuyi88YLVSwPUILXOM2WthpgG1WmaJ1h9METfRC9mmt2vZw3GPEuDahY5E9XZIaQ",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMf3GlJv5Stnlqf9qfyllS8o3vcMgFtlhrIaBO0BnutoephT9ZpOI9Md5uxMMRQxLuTurG1lEwMxq5r2CSRdAS1qewMGUkxWq8btAgorliS4K3p2oBfnr3AoGQhu3DGAMYx5a8HYFsSGv6liRzlMjv2IgbmBg4t98vB0qaW2XyNn3y31BVUymqMkA6srPJkUNSEXu3NAbJtnYMzxFdpFvKQhHMpKQE5euii8k9MPDCiWXXvPOjbvgJ8Qc4zxb0KqtxELXYbAl40I7ARsq3anDPuXOF5P7T9JoRjZFFo5n5RACWpN6eNP0AdtSAKcfreceAxSN577TdJYYSeFZFrDhHowlCZ0EnAHo1RgUylz7ccO5cPCjNBVIi5qAtuSdXVpjwTmdokrGPAECZdCq4K5etX7KOwwcv1dc34tRkbNKx308xdJUqkgmjvCPz9983TjFSMPj4zqOqYva2seGjxLe4CnENLZUvxfXciGbtcGE",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
