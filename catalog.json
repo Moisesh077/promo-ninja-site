@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-30T19:30:04.380251+00:00",
+  "atualizado": "2026-06-30T19:35:10.591977+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-124189",
@@ -17,8 +17,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-apolis-feminino-esportivo-super-leve-macio.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 38,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-147803",
@@ -45,7 +45,7 @@
       "de": 1899.0,
       "por": 1134.0,
       "desconto": 40,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/71Ar78y955L_Qao3hIL._AC_SL1500_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/6157Cv5UEZL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0H1282J24?tag=promoninja0c3-20",
       "cupom": "DIADEJOGO",
       "loja": "amazon",
@@ -55,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-encore-essential-2-show-de-luzes-bluetooth-portatil-resisten.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 45,
+      "vendas": 52,
       "nota_qualidade": 8
     },
     {
@@ -122,7 +122,7 @@
       "por": 54.29,
       "desconto": 25,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S258a925cfef544d4945e9113f2e1ee20V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DW9y7Z9dbL2cfhZZq3EFvrxXUZaPxhVB0M2FVOEYJHty5XE6bN2MjVY35N1ASL3h98ResyRhKnibFF0JxuyzLwFCuvyZDAb2B2DjE49D7OVyPSKTuaTxtMSi8HOvfWVlq59WNLKrcOMrM6MBFLNwXTIGCJLRojNO0Km5tCwYY5rkE1aFogqtq0jffg3iEJzTTXEVhXFInu0cr4eEIqzj6SWPnPyAMGEuznorNXy1UWeqclQCRI5Dli0oLMh3mxIvCQahnTQCJoU7dFgxMCC6jKw7azia8Q8XMX6Cw2U5IwGtqtz0U5qN7mCRTz8HrujhjK7mICf70GqWvfuwdT6ShOdpCzRQpt0YpF3YmBmHG8f3JxLe7GykdxpRqHHpnfxfALV58bulA5f9tzRBsgXniBp37CkAH7oOc0UqFFo7JXdjpxGPwuXto8bGsUB0e88SRLFLqnZjOLi9tfDKnZSiVTGBhFcc7fMJwLIst3DQC",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DX9RHg9PruyrsGf94fkvseTkzBgkVGPnsth1BSrhCKU7Vxu2wzIA2inYrDz91F0Ocv3IJz2fkSfmOCGn5LakubRZDMiQ5mEWa6QMjBsV3XhVwZCUDEbm60Fh2J4pC7YVXsjeit9iAVNv9zc5rUrjt5fpsuqXimx2ffrj1rnOjxPC9cDhSidzh3cTL5JVE3P0g0dikf2Rur22m3e0htkMOeslKrRe1ceK0NxTLlrARmSJ5jJ8dgGNQnJTIU7lDehf3ATg7mZEKtwoQHJiRu0h85CtJSTZaaFng6Pz3VhE98Owkx25BXpqv9jCY5svkQvG2rllWR9eHpTgGnAnK4ldtzUmYm03tqd245C4lvGFwFU1EtflejBDgpj0rgLj1ghjaRvMWLPXJmI1FMVOdam8AV5VZTigM06IF1lo6bKiP1dx42f07yE47ouKRfu2Rdvkl7QGE8d7p9JwbTcGdaFQjKGJKCth88TxDhUnEnNzW",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Games",
@@ -786,7 +786,7 @@
       "de": 719.9,
       "por": 418.4,
       "desconto": 42,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_KwNxafC.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/81o4MCqBv5L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0H6KT2RWH?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -796,7 +796,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4717,
+      "vendas": 4719,
       "nota_qualidade": 7
     },
     {
@@ -1347,7 +1347,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1371,
+      "vendas": 1383,
       "nota_qualidade": 8
     },
     {
