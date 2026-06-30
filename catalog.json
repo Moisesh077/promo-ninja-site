@@ -1,24 +1,43 @@
 {
-  "atualizado": "2026-06-30T18:38:50.597714+00:00",
+  "atualizado": "2026-06-30T18:43:52.694015+00:00",
   "ofertas": [
     {
-      "source_id": "2893485",
-      "titulo": "WAP Aspirador de Pó e Água GTW 10, Compacto, 10 Litros, com Mangueira de 1,5 Metros, Filtro Lavável, 140mbar 1400W 127V",
-      "de": 499.9,
-      "por": 191.92,
-      "desconto": 62,
-      "imagem": "https://m.media-amazon.com/images/I/81O+IX7pYIL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B076YLG74Z?tag=promoninja0c3-20",
-      "cupom": "PRIME20WAP",
+      "source_id": "2894960",
+      "titulo": "Caixa de Som JBL Grip 16W RMS",
+      "de": 559.0,
+      "por": 332.09,
+      "desconto": 41,
+      "imagem": "https://m.media-amazon.com/images/I/61v5T6gMkjL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FVBH3L33?tag=promoninja0c3-20",
+      "cupom": "DIADEJOGO",
       "loja": "amazon",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-06-30T18:38:50.597714+00:00",
-      "slug": "wap-aspirador-de-po-e-agua-gtw-10-compacto-10-litros-com-mangueira-de",
-      "page_url": "https://promoninjaofertas.github.io/produto/wap-aspirador-de-po-e-agua-gtw-10-compacto-10-litros-com-mangueira-de.html",
+      "categoria": "Audio",
+      "data": "2026-06-30T18:43:52.694015+00:00",
+      "slug": "caixa-de-som-jbl-grip-16w-rms",
+      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-jbl-grip-16w-rms.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 10,
-      "nota_qualidade": 7
+      "vendas": 20,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "2894727",
+      "titulo": "Smartphone Motorola Moto g35 5G - 256GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7\" com Superbrilho - Cinza Vegan Leather",
+      "de": 1699.0,
+      "por": 851.9,
+      "desconto": 50,
+      "imagem": "https://m.media-amazon.com/images/I/610I-HC1gHL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DHWCHN2Z?tag=promoninja0c3-20",
+      "cupom": "PRIMECOMECA",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-30T18:43:52.694015+00:00",
+      "slug": "smartphone-motorola-moto-g35-5g-256gb-12gb-4gb-ram-8gb-ram-boost-e-camera",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g35-5g-256gb-12gb-4gb-ram-8gb-ram-boost-e-camera.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 20,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-27298",
@@ -36,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/panela-de-pressao-eletrica-elgin-4-litros-segura-e-pratica-840w-220v.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 96,
-      "nota_qualidade": 8
+      "vendas": 215,
+      "nota_qualidade": 10
     },
     {
       "source_id": "1005011543735291",
@@ -131,7 +150,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-toalhas-buddemeyer-frape-dots-banho-4-pecas.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 480,
+      "vendas": 520,
       "nota_qualidade": 7
     },
     {
@@ -349,7 +368,7 @@
       "de": 209.9,
       "por": 123.5,
       "desconto": 41,
-      "imagem": "https://m.media-amazon.com/images/I/61krIHXdNGS._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/racao-golden-special-sabor-frango-e-carne-para-caes-adultos-15kg-premier-pet-para-todas-grande-adulto_wVpg5ZO_xVZtlx9_XSHgXAd_QguiPfS_KoJPr35_hZ8ZA0M.png",
       "link": "https://www.amazon.com.br/dp/B07ZKLVV22?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -359,7 +378,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/premier-pet-golden-special-racao-para-caes-adultos-sabor-frango-e-carne-15kg.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 176,
+      "vendas": 177,
       "nota_qualidade": 7
     },
     {
@@ -739,7 +758,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4711,
+      "vendas": 4714,
       "nota_qualidade": 7
     },
     {
@@ -1280,7 +1299,7 @@
       "de": 1279.9,
       "por": 639.9,
       "desconto": 50,
-      "imagem": "https://m.media-amazon.com/images/I/61uoabdlxXL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_jzhYD8N.jpg",
       "link": "https://www.amazon.com.br/dp/B0CSK93VDK?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -1290,7 +1309,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1344,
+      "vendas": 1354,
       "nota_qualidade": 8
     },
     {
