@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-30T14:36:52.380941+00:00",
+  "atualizado": "2026-06-30T14:42:00.087806+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-108740",
@@ -17,7 +17,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-nike-journey-run-masculino.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 107,
+      "vendas": 279,
       "nota_qualidade": 9
     },
     {
@@ -273,7 +273,7 @@
       "de": 112.9,
       "por": 50.73,
       "desconto": 55,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51ThcHFsR2L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51ThcHFsR2L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B088RJLS8Z?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -283,7 +283,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cobertura-fracionada-sabor-meio-amargo-hershey-s-professional-formato-moeda-2-01kg-a-e.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 1649,
+      "vendas": 1667,
       "nota_qualidade": 7
     },
     {
@@ -530,7 +530,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1030,
+      "vendas": 1038,
       "nota_qualidade": 8
     },
     {
@@ -1727,7 +1727,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4667,
+      "vendas": 4670,
       "nota_qualidade": 7
     },
     {
@@ -1786,25 +1786,6 @@
       "avaliacoes": 1,
       "vendas": 600,
       "nota_qualidade": 9
-    },
-    {
-      "source_id": "pechinchou-113622",
-      "titulo": "[Regional] Chinelo Kenner Red Azul Sport E Branco Kenner",
-      "de": 129.99,
-      "por": 64.08,
-      "desconto": 51,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_665552-MLA110462403349_042026-O.webp",
-      "link": "https://meli.la/1csUzFT",
-      "cupom": "VEMAPROVEITAR",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-06-29T14:37:29.473243+00:00",
-      "slug": "regional-chinelo-kenner-red-azul-sport-e-branco-kenner",
-      "page_url": "https://promoninjaofertas.github.io/produto/regional-chinelo-kenner-red-azul-sport-e-branco-kenner.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 264,
-      "nota_qualidade": 7
     }
   ]
 }
