@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T17:00:59.674020+00:00",
+  "atualizado": "2026-06-30T17:05:59.792452+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-79666",
+      "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L, Rende 12L, Perfume com Notas de Flores e Ar fresco",
+      "de": 73.75,
+      "por": 35.95,
+      "desconto": 51,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/teste_Ms4gQRQ.png",
+      "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=promoninja0c3-20",
+      "cupom": "PRIMEDAY1A7",
+      "loja": "amazon",
+      "categoria": "Beleza",
+      "data": "2026-06-30T17:05:59.792452+00:00",
+      "slug": "downy-amaciante-concentrado-brisa-de-verao-3l-rende-12l-perfume-com-notas-de-flores",
+      "page_url": "https://promoninjaofertas.github.io/produto/downy-amaciante-concentrado-brisa-de-verao-3l-rende-12l-perfume-com-notas-de-flores.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-144984",
       "titulo": "Limpeza Automotiva Completa Shampoo V-floc Revitalizador Intense Cera Tok Final Limpador Sintra Fast Pano Vonixx | Shampoo V-floc, Revitalizador Intense, Cera Tok Final, Limpador Sintra Fast, Pano Incluído",
@@ -26,7 +45,7 @@
       "de": 129.9,
       "por": 95.85,
       "desconto": 26,
-      "imagem": "https://m.media-amazon.com/images/I/71L1g-qsmtL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/71L1g-qsmtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B076B9CBGR?tag=promoninja0c3-20",
       "cupom": "PRIMEDAY1A7",
       "loja": "amazon",
@@ -45,7 +64,7 @@
       "de": 139.99,
       "por": 84.99,
       "desconto": 39,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/81YdMMEc4vL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/81YdMMEc4vL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0D6CV1P49?tag=promoninja0c3-20",
       "cupom": "PRIMEDAY1A7",
       "loja": "amazon",
@@ -473,7 +492,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4696,
+      "vendas": 4699,
       "nota_qualidade": 7
     },
     {
@@ -1024,7 +1043,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1224,
+      "vendas": 1239,
       "nota_qualidade": 8
     },
     {
