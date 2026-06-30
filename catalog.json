@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-06-30T13:40:42.391506+00:00",
+  "atualizado": "2026-06-30T13:45:52.575695+00:00",
   "ofertas": [
-    {
-      "source_id": "2893918",
-      "titulo": "Smartphone Samsung Galaxy A07 256gb, 8gb, Câm. 50mp, Tela 6.7\"- Preto",
-      "de": 1199.0,
-      "por": 710.22,
-      "desconto": 41,
-      "imagem": "https://m.media-amazon.com/images/I/61AYtRHD0SL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FPHX81RQ?tag=promoninja0c3-20",
-      "cupom": "MEUPRIMEDAY",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-30T13:40:42.391506+00:00",
-      "slug": "smartphone-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-6-7-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-6-7-preto.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 10,
-      "nota_qualidade": 8
-    },
     {
       "source_id": "pechinchou-128998",
       "titulo": "Kit Camiseta Casal Streetwear Carros Mcqueen + Sally",
@@ -711,7 +692,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiwrllBdAg1DFaCS1ghodH4m3ab3sisPiud0zXfb1LNR1EhizSN0Caw8N7AgE1FeTd3x6xkutyON19AHYxy1VWIupvkoV5VYfdN321fxOdTVWZb7oGnFToLnPau7NWR8AznWoz4QMJSSkx6tqqI46ehIL6RrJcq97Y1XYwbBL3Lpnui9reL0TPkyltDFoK0hgODfMVYHjpj4wI5hjZcqrTTQqmwpCjO6AhqLzUBFVyTGeSTGhIzIxJxD7A2VSnxOmqRMAq10LF340ja7QF3YEi8EOzvhZOjy9xn4GsJEm3NsNLWvEGCu7iUbLSOIuHFtJJitv21p6gVOFpcMjss8B8SouLjoIkgETsxivwvgod4FQlFd0NEIaI6FTZhipGyPtebnBNPIZp7j1TeSfaRvInMnayuoaKDCnZs3RknRd5uUB2ijhTX10QhY3y23RFVgGKqDY1QgWFkcsZrrgBq0ooaUZMsHOQnHQ58MPBeAt",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPjmwMy3XKCitc6V5FSAnazHaAXhekzmPAyf9IatgindgsztYbAE7yY7NUgiSwOXOjUyr6BwLYgrbYdBxRM3aH4kQuYcYTUI933xN0DVPHyI6znlEmhrETW5e3drIwDnqLiXuxuz0ZgMCH2N18PfzHuwhp04XSu0Aib7GE1DKT4kQ4MsCkjPceqhyglY5ghIVDgXhT92qDu90kgApEWkKntNTYt7w2VbiFjdI76BXZFoU9BmrlVBhPufVhhzk5cst0SOATavSZH9ctnvAgHbrpQFbjrZyIcIHhinUwE762Uq5yGKTeRpYJlIX8AR4w1oLGje2iiEfZRtyBjqeYE9AZ7dkf84FUkDxyy1zLKCuuVwmKvOMlDlmUu4BXHVgxwUKTg5uhepPGxlQuquqfr4bW3hr4qkdfBOAFXHbszcG6luPAL1LdOU73UdbCVCL4HQk15U1Iz7z0UWiwa66pQrhMMoglYB4tFBQzqP2Z0C0N",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
