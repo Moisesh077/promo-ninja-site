@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T20:21:02.687888+00:00",
+  "atualizado": "2026-06-30T20:26:10.672894+00:00",
   "ofertas": [
+    {
+      "source_id": "2894599",
+      "titulo": "Samsung Ar Condicionado Split Inverter Windfree Ai Pro 12.000 BTUs QuenteFrio",
+      "de": 3376.0,
+      "por": 1746.0,
+      "desconto": 48,
+      "imagem": "https://m.media-amazon.com/images/I/51yvl5w2lrL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0H26SKHML?tag=promoninja0c3-20",
+      "cupom": "PRIMECOMECA",
+      "loja": "amazon",
+      "categoria": "Eletrodomésticos",
+      "data": "2026-06-30T20:26:10.672894+00:00",
+      "slug": "samsung-ar-condicionado-split-inverter-windfree-ai-pro-12-000-btus-quentefrio",
+      "page_url": "https://promoninjaofertas.github.io/produto/samsung-ar-condicionado-split-inverter-windfree-ai-pro-12-000-btus-quentefrio.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 15,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "2894761",
       "titulo": "Omo Sabão Líquido 2 Unidades Lavagem Perfeita 5L",
@@ -862,7 +881,7 @@
       "de": 719.9,
       "por": 418.4,
       "desconto": 42,
-      "imagem": "https://m.media-amazon.com/images/I/81o4MCqBv5L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_KwNxafC.jpg",
       "link": "https://www.amazon.com.br/dp/B0H6KT2RWH?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -1413,7 +1432,7 @@
       "de": 1279.9,
       "por": 639.9,
       "desconto": 50,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_jzhYD8N.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61uoabdlxXL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0CSK93VDK?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -1881,25 +1900,6 @@
       "avaliacoes": null,
       "vendas": 1044,
       "nota_qualidade": 9
-    },
-    {
-      "source_id": "7283213553",
-      "titulo": "Mouse Bluetooth Sem Fio Logitech M330 M350 Pebble Sem Fio Bluetooth Fino Pequeno Silencioso Eucalipto Cinza Azul1000Dpi",
-      "de": 39.99,
-      "por": 32.5,
-      "desconto": 75,
-      "imagem": "https://cf.shopee.com.br/file/e9ecc75d070ec41adb346b299cd3e01c",
-      "link": "https://s.shopee.com.br/7Kuwvhlj31",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-06-29T22:02:31.485074+00:00",
-      "slug": "mouse-bluetooth-sem-fio-logitech-m330-m350-pebble-sem-fio-bluetooth-fino-pequeno-silen",
-      "page_url": "https://promoninjaofertas.github.io/produto/mouse-bluetooth-sem-fio-logitech-m330-m350-pebble-sem-fio-bluetooth-fino-pequeno-silen.html",
-      "avaliacao": 4.8,
-      "avaliacoes": null,
-      "vendas": 146,
-      "nota_qualidade": 10
     }
   ]
 }
