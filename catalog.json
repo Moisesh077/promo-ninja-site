@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T01:00:12.489655+00:00",
+  "atualizado": "2026-06-30T01:05:14.774260+00:00",
   "ofertas": [
+    {
+      "source_id": "2893611",
+      "titulo": "Máquina de Lavar Electrolux 15kg Branca Essential Care com Cesto Inox e Jet&Clean (LED15) - 127V",
+      "de": 3169.0,
+      "por": 1609.1,
+      "desconto": 49,
+      "imagem": "https://m.media-amazon.com/images/I/41pS08Q7EoL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B09B8W3KQP?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-06-30T01:05:14.774260+00:00",
+      "slug": "maquina-de-lavar-electrolux-15kg-branca-essential-care-com-cesto-inox-e-jet-clean",
+      "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-electrolux-15kg-branca-essential-care-com-cesto-inox-e-jet-clean.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 0,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-147401",
       "titulo": "Ar Condicionado Split Inverter Philco Pac9qg Espelhado 9000 Btus Quente E Frio 220v",
@@ -21,25 +40,6 @@
       "nota_qualidade": 7
     },
     {
-      "source_id": "pechinchou-129446",
-      "titulo": "Máquina de Lavar Electrolux 15kg Branca Essential Care com Cesto Inox e Jet&Clean (LED15) - 127V",
-      "de": 2599.9,
-      "por": 1609.1,
-      "desconto": 38,
-      "imagem": "https://m.media-amazon.com/images/I/41pS08Q7EoL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B09B8W3KQP?tag=promoninja0c3-20",
-      "cupom": "PRIMEDAY2026",
-      "loja": "amazon",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-06-30T00:55:05.783668+00:00",
-      "slug": "maquina-de-lavar-electrolux-15kg-branca-essential-care-com-cesto-inox-e-jet-clean",
-      "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-electrolux-15kg-branca-essential-care-com-cesto-inox-e-jet-clean.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 8
-    },
-    {
       "source_id": "pechinchou-143208",
       "titulo": "Presente Egeo Choc - O Boticário",
       "de": 239.9,
@@ -55,45 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/presente-egeo-choc-o-boticario.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 4,
-      "nota_qualidade": 8
-    },
-    {
-      "source_id": "2893497",
-      "titulo": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE Galaxy AI Titânio Aeroespacial Titânio Prata",
-      "de": 4999.0,
-      "por": 1789.1,
-      "desconto": 64,
-      "imagem": "https://m.media-amazon.com/images/I/613Ix076kwL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FJPL1MGY?tag=promoninja0c3-20",
-      "cupom": "PRIMEDAY2026",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-30T00:50:03.293174+00:00",
-      "slug": "samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit",
-      "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 30,
-      "nota_qualidade": 8
-    },
-    {
-      "source_id": "2893513",
-      "titulo": "Samsung Galaxy Watch8 Classic Smartwatch 46mm Lte, Galaxy Ai - Branco",
-      "de": 4499.0,
-      "por": 1924.1,
-      "desconto": 57,
-      "imagem": "https://m.media-amazon.com/images/I/61kJFrH6wML._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FDX5DXL9?tag=promoninja0c3-20",
-      "cupom": "PRIMEDAY2026",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-30T00:50:03.293174+00:00",
-      "slug": "samsung-galaxy-watch8-classic-smartwatch-46mm-lte-galaxy-ai-branco",
-      "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch8-classic-smartwatch-46mm-lte-galaxy-ai-branco.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 20,
+      "vendas": 64,
       "nota_qualidade": 8
     },
     {
@@ -1233,7 +1195,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4621,
+      "vendas": 4623,
       "nota_qualidade": 7
     },
     {
@@ -1613,7 +1575,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cafe-melitta-sabor-da-fazenda-vacuo-500g.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 2314,
+      "vendas": 2318,
       "nota_qualidade": 7
     },
     {
@@ -1708,7 +1670,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 2376,
+      "vendas": 2384,
       "nota_qualidade": 7
     },
     {
