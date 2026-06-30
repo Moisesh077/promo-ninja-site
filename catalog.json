@@ -1,8 +1,8 @@
 {
-  "atualizado": "2026-06-30T11:32:58.286426+00:00",
+  "atualizado": "2026-06-30T11:38:01.195741+00:00",
   "ofertas": [
     {
-      "source_id": "2893862",
+      "source_id": "pechinchou-135125",
       "titulo": "Smartphone Samsung Galaxy A07 128gb, 4gb, Câm. 50mp, Tela 6.7\"- Preto",
       "de": 799.0,
       "por": 566.06,
@@ -12,13 +12,13 @@
       "cupom": "MEUPRIMEDAY",
       "loja": "amazon",
       "categoria": "Smartphones",
-      "data": "2026-06-30T11:32:58.286426+00:00",
+      "data": "2026-06-30T11:38:01.195741+00:00",
       "slug": "smartphone-samsung-galaxy-a07-128gb-4gb-cam-50mp-tela-6-7-preto",
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a07-128gb-4gb-cam-50mp-tela-6-7-preto.html",
       "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 15,
-      "nota_qualidade": 7
+      "avaliacoes": 4,
+      "vendas": 113,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-147862",
@@ -36,7 +36,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/panela-pressao-eletrica-electrolux-digital-capacidade-5l-silenciosa-segura-10-travas-s.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 10,
+      "vendas": 57,
       "nota_qualidade": 7
     },
     {
@@ -540,7 +540,7 @@
       "por": 129.99,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiw3IpyJuxehG5UKvW5ipRaqw2aFq99PfjIWyV0KOXjqHfA4lqRPmXJIv5W50AYAoOctQuMEcxX6bBLmIBq1xl1UcxBgqnSNmRcxNEvuNOAwD575hn1M2lmgqkRxZBo8gYArl62vZnA5j56utyiedibGrIrjCJlLonAttmgkvHqmmgLK1JPvRlod8wOk4Djop1FFp4IJnay4NsWwijpNh8NoX0RKatsYpKHIYl9xAYtf2fJPuoj0m2LfqD24we0UxHkA6iVSVAMjMlY8mKjAF89CA535I7JaAr58uzSSKh7MacfnEolslQWJIPisR86iGh2Pv5MxnfpJhBueODwGBdCwwXP0NWifBLpmypVoWDokgERMYS2m0fi6KIHfFTFTNmnPSTYzNpFy0S5GaV7w1HNEgXurLETlgfax5ZFyRyR9HUp4wayXm8ef36b6R9SDxrJoBbMDXyQAnxjl3g3XeI8TBHpjJEH7snahKBFTP",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiXlIsrJKxdfun6xYCOYf4tG0vFYhDoIw0aFVpLM1iQEi1bIH52V8lbaDzP7ce36yojAUEoGXuTegAi8pmspu0f4CjzdTqWDC4GpWNRBnGnMkip5DhH8iDA7D3tzNSilikrh8WALHnU6rG5me8QCiRJeXmqKukV58dlxnCVPDeLRLSJT0koxTEqiLnys2QgBspEpXlrVjtlfTT7sj5LFA9h87QznQfUJhLowj1ny3xii56OReZlAWYCo6EfGcLQaIPgko2AOGKJZ06qRxlPoB141T7EsW5Vn2D7r4zSPsZVpBxIcywMtyrvvFRfiZNHDcznZWTRUqLDiyo8gmpudlYApEncC4wxmhOi8FkLngi42cm1lKVeCNtR2KrCmpUm58bxTUJ1QoOnbFisorFvSUGUmHxmkqaBOAzEQFQOESQHokwfG6UaVTnyaR6W6bv1rdXM6lTBxqjBr5eDw1CKsamkgoKcPRkZsAjn4ywlpF",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
