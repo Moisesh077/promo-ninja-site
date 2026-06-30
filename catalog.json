@@ -1,6 +1,44 @@
 {
-  "atualizado": "2026-06-30T13:45:52.575695+00:00",
+  "atualizado": "2026-06-30T13:51:02.582551+00:00",
   "ofertas": [
+    {
+      "source_id": "2893869",
+      "titulo": "MONDIAL Lavadora de Alta Pressão Aqua Power I, CinzaAmarelo, 1400W, 110V - LAP-01-GY",
+      "de": 579.9,
+      "por": 267.19,
+      "desconto": 54,
+      "imagem": "https://m.media-amazon.com/images/I/51NFW-bwCAL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0D8R64M7W?tag=promoninja0c3-20",
+      "cupom": "MEUPRIMEDAY",
+      "loja": "amazon",
+      "categoria": "Ferramentas",
+      "data": "2026-06-30T13:51:02.582551+00:00",
+      "slug": "mondial-lavadora-de-alta-pressao-aqua-power-i-cinzaamarelo-1400w-110v-lap-01-gy",
+      "page_url": "https://promoninjaofertas.github.io/produto/mondial-lavadora-de-alta-pressao-aqua-power-i-cinzaamarelo-1400w-110v-lap-01-gy.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 5,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "2893906",
+      "titulo": "Smartphone Motorola Moto G06-128gb 12gb (4gb Ram + 8gb Ram Boost) E Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9\" - Laranja",
+      "de": 999.0,
+      "por": 576.0,
+      "desconto": 42,
+      "imagem": "https://m.media-amazon.com/images/I/51FCuOjQjWL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FR5GNJDB?tag=promoninja0c3-20",
+      "cupom": "MEUPRIMEDAY",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-30T13:51:02.582551+00:00",
+      "slug": "smartphone-motorola-moto-g06-128gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g06-128gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 10,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-128998",
       "titulo": "Kit Camiseta Casal Streetwear Carros Mcqueen + Sally",
@@ -112,7 +150,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-electrolux-split-18-000-btus-color-adapt-frio-ui18f-ue18f.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 263,
+      "vendas": 285,
       "nota_qualidade": 7
     },
     {
@@ -152,25 +190,6 @@
       "avaliacoes": 2,
       "vendas": 221,
       "nota_qualidade": 9
-    },
-    {
-      "source_id": "pechinchou-137080",
-      "titulo": "Smartphone Motorola Moto g06-256GB 12GB (4GB RAM + 8GB Ram Boost) e Camera 50MP com AI Bateria de 5200 mAh Tela 6.9\" - Bege",
-      "de": 1199.0,
-      "por": 632.7,
-      "desconto": 47,
-      "imagem": "https://m.media-amazon.com/images/I/61NgIKe6Q4L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FR5J3JLM?tag=promoninja0c3-20",
-      "cupom": "MEUPRIMEDAY",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-30T12:13:41.389093+00:00",
-      "slug": "smartphone-motorola-moto-g06-256gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g06-256gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 81,
-      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-85729",
@@ -283,7 +302,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cobertura-fracionada-sabor-meio-amargo-hershey-s-professional-formato-moeda-2-01kg-a-e.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 1568,
+      "vendas": 1580,
       "nota_qualidade": 7
     },
     {
@@ -530,7 +549,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 941,
+      "vendas": 963,
       "nota_qualidade": 7
     },
     {
@@ -692,7 +711,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPjmwMy3XKCitc6V5FSAnazHaAXhekzmPAyf9IatgindgsztYbAE7yY7NUgiSwOXOjUyr6BwLYgrbYdBxRM3aH4kQuYcYTUI933xN0DVPHyI6znlEmhrETW5e3drIwDnqLiXuxuz0ZgMCH2N18PfzHuwhp04XSu0Aib7GE1DKT4kQ4MsCkjPceqhyglY5ghIVDgXhT92qDu90kgApEWkKntNTYt7w2VbiFjdI76BXZFoU9BmrlVBhPufVhhzk5cst0SOATavSZH9ctnvAgHbrpQFbjrZyIcIHhinUwE762Uq5yGKTeRpYJlIX8AR4w1oLGje2iiEfZRtyBjqeYE9AZ7dkf84FUkDxyy1zLKCuuVwmKvOMlDlmUu4BXHVgxwUKTg5uhepPGxlQuquqfr4bW3hr4qkdfBOAFXHbszcG6luPAL1LdOU73UdbCVCL4HQk15U1Iz7z0UWiwa66pQrhMMoglYB4tFBQzqP2Z0C0N",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiSc9lmIdRsoFdRnVR8WA1TFjTP2gZIJRVfX7sifYnW0wRNd262cRBm9OzLzSnM6nsUU2YCASg7ALZi2FdghxLN7rEDBkYtwpYTRYxappNCPg05F2OJ7xjsWrUv7FT12mwrhbPU8JPUUey65H4i4PIR1wNbwHqKJMQ0OMhFzqbsRYoSpRBQAgvMTVByPjJm8OKFMDPrkZiV16hiv4MPl02VuQUQG61qXsp2LlJLfWCeL7pGe27Pw5AmoctExDhVPkNpS7A4Evvpp6RXBTpj8Bc1bdVvB27TOocZuQGWzhl7nArhvGpX8Dey7qhzwakkPz4DGrtbO3vUxhA040OlRuDjVh3w2omct2TfIRglzdzUcAX4J4GpLJr1Ajl95KzQwmIwX1KD8TJNmI9U2h437dIfn2VxSK6slz4EVjD0DJvD6brW4rTnTQssI8g5c0AJmJ9fzZtXo6wKEFI2zDrWqUAV0W41Xq0rBhafdtF0VR",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -1861,25 +1880,6 @@
       "avaliacao": null,
       "avaliacoes": 9,
       "vendas": 128,
-      "nota_qualidade": 8
-    },
-    {
-      "source_id": "pechinchou-143816",
-      "titulo": "Ar Condicionado Lg Ai Smart Inverter Voice 9000 Btus Frio Branco",
-      "de": 2299.9,
-      "por": 1530.97,
-      "desconto": 33,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_880344-MLA99423241978_112025-O.webp",
-      "link": "https://meli.la/1sTKim5",
-      "cupom": "APROVEITAJA",
-      "loja": "mercadolivre",
-      "categoria": "Pet",
-      "data": "2026-06-29T13:46:13.174367+00:00",
-      "slug": "ar-condicionado-lg-ai-smart-inverter-voice-9000-btus-frio-branco",
-      "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-lg-ai-smart-inverter-voice-9000-btus-frio-branco.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 442,
       "nota_qualidade": 8
     }
   ]
