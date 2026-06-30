@@ -1,8 +1,27 @@
 {
-  "atualizado": "2026-06-30T11:22:56.686305+00:00",
+  "atualizado": "2026-06-30T11:27:58.775433+00:00",
   "ofertas": [
     {
-      "source_id": "2893862",
+      "source_id": "pechinchou-147862",
+      "titulo": "Panela Pressão Elétrica Electrolux Digital Capacidade 5l Silenciosa Segura 10 Travas Segurança 9 Receitas Pré-programadas Pcc15 Inox Preto 127v Por Rita Lobo",
+      "de": 513.97,
+      "por": 306.66,
+      "desconto": 40,
+      "imagem": "https://m.media-amazon.com/images/I/71dKPM0p31L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0CC3PZD52?tag=promoninja0c3-20",
+      "cupom": "MEUPRIMEDAY",
+      "loja": "amazon",
+      "categoria": "Casa",
+      "data": "2026-06-30T11:27:58.775433+00:00",
+      "slug": "panela-pressao-eletrica-electrolux-digital-capacidade-5l-silenciosa-segura-10-travas-s",
+      "page_url": "https://promoninjaofertas.github.io/produto/panela-pressao-eletrica-electrolux-digital-capacidade-5l-silenciosa-segura-10-travas-s.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 10,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "pechinchou-135125",
       "titulo": "Smartphone Samsung Galaxy A07 128gb, 4gb, Câm. 50mp, Tela 6.7\"- Preto",
       "de": 799.0,
       "por": 566.06,
@@ -12,13 +31,13 @@
       "cupom": "MEUPRIMEDAY",
       "loja": "amazon",
       "categoria": "Smartphones",
-      "data": "2026-06-30T11:22:56.686305+00:00",
+      "data": "2026-06-30T11:27:58.775433+00:00",
       "slug": "smartphone-samsung-galaxy-a07-128gb-4gb-cam-50mp-tela-6-7-preto",
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a07-128gb-4gb-cam-50mp-tela-6-7-preto.html",
       "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 5,
-      "nota_qualidade": 7
+      "avaliacoes": 4,
+      "vendas": 113,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-112844",
@@ -74,8 +93,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/mochila-de-negocios-impermeavela-senha-de-bloqueio-preto-florido.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7
+      "vendas": 128,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-118060",
@@ -340,7 +359,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 251,
+      "vendas": 375,
       "nota_qualidade": 7
     },
     {
@@ -1556,7 +1575,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4642,
+      "vendas": 4643,
       "nota_qualidade": 7
     },
     {
@@ -1880,25 +1899,6 @@
       "avaliacao": 4.9,
       "avaliacoes": null,
       "vendas": 23,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "1005009639277716",
-      "titulo": "Kingston memória ram ddr3 8gb 16gb (2x8gb) kit 1600mhz 1333mhz 1866mhz 2133mhz 2400mhz desktop ram 1.5v dimm PC3-12800 14900",
-      "de": 415.1,
-      "por": 207.55,
-      "desconto": 50,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S76c6a0c979a94773b70c86d697daca4cV.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FlyPwdszh87fWD4NDIrXo79ErjG3JkI4h3U04iuPdGvYFe5nCXp70CwaAJxms6c873FQtoYXSNXz6UfsjCwyH8FcRol7wOH3gNTuLw1LxPW5v3pZTuapfzjeq9Jd46as4dW6cdFBE5J20GLFQ3Di57eUFeNRzaZswt4VLYTzqoL5ZqouG9hxi0mY72pObPb2Ukf9PR65My21knC0RTQ4i9NjdJ5HHsGTh0X7vtOWcsXMuqCgPzJFdxSLbfG342Ddl3wJStpcKt65F30mWCFtMcM3MHuyP0XKFeoHn9plJCnyBeF6NJxIhO6gSA02PHbEeplMOydLU7tgtumgziNnAbMXZmn3CPlWZkeXFWDoF06GhqFXZCxPdI4qHlTct7gJiCvUTiHcEcWZ1RM0sanSteNeGVUAwNLjCoAJsSa3YS6syeUNTsqnEt2l6uBUl2b0212JABLFYWdjY56YbZNh8wPTzN81yh7fa0dDRzRhyOwSi07XkI9XLjgEG7wlezRwpiWqZGhAMIHmOqQvnOcMKGwyKEGmllLeo2BqcC3FoAWPm7hupztONposgvnrGgtGVRKfPOzUcE3zMkTSp47UKxhdvsO6nzKAfRjK0aAPr0YbEC1pJozwphTBRilnMzuajH9nen6gbbOc1RsKFEUFxX8e0D5WTnb6m0bhHLtdmGDmPRzfDyts7vLjssxilYXky0yzT3lW9CVM5",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-06-29T12:45:02.381781+00:00",
-      "slug": "kingston-memoria-ram-ddr3-8gb-16gb-2x8gb-kit-1600mhz-1333mhz-1866mhz-2133mhz-2400mhz-d",
-      "page_url": "https://promoninjaofertas.github.io/produto/kingston-memoria-ram-ddr3-8gb-16gb-2x8gb-kit-1600mhz-1333mhz-1866mhz-2133mhz-2400mhz-d.html",
-      "avaliacao": 4.86,
-      "avaliacoes": null,
-      "vendas": 93,
       "nota_qualidade": 7
     }
   ]
