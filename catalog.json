@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T16:24:52.395291+00:00",
+  "atualizado": "2026-06-30T16:29:59.187974+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-120530",
+      "titulo": "Ar Condicionado Split Dual Inverter LG Compact AI 9000 BTUs Frio 220V S3-Q09AAQAK",
+      "de": 3119.9,
+      "por": 1558.98,
+      "desconto": 50,
+      "imagem": "https://m.media-amazon.com/images/I/51JaTQ4FFaL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GFGNN7KT?tag=promoninja0c3-20",
+      "cupom": "PRIMECOMECA",
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-06-30T16:29:59.187974+00:00",
+      "slug": "ar-condicionado-split-dual-inverter-lg-compact-ai-9000-btus-frio-220v-s3-q09aaqak",
+      "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-split-dual-inverter-lg-compact-ai-9000-btus-frio-220v-s3-q09aaqak.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 11,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "2894568",
       "titulo": "Smartphone Samsung Galaxy A07 256gb, 8gb, Câm. 50mp, Tela 6.7\"- Preto",
@@ -19,25 +38,6 @@
       "avaliacoes": 1,
       "vendas": 5,
       "nota_qualidade": 8
-    },
-    {
-      "source_id": "2894470",
-      "titulo": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) Ultrafino 3 cameras 50MP Tela 1.5K extreme Amo",
-      "de": 4499.0,
-      "por": 1865.99,
-      "desconto": 59,
-      "imagem": "https://m.media-amazon.com/images/I/61OaHpwFsuL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GLTDFSMM?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-30T16:24:52.395291+00:00",
-      "slug": "smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 20,
-      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-136329",
@@ -672,7 +672,7 @@
       "de": 112.9,
       "por": 50.73,
       "desconto": 55,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51ThcHFsR2L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51ThcHFsR2L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B088RJLS8Z?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -682,7 +682,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cobertura-fracionada-sabor-meio-amargo-hershey-s-professional-formato-moeda-2-01kg-a-e.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 1813,
+      "vendas": 1837,
       "nota_qualidade": 7
     },
     {
@@ -929,7 +929,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1168,
+      "vendas": 1187,
       "nota_qualidade": 8
     },
     {
@@ -1091,7 +1091,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPitKgYSVxKuZdABzY99u9F6RHYJO0DTekaXOe3UVW67R1X8AHc4eH91zVPqu0Ks7EuOnKLmZm6SNa2rBCO7rvEr4lGDs55So6OpyUPGzqCmU83i7aoD0vhDmaedxt29LatNKMxs9UXjTpTxHU6BAZbZbBIebNG9hGsYJERUxUY0x5rQ4Y4Sb3wLVaFsGHaf3bKDlpl8obhZbirhC29Vd2GawEceYzTCyIXk89gzef9blLYyukswf1P6KR0cpaX5eZCxbLhTV77FNuT6qh00EgPIstMU14PZBlUfVOE9Fn2j2pBuAXNce2D4q6JQ95H5vCCebCpo9NNvKj6bGjpgay0s1jIehRz0eOR5eIecwwwUOh3gtCGpGb6Ha2wXfvUV6f2lQzBjjdtiyo6M8P6Dq2wUmY7kqWAxpQRUHMsCGSINuF4MDsFjNPkW853XjHzCADtT1WnT145VfWCIbCITOpQlX8rZX0096am645Wxvj",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPigi4z0ItH80LrzoN3OSwkBwpma9RwLiOSjAqL6Su2iCXQq00AfTlBevTgt8WyPBL0uWkwLK9gealVtNQfRCYToSxtgS3aKjpvqHY6Dw6WxXIywwta4kwhHnxmZtNNaT0AprQPd5rhoIa5dQcrdN1h77zzWrLN0w24oqDXFzY7QhEMjLQ6d5SW26mDdEweKBo0oXJeKcbNxhxy6CDs5gREG6EaXuYjpY6EFXCbRR3QyFGFQWzMfU0jpgyc5Zv4gJI3sJXp4FyLv2p4PMzTOjowMZLQnkgwenlrXea6fgj8RlU94mpWMQbuibsfOeYygjc6GfbzQSbclVOb7116fBz3CKCTjNKwYcN2JIKwFwr5MIF9q9azj966dshomBwsbDtGGUaWIhT8D611kgPmWyIpj51NNvKWlujshVwF8OPelt5PQ5BcCfMNEORxQZYBfeWe5IlRLWe1tdOac0cYuyBgjMjammbYgCTbpMia8c5",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -1233,8 +1233,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/samsung-smart-tv-43-qled-full-hd-q5f-2025-xbox-cloud-gaming-canais-gratuitos.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 19,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-147040",
@@ -1823,25 +1823,6 @@
       "avaliacao": null,
       "avaliacoes": 1,
       "vendas": 173,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-102161",
-      "titulo": "WAAW by ALOK Caixa de Som INFINITE 100 Bluetooth, Tipo Torre, Até 14h de Autonomia, 4 Alto-Falantes, TWS, 100W RMS",
-      "de": 1399.9,
-      "por": 624.4,
-      "desconto": 55,
-      "imagem": "https://m.media-amazon.com/images/I/61mr8Fpv2TL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0CP8G6T3H?tag=promoninja0c3-20",
-      "cupom": "PRIME50OFF",
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-06-29T16:29:52.771329+00:00",
-      "slug": "waaw-by-alok-caixa-de-som-infinite-100-bluetooth-tipo-torre-ate-14h-de",
-      "page_url": "https://promoninjaofertas.github.io/produto/waaw-by-alok-caixa-de-som-infinite-100-bluetooth-tipo-torre-ate-14h-de.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": null,
       "nota_qualidade": 7
     }
   ]
