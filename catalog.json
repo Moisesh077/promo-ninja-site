@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T23:50:32.271348+00:00",
+  "atualizado": "2026-06-30T23:55:42.587914+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-95569",
+      "titulo": "Perfume Portinari Absoluto Colônia 100ml O Boticário Volume Da Unidade 100 Ml",
+      "de": 149.9,
+      "por": 89.91,
+      "desconto": 40,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_688376-MLB74934544788_032024-O_N9aOVg8_9uL6fad.jpg",
+      "link": "https://meli.la/2gs77k2",
+      "cupom": "ZONADEGOL",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-06-30T23:55:42.587914+00:00",
+      "slug": "perfume-portinari-absoluto-colonia-100ml-o-boticario-volume-da-unidade-100-ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/perfume-portinari-absoluto-colonia-100ml-o-boticario-volume-da-unidade-100-ml.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-146046",
       "titulo": "Ar Condicionado Split Hi Wall Triple Inverter Consul 9000 BTU/h Frio CBK09DB - Bivolt",
@@ -17,8 +36,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-split-hi-wall-triple-inverter-consul-9000-btu-h-frio-cbk09db-bivolt.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 2,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-142485",
@@ -26,7 +45,7 @@
       "de": 3396.99,
       "por": 2224.05,
       "desconto": 35,
-      "imagem": "https://m.media-amazon.com/images/I/71v3HSGXNhL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/Caixa-Bt-Jbl-Boombox-4-Camuflada_1770382411_cCLhxEA.webp",
       "link": "https://www.amazon.com.br/dp/B0FK1DZHNP?tag=promoninja0c3-20",
       "cupom": "PRIME150",
       "loja": "amazon",
