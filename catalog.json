@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T00:55:05.783668+00:00",
+  "atualizado": "2026-06-30T01:00:12.489655+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-147401",
+      "titulo": "Ar Condicionado Split Inverter Philco Pac9qg Espelhado 9000 Btus Quente E Frio 220v",
+      "de": 1776.66,
+      "por": 1429.1,
+      "desconto": 20,
+      "imagem": "https://m.media-amazon.com/images/I/41k0QXiybVL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GYGG24C4?tag=promoninja0c3-20",
+      "cupom": "250SMART",
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-06-30T01:00:12.489655+00:00",
+      "slug": "ar-condicionado-split-inverter-philco-pac9qg-espelhado-9000-btus-quente-e-frio-220v",
+      "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-split-inverter-philco-pac9qg-espelhado-9000-btus-quente-e-frio-220v.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-129446",
       "titulo": "Máquina de Lavar Electrolux 15kg Branca Essential Care com Cesto Inox e Jet&Clean (LED15) - 127V",
@@ -36,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/presente-egeo-choc-o-boticario.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 9
+      "vendas": 4,
+      "nota_qualidade": 8
     },
     {
       "source_id": "2893497",
@@ -132,25 +151,6 @@
       "avaliacao": null,
       "avaliacoes": 1,
       "vendas": 76,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-141321",
-      "titulo": "Ar Condicionado Split Inverter Aufit 9.000 Btus Frio 220v",
-      "de": 2584.0,
-      "por": 1381.0,
-      "desconto": 47,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_725739-MLB101779216249_122025-O_Es0rTAV.webp",
-      "link": "https://www.amazon.com.br/dp/B0G3XN3Q2D?tag=promoninja0c3-20",
-      "cupom": "PRIMEDAY2026",
-      "loja": "amazon",
-      "categoria": "Pet",
-      "data": "2026-06-29T23:35:00.405478+00:00",
-      "slug": "ar-condicionado-split-inverter-aufit-9-000-btus-frio-220v",
-      "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-split-inverter-aufit-9-000-btus-frio-220v.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
       "nota_qualidade": 7
     },
     {
@@ -518,7 +518,7 @@
       "source_id": "22794927027",
       "titulo": "Celuar Xiaomi Poco X8 Pro 512GB / 256GB 5G NFC Versão Global Original e Envio Imediato Com NF",
       "de": 2430.0,
-      "por": 2282.0,
+      "por": 2350.0,
       "desconto": 59,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-moo1vcisbrib78",
       "link": "https://s.shopee.com.br/70I7gAStM6",
