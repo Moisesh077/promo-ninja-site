@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T17:11:11.471010+00:00",
+  "atualizado": "2026-06-30T17:16:22.677957+00:00",
   "ofertas": [
+    {
+      "source_id": "2894800",
+      "titulo": "Mouse Gamer Logitech G203 RGB, 6 Botões, 8000 DPI",
+      "de": 169.9,
+      "por": 80.75,
+      "desconto": 52,
+      "imagem": "https://m.media-amazon.com/images/I/61oE1NouXuL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B087CT8PWY?tag=promoninja0c3-20",
+      "cupom": "PRIMEDAY1A7",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-30T17:16:22.677957+00:00",
+      "slug": "mouse-gamer-logitech-g203-rgb-6-botoes-8000-dpi",
+      "page_url": "https://promoninjaofertas.github.io/produto/mouse-gamer-logitech-g203-rgb-6-botoes-8000-dpi.html",
+      "avaliacao": null,
+      "avaliacoes": 5,
+      "vendas": 0,
+      "nota_qualidade": 9
+    },
     {
       "source_id": "50412092134",
       "titulo": "Original SAMSUNG SSD Externo T5 2TB 4T 8T 16TB Disco Rígido Portátil Estado Sólido Hd Externo USB3.1 External Hard Drive",
@@ -26,7 +45,7 @@
       "de": 73.75,
       "por": 35.95,
       "desconto": 51,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/teste_Ms4gQRQ.png",
+      "imagem": "https://m.media-amazon.com/images/I/61NJbm2a9tL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=promoninja0c3-20",
       "cupom": "PRIMEDAY1A7",
       "loja": "amazon",
@@ -35,8 +54,8 @@
       "slug": "downy-amaciante-concentrado-brisa-de-verao-3l-rende-12l-perfume-com-notas-de-flores",
       "page_url": "https://promoninjaofertas.github.io/produto/downy-amaciante-concentrado-brisa-de-verao-3l-rende-12l-perfume-com-notas-de-flores.html",
       "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
+      "avaliacoes": 1,
+      "vendas": 492,
       "nota_qualidade": 7
     },
     {
@@ -83,7 +102,7 @@
       "de": 139.99,
       "por": 84.99,
       "desconto": 39,
-      "imagem": "https://m.media-amazon.com/images/I/81YdMMEc4vL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/81YdMMEc4vL._AC_SY300_SX300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B0D6CV1P49?tag=promoninja0c3-20",
       "cupom": "PRIMEDAY1A7",
       "loja": "amazon",
@@ -93,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/app-omo-sabao-liquido-2-unidades-lavagem-perfeita-5l.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
+      "vendas": 170,
       "nota_qualidade": 7
     },
     {
@@ -331,7 +350,7 @@
       "por": 280.99,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPN1U9NTfdchWAF5KSYYOvGLz3TaW4l27a7aR2kbhpUh9YvnX6t444DwPYhbBjWKWFHq8W3i6PlXPFk8owlRez4DMBXwjGs1rqF0VkXFlinQemb7D4LVcG8qyElIatqcfBfasBH9dpJ3nUbEX2kHd7fwuGQOsbsBqh31ylCcWM1MbZUZ2volUbatERoq2bPuIpy5iQYqlynAP1fi2FEEoWWjD0F8nZ0AH45Ujh7UAojGeWGIbhkTYDDFxBfow2sbw2euiWQPoaJMKmKr59nRIH0bLApBcbZveTM3YEShcixRDHSGezXxtNi7c36hsyq58vnYYoVCmUA4vygckYYEC3trfKh9LmYLKHQkhqQg2uDjiRdkBIp5Wi74bmY0y0JZFNxC6vV2FJBfXkTi6dH4PhI89xQ3EFjOzrf442hCwWzFMV83aBwGCIAaTNQ3BcGZWGk5jMaqHX5TnvYEEOP1W2Gn3LYvSXIRFaDzpi20x0",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNW23tY3EI9G7PTX6EFreTj6FjiFH4DnpS4XeE3WAF6ilGLJKnsc31iVx0MNXIQurJaZHkspCHaFHMdyCgkVFB3MKLks1IHBa0DvxKwGjd7RmkuZzUmJFmlmwDnPwr8axochQMpA1RXIOdiZgYM09Yu6c9V1HKmMno4Gfdgf83aIxinAW2Xqcr5gWpfqCGbXIexB9wm9C3FnXCsSOyIMzEXEqQ5e4QBiaLckzAYia5eUP5MnGQQ8aezgmRQhlMlE3LljxhlKbiAbgQfKMIhUbjAvL6VtRCQaQMbjxKlSFqf9MFcGFCCfQ0QGMQGMGK4tlkcp0kikW274bj6PFiMyalE3jXiOW9ONmXO794U59qYmyZpYDjWTMygTdmHRyWESzZbC4tIQSIiZTEWgh3Dh03N9Nm1Gp19wLbcJbBQq7Ru98b16cmbwJHJicKSCBLvZsqLSCM9nD9PzhrjHRpD6yPVGGSGKYrCnoWMFGEPcq",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -340,7 +359,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fifine-microfone-dinamico-usb-xlr-com-controle-rgb-jack-de-fone-de-ouvido-mudo.html",
       "avaliacao": 4.9350000000000005,
       "avaliacoes": null,
-      "vendas": 16885,
+      "vendas": 16867,
       "nota_qualidade": 8
     },
     {
@@ -511,7 +530,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4699,
+      "vendas": 4701,
       "nota_qualidade": 7
     },
     {
@@ -1062,7 +1081,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1239,
+      "vendas": 1252,
       "nota_qualidade": 8
     },
     {
