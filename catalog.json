@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-06-30T03:07:47.993867+00:00",
+  "atualizado": "2026-06-30T03:12:47.791749+00:00",
   "ofertas": [
-    {
-      "source_id": "2893683",
-      "titulo": "Máquina de Lavar 17kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED17)",
-      "de": 4913.82,
-      "por": 1929.1,
-      "desconto": 61,
-      "imagem": "https://m.media-amazon.com/images/I/41jXZmfuQoL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B09B8VWZRG?tag=promoninja0c3-20",
-      "cupom": "CRAQUE10",
-      "loja": "amazon",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-06-30T03:07:47.993867+00:00",
-      "slug": "maquina-de-lavar-17kg-electrolux-essential-care-com-cesto-inox-jet-clean-e-ultra",
-      "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-17kg-electrolux-essential-care-com-cesto-inox-jet-clean-e-ultra.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 5,
-      "nota_qualidade": 7
-    },
     {
       "source_id": "pechinchou-111152",
       "titulo": "Multiprocessador, Pmp1600p, 1700W, Preto, 127v, Philco",
@@ -178,7 +159,7 @@
       "de": 1279.9,
       "por": 734.5,
       "desconto": 43,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_jzhYD8N.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61uoabdlxXL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0CSK93VDK?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
