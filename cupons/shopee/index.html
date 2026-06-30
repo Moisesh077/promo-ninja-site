@@ -423,7 +423,7 @@
   const money = value => Number(value || 0).toLocaleString('pt-BR',{style:'currency',currency:'BRL'});
   const escapeHtml = value => String(value ?? '').replace(/[&<>"]/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[char]));
   const safeUrl = value => /^https:\/\//i.test(String(value || '')) ? String(value) : '#';
-  const imageProxy = value => value ? 'https://images.weserv.nl/?url='+encodeURIComponent('ssl:'+String(value).replace(/^https?:\/\//,''))+'&w=620&h=500&fit=contain&output=webp' : '';
+  const imageProxy = value => /^https:\/\//i.test(String(value || '')) ? String(value) : '';
   const storeName = store => ({aliexpress:'AliExpress',amazon:'Amazon',shopee:'Shopee',mercadolivre:'Mercado Livre',manual:'Oferta'}[String(store || '').toLowerCase()] || store || 'Oferta');
 
   function dateValue(value){
@@ -500,7 +500,7 @@
     const coupon=offer.cupom?`<span class="coupon">Cupom: ${escapeHtml(offer.cupom)}</span>`:'';
     const link=safeUrl(offer.link);
     const page=safeUrl(offer.page_url||offer.link);
-    const image=offer.imagem?`<img src="${imageProxy(offer.imagem)}" alt="${escapeHtml(offer.titulo)}" loading="lazy" onerror="this.remove();this.parentElement.classList.add('no-image')">`:'';
+    const image=offer.imagem?`<img src="${imageProxy(offer.imagem)}" alt="${escapeHtml(offer.titulo)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove();this.parentElement.classList.add('no-image')">`:'';
     return `<article class="card">
       <div class="card-meta"><span class="store">${escapeHtml(offer.lojaN)}</span><span class="posted">${relativeTime(offer.data)}</span></div>
       <a class="product-image ${image?'':'no-image'}" href="${page}">${discount}${image}</a>
