@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T12:44:22.883919+00:00",
+  "atualizado": "2026-06-30T12:49:23.178528+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-133607",
+      "titulo": "Fones De Ouvido Galaxy Cancelamento De Ruído Buds Samsung",
+      "de": 231.99,
+      "por": 178.94,
+      "desconto": 23,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_925328-MLB97116954376_112025-O.webp",
+      "link": "https://meli.la/22j836C",
+      "cupom": "GOLAGORA",
+      "loja": "mercadolivre",
+      "categoria": "Smartphones",
+      "data": "2026-06-30T12:49:23.178528+00:00",
+      "slug": "fones-de-ouvido-galaxy-cancelamento-de-ruido-buds-samsung",
+      "page_url": "https://promoninjaofertas.github.io/produto/fones-de-ouvido-galaxy-cancelamento-de-ruido-buds-samsung.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 9
+    },
     {
       "source_id": "pechinchou-133479",
       "titulo": "Ar-Condicionado Electrolux Split 18.000 BTUs Color Adapt Frio (UI18F/UE18F",
@@ -635,7 +654,7 @@
       "por": 129.99,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiHJJEH44eGRKJfjIjc3BoSm89N6X5lkhEy4aMszqcr0n6rPy3iF7sWSz1PsY4o0FppD04kCdnBbWPrE1j26jWv3UAsOpIVmkEn0HFS3DgosoFKHbXwgl2T87EmRSKsxuNeIsZEGp1uRVLhYYL0p0M5LWO9hAMT6uBlAi3bj5G65TfH0amtcydsnV4Xxjni96QPI3NMZt7xTeeNPnGMMCWXtCMnXR8J8GQTlzNdPVaXAKcCqUicbK7IXl5kmZoPu0rACqLazHGRLvNQwE7YOScsSpX35jI8Vigatti9ZgLvybFNLCmCM4fB4e5BQmUr7xmeH4RNKcc3xPkoHd5JfVgVvHqWfpnDZmbeWtDtICd0werfKOsZZ0OgjU9EnLXt7iZxgucE9SZAajLwc2yqquEU1S2VAtay6fbEyMjcXDtFJBv7jAN4FuGTwjLgVSlrtngarssb4XtnuAfR6rAbU79gKsCnaEiQFlW5l4uI9f",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiR0Naua4x027LAVbGLxywrq0uAHJqpSE2DuEnTSyhYfxLvNshbcJCrXh3SPNAtnKz4upw3higoPnmZKoWuYuiUstNW7x6fTtIzfQ1n2SqAnhZtwgebiPhJn06qY4yLWkrn8TjNqWoygPIbSvYmuf9qwM1IlXJZpwpvwb3VU5wje1TTVD7UV5wmowzKgoyvHZaMjeBp7KivQMg2fVrYHLlOxQXTTx2AmcX9Ol4juWEbTmA0dJOoMSWJr9oCHiOQBG95sSAUlLEtzQVZ0prgxP8p2Hk8IWV1ICaXcQ1Cyob9P9wJX3Jg6IqjSU9qzq4IvtJe3p2Jz5zaBqkjCdP9XVZaSBQvY1YI8p14g4FxkLAL7WkYpYLDEIQBSodIR1IKcLTdMDHypiAEoEkkRiBP6FL1PrLW9l71N8688C0iWGiAUDlLTrF51EAiUWZRpGpCrvvzexHAgSSElufLA4VWKNhciBCgtheqTBKIYg2VTn",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -1290,8 +1309,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-electrolux-11kg-branca-essential-care-easy-clean-filtro-fiapos-220v-l.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 12,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-147172",
@@ -1880,25 +1899,6 @@
       "avaliacao": 4.89,
       "avaliacoes": null,
       "vendas": 622,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "1005009534699098",
-      "titulo": "Transmissor e Receptor HDMI Sem Fio Lemorele 200m com Monitoramento por APP, Baixa Latência, Plug and Play para PC, TV e Projetor",
-      "de": 301.07,
-      "por": 165.59,
-      "desconto": 44,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se502b1fba2f54d8db11989c9128a41e6c.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4m7VDoXMM1GFlLUyw7tzWUcllUTFp4LD30IXBOY2mz7HRKYxmHgBakQRl6AuOxShHKD3rQ5xHFTeRl9AQqQfgH75EMf1ZglNvRy9RmqbI6uO2AWsxlsMq2mTu6zhQP9MRg0sFGGxS0ICcaeAVOSy7uhvqJHNG0SNtvXVcDwxsikAxkqS2RKgZt06JfGJ7fMH963ND0qTX2oZzzwOxfzgMKi0vRgdj6eVtIBzCSbptuX5SiQNVPqakxyMqZ08lzu03gBZcN7mjN52J4O6JoUyko15o8txsJp1fft08usw9w5c4gwoRd0F9f3b321Zzrreqo838CLlVDrY91mSwiyHtsNZxsESWSSXCtO61p7dlQ1IgNWd1TgXByCCPCxlPw2wU57HOQuLfajZFIUcYVkuCL9Jo9MK9sug0VEdpjY43rZYeOLeSUeXHboycGbBPqRQdQ8HD6C3RaGudmh9vdILmiY3lm5m7ftMyv8TAhktmIWgF2sHyYgW0uLrUQg7YBVLqmWeViPGNui6jYnFHC9eMXAIbjiVzAMu62bXnLlWTJnDl8At1lKe0ER6u0UozIcJ7AgjDg1NfTRqRdsM5U2XU1rHFpssZWmYPFA6T5YoFUDlxQ0q25EpREWBBkU2Dl6Bq0by7RfLQmqiBNWtJ9DpNQ95dmD4MSjFgz787VzBo7vNcPru5Z8dgqu84uBRjkjkvJsyL2TL2rjFoZ",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-06-29T13:25:55.381228+00:00",
-      "slug": "transmissor-e-receptor-hdmi-sem-fio-lemorele-200m-com-monitoramento-por-app-baixa-late",
-      "page_url": "https://promoninjaofertas.github.io/produto/transmissor-e-receptor-hdmi-sem-fio-lemorele-200m-com-monitoramento-por-app-baixa-late.html",
-      "avaliacao": 4.654999999999999,
-      "avaliacoes": null,
-      "vendas": 608,
       "nota_qualidade": 7
     }
   ]
