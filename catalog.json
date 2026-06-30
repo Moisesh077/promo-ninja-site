@@ -1,23 +1,42 @@
 {
-  "atualizado": "2026-06-30T15:38:41.184662+00:00",
+  "atualizado": "2026-06-30T15:43:44.384539+00:00",
   "ofertas": [
     {
-      "source_id": "pechinchou-130224",
-      "titulo": "Smart TV LG 43\"Full HD, Processador A5 Ger6, AI, Alexa e webOS 23 - 43LR6700PSA",
-      "de": 2119.9,
-      "por": 1377.89,
-      "desconto": 35,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_741946-MLA107875422514_032026-O_sNHflBK.webp",
+      "source_id": "pechinchou-144826",
+      "titulo": "Smartphone Samsung Galaxy A17 5g Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Preto",
+      "de": 1849.0,
+      "por": 614.04,
+      "desconto": 67,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_755351-MLA99597188918_122025-O.webp",
+      "link": "https://meli.la/25PCLBH",
+      "cupom": "7DO7TVS",
+      "loja": "mercadolivre",
+      "categoria": "Smartphones",
+      "data": "2026-06-30T15:43:44.384539+00:00",
+      "slug": "smartphone-samsung-galaxy-a17-5g-com-ia-128gb-4gb-ram-cam-de-50mp-tela",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a17-5g-com-ia-128gb-4gb-ram-cam-de-50mp-tela.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 9
+    },
+    {
+      "source_id": "pechinchou-144956",
+      "titulo": "Smart TV Profissional LG 43\" Full HD Processador a5 Ger6 AI Alexa Integrada webOS 23 – 43LR671C-B",
+      "de": 2284.29,
+      "por": 1329.9,
+      "desconto": 42,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_284z1oI.jpg",
       "link": "https://meli.la/2G6otuJ",
       "cupom": "7DO7TVS",
       "loja": "mercadolivre",
       "categoria": "Hardware",
-      "data": "2026-06-30T15:38:41.184662+00:00",
-      "slug": "smart-tv-lg-43-full-hd-processador-a5-ger6-ai-alexa-e-webos-23",
-      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-lg-43-full-hd-processador-a5-ger6-ai-alexa-e-webos-23.html",
+      "data": "2026-06-30T15:43:44.384539+00:00",
+      "slug": "smart-tv-profissional-lg-43-full-hd-processador-a5-ger6-ai-alexa-integrada-webos",
+      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-profissional-lg-43-full-hd-processador-a5-ger6-ai-alexa-integrada-webos.html",
       "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 1,
+      "avaliacoes": 4,
+      "vendas": 61,
       "nota_qualidade": 7
     },
     {
@@ -36,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-h5000f-hd-32-polegadas-2025-preto-samsung-bivolt.html",
       "avaliacao": null,
       "avaliacoes": 6,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 50,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-146464",
@@ -55,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-lg-uhd-ai-ua75-50-polegadas-hdr10-pro-processador-7-ai-ger8.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 11,
+      "vendas": 59,
       "nota_qualidade": 7
     },
     {
@@ -140,7 +159,7 @@
       "de": 719.9,
       "por": 418.4,
       "desconto": 42,
-      "imagem": "https://m.media-amazon.com/images/I/81o4MCqBv5L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_KwNxafC.jpg",
       "link": "https://www.amazon.com.br/dp/B0H6KT2RWH?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -150,7 +169,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4678,
+      "vendas": 4684,
       "nota_qualidade": 7
     },
     {
@@ -444,7 +463,7 @@
       "de": 112.9,
       "por": 50.73,
       "desconto": 55,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51ThcHFsR2L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51ThcHFsR2L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B088RJLS8Z?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -454,7 +473,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cobertura-fracionada-sabor-meio-amargo-hershey-s-professional-formato-moeda-2-01kg-a-e.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 1753,
+      "vendas": 1773,
       "nota_qualidade": 7
     },
     {
@@ -701,7 +720,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1127,
+      "vendas": 1134,
       "nota_qualidade": 8
     },
     {
@@ -1182,9 +1201,9 @@
     {
       "source_id": "22794927027",
       "titulo": "Celuar Xiaomi Poco X8 Pro 512GB / 256GB 5G NFC Versão Global Original e Envio Imediato Com NF",
-      "de": 2350.0,
+      "de": 2430.0,
       "por": 2282.0,
-      "desconto": 54,
+      "desconto": 59,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-moo1vcisbrib78",
       "link": "https://s.shopee.com.br/70I7gAStM6",
       "cupom": null,
@@ -1196,7 +1215,7 @@
       "avaliacao": 4.8,
       "avaliacoes": null,
       "vendas": 1039,
-      "nota_qualidade": 8
+      "nota_qualidade": 9
     },
     {
       "source_id": "7283213553",
@@ -1785,44 +1804,6 @@
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": 41,
-      "nota_qualidade": 8
-    },
-    {
-      "source_id": "pechinchou-78053",
-      "titulo": "Tablet Vaio Tl10 4gb Ram 128gb Octa-core, Tela 10.4” 2k, 4g Wifi Dual Band, Câmera 8mp + Selfie 5mp, 7000mah, Android 16, Com Teclado Magnético De Conexão Inteligente – Preto",
-      "de": 1669.9,
-      "por": 1061.82,
-      "desconto": 36,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_911625-MLA111714671966_062026-O.webp",
-      "link": "https://meli.la/1yVXY9X",
-      "cupom": "OFERTAPARAVC",
-      "loja": "mercadolivre",
-      "categoria": "Hardware",
-      "data": "2026-06-29T15:43:29.978116+00:00",
-      "slug": "tablet-vaio-tl10-4gb-ram-128gb-octa-core-tela-10-4-2k-4g-wifi",
-      "page_url": "https://promoninjaofertas.github.io/produto/tablet-vaio-tl10-4gb-ram-128gb-octa-core-tela-10-4-2k-4g-wifi.html",
-      "avaliacao": null,
-      "avaliacoes": 6,
-      "vendas": null,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-105647",
-      "titulo": "Tênis Carina Feminino Puma",
-      "de": 399.99,
-      "por": 175.99,
-      "desconto": 56,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_E8yIpgq.jpg",
-      "link": "https://meli.la/1mo2YKV",
-      "cupom": "ESTILOEBELEZA",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-06-29T15:43:29.978116+00:00",
-      "slug": "tenis-carina-feminino-puma",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-carina-feminino-puma.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 16,
       "nota_qualidade": 8
     }
   ]
