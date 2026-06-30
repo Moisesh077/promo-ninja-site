@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T14:16:22.290800+00:00",
+  "atualizado": "2026-06-30T14:21:32.398477+00:00",
   "ofertas": [
+    {
+      "source_id": "2894133",
+      "titulo": "Smart TV TCL 32\" HD QLED Google TV",
+      "de": 1299.0,
+      "por": 854.0,
+      "desconto": 34,
+      "imagem": "https://m.media-amazon.com/images/I/81iCR9kQFbL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FTGL2XBC?tag=promoninja0c3-20",
+      "cupom": "MEUPRIMEDAY",
+      "loja": "amazon",
+      "categoria": "TV e Eletronicos",
+      "data": "2026-06-30T14:21:32.398477+00:00",
+      "slug": "smart-tv-tcl-32-hd-qled-google-tv",
+      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-tcl-32-hd-qled-google-tv.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 0,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-108740",
       "titulo": "Tênis Nike Journey Run Masculino",
@@ -17,7 +36,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-nike-journey-run-masculino.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 12,
+      "vendas": 54,
       "nota_qualidade": 7
     },
     {
@@ -273,7 +292,7 @@
       "de": 112.9,
       "por": 50.73,
       "desconto": 55,
-      "imagem": "https://m.media-amazon.com/images/I/51ThcHFsR2L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51ThcHFsR2L.__AC_SX300_SY300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B088RJLS8Z?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -692,7 +711,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPi8lQz8Buia7a8ZyNshlkcaJTUg5355clOAKzxFUUIEQm4SxINmwKrBR70ydBbaXv0IY65Y2v1ppVsCoN1cYRZMOHzgPWB1PKu2WZMLRIBXvlTXZil1ROrcexrXMhkQsiUY2U398G3bC8wtsHAhussOx3cVmaAoKQx95PLW9SxPOEJjOg5Tjm76zBT8W0t1f8wDkWCAF0YZVGqzXWS5dOLl6Zd48lXUSb1rvRMp6ny36617P2Wsh5K7yowtl2PGAw5xWDKmI5Lf4Vx9VA25Uw2eugVx4HbqvThqMbeMTOWdaMNOjraeG9z9K7sEKEB34oxZj2TqZK2BltgS65HTH4SGAlFUI9KwM1kmHTTF13EOMAf3S2MKkAloB4cfWVOkok6U6Z1lype00zTieK4CYeGLeTyzi4NKUPENUvKiukRVyNpZ9H0RlLRx4oDFLi2orLkk0XslqmPUZADOsUF6HW9csHdVgimpy7VgicTtQz",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiSA6P5gdinQ9puDwF23sY8eSgYQNrQH5C9CxwVIJU7vA4kZ8P048D7lNydhhzOQKtXcjOsGAVWVZJq49AAdEWZW1zq7DWJpYFaRUhlDb9zeRhTMYM0yctDzsQsE75WPZhDSQHyKWIFMyxoWLECZXZNWL6LUrzwQpKtszqneAM6Vk3Npb2q495D8xu43cKjQXUASyNW34SakOxF1LyDjtv5YsTO0JiCfQccZLMzFOKQCLHkbvX7qRYdl9TmlFf0va4lm4duxH8Sf4m0t1EJ2xrORfzol3oW0ZJFtlTvDUhozCyf97eGWyJe18hBqdEO4rFVANvJRvZFu7NnF8lQuAO4qhG8MY7zbuifR1soecrrMAWssbhQJ21DHUGIcqaDrWWsAQKIX4NsKC7TU79jYVK2S9Xvj2J3Lqgn9cpwJshEl4OhL7vqBTF8NNKOzwbHttXXlaSLMQzppKiEPcGofmdDv0iEPTFdqQXbGnc10v",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -1717,7 +1736,7 @@
       "de": 719.9,
       "por": 418.4,
       "desconto": 42,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_KwNxafC.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/81o4MCqBv5L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0H6KT2RWH?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -1727,7 +1746,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4659,
+      "vendas": 4660,
       "nota_qualidade": 7
     },
     {
@@ -1804,25 +1823,6 @@
       "avaliacao": null,
       "avaliacoes": 1,
       "vendas": 264,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-89936",
-      "titulo": "Floratta Fleur D' Éclipse Eau De Parfum Floral Amadeirado 75ml",
-      "de": 229.9,
-      "por": 146.11,
-      "desconto": 36,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_891436-MLA100466081078_122025-O.webp",
-      "link": "https://meli.la/2ALVk7k",
-      "cupom": "AQUITEMCUPOM",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-06-29T14:17:02.687501+00:00",
-      "slug": "floratta-fleur-d-eclipse-eau-de-parfum-floral-amadeirado-75ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/floratta-fleur-d-eclipse-eau-de-parfum-floral-amadeirado-75ml.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
       "nota_qualidade": 7
     }
   ]
