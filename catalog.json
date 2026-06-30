@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T02:01:23.378533+00:00",
+  "atualizado": "2026-06-30T02:06:30.993612+00:00",
   "ofertas": [
+    {
+      "source_id": "2893690",
+      "titulo": "Liquidificador Power Oster Preto 2,2l 220v - Oliq520, Oliq520-220v",
+      "de": 314.9,
+      "por": 235.71,
+      "desconto": 25,
+      "imagem": "https://m.media-amazon.com/images/I/51Zz4WDUwCL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0B7227Q51?tag=promoninja0c3-20",
+      "cupom": "AMOFUTEBOL",
+      "loja": "amazon",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-06-30T02:06:30.993612+00:00",
+      "slug": "liquidificador-power-oster-preto-2-2l-220v-oliq520-oliq520-220v",
+      "page_url": "https://promoninjaofertas.github.io/produto/liquidificador-power-oster-preto-2-2l-220v-oliq520-oliq520-220v.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 5,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-111152",
       "titulo": "Multiprocessador, Pmp1600p, 1700W, Preto, 127v, Philco",
@@ -37,25 +56,6 @@
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": null,
-      "nota_qualidade": 8
-    },
-    {
-      "source_id": "2893683",
-      "titulo": "Máquina de Lavar 17kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED17)",
-      "de": 4913.82,
-      "por": 1929.1,
-      "desconto": 61,
-      "imagem": "https://m.media-amazon.com/images/I/41jXZmfuQoL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B09B8VWZRG?tag=promoninja0c3-20",
-      "cupom": "CRAQUE10",
-      "loja": "amazon",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-06-30T01:56:22.890074+00:00",
-      "slug": "maquina-de-lavar-17kg-electrolux-essential-care-com-cesto-inox-jet-clean-e-ultra",
-      "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-17kg-electrolux-essential-care-com-cesto-inox-jet-clean-e-ultra.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 0,
       "nota_qualidade": 8
     },
     {
@@ -1357,7 +1357,7 @@
       "por": 279.99,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPN6h8K9ZHqQEcAnHWt3XJVAhnmjQ4xbUUAdoWbBUVelsy0OEvzRVAJmzW4apXWdeCL4JiLpd7C8HZKQrbwbkdRwblPYc8grbxxDYp72ryFPvADvFugmsIIn7AaZDRwGvBCm2CuTFCT9uTEwnNNBK4e9cmOaU9WM1eatoeURHxbmjnVEIBAdW4Y8IJbUIn34bQRHIzGZjEIzaT5t4mjEgjvjNQcEzRkvKbD0JO2FvwpQMn7EZmBya6oQ7SXNv0BC5sR1E9R1QRkAD2M5YGVbeVrDKRDQH51EVoFcqE2Xqy1q1HmYAzChwMt2e42PhgnQyugXOfQTEA9H6itNTNr2uFjXoo9N3NxnffCkcb2JKTeQAfWPQnglJQ31Y2SIMjo285zYrU1YK1QA0jhahD66OLeE3x9Dls3Aan9yviUvTo1TpPkXt0IiISzDC4QXserQ93WLsJipCiTziZh9ghNf4R4raH2hTF5lfkyrkuzMzk",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNbMODvcTHDjHDHqn41mmqkNq7FLFjOGGEmHnOjm71wmYo71zaH8gxkQoHLTYM0xltv83N1ZSRHgbpQtPI622cVym7XQu2iN6pJa90NV4mQbMwupfar5i4RNQmSQuW24XcmyAicmwbT8GAMKcLMTwM0kuTAKMDFFwTry6J6xJ3FSJHCvWZRskvHjDMmc8WFwwboS2kemFBadX0wWGxA4giVa9CdVYYLjD3S6Wx6Zp1vIdqDUTNeYZ6HG29XfgMADOPEpApXnNbXhMdOcz4nWtFUXxEXqOt6sQFiDOvAN7RofKp1sqReQ0TCEaxKz287IyXmBtFUl17iFtSgelbT7csLQae2AbCDYX11nNJr33aFNlTgxJ2ZCarykBx7CpboLlFSFi2X50bQNICPpqJ2oDQbuIqqg6MpkFDuLJp5GP92X5ektPtc8GaCnLkhzte8WZ0qYeVBRWIWp4qay54glezL7281IgxoIlW5p5ToJg",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -1366,7 +1366,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fifine-microfone-dinamico-usb-xlr-com-controle-rgb-jack-de-fone-de-ouvido-mudo.html",
       "avaliacao": 4.9350000000000005,
       "avaliacoes": null,
-      "vendas": 16883,
+      "vendas": 16884,
       "nota_qualidade": 8
     },
     {
