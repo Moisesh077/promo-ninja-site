@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-30T14:01:11.091265+00:00",
+  "atualizado": "2026-06-30T14:06:21.394120+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-108740",
@@ -21,25 +21,6 @@
       "nota_qualidade": 9
     },
     {
-      "source_id": "2893918",
-      "titulo": "Smartphone Samsung Galaxy A07 256gb, 8gb, Câm. 50mp, Tela 6.7\"- Preto",
-      "de": 1199.0,
-      "por": 710.22,
-      "desconto": 41,
-      "imagem": "https://m.media-amazon.com/images/I/61AYtRHD0SL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FPHX81RQ?tag=promoninja0c3-20",
-      "cupom": "MEUPRIMEDAY",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-30T13:56:10.989273+00:00",
-      "slug": "smartphone-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-6-7-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-6-7-preto.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 10,
-      "nota_qualidade": 8
-    },
-    {
       "source_id": "2893869",
       "titulo": "MONDIAL Lavadora de Alta Pressão Aqua Power I, CinzaAmarelo, 1400W, 110V - LAP-01-GY",
       "de": 579.9,
@@ -57,25 +38,6 @@
       "avaliacoes": 1,
       "vendas": 10,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "2893906",
-      "titulo": "Smartphone Motorola Moto G06-128gb 12gb (4gb Ram + 8gb Ram Boost) E Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9\" - Laranja",
-      "de": 999.0,
-      "por": 576.0,
-      "desconto": 42,
-      "imagem": "https://m.media-amazon.com/images/I/51FCuOjQjWL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FR5GNJDB?tag=promoninja0c3-20",
-      "cupom": "MEUPRIMEDAY",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-30T13:51:02.582551+00:00",
-      "slug": "smartphone-motorola-moto-g06-128gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g06-128gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 10,
-      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-128998",
@@ -330,7 +292,7 @@
       "de": 112.9,
       "por": 50.73,
       "desconto": 55,
-      "imagem": "https://m.media-amazon.com/images/I/51ThcHFsR2L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51ThcHFsR2L.__AC_SX300_SY300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B088RJLS8Z?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -577,7 +539,7 @@
       "de": 1279.9,
       "por": 639.9,
       "desconto": 50,
-      "imagem": "https://m.media-amazon.com/images/I/61uoabdlxXL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_jzhYD8N.jpg",
       "link": "https://www.amazon.com.br/dp/B0CSK93VDK?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -749,7 +711,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiSc9lmIdRsoFdRnVR8WA1TFjTP2gZIJRVfX7sifYnW0wRNd262cRBm9OzLzSnM6nsUU2YCASg7ALZi2FdghxLN7rEDBkYtwpYTRYxappNCPg05F2OJ7xjsWrUv7FT12mwrhbPU8JPUUey65H4i4PIR1wNbwHqKJMQ0OMhFzqbsRYoSpRBQAgvMTVByPjJm8OKFMDPrkZiV16hiv4MPl02VuQUQG61qXsp2LlJLfWCeL7pGe27Pw5AmoctExDhVPkNpS7A4Evvpp6RXBTpj8Bc1bdVvB27TOocZuQGWzhl7nArhvGpX8Dey7qhzwakkPz4DGrtbO3vUxhA040OlRuDjVh3w2omct2TfIRglzdzUcAX4J4GpLJr1Ajl95KzQwmIwX1KD8TJNmI9U2h437dIfn2VxSK6slz4EVjD0DJvD6brW4rTnTQssI8g5c0AJmJ9fzZtXo6wKEFI2zDrWqUAV0W41Xq0rBhafdtF0VR",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPi1RTceCrayB0vfWc3flxMzsMXqm2iRVbwRRKyvV7WDO0Ga2LAKffd2QtyHIuSDTcsBHGmqAKDjLYRKOqP8eTXUWQOy09triUSmyQ3AmPUXZ00Cu78or4nM9bAOfpIhYZzKILiDfefNr8nNF7pB217ZjgU8TLaLHomi3XDpMZrwr16oLDWA5BGTqsbsv0V8aLL02uyscsvH9YffDW7z36ui23cuWZd8eXLB7LEk3EijOiSx81LcJYoASwrQ7aVuSTI1SwdURF6WztcYKc4piDkI2e3MvjMHqHePQaXbq6pOfjB9mnpZZ5AkrC4Pd25qHaIamCR1goYeG0lfMtAsiSR3RwrJZYT5xObHLx7sEgCBz5pU3HiTKf1EUpAD0wZQDnxPHUwPyWPHRgpROtVG9bpz3TltcACeu4HSKcx83EHWNbTAleWZj8RyhDQumUm884DIfSwgmwVnsS6OdIEWUmSeFPjbxRnmBZqcMTE0AD",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -1774,7 +1736,7 @@
       "de": 719.9,
       "por": 418.4,
       "desconto": 42,
-      "imagem": "https://m.media-amazon.com/images/I/81o4MCqBv5L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_KwNxafC.jpg",
       "link": "https://www.amazon.com.br/dp/B0H6KT2RWH?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -1784,7 +1746,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4658,
+      "vendas": 4659,
       "nota_qualidade": 7
     },
     {
