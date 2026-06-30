@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T20:15:53.183351+00:00",
+  "atualizado": "2026-06-30T20:21:02.687888+00:00",
   "ofertas": [
+    {
+      "source_id": "2894761",
+      "titulo": "Omo Sabão Líquido 2 Unidades Lavagem Perfeita 5L",
+      "de": 139.99,
+      "por": 80.0,
+      "desconto": 43,
+      "imagem": "https://m.media-amazon.com/images/I/81YdMMEc4vL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0D6CV1P49?tag=promoninja0c3-20",
+      "cupom": "PRIMEDAY1A7",
+      "loja": "amazon",
+      "categoria": "Supermercado e Delivery",
+      "data": "2026-06-30T20:21:02.687888+00:00",
+      "slug": "omo-sabao-liquido-2-unidades-lavagem-perfeita-5l",
+      "page_url": "https://promoninjaofertas.github.io/produto/omo-sabao-liquido-2-unidades-lavagem-perfeita-5l.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 140,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-144238",
       "titulo": "Perfume Capilar E Body Splash My Sweet Delight Barbour's",
@@ -36,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/camisa-social-masculina-slim-premium-manga-longa-curta.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 117,
+      "vendas": 276,
       "nota_qualidade": 7
     },
     {
@@ -55,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-corrida-resistente-fila-estavel-performance-original.html",
       "avaliacao": null,
       "avaliacoes": 7,
-      "vendas": 268,
+      "vendas": 308,
       "nota_qualidade": 7
     },
     {
@@ -74,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-apolis-feminino-esportivo-super-leve-macio.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 84,
+      "vendas": 95,
       "nota_qualidade": 7
     },
     {
@@ -93,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-arabe-feminino-victoria-lattafa-eau-de-parfum-100ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 218,
+      "vendas": 241,
       "nota_qualidade": 8
     },
     {
@@ -853,7 +872,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4729,
+      "vendas": 4730,
       "nota_qualidade": 7
     },
     {
@@ -1404,7 +1423,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1397,
+      "vendas": 1408,
       "nota_qualidade": 8
     },
     {
