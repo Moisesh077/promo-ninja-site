@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-30T22:43:54.079478+00:00",
+  "atualizado": "2026-06-30T22:48:57.189912+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-147894",
@@ -17,8 +17,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/parafusadeira-furadeira-de-impacto-profissional-sem-fio-2-baterias-21v-com-maleta-tb-2.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7
+      "vendas": 112,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-45593",
@@ -1062,7 +1062,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-aoc-43-led-full-hd-roku-tv-wi-fi-hdmi-e-usb.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 289,
+      "vendas": 290,
       "nota_qualidade": 7
     },
     {
@@ -1071,7 +1071,7 @@
       "de": 719.9,
       "por": 418.4,
       "desconto": 42,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_KwNxafC.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/81o4MCqBv5L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0H6KT2RWH?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -1081,7 +1081,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4749,
+      "vendas": 4752,
       "nota_qualidade": 7
     },
     {
@@ -1613,7 +1613,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1509,
+      "vendas": 1515,
       "nota_qualidade": 8
     },
     {
