@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T13:51:02.582551+00:00",
+  "atualizado": "2026-06-30T13:56:10.989273+00:00",
   "ofertas": [
+    {
+      "source_id": "2893918",
+      "titulo": "Smartphone Samsung Galaxy A07 256gb, 8gb, Câm. 50mp, Tela 6.7\"- Preto",
+      "de": 1199.0,
+      "por": 710.22,
+      "desconto": 41,
+      "imagem": "https://m.media-amazon.com/images/I/61AYtRHD0SL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FPHX81RQ?tag=promoninja0c3-20",
+      "cupom": "MEUPRIMEDAY",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-30T13:56:10.989273+00:00",
+      "slug": "smartphone-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-6-7-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-6-7-preto.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 10,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "2893869",
       "titulo": "MONDIAL Lavadora de Alta Pressão Aqua Power I, CinzaAmarelo, 1400W, 110V - LAP-01-GY",
@@ -17,7 +36,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/mondial-lavadora-de-alta-pressao-aqua-power-i-cinzaamarelo-1400w-110v-lap-01-gy.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 5,
+      "vendas": 10,
       "nota_qualidade": 7
     },
     {
@@ -1746,7 +1765,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4656,
+      "vendas": 4658,
       "nota_qualidade": 7
     },
     {
