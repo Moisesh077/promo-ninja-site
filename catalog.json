@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-06-30T19:25:02.587097+00:00",
+  "atualizado": "2026-06-30T19:30:04.380251+00:00",
   "ofertas": [
-    {
-      "source_id": "2895108",
-      "titulo": "Antena de Internet via satélite Starlink MINI",
-      "de": 899.0,
-      "por": 629.0,
-      "desconto": 30,
-      "imagem": "https://m.media-amazon.com/images/I/512RvK5DHHL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DH3PLZ6N?tag=promoninja0c3-20",
-      "cupom": "SAIUNOPRIME",
-      "loja": "amazon",
-      "categoria": "Informática",
-      "data": "2026-06-30T19:25:02.587097+00:00",
-      "slug": "antena-de-internet-via-satelite-starlink-mini",
-      "page_url": "https://promoninjaofertas.github.io/produto/antena-de-internet-via-satelite-starlink-mini.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 0,
-      "nota_qualidade": 7
-    },
     {
       "source_id": "pechinchou-124189",
       "titulo": "Tênis Olympikus Apolis Feminino Esportivo Super Leve Macio",
@@ -64,7 +45,7 @@
       "de": 1899.0,
       "por": 1134.0,
       "desconto": 40,
-      "imagem": "https://m.media-amazon.com/images/I/6157Cv5UEZL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/71Ar78y955L_Qao3hIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0H1282J24?tag=promoninja0c3-20",
       "cupom": "DIADEJOGO",
       "loja": "amazon",
@@ -805,7 +786,7 @@
       "de": 719.9,
       "por": 418.4,
       "desconto": 42,
-      "imagem": "https://m.media-amazon.com/images/I/81o4MCqBv5L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_KwNxafC.jpg",
       "link": "https://www.amazon.com.br/dp/B0H6KT2RWH?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -1252,7 +1233,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/celular-lancamento-xiaomi-poco-x8-pro-5g-nfc-512gb-256gb-8ram-ou-12-ram.html",
       "avaliacao": 4.9,
       "avaliacoes": null,
-      "vendas": 1082,
+      "vendas": 1085,
       "nota_qualidade": 9
     },
     {
