@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T13:35:32.575231+00:00",
+  "atualizado": "2026-06-30T13:40:42.391506+00:00",
   "ofertas": [
+    {
+      "source_id": "2893918",
+      "titulo": "Smartphone Samsung Galaxy A07 256gb, 8gb, Câm. 50mp, Tela 6.7\"- Preto",
+      "de": 1199.0,
+      "por": 710.22,
+      "desconto": 41,
+      "imagem": "https://m.media-amazon.com/images/I/61AYtRHD0SL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FPHX81RQ?tag=promoninja0c3-20",
+      "cupom": "MEUPRIMEDAY",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-30T13:40:42.391506+00:00",
+      "slug": "smartphone-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-6-7-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-6-7-preto.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 10,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-128998",
       "titulo": "Kit Camiseta Casal Streetwear Carros Mcqueen + Sally",
@@ -17,7 +36,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-camiseta-casal-streetwear-carros-mcqueen-sally.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 336,
+      "vendas": 361,
       "nota_qualidade": 7
     },
     {
@@ -112,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-electrolux-split-18-000-btus-color-adapt-frio-ui18f-ue18f.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 203,
+      "vendas": 263,
       "nota_qualidade": 7
     },
     {
@@ -282,8 +301,8 @@
       "slug": "cobertura-fracionada-sabor-meio-amargo-hershey-s-professional-formato-moeda-2-01kg-a-e",
       "page_url": "https://promoninjaofertas.github.io/produto/cobertura-fracionada-sabor-meio-amargo-hershey-s-professional-formato-moeda-2-01kg-a-e.html",
       "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 1126,
+      "avaliacoes": 2,
+      "vendas": 1568,
       "nota_qualidade": 7
     },
     {
@@ -530,7 +549,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 918,
+      "vendas": 941,
       "nota_qualidade": 7
     },
     {
@@ -1727,7 +1746,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4655,
+      "vendas": 4656,
       "nota_qualidade": 7
     },
     {
