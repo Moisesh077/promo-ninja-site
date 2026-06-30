@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T12:59:42.574861+00:00",
+  "atualizado": "2026-06-30T13:04:50.185628+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-65697",
+      "titulo": "Micro-ondas Philco 20l Branco Pmo23b 110v 110v",
+      "de": 639.9,
+      "por": 386.91,
+      "desconto": 40,
+      "imagem": "https://m.media-amazon.com/images/I/41XTKM4Cg4L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B097CJVNWS?tag=promoninja0c3-20",
+      "cupom": "MEUPRIMEDAY",
+      "loja": "amazon",
+      "categoria": "Eletrodomésticos",
+      "data": "2026-06-30T13:04:50.185628+00:00",
+      "slug": "micro-ondas-philco-20l-branco-pmo23b-110v-110v",
+      "page_url": "https://promoninjaofertas.github.io/produto/micro-ondas-philco-20l-branco-pmo23b-110v-110v.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 4,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-135125",
       "titulo": "Smartphone Samsung Galaxy A07 128GB, 4GB, Câm. 50MP, Tela 6.7\"- Verde",
@@ -654,7 +673,7 @@
       "por": 129.99,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPjnVCem6KiRAJFR2VztByGJ46gyjFE4Roh06Iiv2nadBINfAmdBtoNGQZRusk47sHGddyvnrFrUzIT7XF3UuS9rNVI8R5w0nXisZtj0OsbTC2vT8NlAhjjlpI5IR8vsLm2rEJtLEdVUg01jCFHFnTDqNvKO7s2vrQZgOuiFceTIpQMV3hlGn8rfcmX3fuRfYOkWgq495AiJZWGnLeqbNDLW42CSmP643Hvn5Q6GKCi4rixmpYz7eVmHaXHouzT6p1YuvUCaRiqKkaOhgOY175TlDOaPxbsQ4zd6N3clBPut1eNjtiaB1OsKT2E896h3Oxc4I1tYD5OI2HUiiKGDYGDijKwilqsSLAy2bZoP5McJSHauqW0ZmCDA8ZwKO527qIh7fIu5IyS0P8IQvbVF0S91qLkr8JzqyzCQwt63S32aFCHwW8C6h36DWNKcHTH5JTz5smPEayLQaTWqpDn1mWEx4IQJmvBmq6PEUwfxRJ",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiMQ3G5ByrKY4tL9VzKfdnJ562prOona2VPAhnRyuAU5MXQo6wbvAcutQPUmqfJvzgwYiw7wkTO3tQG9INHOCSmkvCyKrwNWFAjulyBSqDaFNUnp6yrKd3A5D9535LAfpOhXVkGIAOSWE35Rr8pVXevoHiulNvVE7STRF1YAke6aUGFEAdExt8OqFuWPENcIPQpElBD1mfsl0JBZbni9PBH1A6exW8ZxT6cblRUmTm7kFcBIRw2BPrvrDomq9wpF3hxn9H4lxt9mmsOc1NPqcbtLaie1BVkSsSMZBDym6WAS9F3Hs52hnR0QwPWpbm8b77B1NZWVDeyZNKF5S2DhMLOVkTX6vZeLQcDWiXeLL51DXA3kWeiKGvcxjwqdWGg07rXfQa02yd6rQ5yP6BVSZYULaOoYf2r4BAGDWuXKHhNB5UDYm1m8hCv1rcV85c2ITcHwOyxgm4uRyOLrHl3pgjQS4ipKZsGhv1gENkifj",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -1309,8 +1328,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-electrolux-11kg-branca-essential-care-easy-clean-filtro-fiapos-220v-l.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 70,
-      "nota_qualidade": 7
+      "vendas": 100,
+      "nota_qualidade": 9
     },
     {
       "source_id": "pechinchou-147172",
@@ -1689,7 +1708,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4653,
+      "vendas": 4655,
       "nota_qualidade": 7
     },
     {
@@ -1880,25 +1899,6 @@
       "avaliacao": 4.67,
       "avaliacoes": null,
       "vendas": 877,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "1005006076318004",
-      "titulo": "Ulanzi MT-79 2M Suporte de luz de liga de alumínio Suporte de tripé portátil para câmera de smartphone DSLR LED projetor de flash de luz de vídeo",
-      "de": 230.16,
-      "por": 126.59,
-      "desconto": 44,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S840cf48f59fd4111ba37616f33b50b47N.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4nxJnBc7zI6jj5mJeiMJcunuahHwG7zdBoeChwellI9AyrJJjpTHeWF9xgvBD5n2urNLveF2IPYJsfdVRBXVGhD5mjzOYRCKlezB6HxSNK59ah5RCGeWDSlDZpzNTKrZpYdLVvoUkEAmvkvkimKxdiCbwzND73mUSCSZtrHWKgCrr4Q8Ab10CjP1cftMBqaYn1o3Ky4HXudokgcjBNTSOqOwKQNvptWM8LSTgCvke1AzgDAWEramA02lnzCL1qwHUXUhGDmlALXfM1wbVA461uYaghwTK6awqtvfLryVnnmDgsfoxaAZHZ1eeMovHTFQGvu9Jh56aeeDvp8gVYN6pGJuRMvnXQcWuh0YbLq78D236dUuYIhtYTc4GQd4nzW22eJ5jggG8MQ6J9X5eDc1h66K509zei0BLWjj0LWszJoymkecoiA46bMYH5pbEaDDVFCPh8xYEnmuZncUYbevq0DEBZ6z5viCkVxUekTD0F19f6l2oUBzDrnn24xSY92ukw4vHCdRy0FRs8w0OgqY5aXecCbP7cGhfaLAuEMYFL2uwk3QB1ipXw9mHTNGT0P5WhKdH9TDBews4Ml3hXlIpO6P5pTMhXFISIMT7G5glRUsAjjOnpSMZlSsCbNfJfmTysmuL3b6AfRcg8QETHI9mFch4Tt8rbHSwXCKimqxmbei5YqIRLq4RXvEtFgY3IBeEPzyL8mIDyJOAq",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Smartphones",
-      "data": "2026-06-29T13:25:55.381228+00:00",
-      "slug": "ulanzi-mt-79-2m-suporte-de-luz-de-liga-de-aluminio-suporte-de-tripe",
-      "page_url": "https://promoninjaofertas.github.io/produto/ulanzi-mt-79-2m-suporte-de-luz-de-liga-de-aluminio-suporte-de-tripe.html",
-      "avaliacao": 4.89,
-      "avaliacoes": null,
-      "vendas": 622,
       "nota_qualidade": 7
     }
   ]
