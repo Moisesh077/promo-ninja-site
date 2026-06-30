@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T11:27:58.775433+00:00",
+  "atualizado": "2026-06-30T11:32:58.286426+00:00",
   "ofertas": [
+    {
+      "source_id": "2893862",
+      "titulo": "Smartphone Samsung Galaxy A07 128gb, 4gb, Câm. 50mp, Tela 6.7\"- Preto",
+      "de": 799.0,
+      "por": 566.06,
+      "desconto": 29,
+      "imagem": "https://m.media-amazon.com/images/I/61AYtRHD0SL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FPHYC9FQ?tag=promoninja0c3-20",
+      "cupom": "MEUPRIMEDAY",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-30T11:32:58.286426+00:00",
+      "slug": "smartphone-samsung-galaxy-a07-128gb-4gb-cam-50mp-tela-6-7-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a07-128gb-4gb-cam-50mp-tela-6-7-preto.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 15,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-147862",
       "titulo": "Panela Pressão Elétrica Electrolux Digital Capacidade 5l Silenciosa Segura 10 Travas Segurança 9 Receitas Pré-programadas Pcc15 Inox Preto 127v Por Rita Lobo",
@@ -21,25 +40,6 @@
       "nota_qualidade": 7
     },
     {
-      "source_id": "pechinchou-135125",
-      "titulo": "Smartphone Samsung Galaxy A07 128gb, 4gb, Câm. 50mp, Tela 6.7\"- Preto",
-      "de": 799.0,
-      "por": 566.06,
-      "desconto": 29,
-      "imagem": "https://m.media-amazon.com/images/I/61AYtRHD0SL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FPHYC9FQ?tag=promoninja0c3-20",
-      "cupom": "MEUPRIMEDAY",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-30T11:27:58.775433+00:00",
-      "slug": "smartphone-samsung-galaxy-a07-128gb-4gb-cam-50mp-tela-6-7-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a07-128gb-4gb-cam-50mp-tela-6-7-preto.html",
-      "avaliacao": null,
-      "avaliacoes": 4,
-      "vendas": 113,
-      "nota_qualidade": 8
-    },
-    {
       "source_id": "pechinchou-112844",
       "titulo": "MONDIAL Lavadora de Alta Pressão Aqua Power I, Cinza/Amarelo, 1400W, 110V - LAP-01-GY",
       "de": 579.9,
@@ -55,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/mondial-lavadora-de-alta-pressao-aqua-power-i-cinza-amarelo-1400w-110v-lap-01.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 9
+      "vendas": 17,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-116451",
@@ -540,7 +540,7 @@
       "por": 129.99,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPimv0GGvdhbav5vvPjJsr7nOoRW0XdsMaNAjhbchGc6nkBNB3uYbsAbtVstRUawxAZVvwdHI5gUJYMru1CQ1BhNiH4nOK2wu5K10DiD6qGBcEPfQdpACaJRE9Pn7VUhLsfvq6NZ0IOaKVRMxvHCq2OrSArEGDR65dPEyngGvcIY2MFGFuKTZPKSoSs0xXWjMdREJ14AXg6DLKSSSsKihpeP58ldH4j5hCHCmaKLe71PFcCHwfV5ldUzYki6cZcdwfgu8DFf2NyszDeI09XYLEJ0EJmqZEQQTMhQWSQ9L6r61vKVPoaapeXWhALrSSNZqOuEJjMtesm9voknuptODgujQjvvRj3HVcx0v3TxnaI42yAvEo9TbS0hWLNmxD5e5KTNYRznnJnHcqulDxZE4yoglpWg4QwfYUul17VX0I1cdy5XHgLRXW1XTb8IbDJdWW2QrR6VWyCMq5l454VilMyVTeeKxUoIzZBFAq1Dwd",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiw3IpyJuxehG5UKvW5ipRaqw2aFq99PfjIWyV0KOXjqHfA4lqRPmXJIv5W50AYAoOctQuMEcxX6bBLmIBq1xl1UcxBgqnSNmRcxNEvuNOAwD575hn1M2lmgqkRxZBo8gYArl62vZnA5j56utyiedibGrIrjCJlLonAttmgkvHqmmgLK1JPvRlod8wOk4Djop1FFp4IJnay4NsWwijpNh8NoX0RKatsYpKHIYl9xAYtf2fJPuoj0m2LfqD24we0UxHkA6iVSVAMjMlY8mKjAF89CA535I7JaAr58uzSSKh7MacfnEolslQWJIPisR86iGh2Pv5MxnfpJhBueODwGBdCwwXP0NWifBLpmypVoWDokgERMYS2m0fi6KIHfFTFTNmnPSTYzNpFy0S5GaV7w1HNEgXurLETlgfax5ZFyRyR9HUp4wayXm8ef36b6R9SDxrJoBbMDXyQAnxjl3g3XeI8TBHpjJEH7snahKBFTP",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -549,7 +549,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/interface-vcds-vagcom-2026-vcdscan-hex-v2-atualizacao-26-3-para-vw-audi-skoda.html",
       "avaliacao": 4.635,
       "avaliacoes": null,
-      "vendas": 13780,
+      "vendas": 13784,
       "nota_qualidade": 7
     },
     {
@@ -1259,19 +1259,19 @@
       "source_id": "pechinchou-135531",
       "titulo": "Smart Tv Lcd Led Aoc 32\" Hd | 32s5155/78g, Wi-fi, Quad Core, Dolby Áudio, 60 Hz",
       "de": 899.0,
-      "por": 678.15,
+      "por": 677.45,
       "desconto": 25,
       "imagem": "https://m.media-amazon.com/images/I/5127C3SrlYL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FVY9MD19?tag=promoninja0c3-20",
-      "cupom": "GOOOL10",
+      "cupom": "MEUPRIMEDAY",
       "loja": "amazon",
       "categoria": "TV e Eletronicos",
       "data": "2026-06-29T16:45:04.278151+00:00",
       "slug": "smart-tv-lcd-led-aoc-32-hd-32s5155-78g-wi-fi-quad-core-dolby",
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-lcd-led-aoc-32-hd-32s5155-78g-wi-fi-quad-core-dolby.html",
       "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 335,
+      "avaliacoes": 1,
+      "vendas": null,
       "nota_qualidade": 7
     },
     {
