@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-30T21:37:52.678132+00:00",
+  "atualizado": "2026-06-30T21:42:55.599437+00:00",
   "ofertas": [
     {
       "source_id": "2895096",
@@ -16,7 +16,7 @@
       "slug": "teclado-mecanico-sem-fio-logitech-mx-mechanical-mini-com-teclas-retroiluminadas-tactil",
       "page_url": "https://promoninjaofertas.github.io/produto/teclado-mecanico-sem-fio-logitech-mx-mechanical-mini-com-teclas-retroiluminadas-tactil.html",
       "avaliacao": null,
-      "avaliacoes": 3,
+      "avaliacoes": 4,
       "vendas": 75,
       "nota_qualidade": 8
     },
@@ -59,25 +59,6 @@
       "nota_qualidade": 7
     },
     {
-      "source_id": "2895307",
-      "titulo": "Câmbio Logitech G Driving Force para volantes G29, G920, G923",
-      "de": 469.9,
-      "por": 259.0,
-      "desconto": 45,
-      "imagem": "https://m.media-amazon.com/images/I/71cPMlKPk-L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B00Z0UWV3O?tag=promoninja0c3-20",
-      "cupom": "GOL40OFF",
-      "loja": "amazon",
-      "categoria": "Games",
-      "data": "2026-06-30T21:27:42.376619+00:00",
-      "slug": "cambio-logitech-g-driving-force-para-volantes-g29-g920-g923",
-      "page_url": "https://promoninjaofertas.github.io/produto/cambio-logitech-g-driving-force-para-volantes-g29-g920-g923.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 10,
-      "nota_qualidade": 8
-    },
-    {
       "source_id": "58255159172",
       "titulo": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
       "de": 48.99,
@@ -111,7 +92,7 @@
       "slug": "panela-de-arroz-eletrica-elgin-capacidade-5-xicaras-1-litro-400w-220v",
       "page_url": "https://promoninjaofertas.github.io/produto/panela-de-arroz-eletrica-elgin-capacidade-5-xicaras-1-litro-400w-220v.html",
       "avaliacao": null,
-      "avaliacoes": null,
+      "avaliacoes": 2,
       "vendas": 68,
       "nota_qualidade": 7
     },
