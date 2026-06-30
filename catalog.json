@@ -1,24 +1,62 @@
 {
-  "atualizado": "2026-06-30T16:35:12.377816+00:00",
+  "atualizado": "2026-06-30T16:40:23.093212+00:00",
   "ofertas": [
     {
-      "source_id": "2894666",
-      "titulo": "Smartphone Motorola Moto G17 4G - 256GB 12GB (4GB RAM + 8GB RAM)",
-      "de": 1499.0,
-      "por": 779.37,
-      "desconto": 48,
-      "imagem": "https://m.media-amazon.com/images/I/61qB6i9FOYL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GKPYJBTK?tag=promoninja0c3-20",
+      "source_id": "2894660",
+      "titulo": "Placa GPU ASROCK INTEL ARC B580 12G OC 192 BITS",
+      "de": 3373.27,
+      "por": 1436.0,
+      "desconto": 57,
+      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
       "cupom": "PRIMECOMECA",
       "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-30T16:35:12.377816+00:00",
-      "slug": "smartphone-motorola-moto-g17-4g-256gb-12gb-4gb-ram-8gb-ram",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g17-4g-256gb-12gb-4gb-ram-8gb-ram.html",
+      "categoria": "Hardware",
+      "data": "2026-06-30T16:40:23.093212+00:00",
+      "slug": "placa-gpu-asrock-intel-arc-b580-12g-oc-192-bits",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-gpu-asrock-intel-arc-b580-12g-oc-192-bits.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 0,
-      "nota_qualidade": 9
+      "vendas": 5,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "2894470",
+      "titulo": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) Ultrafino 3 cameras 50MP Tela 1.5K extreme Amo",
+      "de": 4499.0,
+      "por": 1865.99,
+      "desconto": 59,
+      "imagem": "https://m.media-amazon.com/images/I/61OaHpwFsuL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GLTDFSMM?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-30T16:40:23.093212+00:00",
+      "slug": "smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 30,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "pechinchou-17393",
+      "titulo": "Premier Pet Golden Special - Ração Para Cães Adultos, Sabor Frango E Carne, 15kg",
+      "de": 209.9,
+      "por": 123.5,
+      "desconto": 41,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/racao-golden-special-sabor-frango-e-carne-para-caes-adultos-15kg-premier-pet-para-todas-grande-adulto_wVpg5ZO_xVZtlx9_XSHgXAd_QguiPfS_KoJPr35_hZ8ZA0M.png",
+      "link": "https://www.amazon.com.br/dp/B07ZKLVV22?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-06-30T16:40:23.093212+00:00",
+      "slug": "premier-pet-golden-special-racao-para-caes-adultos-sabor-frango-e-carne-15kg",
+      "page_url": "https://promoninjaofertas.github.io/produto/premier-pet-golden-special-racao-para-caes-adultos-sabor-frango-e-carne-15kg.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 102,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-146873",
@@ -36,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-3-calcas-jeans-masculina-com-elastano-super-confortavel.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 106,
+      "vendas": 116,
       "nota_qualidade": 7
     },
     {
@@ -169,8 +207,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-420-figurinhas-do-album-copa-do-mundo-2026-60-envelopes.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7
+      "vendas": 198,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-108279",
@@ -188,7 +226,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/camera-interna-wi-fi-full-hd-im1-2mp-branca-intelbras-cor-branco.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 31,
+      "vendas": 46,
       "nota_qualidade": 9
     },
     {
@@ -264,7 +302,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a17-5g-com-ia-128gb-4gb-ram-cam-de-50mp-tela.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 395,
+      "vendas": 506,
       "nota_qualidade": 9
     },
     {
@@ -340,7 +378,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-2-pares-sandalia-babuche-unissex-tirante-traseiro-leve.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 128,
+      "vendas": 137,
       "nota_qualidade": 7
     },
     {
@@ -397,7 +435,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4688,
+      "vendas": 4690,
       "nota_qualidade": 7
     },
     {
@@ -691,7 +729,7 @@
       "de": 112.9,
       "por": 50.73,
       "desconto": 55,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51ThcHFsR2L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51ThcHFsR2L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B088RJLS8Z?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -701,7 +739,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cobertura-fracionada-sabor-meio-amargo-hershey-s-professional-formato-moeda-2-01kg-a-e.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 1837,
+      "vendas": 1842,
       "nota_qualidade": 7
     },
     {
@@ -938,7 +976,7 @@
       "de": 1279.9,
       "por": 639.9,
       "desconto": 50,
-      "imagem": "https://m.media-amazon.com/images/I/61uoabdlxXL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_jzhYD8N.jpg",
       "link": "https://www.amazon.com.br/dp/B0CSK93VDK?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -948,7 +986,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1187,
+      "vendas": 1200,
       "nota_qualidade": 8
     },
     {
@@ -1110,7 +1148,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiGvPsfTWmMmO7zufaqdt6v1KvH4pCtayVGvOA71ocfo2OShxYmepJKcjALXeMKWOnlKRMjCXLQE0lZSXu0bX2zRKGiVA2hJdLzrI3tRber7JxDW7pVwm5mdKTSiwXhM7BuUAQO82PqJYSHIx7uF7KfKApMVGqa7aU7ZrnT5MK6ryMKYy7gcpYeW39sEj4YcvAXkNxGRUAtUZcoSsPD6C2xAAlaZ0C2qjEftpX2lq3hK1x1hG7mWQMkgoDJd5iaIGocLYS9ST8hprrIB0uhDbwq9Qj8eu0LIZVywDFOh8oFyw1o3LohbRzXg89H613nhgYSI5FssNE817NelCiKSuKTgUcHd80k8NkqNmnbZPJ74fyQaAQgzgHSGRBwC2HU3zeDCMopzFJvUrQ0kXjtFidefKP15vbYZ46OUbKDYUbKjPUWusdQ8yQPdxYsgEC3NiW4JLTvAZ93v5lZdvp8nolmrGMCKqkpKC6NOS4h5j",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPinHYyodJRix6tcSrZY8IdYw1SArlLnMvtXmNZzys8k9hWhBgEUaFTI89vaoSKe6NOYN8UHaIVfXZw0evo9428CfyrFO4sPujyDjT1coh8ieCzyhOMtX7quTFKlNYm4AJszDmu7VNpiW4dfrejkMQ2xIOxU8j9hppnyM7Om3f75Q0Gvlcass659yCDkeJMT7t13YEBCksV4Ig8sqSqQ1Q4yxantcBwXdhuPwLL3d7pUv93REJfA4y6bM55q82KFeCnknaZcqgw4mGUSgbLbW622hIhANrEUIumAYSzxsZxZFohpNN1p1qh35VzvE9WT2vuNUQBkYE7CpRnDQn88p4BF8UVOzOxgSSW3hCbApXMdvE4r0O9KSOTJhVoWT1AwwNgqNbtX2s2qY1ZJ5EdT1sAhXOHVh1ohkzz2Nuk1XC0RwP3kh591nqTYRjQ6TvzN0ZodtzpH0d3c9eASEqNLbxZFuS1M3HkRGflgVf7dmN",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
