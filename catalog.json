@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T21:53:10.769917+00:00",
+  "atualizado": "2026-06-30T21:58:10.692383+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-134455",
+      "titulo": "Panela De Pressão Elétrica 5l Nutripro Inox Midea",
+      "de": 429.0,
+      "por": 259.0,
+      "desconto": 40,
+      "imagem": "https://m.media-amazon.com/images/I/51I6myFX+3L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FGQM3PGV?tag=promoninja0c3-20",
+      "cupom": "GOL40OFF",
+      "loja": "amazon",
+      "categoria": "Casa",
+      "data": "2026-06-30T21:58:10.692383+00:00",
+      "slug": "panela-de-pressao-eletrica-5l-nutripro-inox-midea",
+      "page_url": "https://promoninjaofertas.github.io/produto/panela-de-pressao-eletrica-5l-nutripro-inox-midea.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 209,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "2895382",
       "titulo": "Teclado Mecânico sem fio Logitech MX Mechanical Mini com Teclas Retroiluminadas Tactile Quiet Conexão USB ou Bluetoot",
@@ -36,27 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g67-5g-128gb-12gb-4gb-ram-8gb-ram-boost-camera-50mp.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 5,
+      "vendas": 10,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "2895366",
-      "titulo": "Oster OFRT520 - Fritadeira Sem Óleo, 220V",
-      "de": 449.9,
-      "por": 290.6,
-      "desconto": 35,
-      "imagem": "https://m.media-amazon.com/images/I/51+rkXsAaOL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0B72QZXCC?tag=promoninja0c3-20",
-      "cupom": "GOL40OFF",
-      "loja": "amazon",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-06-30T21:48:02.593054+00:00",
-      "slug": "oster-ofrt520-fritadeira-sem-oleo-220v",
-      "page_url": "https://promoninjaofertas.github.io/produto/oster-ofrt520-fritadeira-sem-oleo-220v.html",
-      "avaliacao": null,
-      "avaliacoes": 4,
-      "vendas": 0,
-      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-147892",
@@ -112,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-panelas-tramontina-allegra-em-aco-inox-com-fundo-triplo-5-pecas.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 37,
+      "vendas": 83,
       "nota_qualidade": 8
     },
     {
@@ -131,8 +131,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/camera-de-seguranca-ip-a8-icsee-infravermelho-prova-dagua.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 69,
-      "nota_qualidade": 7
+      "vendas": 177,
+      "nota_qualidade": 9
     },
     {
       "source_id": "58255159172",
@@ -169,7 +169,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/panela-de-arroz-eletrica-elgin-capacidade-5-xicaras-1-litro-400w-220v.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 87,
+      "vendas": 93,
       "nota_qualidade": 7
     },
     {
@@ -207,7 +207,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-speaker-aiwa-sp-05-lb-30w-bluetooth-ipx5.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
+      "vendas": 130,
       "nota_qualidade": 8
     },
     {
@@ -226,7 +226,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-corre-trilha-2.html",
       "avaliacao": null,
       "avaliacoes": 6,
-      "vendas": 195,
+      "vendas": 234,
       "nota_qualidade": 8
     },
     {
@@ -1081,7 +1081,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-aoc-43-led-full-hd-roku-tv-wi-fi-hdmi-e-usb.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 270,
+      "vendas": 276,
       "nota_qualidade": 7
     },
     {
@@ -1100,7 +1100,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4743,
+      "vendas": 4746,
       "nota_qualidade": 7
     },
     {
@@ -1632,7 +1632,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1462,
+      "vendas": 1471,
       "nota_qualidade": 8
     },
     {
