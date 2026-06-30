@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T21:48:02.593054+00:00",
+  "atualizado": "2026-06-30T21:53:10.769917+00:00",
   "ofertas": [
+    {
+      "source_id": "2895382",
+      "titulo": "Teclado Mecânico sem fio Logitech MX Mechanical Mini com Teclas Retroiluminadas Tactile Quiet Conexão USB ou Bluetoot",
+      "de": 1149.9,
+      "por": 709.9,
+      "desconto": 38,
+      "imagem": "https://m.media-amazon.com/images/I/61ge3d+MQwL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0B2V9WTS2?tag=promoninja0c3-20",
+      "cupom": "GOL40OFF",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-30T21:53:10.769917+00:00",
+      "slug": "teclado-mecanico-sem-fio-logitech-mx-mechanical-mini-com-teclas-retroiluminadas-tactil",
+      "page_url": "https://promoninjaofertas.github.io/produto/teclado-mecanico-sem-fio-logitech-mx-mechanical-mini-com-teclas-retroiluminadas-tactil.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 5,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "2895353",
       "titulo": "Smartphone Motorola Moto G67 5G - 128GB 12GB (4GB RAM + 8GB RAM Boost) camera 50MP Sony Lytia 600 tela 1.5K extreme Amo",
@@ -17,8 +36,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-moto-g67-5g-128gb-12gb-4gb-ram-8gb-ram-boost-camera-50mp.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 0,
-      "nota_qualidade": 8
+      "vendas": 5,
+      "nota_qualidade": 7
     },
     {
       "source_id": "2895366",
@@ -76,25 +95,6 @@
       "avaliacoes": null,
       "vendas": 227,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "2895096",
-      "titulo": "Teclado Mecânico sem fio Logitech MX Mechanical Mini com Teclas Retroiluminadas Tactile Quiet Conexão USB ou Bluetoot",
-      "de": 1149.9,
-      "por": 674.91,
-      "desconto": 41,
-      "imagem": "https://m.media-amazon.com/images/I/61ge3d+MQwL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0B2V9WTS2?tag=promoninja0c3-20",
-      "cupom": "DIADEJOGO",
-      "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-06-30T21:32:43.072632+00:00",
-      "slug": "teclado-mecanico-sem-fio-logitech-mx-mechanical-mini-com-teclas-retroiluminadas-tactil",
-      "page_url": "https://promoninjaofertas.github.io/produto/teclado-mecanico-sem-fio-logitech-mx-mechanical-mini-com-teclas-retroiluminadas-tactil.html",
-      "avaliacao": null,
-      "avaliacoes": 4,
-      "vendas": 80,
-      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-147770",
@@ -445,7 +445,7 @@
       "por": 54.29,
       "desconto": 25,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S258a925cfef544d4945e9113f2e1ee20V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DXjGfjzzXvmRsNJ1Th29jCoIvddn0e3rsxpWhb2YNERk1rxBOOQNiGrYgeQuJhyntOgXBcIRXXA49caCxrib4I45aFLachBR65jWfzZqe6CVx8u6TZ8mL1UrjRD1HYcnJjhePcmwGlLxvjDsIJ5pACFHfpk1MJ9xVtcSkQrqTMm6xcj9UWjrAaoTZoRxhZfFG6xO8JIZ9LCoZVEM2Ek2F4CzwFs8HXKujbvJND8UaUrtJAchJqfmnLNWRrpWZ2xYzmLxR6wp4OHB8nyJP05wWF9JtPIOHnXH9mU7G6GXq2p3pzl4r4FrCPdiILBkIliadCdKayYvZ6ZSZl2GewlRhIlTIDa9ttsSHiNlGcpviI7idbunEBBBAaiiS6PHdEBwfztww5F644pO8hPJkdIZJJd9iEo3tScfPSbwFVMuTUSWSHUDDhjI6HK7vYcihwysDwz1xacfop8tA4uhQ6DapuCKgchCDqmzPdPOrvaCC",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DXC1nBBcVM31XF052O95Vo0R2Ag3KVf9U342Ug2yXlQVDgLwE7HBsav6mDcgFGND3SGsmI3wpja8QPs6YHk7RSHdADlMPffPlDHGjyXOdfMxXoUNoRVBuEYfYkVZ5WmKVljoU3nmCuTAwn1FNGvrHzkRWG9rfUsJOBLt9VB9kxDPHug25VZnGSKlWnVPeWQ2kwIZlpzuglqZRrgBWbbton3bFFUl6EPva9j4Fke9UtDu7D32rtdYZTPbEG5RTDnKfMKveSKwoNV5jwjT4hrOIBmpnu3MuS6FCy4rTd4v9eCYz99DxXK8FBQ2VSFrhf4B7AZWFnbfUMTprmNJoefAXx0IPbqIA6dhEtP7Xytsz2dT5vlC1Sm3Qb53gVV7bojYHwoOZRYVlJFAO95DvERjoMb0q6PDvNMlSf3ilaeUk8r7DWp1DLwSKJ6gvuz0gREXy03mlPBzqGsq9jCJhKXguDaF0whMAICp6rKqy5sKU",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Games",
@@ -920,7 +920,7 @@
       "por": 280.99,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMJgOX84zoeQCyXfNgowOogZVPeBtKDdWMiaklM9WdyJzYx12KiUr4VpxXPoluuXazRwzhMchsgWMv7oSOjwOWv2vVuWTlC9m8Vf3CyNQsFeveJMMjU0cxyENxQyVHBQypdVDY1v4uPfg20MJjGRSawPyNNnPl1ryClkB00QmecISPrNOcy3m7ub636uXxghXjEOdEysNxOvYQ86E2Dh0gvHNjgKBkAk9nGrg2WBtWiB0UoXisp8fGKYpzC2n33JeDrsSrEOlFwLlrfTy3NxmfSiPPO0Uke8OttPekVKGLRWTVXWS9s6LybIob9hicTj75vyMrwf7gMfwKOTwpVTxZTqMv5KVOG8YavvFw4cPdthA6dc3liucqFxYeeJQRWgjAlzhAixxAq51uKBr17bs6JQKRXUj7pLuDc1WOQLj8fxF9k0Ih6gIgMRrrIYJqZyEMLwG1bOyrPAGUlAREBR4pyMDd7ZyQCxCYv3PvzQK",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPN10DvTC5opdQwGXAWuzOHCXlDGnyANe2829GZIm0mY8CFIwgUdL0WtCSdsdUhqPkIMCgvfKx37kBHjZTFqSnGdfR8hKbMAEIjFc4H9r9fta1o1NHbedHW41YsM56cmjuTX1RkatbFhq88Hu9qzaC9XrA8Sys2poqsuNO47zoUinK14Tt9OIAcJDi6MehS8qxXBhrcSdLZsFKqx0nzZio39IjjVZ2n0ThWSLaywUvYbAsjdPxTWGkMPNaUwVcuX0nEpsguBxk2hqN18G4xabLK9tGduFh9r7jBAyL5ghELpBZa1WNjPnlXAQnB6AX0CAlhSkfziW5sZo9yUv8ZojZuNJdtUTWDWyqmIlwBYIGHkpxM9sNkFZIqzjQjX29nIy8Dm3J4uEdK2aDQN0hXgXBLuIf18EbPWUcM45sPLUB9NOg7ZfSl6bHr1DjlSCEv8jf9OiUkoDdZknIfivs4bntAVyRyLXXKjhqq3A7zJK6",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
