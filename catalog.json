@@ -1,6 +1,44 @@
 {
-  "atualizado": "2026-06-30T10:41:59.903697+00:00",
+  "atualizado": "2026-06-30T10:47:07.379926+00:00",
   "ofertas": [
+    {
+      "source_id": "2893140",
+      "titulo": "Placa de Vídeo ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS",
+      "de": 3373.27,
+      "por": 1436.0,
+      "desconto": 57,
+      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
+      "cupom": "BOLANAREDE10",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-30T10:47:07.379926+00:00",
+      "slug": "placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-asrock-intel-arc-b580-challenger-12g-oc-192-bits.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 80,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "pechinchou-118060",
+      "titulo": "Cobertura Fracionada Sabor Meio Amargo Hershey'S Professional (Formato Moeda) - 2,01Kg (a embalagem pode variar)",
+      "de": 112.9,
+      "por": 50.73,
+      "desconto": 55,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51ThcHFsR2L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "link": "https://www.amazon.com.br/dp/B088RJLS8Z?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Supermercado",
+      "data": "2026-06-30T10:47:07.379926+00:00",
+      "slug": "cobertura-fracionada-sabor-meio-amargo-hershey-s-professional-formato-moeda-2-01kg-a-e",
+      "page_url": "https://promoninjaofertas.github.io/produto/cobertura-fracionada-sabor-meio-amargo-hershey-s-professional-formato-moeda-2-01kg-a-e.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 1112,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "1005008175022509",
       "titulo": "Placa de captura de vídeo Fifine 4K HDMI para transmissão ao vivo e jogos, compatível com PS4/PS5/Windows/Mac OS/Switch/Xbox - V3",
@@ -233,8 +271,8 @@
       "source_id": "pechinchou-110225",
       "titulo": "Tcl Tablet Tab 10l Gen 4-128gb Rom - 4gb Ram - Wifi - Octacore 2.2ghz - 10.1\"",
       "de": 1279.9,
-      "por": 734.5,
-      "desconto": 43,
+      "por": 639.9,
+      "desconto": 50,
       "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_jzhYD8N.jpg",
       "link": "https://www.amazon.com.br/dp/B0CSK93VDK?tag=promoninja0c3-20",
       "cupom": null,
@@ -245,7 +283,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-tablet-tab-10l-gen-4-128gb-rom-4gb-ram-wifi-octacore-2-2ghz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 326,
+      "vendas": null,
       "nota_qualidade": 7
     },
     {
@@ -254,7 +292,7 @@
       "de": 639.64,
       "por": 265.9,
       "desconto": 58,
-      "imagem": "https://m.media-amazon.com/images/I/41PvjVke0zL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/41PvjVke0zL_h09ztWz.__AC_SX300_SY300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B07SVFNSXQ?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -264,7 +302,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/climatizador-de-ar-pcl1f-70w-branco-220v-philco-3eae25.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 137,
+      "vendas": 331,
       "nota_qualidade": 8
     },
     {
@@ -311,7 +349,7 @@
       "de": 1776.66,
       "por": 1429.1,
       "desconto": 20,
-      "imagem": "https://m.media-amazon.com/images/I/41k0QXiybVL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/raigna_50_kCNmO2b_NEdCjrM.png",
       "link": "https://www.amazon.com.br/dp/B0GYGG24C4?tag=promoninja0c3-20",
       "cupom": "250SMART",
       "loja": "amazon",
@@ -321,8 +359,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-split-inverter-philco-pac9qg-espelhado-9000-btus-quente-e-frio-220v.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7
+      "vendas": 111,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-143208",
@@ -340,7 +378,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/presente-egeo-choc-o-boticario.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 109,
+      "vendas": 214,
       "nota_qualidade": 10
     },
     {
@@ -1470,7 +1508,7 @@
       "de": 719.9,
       "por": 418.4,
       "desconto": 42,
-      "imagem": "https://m.media-amazon.com/images/I/81o4MCqBv5L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_KwNxafC.jpg",
       "link": "https://www.amazon.com.br/dp/B0H6KT2RWH?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -1862,25 +1900,6 @@
       "avaliacoes": 4,
       "vendas": 2331,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-99120",
-      "titulo": "JBL, Caixa de Som, PartyBox Club 120, Bluetooth, Show de Luzes, À Prova de Respingos, Som JBL Pro Sound, 160W RMS - Preta",
-      "de": 3099.0,
-      "por": 1609.05,
-      "desconto": 48,
-      "imagem": "https://m.media-amazon.com/images/I/61gT9v+QQGL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0G4SQNDHB?tag=promoninja0c3-20",
-      "cupom": "CHEGOUPRIME",
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-06-29T11:53:40.892756+00:00",
-      "slug": "jbl-caixa-de-som-partybox-club-120-bluetooth-show-de-luzes-a-prova-de",
-      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-club-120-bluetooth-show-de-luzes-a-prova-de.html",
-      "avaliacao": null,
-      "avaliacoes": 9,
-      "vendas": 114,
-      "nota_qualidade": 9
     }
   ]
 }
