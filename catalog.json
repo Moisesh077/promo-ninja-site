@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-06-30T15:33:32.580174+00:00",
+  "atualizado": "2026-06-30T15:38:41.184662+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-130224",
+      "titulo": "Smart TV LG 43\"Full HD, Processador A5 Ger6, AI, Alexa e webOS 23 - 43LR6700PSA",
+      "de": 2119.9,
+      "por": 1377.89,
+      "desconto": 35,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_741946-MLA107875422514_032026-O_sNHflBK.webp",
+      "link": "https://meli.la/2G6otuJ",
+      "cupom": "7DO7TVS",
+      "loja": "mercadolivre",
+      "categoria": "Hardware",
+      "data": "2026-06-30T15:38:41.184662+00:00",
+      "slug": "smart-tv-lg-43-full-hd-processador-a5-ger6-ai-alexa-e-webos-23",
+      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-lg-43-full-hd-processador-a5-ger6-ai-alexa-e-webos-23.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 1,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-130370",
       "titulo": "Smart Tv H5000f Hd 32 Polegadas 2025 Preto Samsung Bivolt",
@@ -21,25 +40,6 @@
       "nota_qualidade": 8
     },
     {
-      "source_id": "pechinchou-144956",
-      "titulo": "Smart TV Profissional LG 43\" Full HD Processador a5 Ger6 AI Alexa Integrada webOS 23 – 43LR671C-B",
-      "de": 2284.29,
-      "por": 1329.9,
-      "desconto": 42,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_284z1oI.jpg",
-      "link": "https://meli.la/2G6otuJ",
-      "cupom": "7DO7TVS",
-      "loja": "mercadolivre",
-      "categoria": "Hardware",
-      "data": "2026-06-30T15:33:32.580174+00:00",
-      "slug": "smart-tv-profissional-lg-43-full-hd-processador-a5-ger6-ai-alexa-integrada-webos",
-      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-profissional-lg-43-full-hd-processador-a5-ger6-ai-alexa-integrada-webos.html",
-      "avaliacao": null,
-      "avaliacoes": 4,
-      "vendas": null,
-      "nota_qualidade": 8
-    },
-    {
       "source_id": "pechinchou-146464",
       "titulo": "Smart TV LG UHD AI UA75 50 polegadas HDR10 Pro Processador α7 AI Ger8 webOS 25",
       "de": 5000.0,
@@ -55,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-lg-uhd-ai-ua75-50-polegadas-hdr10-pro-processador-7-ai-ger8.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 11,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-92585",
@@ -140,7 +140,7 @@
       "de": 719.9,
       "por": 418.4,
       "desconto": 42,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_KwNxafC.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/81o4MCqBv5L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0H6KT2RWH?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -328,11 +328,11 @@
       "source_id": "pechinchou-135356",
       "titulo": "Smartphone Motorola Edge 60 5g - 512gb 24gb (12gb Ram+12gb Ram Boost) Tela Quad-curve Moto Ai 50mp Sony Camera Ultrarresistencia Militar Ip68 + Ip69 - Verde",
       "de": 4916.0,
-      "por": 1665.15,
-      "desconto": 66,
+      "por": 1529.15,
+      "desconto": 69,
       "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_5dZSCUE.jpg",
       "link": "https://meli.la/241ftst",
-      "cupom": "GOLAGORA",
+      "cupom": "7DO7TVS",
       "loja": "mercadolivre",
       "categoria": "Smartphones",
       "data": "2026-06-30T12:13:41.389093+00:00",
@@ -340,8 +340,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-60-5g-512gb-24gb-12gb-ram-12gb-ram-boost-tela-quad.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 221,
-      "nota_qualidade": 9
+      "vendas": null,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-85729",
@@ -444,7 +444,7 @@
       "de": 112.9,
       "por": 50.73,
       "desconto": 55,
-      "imagem": "https://m.media-amazon.com/images/I/51ThcHFsR2L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51ThcHFsR2L.__AC_SX300_SY300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B088RJLS8Z?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -863,7 +863,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPigLeRbfm0cv3QkQUJmVPhpXKWScPhWkIIsuyhuLjzagm2s0rsM6d6QKw9VXVaDlBfAhJevzijSbQoXX05GthpgHvkZWSUGN70tCDjlphqQaVM3uSPMi1cyJnSDwTbHvDfZbY8SRbKPjrBdLk0By8SnyygJK72vUa8WhU90uG2j9GtgEV0Q4OOBXog666AdFPM7SFklnv9fpi9RdkHuSYtbytbJPHlGvAUuHxgZmpszUFppvfPGBQiha1PBDdgyBBf08HQQNS5gGqVIaMgysw79wkolgZUBnuGMP32AcRTxbCtFes7dcmgslVDA52ADhZsVWBFhFjjbACOFHSOckmFHeA8DBPLXwKKy7RNhsQqwKjmpUwgXDRld1Db8YAnI0kdhe9Xq4glbaMYjzGelj8nJkpddReUU7VTQqypVmwhwlH0EvESCktgL5vTS31TqAJWo17PaNQwao3VFV6H8Rqpwz97tDQLkGKlGOD9ZKH",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPigH0orCrF90fsAhmaOisUxjntonjH2B8T3qHz9enOr5n2jyKjCPvRcf0wo9k3BIZWP9fwIAyd7iSeUJkmVE7o8vMpSj9cLfEEGNP0YPRzCuElGBTvFormQb0oImGs9fbMOWOhHVZpRy2T1Y1HwezIjR2inskZpICXFDCsnWvk8waqp08e0aAXe86lxkeqdx31rXf8pF8T6hDK1b6ci0pEy9n4a5cidbRJreylBz1mGcW1qudak4kNAel459gF06uCSZTuOxhp6ppY8Oao4OUCDCURoj6d00j7AZUXBjR6gWfPW7VAtz9AND2RTQhBV88eb8mCiuGBYiE2xjybJQu54vcpfboo64lzMbI9map8pGz2Pg26bfeI4k95PP4S8nR1VFAwwvAE259UvzID8nVKmdHH3X83ks1SWrAIdRbGIqZdslUdxbdOe9gvEE6hjjmIZWXoz3KXbaL0fYH7sxNAAsTIF1aa2JXtPAbr1LB",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -1824,25 +1824,6 @@
       "avaliacoes": null,
       "vendas": 16,
       "nota_qualidade": 8
-    },
-    {
-      "source_id": "pechinchou-147679",
-      "titulo": "Bicicleta Ergométrica Spinning Premium-JN Fitness+Garrafa grátis modelo JN-1104 Preto 110kg",
-      "de": 599.0,
-      "por": 419.56,
-      "desconto": 30,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/61WAdVJTSAL_3N152Ey._AC_SY300_SX300_QL70_ML2_.jpg",
-      "link": "https://meli.la/2rWoVer",
-      "cupom": "AQUITEMCUPOM",
-      "loja": "mercadolivre",
-      "categoria": "Esporte e Lazer",
-      "data": "2026-06-29T15:38:27.674466+00:00",
-      "slug": "bicicleta-ergometrica-spinning-premium-jn-fitness-garrafa-gratis-modelo-jn-1104-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/bicicleta-ergometrica-spinning-premium-jn-fitness-garrafa-gratis-modelo-jn-1104-preto.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 101,
-      "nota_qualidade": 7
     }
   ]
 }
