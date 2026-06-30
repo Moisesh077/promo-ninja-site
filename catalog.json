@@ -1,8 +1,8 @@
 {
-  "atualizado": "2026-06-30T11:38:01.195741+00:00",
+  "atualizado": "2026-06-30T11:43:02.892854+00:00",
   "ofertas": [
     {
-      "source_id": "pechinchou-135125",
+      "source_id": "2893862",
       "titulo": "Smartphone Samsung Galaxy A07 128gb, 4gb, Câm. 50mp, Tela 6.7\"- Preto",
       "de": 799.0,
       "por": 566.06,
@@ -12,13 +12,13 @@
       "cupom": "MEUPRIMEDAY",
       "loja": "amazon",
       "categoria": "Smartphones",
-      "data": "2026-06-30T11:38:01.195741+00:00",
+      "data": "2026-06-30T11:43:02.892854+00:00",
       "slug": "smartphone-samsung-galaxy-a07-128gb-4gb-cam-50mp-tela-6-7-preto",
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a07-128gb-4gb-cam-50mp-tela-6-7-preto.html",
       "avaliacao": null,
-      "avaliacoes": 4,
-      "vendas": 113,
-      "nota_qualidade": 8
+      "avaliacoes": 1,
+      "vendas": 15,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-147862",
@@ -55,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/mondial-lavadora-de-alta-pressao-aqua-power-i-cinza-amarelo-1400w-110v-lap-01.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 17,
+      "vendas": 59,
       "nota_qualidade": 8
     },
     {
@@ -93,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/mochila-de-negocios-impermeavela-senha-de-bloqueio-preto-florido.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 128,
+      "vendas": 199,
       "nota_qualidade": 8
     },
     {
@@ -1575,7 +1575,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4643,
+      "vendas": 4644,
       "nota_qualidade": 7
     },
     {
