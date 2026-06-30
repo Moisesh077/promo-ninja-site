@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-30T14:26:42.286076+00:00",
+  "atualizado": "2026-06-30T14:31:42.980407+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-108740",
@@ -17,8 +17,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-nike-journey-run-masculino.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 54,
-      "nota_qualidade": 7
+      "vendas": 107,
+      "nota_qualidade": 9
     },
     {
       "source_id": "pechinchou-128998",
@@ -273,7 +273,7 @@
       "de": 112.9,
       "por": 50.73,
       "desconto": 55,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51ThcHFsR2L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51ThcHFsR2L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B088RJLS8Z?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -520,7 +520,7 @@
       "de": 1279.9,
       "por": 639.9,
       "desconto": 50,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_jzhYD8N.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61uoabdlxXL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0CSK93VDK?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -692,7 +692,7 @@
       "por": 130.59,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiSA6P5gdinQ9puDwF23sY8eSgYQNrQH5C9CxwVIJU7vA4kZ8P048D7lNydhhzOQKtXcjOsGAVWVZJq49AAdEWZW1zq7DWJpYFaRUhlDb9zeRhTMYM0yctDzsQsE75WPZhDSQHyKWIFMyxoWLECZXZNWL6LUrzwQpKtszqneAM6Vk3Npb2q495D8xu43cKjQXUASyNW34SakOxF1LyDjtv5YsTO0JiCfQccZLMzFOKQCLHkbvX7qRYdl9TmlFf0va4lm4duxH8Sf4m0t1EJ2xrORfzol3oW0ZJFtlTvDUhozCyf97eGWyJe18hBqdEO4rFVANvJRvZFu7NnF8lQuAO4qhG8MY7zbuifR1soecrrMAWssbhQJ21DHUGIcqaDrWWsAQKIX4NsKC7TU79jYVK2S9Xvj2J3Lqgn9cpwJshEl4OhL7vqBTF8NNKOzwbHttXXlaSLMQzppKiEPcGofmdDv0iEPTFdqQXbGnc10v",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPjE5QVMq4Cz1eEDBvg1BSoZiXOxELAMYNwmSBV3wO5ZNxrtR0ZTgI7BW7oQI8m4qWzeqf1UrBKNQFBwBZRGlbfUfNyKcvod8e1mnoN0Mi2a0nTomd8BCRjPFks6CmrPDlXA0jIRezSvEpgIqujYzsoOvxzZzTNfXl8oxpadRctj1Pp2yChJY1qzAfUgES79bXVGThbJIolJ65tFodt9BxitgXMcZni5H8iWrYtRaAjM6CLfBk69k4oe7IMlD6MzNoj8dgm6AFJ6nfBLFNvcMubbBy5iAo6kwwu8O7e6DNpD8pntyB9rf93Hljk9kMSq2kaZ5WpjrxuoJJNBDiTPm2lJaotSm3kYjmYJYWGQEwjxgLXTJGIxnHVoqg6AbNO1IVUkHLtgPtqYr00ZKISk44ygETOGyoAhqP2IxpyFBYXM4HxiEnQVu1W9egIUDaqynRWQatTEXNRp8BVYhQDuSo3WEbYxzJVNcwrMCTYl2l",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -1727,7 +1727,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/grand-theft-auto-vi-playstation-5-midia-fisica.html",
       "avaliacao": null,
       "avaliacoes": 19,
-      "vendas": 4660,
+      "vendas": 4667,
       "nota_qualidade": 7
     },
     {
