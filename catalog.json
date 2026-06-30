@@ -1,6 +1,44 @@
 {
-  "atualizado": "2026-06-30T00:44:54.580646+00:00",
+  "atualizado": "2026-06-30T00:50:03.293174+00:00",
   "ofertas": [
+    {
+      "source_id": "2893497",
+      "titulo": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE Galaxy AI Titânio Aeroespacial Titânio Prata",
+      "de": 4999.0,
+      "por": 1789.1,
+      "desconto": 64,
+      "imagem": "https://m.media-amazon.com/images/I/613Ix076kwL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FJPL1MGY?tag=promoninja0c3-20",
+      "cupom": "PRIMEDAY2026",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-30T00:50:03.293174+00:00",
+      "slug": "samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit",
+      "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 30,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "2893513",
+      "titulo": "Samsung Galaxy Watch8 Classic Smartwatch 46mm Lte, Galaxy Ai - Branco",
+      "de": 4499.0,
+      "por": 1924.1,
+      "desconto": 57,
+      "imagem": "https://m.media-amazon.com/images/I/61kJFrH6wML._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FDX5DXL9?tag=promoninja0c3-20",
+      "cupom": "PRIMEDAY2026",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-30T00:50:03.293174+00:00",
+      "slug": "samsung-galaxy-watch8-classic-smartwatch-46mm-lte-galaxy-ai-branco",
+      "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch8-classic-smartwatch-46mm-lte-galaxy-ai-branco.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 20,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-145749",
       "titulo": "O Boticário Lily Kit Presente(4 Itens)",
@@ -17,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/o-boticario-lily-kit-presente-4-itens.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 210,
+      "vendas": 311,
       "nota_qualidade": 8
     },
     {
@@ -57,25 +95,6 @@
       "avaliacoes": 1,
       "vendas": 76,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-144528",
-      "titulo": "Samsung Galaxy Watch8 Classic Smartwatch 46mm Lte, Galaxy Ai - Branco",
-      "de": 4499.0,
-      "por": 1924.1,
-      "desconto": 57,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/61kJFrH6wML._AC_SY300_SX300_QL70_ML2_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FDX5DXL9?tag=promoninja0c3-20",
-      "cupom": "PRIMEDAY2026",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-06-29T23:50:09.598844+00:00",
-      "slug": "samsung-galaxy-watch8-classic-smartwatch-46mm-lte-galaxy-ai-branco",
-      "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch8-classic-smartwatch-46mm-lte-galaxy-ai-branco.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 8,
-      "nota_qualidade": 9
     },
     {
       "source_id": "pechinchou-141321",
