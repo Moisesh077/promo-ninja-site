@@ -1,6 +1,44 @@
 {
-  "atualizado": "2026-06-30T02:32:12.693941+00:00",
+  "atualizado": "2026-06-30T02:52:33.777411+00:00",
   "ofertas": [
+    {
+      "source_id": "2893497",
+      "titulo": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE Galaxy AI Titânio Aeroespacial Titânio Prata",
+      "de": 4999.0,
+      "por": 1789.1,
+      "desconto": 64,
+      "imagem": "https://m.media-amazon.com/images/I/613Ix076kwL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FJPL1MGY?tag=promoninja0c3-20",
+      "cupom": "PRIMEDAY2026",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-06-30T02:52:33.777411+00:00",
+      "slug": "samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit",
+      "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 50,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "2893704",
+      "titulo": "Multiprocessador, Pmp1600p, 1700W, Preto, 127v, Philco",
+      "de": 547.0,
+      "por": 278.91,
+      "desconto": 49,
+      "imagem": "https://m.media-amazon.com/images/I/51hJ87QNnZL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B07QN1RW8K?tag=promoninja0c3-20",
+      "cupom": "CRAQUE10",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-06-30T02:52:33.777411+00:00",
+      "slug": "multiprocessador-pmp1600p-1700w-preto-127v-philco",
+      "page_url": "https://promoninjaofertas.github.io/produto/multiprocessador-pmp1600p-1700w-preto-127v-philco.html",
+      "avaliacao": null,
+      "avaliacoes": 3,
+      "vendas": 5,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-71107",
       "titulo": "Jogo de Panelas Tramontina Aço Inox Allegra 5 Peças Fundo Triplo + Pegador de Massa",
@@ -19,25 +57,6 @@
       "avaliacoes": 2,
       "vendas": 267,
       "nota_qualidade": 8
-    },
-    {
-      "source_id": "pechinchou-111152",
-      "titulo": "Multiprocessador, Pmp1600p, 1700W, Preto, 127v, Philco",
-      "de": 349.9,
-      "por": 278.91,
-      "desconto": 20,
-      "imagem": "https://m.media-amazon.com/images/I/51hJ87QNnZL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B07QN1RW8K?tag=promoninja0c3-20",
-      "cupom": "CRAQUE10",
-      "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-06-30T02:27:02.885673+00:00",
-      "slug": "multiprocessador-pmp1600p-1700w-preto-127v-philco",
-      "page_url": "https://promoninjaofertas.github.io/produto/multiprocessador-pmp1600p-1700w-preto-127v-philco.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 55,
-      "nota_qualidade": 7
     },
     {
       "source_id": "58206670114",
@@ -688,9 +707,9 @@
     {
       "source_id": "22794927027",
       "titulo": "Celuar Xiaomi Poco X8 Pro 512GB / 256GB 5G NFC Versão Global Original e Envio Imediato Com NF",
-      "de": 2430.0,
-      "por": 2350.0,
-      "desconto": 59,
+      "de": 2350.0,
+      "por": 2299.0,
+      "desconto": 54,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-moo1vcisbrib78",
       "link": "https://s.shopee.com.br/70I7gAStM6",
       "cupom": null,
@@ -702,7 +721,7 @@
       "avaliacao": 4.8,
       "avaliacoes": null,
       "vendas": 1039,
-      "nota_qualidade": 9
+      "nota_qualidade": 8
     },
     {
       "source_id": "7283213553",
