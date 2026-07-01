@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T13:30:46.398602+00:00",
+  "atualizado": "2026-07-01T13:35:52.570539+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-51864",
+      "titulo": "Aparelho De Jantar 20 Pçs Branco Liso Alleanza",
+      "de": 369.9,
+      "por": 129.9,
+      "desconto": 65,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/41K0igbmMoL.__AC_SX300_SY300_QL70_ML2__viMBUVM.jpg",
+      "link": "https://www.amazon.com.br/dp/B0824C633X?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Utilidades Domésticas",
+      "data": "2026-07-01T13:35:52.570539+00:00",
+      "slug": "aparelho-de-jantar-20-pcs-branco-liso-alleanza",
+      "page_url": "https://promoninjaofertas.github.io/produto/aparelho-de-jantar-20-pcs-branco-liso-alleanza.html",
+      "avaliacao": null,
+      "avaliacoes": 9,
+      "vendas": 1177,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "2896580",
       "titulo": "JBL Caixa de Som PartyBox Encore Essential 2 Show de Luzes Bluetooth Portátil Resistente a Respingos",
@@ -83,7 +102,7 @@
       "de": 149.9,
       "por": 51.02,
       "desconto": 66,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/71mPWGPrWxL.__AC_SX300_SY300_QL70_ML2__GKwnJPL.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/71mPWGPrWxL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B076M6GT59?tag=promoninja0c3-20",
       "cupom": "30JARDIM",
       "loja": "amazon",
@@ -93,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/mangueira-para-jardim-30-metros-com-esguicho-79172300-tramontina.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 68,
+      "vendas": 71,
       "nota_qualidade": 7
     },
     {
@@ -131,8 +150,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/oster-cafeteira-2day-inox-2-em-1-com-copo-termico-220v-preto-inox-600w.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": null,
-      "nota_qualidade": 7
+      "vendas": 262,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-136402",
@@ -150,17 +169,17 @@
       "page_url": "https://promoninjaofertas.github.io/produto/intex-colchao-de-ar-prestigio-dura-beam-64107e-fiber-tech-solteiro-altura-da-cama.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 267,
+      "vendas": 319,
       "nota_qualidade": 8
     },
     {
       "source_id": "1005006356702381",
       "titulo": "Fifine microfone dinâmico usb/xlr com controle rgb/jack de fone de ouvido/mudo, microfone para gravação de jogos de pc streaming AmpliGame-AM8",
-      "de": 530.42,
-      "por": 259.32,
+      "de": 531.26,
+      "por": 259.73,
       "desconto": 51,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMjVfTYqgQg1p3Yqv9N5f86KcKPhjyaicD9hqFoFEJqmzyDhM2A8sv3e7zBlIJplIy7O24rfDch9DZ9Fe5OqOPE2mdmfm5pZCgbhv2Nj20sffxHDiZstoihfy3AM75g9OFiNI3gKoNGsKhxfUFDrXlQtusQOsIdfirqYiJzsirkB6QpxXQc97bAnrTSJcxPTImT6k3MCpCZsGW84krgYy7LTZ77G2WYGN8gsmLHCa1EwGPM2JODQvgD6l7X12kM6GqgrCEcAk8Wd8US7rsE4F1r2slFdYE3RGybJ9tPG1qkuQSnbdhfkqqRviLMPwxVpKljIVFQyge6I8BjWfkL1Jip9DWpaMRdasV2fWZ0Ux5S4X2JO0yw2txdRUlwhPtoRdMxbImMUTjhXr351tr99jHM8eW06G1NmQ26xqYaEIr8aemOmVUpP23x5LKIokUxu0ijv7tazR43GL9NI7hguM43DPvgCqjeajG0l0OcrC",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMfKAoac6O0vV92COB15lmJ017j1vj3u0L3zRGiEdCCMjzsjSTS7HMJFkUSgLSCl9He5Mqlif3osl2XGuo6t04ktVJieNkIW8IgGBaT1T00K8VRLkl1KTx3JfiKt3bLKcBiG8uevJt5Z1XMdvJRuFFrxrXXK0rSVTzHsONgLaOriQHxLv9iAJeBjRvN5s9yVjaze3U283KdrC74KZWfd4mrjfzHpNFZtLGYRuzCnhVCuMoDpYkC4Od1KsjbEFJieJDhx52LKd0Den2XmusI8SkTghzo17p8517OnmgfTSDuLenmN3ksB2kGJHIyU8T6cU7csLO9iIG1v592UY0nAGGM6BV66DzQrBQVOW7Hu3bB9riN4uh0BrqQPgLVyXPRZ3oCCRrWR9EQTqWBJIYNJMoyGvFwxn74WLVLEZAatTwAnsX2sUTKBT7HXA6b1hzQR7gurOPE4Bc7GHGzmFOr5k3oSndI5qD8yksqAZDxVg",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -226,7 +245,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/impressora-hp-smart-tank-210-colorida-1-usb-2-0-de-alta-velocidade-dispositivo.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 349,
+      "vendas": 379,
       "nota_qualidade": 10
     },
     {
@@ -454,7 +473,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-advanced-4k-qled-tv-50-google-tv-tela-hva-design-slim-120-hz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1030,
+      "vendas": 1034,
       "nota_qualidade": 7
     },
     {
@@ -919,7 +938,7 @@
       "de": 2858.99,
       "por": 1994.05,
       "desconto": 30,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51UFm7dGUuL._AC_SL1080_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51UFm7dGUuL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FMFRFNWG?tag=promoninja0c3-20",
       "cupom": "BOANOITE",
       "loja": "amazon",
@@ -929,7 +948,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/galaxy-tab-s10-lite-128gb-tela-10-9-wifi-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 1356,
+      "vendas": 1374,
       "nota_qualidade": 8
     },
     {
@@ -1657,11 +1676,11 @@
     {
       "source_id": "1005011543735291",
       "titulo": "Leitor de Jogos Chiscart DSpico com Caixa Transparente Moldada por Injeção com MCU RP2040 para Consoles NDS, NDSL, DSi e 3DS",
-      "de": 72.3,
-      "por": 40.49,
+      "de": 72.48,
+      "por": 40.59,
       "desconto": 43,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S258a925cfef544d4945e9113f2e1ee20V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DXCdTkidA42FOgS8Fw0bkuOKY5d3y2kH1MM8shGlkEZMtnZSTNZeXGnr6ll1KI0fnoLMZ4u9mXzppLAO8EkaM1KIQVEvRHD0yZbzpxp4bp2enuhBRpGJUg9n3a4ymiPLS9I5RmmMWTAvKZ8G1NqR1xJyKTUuK92vbKogk2qPg2xcmeYavRphKmchrxz8EcSCmhDFdpSU4tRW2S0ybCmwFtCcXGbyFchwsiweGl4XLoYeOtCHclDpT7NAxjueausi2wt1TtI0BObNNZHUdVnwboYJSDFqwlZo61GrvbFJVUOTzR03VQSyjE36FisVWFEncMUDhW0kcS2qvO0VfwNpmJ6aYAydc3qFlt95krYgfICFo8kvKQg0QYOBpI7iGnEN57eL3fxQblTa11SxD98gid2c8zxBPPoZxiwJqVZbUNY0jvZrPcNvQAWPEUjUs2dH88IRStU5iWsbZECUrVhfmHt0FzUetr7GJRZ0W9uyC",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DWJnmFrHBzzlxVIByPxF3npFz8wpeSHMVapS9Vw6ZvH9hr2W58lwCYJfrLsb5jh7BSNgpEObMOFeMybGZj9qWWqOT1Wbp24hNS4AXVmweyAiLuCDdRWx43doSDOY53EElg96TdeCSpqE4t7gfelcLkzyz9aSda6cIdjfHJiqfzlQ1tZN3xLfeUvh1D1crGXhzvOBoVFFCVUjwsE1gWDXlUHh8R67J4YCH7x61qd2hOzIEFLPdVC5uxCzsjqDDFWQTdbhdmHPbUTjhuzuHN0BMcEnHB7svBb0z0cK8cMbEeTCJoyMZ7tJcfhNtu2nEx4WYozgecTU9m1FXj1459YNFwJdWcKm8YeXPawzOrrwDoojnK8YoTZLnOVADQpwnVTBTT8RVwT1BKNjK4ra7AKTydqsXqEuoWBgDFxdWIKWxsDj5YvkyGuvy22BnDQYfqBrOgEhrwLdqCJRpAcKBZgsMakjz3gbqBUvqqfOeZYqM",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Games",
@@ -1877,25 +1896,6 @@
       "data": "2026-06-30T17:00:59.674020+00:00",
       "slug": "limpeza-automotiva-completa-shampoo-v-floc-revitalizador-intense-cera-tok-final-limpad",
       "page_url": "https://promoninjaofertas.github.io/produto/limpeza-automotiva-completa-shampoo-v-floc-revitalizador-intense-cera-tok-final-limpad.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-106706",
-      "titulo": "Liquidificador, Diamante, 900w, Preto, 220v, Britânia",
-      "de": 129.9,
-      "por": 95.85,
-      "desconto": 26,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/71L1g-qsmtL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B076B9CBGR?tag=promoninja0c3-20",
-      "cupom": "PRIMEDAY1A7",
-      "loja": "amazon",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-06-30T17:00:59.674020+00:00",
-      "slug": "liquidificador-diamante-900w-preto-220v-britania",
-      "page_url": "https://promoninjaofertas.github.io/produto/liquidificador-diamante-900w-preto-220v-britania.html",
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": null,
