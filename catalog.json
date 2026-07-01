@@ -1,13 +1,51 @@
 {
-  "atualizado": "2026-07-01T19:02:23.578414+00:00",
+  "atualizado": "2026-07-01T19:12:32.592281+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-75506",
+      "titulo": "Lâmpada Inteligente Mais Potente 15W Smart Color RGB Wifi Elgin compatível com Alexa e Google Home",
+      "de": 49.9,
+      "por": 33.49,
+      "desconto": 33,
+      "imagem": "https://m.media-amazon.com/images/I/61i1yPAlVLL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0BDZXLS77?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Casa",
+      "data": "2026-07-01T19:12:32.592281+00:00",
+      "slug": "lampada-inteligente-mais-potente-15w-smart-color-rgb-wifi-elgin-compativel-com-alexa-e",
+      "page_url": "https://promoninjaofertas.github.io/produto/lampada-inteligente-mais-potente-15w-smart-color-rgb-wifi-elgin-compativel-com-alexa-e.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 9
+    },
+    {
+      "source_id": "pechinchou-140711",
+      "titulo": "Monitor Gamer IPS 24 Polegadas, Full HD, 180Hz, 1ms, HDR400, G-SYNC, 250cd/m², Alto-falantes embutidos, Entradas HDMI/DisplayPort/USB/3.5mm",
+      "de": 769.9,
+      "por": 444.53,
+      "desconto": 42,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/81wOVgvTmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FWRGKTBX?tag=promoninja0c3-20",
+      "cupom": "DRIBLOUPRECO",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-07-01T19:12:32.592281+00:00",
+      "slug": "monitor-gamer-ips-24-polegadas-full-hd-180hz-1ms-hdr400-g-sync-250cd-m2",
+      "page_url": "https://promoninjaofertas.github.io/produto/monitor-gamer-ips-24-polegadas-full-hd-180hz-1ms-hdr400-g-sync-250cd-m2.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 3,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-80328",
       "titulo": "Jogo de Churrasco Tradicional 3 Peças - Tramontina",
       "de": 99.9,
       "por": 70.1,
       "desconto": 30,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_GU16BNk.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/81NUeCtVs0L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B07GS3MLJX?tag=promoninja0c3-20",
       "cupom": "COZINHACASA",
       "loja": "amazon",
@@ -17,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-churrasco-tradicional-3-pecas-tramontina.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 5,
+      "vendas": 16,
       "nota_qualidade": 7
     },
     {
@@ -36,8 +74,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/intelbras-fx1500-cor-preto-acabamento-aluminio.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 60,
-      "nota_qualidade": 8
+      "vendas": 111,
+      "nota_qualidade": 10
     },
     {
       "source_id": "pechinchou-110796",
@@ -853,7 +891,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-neblina-unissex.html",
       "avaliacao": null,
       "avaliacoes": 5,
-      "vendas": 2256,
+      "vendas": 2281,
       "nota_qualidade": 9
     },
     {
@@ -1765,7 +1803,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/galaxy-tab-s10-lite-128gb-tela-10-9-wifi-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 1565,
+      "vendas": 1568,
       "nota_qualidade": 8
     },
     {
@@ -1862,44 +1900,6 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "58206670114",
-      "titulo": "CELULAR LANÇAMENTO XIAOMI POCO X8 PRO 5G NFC 512GB / 256GB 8RAM OU 12 RAM VERSÃO GLOBAL FONTE RAPIDA COM CAPINHA LACRADO",
-      "de": 2889.0,
-      "por": 2389.0,
-      "desconto": 34,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mnobey666pdw60",
-      "link": "https://s.shopee.com.br/qhZ7kY1XN",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-07-01T02:37:02.986924+00:00",
-      "slug": "celular-lancamento-xiaomi-poco-x8-pro-5g-nfc-512gb-256gb-8ram-ou-12-ram",
-      "page_url": "https://promoninjaofertas.github.io/produto/celular-lancamento-xiaomi-poco-x8-pro-5g-nfc-512gb-256gb-8ram-ou-12-ram.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 1085,
-      "nota_qualidade": 9
-    },
-    {
-      "source_id": "pechinchou-100774",
-      "titulo": "Fechadura Digital de Sobrepor com Senha FR 10 Preto Intelbras",
-      "de": 259.9,
-      "por": 143.81,
-      "desconto": 45,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_962132-MLA99518049008_112025-O.webp",
-      "link": "https://meli.la/1j9tbGj",
-      "cupom": "CUPOMOFF",
-      "loja": "mercadolivre",
-      "categoria": "Eletrônicos",
-      "data": "2026-07-01T01:30:02.508903+00:00",
-      "slug": "fechadura-digital-de-sobrepor-com-senha-fr-10-preto-intelbras",
-      "page_url": "https://promoninjaofertas.github.io/produto/fechadura-digital-de-sobrepor-com-senha-fr-10-preto-intelbras.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 463,
-      "nota_qualidade": 10
     }
   ]
 }
