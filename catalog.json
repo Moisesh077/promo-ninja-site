@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T02:11:21.299832+00:00",
+  "atualizado": "2026-07-01T02:16:40.713112+00:00",
   "ofertas": [
+    {
+      "source_id": "2895096",
+      "titulo": "Teclado Mecânico sem fio Logitech MX Mechanical Mini com Teclas Retroiluminadas Tactile Quiet Conexão USB ou Bluetoot",
+      "de": 1149.9,
+      "por": 674.91,
+      "desconto": 41,
+      "imagem": "https://m.media-amazon.com/images/I/61ge3d+MQwL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0B2V9WTS2?tag=promoninja0c3-20",
+      "cupom": "DIADEJOGO",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-07-01T02:16:40.713112+00:00",
+      "slug": "teclado-mecanico-sem-fio-logitech-mx-mechanical-mini-com-teclas-retroiluminadas-tactil",
+      "page_url": "https://promoninjaofertas.github.io/produto/teclado-mecanico-sem-fio-logitech-mx-mechanical-mini-com-teclas-retroiluminadas-tactil.html",
+      "avaliacao": null,
+      "avaliacoes": 9,
+      "vendas": 160,
+      "nota_qualidade": 9
+    },
     {
       "source_id": "2895745",
       "titulo": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE Galaxy AI Titânio Aeroespacial Titânio Prata",
@@ -36,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fechadura-digital-de-sobrepor-com-senha-fr-10-preto-intelbras.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 191,
+      "vendas": 264,
       "nota_qualidade": 10
     },
     {
@@ -1252,7 +1271,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-aoc-43-led-full-hd-roku-tv-wi-fi-hdmi-e-usb.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 369,
+      "vendas": 377,
       "nota_qualidade": 7
     },
     {
