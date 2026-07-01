@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-07-01T04:55:22.408046+00:00",
+  "atualizado": "2026-07-01T05:00:24.682835+00:00",
   "ofertas": [
-    {
-      "source_id": "2896038",
-      "titulo": "JBL, Caixa de Som, PartyBox Club 120, Bluetooth, Show de Luzes, À Prova de Respingos, Som JBL Pro Sound, 160W RMS - Preta",
-      "de": 3099.0,
-      "por": 1499.0,
-      "desconto": 52,
-      "imagem": "https://m.media-amazon.com/images/I/61gT9v+QQGL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0G4SQNDHB?tag=promoninja0c3-20",
-      "cupom": "PRIMEDAYHOJE",
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-07-01T04:55:22.408046+00:00",
-      "slug": "jbl-caixa-de-som-partybox-club-120-bluetooth-show-de-luzes-a-prova-de",
-      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-club-120-bluetooth-show-de-luzes-a-prova-de.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 20,
-      "nota_qualidade": 8
-    },
     {
       "source_id": "pechinchou-98779",
       "titulo": "Fechadura Digital de Sobrepor, Abertura por senha ou tag, Pop, Preta, DS1100V, Elsys",
@@ -64,7 +45,7 @@
       "de": 2858.99,
       "por": 1994.05,
       "desconto": 30,
-      "imagem": "https://m.media-amazon.com/images/I/51UFm7dGUuL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51UFm7dGUuL._AC_SL1080_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FMFRFNWG?tag=promoninja0c3-20",
       "cupom": "BOANOITE",
       "loja": "amazon",
@@ -74,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/galaxy-tab-s10-lite-128gb-tela-10-9-wifi-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 205,
+      "vendas": 229,
       "nota_qualidade": 7
     },
     {
@@ -1461,7 +1442,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-aoc-43-led-full-hd-roku-tv-wi-fi-hdmi-e-usb.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 419,
+      "vendas": 420,
       "nota_qualidade": 7
     },
     {
