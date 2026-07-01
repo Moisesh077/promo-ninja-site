@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-07-01T03:53:41.084266+00:00",
+  "atualizado": "2026-07-01T03:58:52.681188+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-84645",
@@ -7,7 +7,7 @@
       "de": 539.9,
       "por": 399.92,
       "desconto": 26,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/image-removebg-preview_-_2024-06-10T114637.304_Nk32Gwt_WufOgn7_VjMbCYG_9MFfBEx_v7l4R1v_sgo3YDG_zSvYITi_R5hphis_nyiX1DG.png",
+      "imagem": "https://m.media-amazon.com/images/I/81oI7oEVfnS._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B086YK7M5Y?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -55,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/porteiro-residencial-ipr-8010-intelbras.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 27,
+      "vendas": 51,
       "nota_qualidade": 7
     },
     {
@@ -574,9 +574,9 @@
     {
       "source_id": "22794927027",
       "titulo": "Celuar Xiaomi Poco X8 Pro 512GB / 256GB 5G NFC Versão Global Original e Envio Imediato Com NF",
-      "de": 2430.0,
+      "de": 2350.0,
       "por": 2217.0,
-      "desconto": 59,
+      "desconto": 56,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-moo1vcisbrib78",
       "link": "https://s.shopee.com.br/70I7gAStM6",
       "cupom": null,
@@ -844,7 +844,7 @@
       "por": 40.49,
       "desconto": 43,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S258a925cfef544d4945e9113f2e1ee20V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DW9PhWPljMCV83DD7rEeAGbgJfX73RbOGKJUd37VjRZOvVSi989N3tys1tRoa6wxIp49ZhzFN2thGE9by6UE53tl1GvLSAw83kD2UCkRuTF6tCDY31PcFpJO4Mqhm9Pn9G7JJTSJ8WT1axg0brkls10nRoYdvcJi6bQHgWohZpPyRBWavKmXR1utKJ0QyGiPCuXh7esjzLOeR87xyD2E7nFO27J2uknTNWWPFn4BPkRTNv9f6O96uHh25hSl7B3pml0M0EmF5lVN4qqngWmvk6Ecwtjd03waVwacyEFHCu4a7OM2qGhLLDQjn0v4BOpi5yPxkf51SjjK5vvRrOdkt5FuyccQzRXHCEy6LoOWDuQv1qbdqCIBuqcfsn0R9bpdur0JXInJVSX4ZKCmNWs2QCQv4XAPmgTbk8QiWKJolqmoPpOHE0J3Dul337a5qJpYOM0KBK5wd4WfRUTeXiVgCNUvNOKo8IYiy3Kza8tu4",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DXkIriNT6gF0DgiqrV1FKemQVCKKuRnGVJys74750yzfi9HF5cN6ubIf6rpsfNqmRR0JUAQBQVNx329R7m9pzbeWWel58ohLw25UieZpczaGu393AX8u9TSTxT8mYOvVNvTCBiqMkuLlTefTTZ7d16gpAC2qH5znPUvL0FozwwKJrK6eVgn00bcnFdXXx4xW9lrTVV1AjFdyfD9znRpGsoLPHUn3A0eGhZdzskiEFReUgEQPAuSTnBhVAvfWGm1phh9lDwxE5VsGEwJGWvU2rxZBvUn9W9l3safWMb8D4k6fqSoGeCLDm14kKgM6JdtSzWhURREciuuB5GwqsznRTKDJ0hKG0zMEn5PP9HwSbRVZ1A23faDlEtkV0eFzEIT1kMncS1VoNk3cpV9xJbb0v0MVeIs0FLUj6ehox4L5q7nuuyeits9G3uPtckfKXo2wnKbc9eBHY1ex32A83xXXYqt1mcL46LP9smWLtK5Ze",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Games",
@@ -1461,7 +1461,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-aoc-43-led-full-hd-roku-tv-wi-fi-hdmi-e-usb.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 408,
+      "vendas": 418,
       "nota_qualidade": 7
     },
     {
