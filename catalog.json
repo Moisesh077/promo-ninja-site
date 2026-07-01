@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T16:49:24.590295+00:00",
+  "atualizado": "2026-07-01T16:54:24.776166+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-147770",
+      "titulo": "Jogo de Panelas Tramontina Allegra em Aço Inox com Fundo Triplo 5 Peças",
+      "de": 640.9,
+      "por": 324.05,
+      "desconto": 49,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_IrI3fcX.jpg",
+      "link": "https://www.amazon.com.br/dp/B09TCD67Q3?tag=promoninja0c3-20",
+      "cupom": "BOLAROLANDO",
+      "loja": "amazon",
+      "categoria": "Casa",
+      "data": "2026-07-01T16:54:24.776166+00:00",
+      "slug": "jogo-de-panelas-tramontina-allegra-em-aco-inox-com-fundo-triplo-5-pecas",
+      "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-panelas-tramontina-allegra-em-aco-inox-com-fundo-triplo-5-pecas.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 5,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-120530",
       "titulo": "Ar Condicionado Split Dual Inverter LG Compact AI 9000 BTUs Frio 220V S3-Q09AAQAK",
@@ -17,8 +36,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-split-dual-inverter-lg-compact-ai-9000-btus-frio-220v-s3-q09aaqak.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 8,
+      "nota_qualidade": 7
     },
     {
       "source_id": "58255159172",
@@ -121,7 +140,7 @@
       "de": 599.0,
       "por": 280.8,
       "desconto": 53,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/901ffe982a7b883d1ad808a4282b5eee_MxZToNw.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61O11E0CmgL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0F99ZSRXH?tag=promoninja0c3-20",
       "cupom": "BOLAROLANDO",
       "loja": "amazon",
@@ -1014,7 +1033,7 @@
       "de": 2899.0,
       "por": 1979.0,
       "desconto": 32,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/81PBtv3oCDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/81PBtv3oCDL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0GYQ8Q5QR?tag=promoninja0c3-20",
       "cupom": "TVTCLNEW",
       "loja": "amazon",
@@ -1880,25 +1899,6 @@
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": 362,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-118922",
-      "titulo": "Jogo De Panelas 18 Peças, Conjunto De Panelas Antiaderentes Punho Destacável, Conjuntos De Panelas De Cozinha De Indução Antiaderente Com Alça Removível",
-      "de": 449.99,
-      "por": 344.74,
-      "desconto": 23,
-      "imagem": "https://m.media-amazon.com/images/I/71WM0E4QFeL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DFM3DK74?tag=promoninja0c3-20",
-      "cupom": "GOL40OFF",
-      "loja": "amazon",
-      "categoria": "Casa",
-      "data": "2026-06-30T21:48:02.593054+00:00",
-      "slug": "jogo-de-panelas-18-pecas-conjunto-de-panelas-antiaderentes-punho-destacavel-conjuntos",
-      "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-panelas-18-pecas-conjunto-de-panelas-antiaderentes-punho-destacavel-conjuntos.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 595,
       "nota_qualidade": 7
     }
   ]
