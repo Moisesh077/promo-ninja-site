@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T01:55:52.803652+00:00",
+  "atualizado": "2026-07-01T02:01:09.683062+00:00",
   "ofertas": [
+    {
+      "source_id": "2895745",
+      "titulo": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE Galaxy AI Titânio Aeroespacial Titânio Prata",
+      "de": 4999.0,
+      "por": 1739.1,
+      "desconto": 65,
+      "imagem": "https://m.media-amazon.com/images/I/613Ix076kwL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FJPL1MGY?tag=promoninja0c3-20",
+      "cupom": "PRIME150",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-07-01T02:01:09.683062+00:00",
+      "slug": "samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit",
+      "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 40,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-100774",
       "titulo": "Fechadura Digital de Sobrepor com Senha FR 10 Preto Intelbras",
