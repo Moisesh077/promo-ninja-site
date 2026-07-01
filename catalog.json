@@ -1,6 +1,63 @@
 {
-  "atualizado": "2026-07-01T16:54:24.776166+00:00",
+  "atualizado": "2026-07-01T16:59:32.787736+00:00",
   "ofertas": [
+    {
+      "source_id": "2897502",
+      "titulo": "Fogão Cooktop de Indução Philco 4 bocas PCT40A Preto 220v",
+      "de": 1199.0,
+      "por": 905.13,
+      "desconto": 25,
+      "imagem": "https://m.media-amazon.com/images/I/61JWygIqUaL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GSBS5BH4?tag=promoninja0c3-20",
+      "cupom": "GOLPRIMEDAY",
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-07-01T16:59:32.787736+00:00",
+      "slug": "fogao-cooktop-de-inducao-philco-4-bocas-pct40a-preto-220v",
+      "page_url": "https://promoninjaofertas.github.io/produto/fogao-cooktop-de-inducao-philco-4-bocas-pct40a-preto-220v.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 0,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "2896916",
+      "titulo": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) Ultrafino 3 cameras 50MP Tela 1.5K extreme Amo",
+      "de": 4499.0,
+      "por": 1546.68,
+      "desconto": 66,
+      "imagem": "https://m.media-amazon.com/images/I/61OaHpwFsuL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GLTDFSMM?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-07-01T16:59:32.787736+00:00",
+      "slug": "smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3.html",
+      "avaliacao": null,
+      "avaliacoes": 3,
+      "vendas": 340,
+      "nota_qualidade": 9
+    },
+    {
+      "source_id": "pechinchou-65697",
+      "titulo": "Micro-ondas Philco 20l Branco Pmo23b 110v 110v",
+      "de": 639.9,
+      "por": 365.4,
+      "desconto": 43,
+      "imagem": "https://m.media-amazon.com/images/I/41XTKM4Cg4L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B097CJVNWS?tag=promoninja0c3-20",
+      "cupom": "BOLAROLANDO",
+      "loja": "amazon",
+      "categoria": "Eletrodomésticos",
+      "data": "2026-07-01T16:59:32.787736+00:00",
+      "slug": "micro-ondas-philco-20l-branco-pmo23b-110v-110v",
+      "page_url": "https://promoninjaofertas.github.io/produto/micro-ondas-philco-20l-branco-pmo23b-110v-110v.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 3,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-147770",
       "titulo": "Jogo de Panelas Tramontina Allegra em Aço Inox com Fundo Triplo 5 Peças",
@@ -17,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-panelas-tramontina-allegra-em-aco-inox-com-fundo-triplo-5-pecas.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 5,
+      "vendas": 16,
       "nota_qualidade": 8
     },
     {
@@ -140,7 +197,7 @@
       "de": 599.0,
       "por": 280.8,
       "desconto": 53,
-      "imagem": "https://m.media-amazon.com/images/I/61O11E0CmgL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/901ffe982a7b883d1ad808a4282b5eee_MxZToNw.jpg",
       "link": "https://www.amazon.com.br/dp/B0F99ZSRXH?tag=promoninja0c3-20",
       "cupom": "BOLAROLANDO",
       "loja": "amazon",
@@ -150,8 +207,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/air-fryer-philco-6-5l-visor-glass-1700w-paf65-127v.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 94,
-      "nota_qualidade": 8
+      "vendas": 246,
+      "nota_qualidade": 10
     },
     {
       "source_id": "pechinchou-72492",
@@ -1043,7 +1100,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-advanced-4k-qled-tv-50-google-tv-tela-hva-design-slim-120-hz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1080,
+      "vendas": 1083,
       "nota_qualidade": 7
     },
     {
@@ -1518,7 +1575,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/galaxy-tab-s10-lite-128gb-tela-10-9-wifi-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 1501,
+      "vendas": 1508,
       "nota_qualidade": 8
     },
     {
@@ -1843,63 +1900,6 @@
       "avaliacoes": null,
       "vendas": 195,
       "nota_qualidade": 8
-    },
-    {
-      "source_id": "pechinchou-45593",
-      "titulo": "Batedeira Planetária Oster Black Iii, Obat640, 110v",
-      "de": 579.9,
-      "por": 263.05,
-      "desconto": 55,
-      "imagem": "https://m.media-amazon.com/images/I/51Ipo8gLZxL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0C5YCW65C?tag=promoninja0c3-20",
-      "cupom": "GOL40OFF",
-      "loja": "amazon",
-      "categoria": "Eletroportáteis",
-      "data": "2026-06-30T22:08:28.886943+00:00",
-      "slug": "batedeira-planetaria-oster-black-iii-obat640-110v",
-      "page_url": "https://promoninjaofertas.github.io/produto/batedeira-planetaria-oster-black-iii-obat640-110v.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 97,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-134455",
-      "titulo": "Panela De Pressão Elétrica 5l Nutripro Inox Midea",
-      "de": 429.0,
-      "por": 259.0,
-      "desconto": 40,
-      "imagem": "https://m.media-amazon.com/images/I/51I6myFX+3L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FGQM3PGV?tag=promoninja0c3-20",
-      "cupom": "GOL40OFF",
-      "loja": "amazon",
-      "categoria": "Casa",
-      "data": "2026-06-30T21:58:10.692383+00:00",
-      "slug": "panela-de-pressao-eletrica-5l-nutripro-inox-midea",
-      "page_url": "https://promoninjaofertas.github.io/produto/panela-de-pressao-eletrica-5l-nutripro-inox-midea.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 583,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-147892",
-      "titulo": "Cadeira de Escritório Presidente Diretor Acochoada Ergonômica Ajustável Até 150Kg Preto Premium",
-      "de": 415.0,
-      "por": 292.1,
-      "desconto": 30,
-      "imagem": "https://m.media-amazon.com/images/I/61Yp7g33ygL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GZSSM2JZ?tag=promoninja0c3-20",
-      "cupom": "GOL40OFF",
-      "loja": "amazon",
-      "categoria": "Pet",
-      "data": "2026-06-30T21:48:02.593054+00:00",
-      "slug": "cadeira-de-escritorio-presidente-diretor-acochoada-ergonomica-ajustavel-ate-150kg-pret",
-      "page_url": "https://promoninjaofertas.github.io/produto/cadeira-de-escritorio-presidente-diretor-acochoada-ergonomica-ajustavel-ate-150kg-pret.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 362,
-      "nota_qualidade": 7
     }
   ]
 }
