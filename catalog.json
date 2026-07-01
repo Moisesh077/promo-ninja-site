@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T22:54:32.781426+00:00",
+  "atualizado": "2026-07-01T22:59:32.796886+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-133939",
+      "titulo": "Placa De Vídeo Msi Nvidia Geforce Rtx 5060 8gb Oc Gddr7",
+      "de": 3769.9,
+      "por": 1999.0,
+      "desconto": 47,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_650282-MLA99983922195_112025-O.webp",
+      "link": "https://meli.la/1DZBXn5",
+      "cupom": "QUEROPROMOML",
+      "loja": "mercadolivre",
+      "categoria": "Hardware",
+      "data": "2026-07-01T22:59:32.796886+00:00",
+      "slug": "placa-de-video-msi-nvidia-geforce-rtx-5060-8gb-oc-gddr7",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-de-video-msi-nvidia-geforce-rtx-5060-8gb-oc-gddr7.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 4,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-131422",
       "titulo": "[Regional] Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31 127v",
@@ -17,8 +36,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/regional-geladeira-electrolux-cycle-defrost-240l-degelo-pratico-uma-porta-branca-re31.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 9
+      "vendas": 50,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-128325",
@@ -36,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-go-4-bluetooth-portatil-auracast-a-prova-d-agua-e.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 7,
+      "vendas": 56,
       "nota_qualidade": 7
     },
     {
@@ -55,8 +74,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/impressora-multifuncional-hp-deskjet-ink-advantage-2975-colorida-1-usb-2-0-de-alta.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 8,
-      "nota_qualidade": 8
+      "vendas": 114,
+      "nota_qualidade": 9
     },
     {
       "source_id": "pechinchou-91891",
@@ -74,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/bosch-esmerilhadeira-gws-700-710w-220v.html",
       "avaliacao": null,
       "avaliacoes": 10,
-      "vendas": 1057,
+      "vendas": 1133,
       "nota_qualidade": 7
     },
     {
@@ -121,7 +140,7 @@
       "de": 199.9,
       "por": 83.99,
       "desconto": 58,
-      "imagem": "https://m.media-amazon.com/images/I/51yYe4QlyQL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51yYe4QlyQL_ZoZTJoK._AC_SL1000_.jpg",
       "link": "https://www.amazon.com.br/dp/B09VQ39F41?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -131,7 +150,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/mixer-vertical-turbo-chef-elgin-3-em-1-200w-preto-110v.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 510,
+      "vendas": 573,
       "nota_qualidade": 8
     },
     {
@@ -150,7 +169,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/teclado-gamer-mecanico-machenike-kt68-b68w-pro-switch-white-branco-transparente-ingles.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 70,
+      "vendas": 80,
       "nota_qualidade": 7
     },
     {
@@ -188,7 +207,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-wella-nutri-enrich-shampoo-e-condicionador-de-1-litro.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1392,
+      "vendas": 1476,
       "nota_qualidade": 8
     },
     {
@@ -302,7 +321,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-40-philco-roku-tv-hdr10-dolby-audio-p40cra.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 398,
+      "vendas": 419,
       "nota_qualidade": 9
     },
     {
@@ -368,7 +387,7 @@
       "de": 1249.0,
       "por": 778.05,
       "desconto": 38,
-      "imagem": "https://m.media-amazon.com/images/I/51wzC9+uYgL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51wzC9uYgL._AC_SX300_SY300_.jpg",
       "link": "https://www.amazon.com.br/dp/B07S61ZJCS?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -378,7 +397,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/impressora-hp-laserjet-107w-laser-mono-110v-4zb78a.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 52,
+      "vendas": 54,
       "nota_qualidade": 7
     },
     {
@@ -1281,7 +1300,7 @@
       "por": 40.59,
       "desconto": 43,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S258a925cfef544d4945e9113f2e1ee20V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DWiN2em9FlvqjaxqkOpMNgatsSoa6jqInVMGVbBjbEQMdvOInRw1FRVwqERD5FZOCsVcWbD0stSRLKFRKH9Zv7Nmc6d0utLURVwRtyAJ6lHZROEqOtiDF9OMykXdvPTnLNi5remDT5rL9UrkvOPe91K1PPkDgettfVFX0gf5brSaqhCqK80N8dAsrGRSJsUlyx8OsR9zH9e3XPcGx4zmPF5cmaRIoHGNPVaiRBTgjvzOLiSJgZYC2zfg1prJa7JHwdd68qLxoHd12jJmYyKKVjVRblT2hqU4y3anglCswwtCoFfBaOoJpPEw9PBs7eecfkvWIt0nOpiCs8i59jwTHhwsEG7ncpsPGeke1Kh7jkA7iofLiWocLziTQoiAKJ3XgTyFJpOsoMJCJbRPRmvoFmaqduIf84EBzfCyT2wP1akut5Xxyg4uvuUY2JeNsV79nsLb2bJb9jqJdzrHOt4h0HMfasy4y5vsxLYBm97xK",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DWjFEGjER0uYY04EYV0aiNaAVOGxwbnnAzFaTMXwe1JQByrhyhsmrBaBGYg8IjkXHredYwssgxFGjZ5mL9Yp8K2ow0s4X4SVeOolw18gNbqt92WHsOxChZ14YPcy5yCRkoBq8Oj2FLYZRa2IKimmqyR712wM9XYGSyP6pGgDetlPBPPgT8rNA3mQQRHa5G1oNAc1SCeeA2lJ0vJsYBCSwuSMI4TcrqQrtG2kwoqGBeEH4ehSbPvHKTqiiCwPc1CXwZdybtdLxSRNYMNX5QjZCten00M5V9JV2CIVc551BNiwulwJwvOKNIMHsoYui1BkQTzWxTAiiTPH7sydA5B8nIHVAt5uLBLsq7PdMyBsO1vT4p5OvbUbDidAAJtf9TN8maIak0XSLtFNugy4k5a9PzJ4HhFCcBZwISeBYor5bMZWGqnH2YFAsa4AxMSIQQcNhjBuNaES7KKQY1sO8JIQRFP6cfWzOX3bxWPBd6toc",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Games",
@@ -1880,25 +1899,6 @@
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": 265,
-      "nota_qualidade": 8
-    },
-    {
-      "source_id": "pechinchou-108055",
-      "titulo": "Mondial Panela De Pressão Digital, Master Cooker - 5l, 220v, Preto, 900w - Pe-38",
-      "de": 669.9,
-      "por": 309.0,
-      "desconto": 54,
-      "imagem": "https://m.media-amazon.com/images/I/81iejDNyklL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B07L8SH6NK?tag=promoninja0c3-20",
-      "cupom": "JULHOCHEGOU",
-      "loja": "amazon",
-      "categoria": "Casa",
-      "data": "2026-07-01T11:43:12.285463+00:00",
-      "slug": "mondial-panela-de-pressao-digital-master-cooker-5l-220v-preto-900w-pe-38",
-      "page_url": "https://promoninjaofertas.github.io/produto/mondial-panela-de-pressao-digital-master-cooker-5l-220v-preto-900w-pe-38.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 66,
       "nota_qualidade": 8
     }
   ]
