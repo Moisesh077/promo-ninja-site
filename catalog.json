@@ -1,24 +1,43 @@
 {
-  "atualizado": "2026-07-01T15:33:07.470846+00:00",
+  "atualizado": "2026-07-01T15:38:12.097597+00:00",
   "ofertas": [
     {
-      "source_id": "pechinchou-133899",
+      "source_id": "2897021",
+      "titulo": "Smartphone Motorola Edge 70 5G, 256GB 24GB (8GB RAM + 16GB RAM Boost), Tela 1.5K extreme Amoled 120HZ",
+      "de": 4499.0,
+      "por": 1546.0,
+      "desconto": 66,
+      "imagem": "https://m.media-amazon.com/images/I/61OaHpwFsuL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GLTDFSMM?tag=promoninja0c3-20",
+      "cupom": "R$1.118 OFF",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-07-01T15:38:12.097597+00:00",
+      "slug": "smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-tela-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-tela-1.html",
+      "avaliacao": null,
+      "avaliacoes": 6,
+      "vendas": 55,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "2897258",
       "titulo": "Samsung Galaxy Watch8 Smartwatch 40mm BT, Galaxy AI - Prata",
       "de": 2999.0,
       "por": 1179.1,
       "desconto": 61,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/61iTGVZS0L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61iTGVZS+0L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FDX8YCRH?tag=promoninja0c3-20",
-      "cupom": "POUPEAGORA",
+      "cupom": null,
       "loja": "amazon",
       "categoria": "Smartphones",
-      "data": "2026-07-01T15:28:02.487509+00:00",
+      "data": "2026-07-01T15:38:12.097597+00:00",
       "slug": "samsung-galaxy-watch8-smartwatch-40mm-bt-galaxy-ai-prata",
       "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch8-smartwatch-40mm-bt-galaxy-ai-prata.html",
       "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 41,
-      "nota_qualidade": 9
+      "avaliacoes": 1,
+      "vendas": 10,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-147311",
@@ -36,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/o-boticario-egeo-dolce-kit-presente-2-itens.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 3,
+      "vendas": 31,
       "nota_qualidade": 7
     },
     {
@@ -84,7 +103,7 @@
       "por": 40.59,
       "desconto": 43,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S258a925cfef544d4945e9113f2e1ee20V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DXagIAo8oSVnHOVvJNoey59ppOQVA2r2L7tydh8IytnJCCk1QVqjb4auL5cyeIzZCXcrRFVm5Aui858AyAJZJKkaa8wFZaWOucEuTGxDcKqMVos67YGQPtiRGVQJhRElaAmK6hOkOg760fTIdMJvnLkSH8SOGhhqnZk3AUS7TQ3IzXM1uENfDH6nQ0SK1OyWa49KTYC1q85336yijTctIH5NwoJbI1nvOZm4aFJkK7o92Q6KJrZsJZXA66yCNGmZDKehWYPHrKxgQJXuYkrfl8QbHbNQNxgzJosdpWDqtt2ezfo5BXDpdIdY1JpWs3H9yk0Y4oxCslMELAUeQltrIyUpayammTlCTlapOLrs1FWqLiox1QRF2J8ta7mXTaTqcfR4SGYVJpPZwZZgBa1XK5h52YrTNylnvtnhbLdeHj9FNeVNozYsBfene4RmIkQMDuscA9SWmctgZVqTIk3ltiOHTtmUcYTzpkubnr8aU",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DXBJQpFBb0Y4fRTROKB2mbH8FqpMMSYshxIrldLl3DXe93PlnUUcbOFxqlxTZ7sORpVh9vQ4PHQ0LilZR2miaJ10V7H16ALzLga75en5ZHW9YgFYO5nvVYlL8ZDPmcEvxxJVYS5RqV02pdCSei7ZR9TgxfcHC6FLXCAsDRwEy8LRcuEg1FuiJ3jwt7Apw7XKY385EPneiRnBW2hAQEu5IMVX7d9nzIqG70G2ZKhKT6d9scquOGzQCc5K1hvZcsntIE5BWiMxlCM3Vb04TQY1lltmyoKC6UZ9CA2eB9uK5oa5y63ovSqkWf24PoGPS4nT4rKNG674KMxgPTM5BbP5UirCn4lNK5Koz5blfyX6J4bD7IsXaF0DrTvz9e9Gio7kusYt69qQc6wpNyDWp3gb3rzoDYJQF80YKR2WpGn5FY9NjtnYfI3pe4k3Q9jPgpqipYqOM5wKIe2ClFQxJE5e0Ezcs0i2FiZ9ExjQFt3q0",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Games",
@@ -112,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-kappa-pulse-rx-unissex-corrida-conforto.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 247,
+      "vendas": 422,
       "nota_qualidade": 8
     },
     {
@@ -131,7 +150,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/barbeador-e-aparador-eletrico-philips-oneblade-2-pentes-sem-fio-e-a-prova-d.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 264,
+      "vendas": 373,
       "nota_qualidade": 9
     },
     {
@@ -149,8 +168,8 @@
       "slug": "tenis-feminino-nyx-olympikus",
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-feminino-nyx-olympikus.html",
       "avaliacao": null,
-      "avaliacoes": 9,
-      "vendas": 1535,
+      "avaliacoes": 10,
+      "vendas": 2065,
       "nota_qualidade": 9
     },
     {
@@ -188,7 +207,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-arabe-sabah-al-ward-sugar-feminino-100ml-original-com-nf.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 187,
+      "vendas": 243,
       "nota_qualidade": 7
     },
     {
@@ -748,7 +767,7 @@
       "de": 2899.0,
       "por": 1979.0,
       "desconto": 32,
-      "imagem": "https://m.media-amazon.com/images/I/81PBtv3oCDL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/81PBtv3oCDL._AC_SY300_SX300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B0GYQ8Q5QR?tag=promoninja0c3-20",
       "cupom": "TVTCLNEW",
       "loja": "amazon",
@@ -758,7 +777,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-advanced-4k-qled-tv-50-google-tv-tela-hva-design-slim-120-hz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1057,
+      "vendas": 1060,
       "nota_qualidade": 7
     },
     {
@@ -1223,7 +1242,7 @@
       "de": 2858.99,
       "por": 1994.05,
       "desconto": 30,
-      "imagem": "https://m.media-amazon.com/images/I/51UFm7dGUuL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51UFm7dGUuL._AC_SL1080_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FMFRFNWG?tag=promoninja0c3-20",
       "cupom": "BOANOITE",
       "loja": "amazon",
@@ -1233,7 +1252,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/galaxy-tab-s10-lite-128gb-tela-10-9-wifi-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 1444,
+      "vendas": 1451,
       "nota_qualidade": 8
     },
     {
