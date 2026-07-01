@@ -1,24 +1,24 @@
 {
-  "atualizado": "2026-07-01T19:38:11.286054+00:00",
+  "atualizado": "2026-07-01T19:43:22.590339+00:00",
   "ofertas": [
     {
-      "source_id": "2897926",
-      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6",
-      "de": 599.0,
-      "por": 179.0,
-      "desconto": 70,
+      "source_id": "pechinchou-85378",
+      "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
+      "de": 299.9,
+      "por": 179.25,
+      "desconto": 40,
       "imagem": "https://m.media-amazon.com/images/I/51bjAlTBzZL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=promoninja0c3-20",
       "cupom": "TOCAPROGOL",
       "loja": "amazon",
       "categoria": "Smartphones",
-      "data": "2026-07-01T19:38:11.286054+00:00",
-      "slug": "smartwatch-samsung-galaxy-fit3-display-1-6",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartwatch-samsung-galaxy-fit3-display-1-6.html",
+      "data": "2026-07-01T19:43:22.590339+00:00",
+      "slug": "smartwatch-samsung-galaxy-fit3-display-1-6-grafite",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartwatch-samsung-galaxy-fit3-display-1-6-grafite.html",
       "avaliacao": null,
-      "avaliacoes": 8,
-      "vendas": 5,
-      "nota_qualidade": 8
+      "avaliacoes": 2,
+      "vendas": null,
+      "nota_qualidade": 9
     },
     {
       "source_id": "pechinchou-140367",
@@ -480,8 +480,8 @@
       "source_id": "22794927027",
       "titulo": "Celuar Xiaomi Poco X8 Pro 512GB / 256GB 5G NFC Versão Global Original e Envio Imediato Com NF",
       "de": 2350.0,
-      "por": 2217.0,
-      "desconto": 56,
+      "por": 2299.0,
+      "desconto": 54,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-moo1vcisbrib78",
       "link": "https://s.shopee.com.br/1gGg7HUqqU",
       "cupom": null,
@@ -493,7 +493,7 @@
       "avaliacao": 4.8,
       "avaliacoes": null,
       "vendas": 1059,
-      "nota_qualidade": 9
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-143770",
