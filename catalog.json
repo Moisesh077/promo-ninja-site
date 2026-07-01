@@ -1,13 +1,32 @@
 {
-  "atualizado": "2026-07-01T19:12:32.592281+00:00",
+  "atualizado": "2026-07-01T19:17:42.380161+00:00",
   "ofertas": [
+    {
+      "source_id": "58206670114",
+      "titulo": "CELULAR LANÇAMENTO XIAOMI POCO X8 PRO 5G NFC 512GB / 256GB 8RAM OU 12 RAM VERSÃO GLOBAL FONTE RAPIDA COM CAPINHA LACRADO",
+      "de": 2889.0,
+      "por": 2389.0,
+      "desconto": 34,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mnobey666pdw60",
+      "link": "https://s.shopee.com.br/qhZ7kY1XN",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-07-01T19:17:42.380161+00:00",
+      "slug": "celular-lancamento-xiaomi-poco-x8-pro-5g-nfc-512gb-256gb-8ram-ou-12-ram",
+      "page_url": "https://promoninjaofertas.github.io/produto/celular-lancamento-xiaomi-poco-x8-pro-5g-nfc-512gb-256gb-8ram-ou-12-ram.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 1085,
+      "nota_qualidade": 9
+    },
     {
       "source_id": "pechinchou-75506",
       "titulo": "Lâmpada Inteligente Mais Potente 15W Smart Color RGB Wifi Elgin compatível com Alexa e Google Home",
       "de": 49.9,
       "por": 33.49,
       "desconto": 33,
-      "imagem": "https://m.media-amazon.com/images/I/61i1yPAlVLL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/61i1yPAlVLL_vaYAgS0._AC_SY300_SX300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B0BDZXLS77?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -17,8 +36,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/lampada-inteligente-mais-potente-15w-smart-color-rgb-wifi-elgin-compativel-com-alexa-e.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 9
+      "vendas": 2,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-140711",
@@ -45,7 +64,7 @@
       "de": 99.9,
       "por": 70.1,
       "desconto": 30,
-      "imagem": "https://m.media-amazon.com/images/I/81NUeCtVs0L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_GU16BNk.jpg",
       "link": "https://www.amazon.com.br/dp/B07GS3MLJX?tag=promoninja0c3-20",
       "cupom": "COZINHACASA",
       "loja": "amazon",
@@ -1880,25 +1899,6 @@
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": 15,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-147681",
-      "titulo": "Kit C/2 Pijamas De Frio Manga Longa Em Suede Macio Estampado",
-      "de": 136.89,
-      "por": 73.36,
-      "desconto": 46,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_KBmOToC.jpg",
-      "link": "https://meli.la/2cYPsWF",
-      "cupom": "VEMAPROVEITAR",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-07-01T02:57:32.480595+00:00",
-      "slug": "kit-c-2-pijamas-de-frio-manga-longa-em-suede-macio-estampado",
-      "page_url": "https://promoninjaofertas.github.io/produto/kit-c-2-pijamas-de-frio-manga-longa-em-suede-macio-estampado.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
       "nota_qualidade": 7
     }
   ]
