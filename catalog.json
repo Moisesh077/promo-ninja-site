@@ -1,24 +1,43 @@
 {
-  "atualizado": "2026-07-01T16:44:22.391675+00:00",
+  "atualizado": "2026-07-01T16:49:24.590295+00:00",
   "ofertas": [
     {
-      "source_id": "2897459",
-      "titulo": "Mouse sem fio Logitech Mx Master 3s Bluetooth Edition",
-      "de": 599.9,
-      "por": 404.0,
-      "desconto": 33,
-      "imagem": "https://m.media-amazon.com/images/I/615c1OkxYwL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FNV6GP6K?tag=promoninja0c3-20",
-      "cupom": "BOLAROLANDO",
+      "source_id": "pechinchou-120530",
+      "titulo": "Ar Condicionado Split Dual Inverter LG Compact AI 9000 BTUs Frio 220V S3-Q09AAQAK",
+      "de": 3119.9,
+      "por": 1454.1,
+      "desconto": 53,
+      "imagem": "https://m.media-amazon.com/images/I/51JaTQ4FFaL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GFGNN7KT?tag=promoninja0c3-20",
+      "cupom": "GOLPRIMEDAY",
       "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-07-01T16:44:22.391675+00:00",
-      "slug": "mouse-sem-fio-logitech-mx-master-3s-bluetooth-edition",
-      "page_url": "https://promoninjaofertas.github.io/produto/mouse-sem-fio-logitech-mx-master-3s-bluetooth-edition.html",
+      "categoria": "Pet",
+      "data": "2026-07-01T16:49:24.590295+00:00",
+      "slug": "ar-condicionado-split-dual-inverter-lg-compact-ai-9000-btus-frio-220v-s3-q09aaqak",
+      "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-split-dual-inverter-lg-compact-ai-9000-btus-frio-220v-s3-q09aaqak.html",
       "avaliacao": null,
-      "avaliacoes": 5,
-      "vendas": 0,
-      "nota_qualidade": 9
+      "avaliacoes": 2,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "58255159172",
+      "titulo": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
+      "de": 48.99,
+      "por": 20.79,
+      "desconto": 60,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mltkawis4qo439",
+      "link": "https://s.shopee.com.br/4qDetx9OsH",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-07-01T16:49:24.590295+00:00",
+      "slug": "fones-de-ouvido-sem-fio-bluetooth-compactos-xiaomi-redmi-airdots-com-estojo-recarregav",
+      "page_url": "https://promoninjaofertas.github.io/produto/fones-de-ouvido-sem-fio-bluetooth-compactos-xiaomi-redmi-airdots-com-estojo-recarregav.html",
+      "avaliacao": 4.8,
+      "avaliacoes": null,
+      "vendas": 5447,
+      "nota_qualidade": 10
     },
     {
       "source_id": "pechinchou-80173",
@@ -45,7 +64,7 @@
       "de": 781.99,
       "por": 576.75,
       "desconto": 26,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51UTR7TT56L._AC_SX522_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/619tGmre9EL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0D2RXBBL3?tag=promoninja0c3-20",
       "cupom": "GOLPRIMEDAY",
       "loja": "amazon",
@@ -55,8 +74,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-24-philco-ptv24g5yr2cp-roku-tv-dolby-audio.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 30,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-138496",
@@ -74,8 +93,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-encore-essential-2-show-de-luzes-bluetooth-portatil-resisten.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 54,
-      "nota_qualidade": 8
+      "vendas": 450,
+      "nota_qualidade": 9
     },
     {
       "source_id": "22794927027",
@@ -197,7 +216,7 @@
       "de": 1219.9,
       "por": 779.0,
       "desconto": 36,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_17FUPAT.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61JS8LfnWjL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0CTRXP4VH?tag=promoninja0c3-20",
       "cupom": "GOLPRIMEDAY",
       "loja": "amazon",
@@ -1005,7 +1024,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-advanced-4k-qled-tv-50-google-tv-tela-hva-design-slim-120-hz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1074,
+      "vendas": 1080,
       "nota_qualidade": 7
     },
     {
@@ -1480,7 +1499,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/galaxy-tab-s10-lite-128gb-tela-10-9-wifi-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 1488,
+      "vendas": 1501,
       "nota_qualidade": 8
     },
     {
@@ -1881,25 +1900,6 @@
       "avaliacoes": null,
       "vendas": 595,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-103505",
-      "titulo": "Câmera de Segurança Ip A8 Icsee Infravermelho Prova d’água",
-      "de": 157.0,
-      "por": 66.92,
-      "desconto": 57,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/teste_9ZkEszp.png",
-      "link": "https://meli.la/1QF19Ck",
-      "cupom": "CASAHOJE",
-      "loja": "mercadolivre",
-      "categoria": "TV e Eletronicos",
-      "data": "2026-06-30T21:32:43.072632+00:00",
-      "slug": "camera-de-seguranca-ip-a8-icsee-infravermelho-prova-dagua",
-      "page_url": "https://promoninjaofertas.github.io/produto/camera-de-seguranca-ip-a8-icsee-infravermelho-prova-dagua.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 177,
-      "nota_qualidade": 9
     }
   ]
 }
