@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T01:30:02.508903+00:00",
+  "atualizado": "2026-07-01T01:40:21.323623+00:00",
   "ofertas": [
+    {
+      "source_id": "2895745",
+      "titulo": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm LTE Galaxy AI Titânio Aeroespacial Titânio Prata",
+      "de": 4999.0,
+      "por": 1739.1,
+      "desconto": 65,
+      "imagem": "https://m.media-amazon.com/images/I/613Ix076kwL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FJPL1MGY?tag=promoninja0c3-20",
+      "cupom": "PRIME150",
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-07-01T01:40:21.323623+00:00",
+      "slug": "samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit",
+      "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 35,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-100774",
       "titulo": "Fechadura Digital de Sobrepor com Senha FR 10 Preto Intelbras",
@@ -17,27 +36,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fechadura-digital-de-sobrepor-com-senha-fr-10-preto-intelbras.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": null,
-      "nota_qualidade": 9
-    },
-    {
-      "source_id": "2895796",
-      "titulo": "PHILIPS Smart TV, 55\" 4K, 55PUG7300, Comando de Voz, Bluetooth, HDR, Dolby Atmos, HDMI, USB, Wi-Fi",
-      "de": 3099.0,
-      "por": 1849.0,
-      "desconto": 40,
-      "imagem": "https://m.media-amazon.com/images/I/71d6BkXy+rL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FPBQY5GR?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-07-01T01:24:52.806731+00:00",
-      "slug": "philips-smart-tv-55-4k-55pug7300-comando-de-voz-bluetooth-hdr-dolby-atmos-hdmi",
-      "page_url": "https://promoninjaofertas.github.io/produto/philips-smart-tv-55-4k-55pug7300-comando-de-voz-bluetooth-hdr-dolby-atmos-hdmi.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 20,
-      "nota_qualidade": 7
+      "vendas": 21,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-147314",
@@ -74,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-jbl-boombox-4-bluetooth-preta-som-jbl-pro-ai-sound-boost.html",
       "avaliacao": null,
       "avaliacoes": 13,
-      "vendas": 332,
+      "vendas": 361,
       "nota_qualidade": 7
     },
     {
@@ -93,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-portinari-absoluto-colonia-100ml-o-boticario-volume-da-unidade-100-ml.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 141,
+      "vendas": 150,
       "nota_qualidade": 9
     },
     {
@@ -365,9 +365,9 @@
     {
       "source_id": "22794927027",
       "titulo": "Celuar Xiaomi Poco X8 Pro 512GB / 256GB 5G NFC Versão Global Original e Envio Imediato Com NF",
-      "de": 2350.0,
+      "de": 2430.0,
       "por": 2217.0,
-      "desconto": 56,
+      "desconto": 59,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-moo1vcisbrib78",
       "link": "https://s.shopee.com.br/70I7gAStM6",
       "cupom": null,
@@ -1252,7 +1252,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-aoc-43-led-full-hd-roku-tv-wi-fi-hdmi-e-usb.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 338,
+      "vendas": 341,
       "nota_qualidade": 7
     },
     {
