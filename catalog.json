@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T20:44:32.573397+00:00",
+  "atualizado": "2026-07-01T20:49:33.398087+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-133810",
+      "titulo": "Caixa de Som JBL Boombox 4 Bluetooth, Preta | Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless",
+      "de": 3649.9,
+      "por": 2080.5,
+      "desconto": 43,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_nZqdXPG.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FK1NJLXB?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-07-01T20:49:33.398087+00:00",
+      "slug": "caixa-de-som-jbl-boombox-4-bluetooth-preta-som-jbl-pro-ai-sound-boost",
+      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-jbl-boombox-4-bluetooth-preta-som-jbl-pro-ai-sound-boost.html",
+      "avaliacao": null,
+      "avaliacoes": 13,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "pechinchou-107387",
       "titulo": "Conjunto de 6 Panelas Cerâmica Pratic Cook Indução Kit Antiaderente Soft Touch Mimo Style Cinza",
@@ -36,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch8-smartwatch-40mm-bt-galaxy-ai-prata.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 10
+      "vendas": 15,
+      "nota_qualidade": 9
     },
     {
       "source_id": "pechinchou-39122",
@@ -55,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-40-philco-roku-tv-hdr10-dolby-audio-p40cra.html",
       "avaliacao": null,
       "avaliacoes": 5,
-      "vendas": 8,
+      "vendas": 30,
       "nota_qualidade": 7
     },
     {
@@ -93,8 +112,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/impressora-hp-laserjet-107w-laser-mono-110v-4zb78a.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 16,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-115644",
@@ -112,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/wap-extratora-portatil-spot-cleaner-w2-3-em-1-borrifa-esfrega-e-extrai-com.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 3,
+      "vendas": 32,
       "nota_qualidade": 8
     },
     {
@@ -283,7 +302,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/galaxy-tab-s10-lite-128gb-tela-10-9-wifi-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 1590,
+      "vendas": 1593,
       "nota_qualidade": 8
     },
     {
@@ -1034,7 +1053,7 @@
       "por": 40.59,
       "desconto": 43,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S258a925cfef544d4945e9113f2e1ee20V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DX6rPh0s8KCpou8qvr8spThthfYSUDkuhNjvM5ge0CY8yGA0GarpzfADEJ7NFctOt4EFrrIXzdQoLRv7fyjxSupQL0aUkrjKT2YtTLgazrHMYIJZ29uafT1NFM4ySa6j6sgs2kF6t0WkgZ6Zm1b1QDua39aOTXmtqsjI6Ykf72qCMryMZhNzaPFgFKn7BfA3A026Fmci264Bo7vCByjujaSt0RivccawtVXnS28fB58YyIyb0I0bl6I0C95KQgwT3GXPCVkKIyxH0bgojtQONz5GmbjYFZvTXkgqYIaWRoslXH9nehxl5A2IHfq9CJrgPAERk2WSkVosIwNmGmEXKXEcKhdLEUce8np0MThXwiLwFFiWLMFSbkjW3rp1HEkF2cCTWpjE92iUTbHkE7Ll6GdIUPNwLGlx3WEu9m6eUu2ppyteN1Kw9oUXVrawBQfd7ZzMpDEjXoCHQ5GSpLYyP6IQ1ARXuoMS84397ysFA",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DWAH3LkakChUBxrDCgwgf1VxUT48yFzzjteANPT9UXsPh9aYf2Ada2tsDIrc3WSi3h2IyK0upSAcmXQjG88pqOGpV9PjQvXdl7b08Nrh4VglZ60KCqAW6bAaF9Tmb1Vb2tn2RA2fR18mpKIB1k5ZSvGgnfo1NQQoTI7NGZF8Pml7rMgMoPOOjQhTcoy0G3MbosP4oluZzJo2qUANkHYU1pq8kODJ0jzXmQiffWuLaLG4J2BfcL6LK2VZnfq8UWQLqdKTk5mf29J2e1r8AtU1xbzkGf4PYjOU7hzFNl2OqTBULI49WfGpPB6UCQkld0oNxNTmDirn94keUm14UqM3Hm07vd5sBraGJjxFNBLhj8cp6OV7gIhkfTynuCR9vALhKJCkFvieymC8j1nLB2bqJPi1nNa49Y4vUdrRGhjYutYJpu2aUFEDCCUbTU7uw9snHIuKlM1mXusJ6SuYqBXRfRcomdfh7yaigbbfGRSko",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Games",
@@ -1251,8 +1270,8 @@
       "slug": "tenis-olympikus-neblina-unissex",
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-neblina-unissex.html",
       "avaliacao": null,
-      "avaliacoes": 5,
-      "vendas": 2439,
+      "avaliacoes": 6,
+      "vendas": 2463,
       "nota_qualidade": 9
     },
     {
@@ -1880,25 +1899,6 @@
       "avaliacao": null,
       "avaliacoes": 7,
       "vendas": 50,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-138188",
-      "titulo": "Cafeteira Cápsulas Delta Q Quick Vermelha 127V",
-      "de": 209.9,
-      "por": 107.91,
-      "desconto": 49,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/41iaBlVgy2L._AC_SL1024_.jpg",
-      "link": "https://www.amazon.com.br/dp/B09RTPDQ2V?tag=promoninja0c3-20",
-      "cupom": "PRIME10",
-      "loja": "amazon",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-07-01T10:46:58.208899+00:00",
-      "slug": "cafeteira-capsulas-delta-q-quick-vermelha-127v",
-      "page_url": "https://promoninjaofertas.github.io/produto/cafeteira-capsulas-delta-q-quick-vermelha-127v.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 199,
       "nota_qualidade": 7
     }
   ]
