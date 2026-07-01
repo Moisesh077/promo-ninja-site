@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-07-01T13:05:12.771801+00:00",
+  "atualizado": "2026-07-01T13:10:22.493803+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-20853",
@@ -17,8 +17,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/mangueira-para-jardim-30-metros-com-esguicho-79172300-tramontina.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 33,
+      "nota_qualidade": 7
     },
     {
       "source_id": "1005006356702381",
@@ -786,7 +786,7 @@
       "de": 2858.99,
       "por": 1994.05,
       "desconto": 30,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51UFm7dGUuL._AC_SL1080_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51UFm7dGUuL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FMFRFNWG?tag=promoninja0c3-20",
       "cupom": "BOANOITE",
       "loja": "amazon",
