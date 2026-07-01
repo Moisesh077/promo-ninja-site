@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T14:01:22.281820+00:00",
+  "atualizado": "2026-07-01T14:06:22.694962+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-146256",
+      "titulo": "Smartphone Samsung Galaxy A37 5g 128gb, 6gb Ram, Câmera 50mp (preto)",
+      "de": 2539.9,
+      "por": 1492.2,
+      "desconto": 41,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_9CcJRuJ.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GVT89H5W?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-07-01T14:06:22.694962+00:00",
+      "slug": "smartphone-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp-preto.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-127832",
       "titulo": "Bobojaco Masculino Impermeável Térmico Corta Vento Capuz",
@@ -45,7 +64,7 @@
       "de": 4499.0,
       "por": 1546.68,
       "desconto": 66,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_Sife3e8.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61OaHpwFsuL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0GLTDFSMM?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -54,7 +73,7 @@
       "slug": "smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3",
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3.html",
       "avaliacao": null,
-      "avaliacoes": 1,
+      "avaliacoes": 3,
       "vendas": 167,
       "nota_qualidade": 8
     },
@@ -197,7 +216,7 @@
       "de": 269.9,
       "por": 124.76,
       "desconto": 54,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/41jDPcPocL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/41jDPcPoc+L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B095Z126P2?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -520,7 +539,7 @@
       "de": 2899.0,
       "por": 1979.0,
       "desconto": 32,
-      "imagem": "https://m.media-amazon.com/images/I/81PBtv3oCDL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/81PBtv3oCDL._AC_SY300_SX300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B0GYQ8Q5QR?tag=promoninja0c3-20",
       "cupom": "TVTCLNEW",
       "loja": "amazon",
@@ -1880,25 +1899,6 @@
       "avaliacao": null,
       "avaliacoes": 2,
       "vendas": 219,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-1145",
-      "titulo": "Sabão Liquido Brilhante 5L",
-      "de": 49.99,
-      "por": 36.05,
-      "desconto": 28,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/71kgmIRqvBL_dvnK5qP.__AC_SX300_SY300_QL70_ML2_.jpg",
-      "link": "https://www.amazon.com.br/dp/B07ZQMBFMX?tag=promoninja0c3-20",
-      "cupom": "PRIMEDAY1A7",
-      "loja": "amazon",
-      "categoria": "Supermercado",
-      "data": "2026-06-30T17:21:22.395808+00:00",
-      "slug": "sabao-liquido-brilhante-5l",
-      "page_url": "https://promoninjaofertas.github.io/produto/sabao-liquido-brilhante-5l.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
       "nota_qualidade": 7
     }
   ]
