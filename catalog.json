@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T07:27:52.373504+00:00",
+  "atualizado": "2026-07-01T07:33:02.374749+00:00",
   "ofertas": [
+    {
+      "source_id": "2896331",
+      "titulo": "PHILIPS Multigroom Aparador de Pelos 9 em 1 Bivolt",
+      "de": 249.9,
+      "por": 138.98,
+      "desconto": 44,
+      "imagem": "https://m.media-amazon.com/images/I/71oDl7NmgaL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FN5DD149?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Beleza",
+      "data": "2026-07-01T07:33:02.374749+00:00",
+      "slug": "philips-multigroom-aparador-de-pelos-9-em-1-bivolt",
+      "page_url": "https://promoninjaofertas.github.io/produto/philips-multigroom-aparador-de-pelos-9-em-1-bivolt.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 120,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-98779",
       "titulo": "Fechadura Digital de Sobrepor, Abertura por senha ou tag, Pop, Preta, DS1100V, Elsys",
