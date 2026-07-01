@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-07-01T11:22:42.585271+00:00",
+  "atualizado": "2026-07-01T11:27:49.688268+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-147883",
@@ -26,7 +26,7 @@
       "de": 629.9,
       "por": 327.66,
       "desconto": 48,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/711OpDhWASS_l7IQqz9.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/711OpDhWASS._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B076QDQVMJ?tag=promoninja0c3-20",
       "cupom": "JULHOCHEGOU",
       "loja": "amazon",
@@ -36,8 +36,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/wap-lavadora-de-alta-pressao-atacama-smart-2200-330l-h-com-jato-em-leque.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 9
+      "vendas": 5,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-135218",
@@ -83,7 +83,7 @@
       "de": 599.0,
       "por": 393.2,
       "desconto": 34,
-      "imagem": "https://m.media-amazon.com/images/I/51G4AxVAJxL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51G4AxVAJxL._AC_SL1000_.jpg",
       "link": "https://www.amazon.com.br/dp/B0BZJDLT6Z?tag=promoninja0c3-20",
       "cupom": "JULHOCHEGOU",
       "loja": "amazon",
@@ -112,8 +112,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/ventilador-de-coluna-arno-x-treme-9-40cm-2-em-1-ve9m-160w-coluna.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 9
+      "vendas": 109,
+      "nota_qualidade": 10
     },
     {
       "source_id": "pechinchou-135521",
@@ -501,7 +501,7 @@
       "de": 2858.99,
       "por": 1994.05,
       "desconto": 30,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51UFm7dGUuL._AC_SL1080_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51UFm7dGUuL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FMFRFNWG?tag=promoninja0c3-20",
       "cupom": "BOANOITE",
       "loja": "amazon",
@@ -548,7 +548,7 @@
       "slug": "echo-dot-geracao-mais-recente-smart-speaker-com-alexa-som-vibrante-e-potente-wi",
       "page_url": "https://promoninjaofertas.github.io/produto/echo-dot-geracao-mais-recente-smart-speaker-com-alexa-som-vibrante-e-potente-wi.html",
       "avaliacao": null,
-      "avaliacoes": 5,
+      "avaliacoes": 6,
       "vendas": 160,
       "nota_qualidade": 8
     },
@@ -768,7 +768,7 @@
       "por": 125.59,
       "desconto": 33,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiX6Rr8UN2FjuCQz4nafJ2GWZFiQJsQhxzRZnPInRZH8XsxQqksfCSQUM0ZSImoIgfusM5wU01dgJvDc70faAIsB4S8AnUBRr1bOyO5wdA8z0sK0ffOOR7TeEChQD0lO2T1qz0vbxF23RKepVcMSgMN8iDrqEQc19S5Iw2VOcnH1fmHOisZJu1NmttPVlKto7GoNIcvjTRIKiftzDXlf2FSiMYY21Q3dOx4KvYWeJ01EuIVNqWkqcfW5ptyMPBdcYpw0oKJFhf2tnj9nhMYHI4mLXKX5yFOZpGxEGUHYl4WmhHR9IpfLYMV9hfFQgYWMpARFyHdjP6KjzcSjnCMwUAovbfcFSPFG0yNPw2qCTBS3eXKXH7cFTGk0hYTv2BSp67kKf1wz0dqjvDuA4RS0xmTGkQwTYOarxRgaAydjYJMGHfPXmPeVhNeTKvBfTKU2hTfASE16PcOydfAKWf0GUvlHSWQntEoI44MZvwxRR",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiR9EbqaailN59Ir0J4Ah7Cf3ZUc7WVv2LaGAoPFw3mLF7oNXY2lISOVhK2vNQmKSrEXZRDauXYlAXf6XZMAwAqSx3cdG3qQKz4BgN8DyBF2kPxqWnBK8VcYUWIOd7Xk8RKcdib6eJQ28lJtwly7uaHAhbnSefISgHtG1xST9UzjAe0MDWht5jXtANMcdRnGpovAY6ZQEjOk8EEpLglEbJfrgGZjrUwiB1ajUGD72SvoJNoqTOZsMhbSm6GybWAke32auSfE5fOaVxVRizChlNrTJ6wN7g14jdvUJb4RwYWU3HqeiXWw64lujxjN4xh2574XmzHePdPn0DmVhkvnhlplw6jyf6WZfEMgAkRtPfhw9KyIwrpUbAVIKhZH7dWzdhwpVhUlN5BHRlLt4VGnEV3j9zMftutJa0r2jR4skHtFlJwtQdvT5pJWdbsIvESNeS5iNNSqWcVlQN7Bk6E8Qb5dqhSXqro2PniKBXJw9",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
