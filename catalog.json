@@ -1,24 +1,24 @@
 {
-  "atualizado": "2026-07-01T22:01:02.884231+00:00",
+  "atualizado": "2026-07-01T22:06:10.799697+00:00",
   "ofertas": [
     {
-      "source_id": "2898249",
-      "titulo": "Monitor Gamer Alienware 25\" Full HD (1920 x 1080) 320 Hz IPS",
-      "de": 1999.0,
-      "por": 1399.0,
-      "desconto": 30,
-      "imagem": "https://m.media-amazon.com/images/I/6106dbww1XL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FH5NMXHK?tag=promoninja0c3-20",
-      "cupom": "DIADEJOGO",
-      "loja": "amazon",
+      "source_id": "pechinchou-147933",
+      "titulo": "Teclado Gamer Mecânico Machenike Kt68-b68w Pro Switch White Branco/transparente Inglês Us",
+      "de": 659.0,
+      "por": 283.42,
+      "desconto": 57,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_920328-MLA101445710639_122025-O.webp",
+      "link": "https://meli.la/1kKedVu",
+      "cupom": "APITONATV",
+      "loja": "mercadolivre",
       "categoria": "Hardware",
-      "data": "2026-07-01T22:01:02.884231+00:00",
-      "slug": "monitor-gamer-alienware-25-full-hd-1920-x-1080-320-hz-ips",
-      "page_url": "https://promoninjaofertas.github.io/produto/monitor-gamer-alienware-25-full-hd-1920-x-1080-320-hz-ips.html",
+      "data": "2026-07-01T22:06:10.799697+00:00",
+      "slug": "teclado-gamer-mecanico-machenike-kt68-b68w-pro-switch-white-branco-transparente-ingles",
+      "page_url": "https://promoninjaofertas.github.io/produto/teclado-gamer-mecanico-machenike-kt68-b68w-pro-switch-white-branco-transparente-ingles.html",
       "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 0,
-      "nota_qualidade": 7
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 8
     },
     {
       "source_id": "1005007701197697",
@@ -178,7 +178,7 @@
       "de": 3649.9,
       "por": 2080.5,
       "desconto": 43,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_nZqdXPG.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/71FPDlwePVL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FK1NJLXB?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -245,7 +245,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/impressora-hp-laserjet-107w-laser-mono-110v-4zb78a.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 40,
+      "vendas": 44,
       "nota_qualidade": 7
     },
     {
@@ -302,7 +302,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-2-pneus-175-65r14-firestone-f-600-82t-aro-14.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 187,
+      "vendas": 205,
       "nota_qualidade": 7
     },
     {
