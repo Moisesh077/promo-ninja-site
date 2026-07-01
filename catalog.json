@@ -1,24 +1,62 @@
 {
-  "atualizado": "2026-07-01T15:02:25.298562+00:00",
+  "atualizado": "2026-07-01T15:07:32.677665+00:00",
   "ofertas": [
     {
-      "source_id": "2896916",
-      "titulo": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) Ultrafino 3 cameras 50MP Tela 1.5K extreme Amo",
-      "de": 4499.0,
-      "por": 1546.68,
-      "desconto": 66,
-      "imagem": "https://m.media-amazon.com/images/I/61OaHpwFsuL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GLTDFSMM?tag=promoninja0c3-20",
-      "cupom": null,
+      "source_id": "2897181",
+      "titulo": "Monitor ACER 27\" Curvo ED273 P0BMIPX Nitro LEDVA FULL HD 144HZ 1MS HDMI DP ALTO-FALANTE - UM.HE3AA.",
+      "de": 1139.24,
+      "por": 857.61,
+      "desconto": 25,
+      "imagem": "https://m.media-amazon.com/images/I/612AsNudDTL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0835553LL?tag=promoninja0c3-20",
+      "cupom": "POUPEAGORA",
       "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-07-01T15:02:25.298562+00:00",
-      "slug": "smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3.html",
+      "categoria": "Hardware",
+      "data": "2026-07-01T15:07:32.677665+00:00",
+      "slug": "monitor-acer-27-curvo-ed273-p0bmipx-nitro-ledva-full-hd-144hz-1ms-hdmi-dp",
+      "page_url": "https://promoninjaofertas.github.io/produto/monitor-acer-27-curvo-ed273-p0bmipx-nitro-ledva-full-hd-144hz-1ms-hdmi-dp.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 0,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "2897161",
+      "titulo": "Fritadeira Elétrica WAP Air Fryer Barbecue Digital 10 Litros 110v",
+      "de": 1909.9,
+      "por": 774.0,
+      "desconto": 59,
+      "imagem": "https://m.media-amazon.com/images/I/61pS0GnqhCL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0CH5KMZPJ?tag=promoninja0c3-20",
+      "cupom": "POUPEAGORA",
+      "loja": "amazon",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-07-01T15:07:32.677665+00:00",
+      "slug": "fritadeira-eletrica-wap-air-fryer-barbecue-digital-10-litros-110v",
+      "page_url": "https://promoninjaofertas.github.io/produto/fritadeira-eletrica-wap-air-fryer-barbecue-digital-10-litros-110v.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 5,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "2896830",
+      "titulo": "Mangueira Para Jardim 30 Metros Com Esguicho 79172300 Tramontina",
+      "de": 149.9,
+      "por": 51.02,
+      "desconto": 66,
+      "imagem": "https://m.media-amazon.com/images/I/71mPWGPrWxL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B076M6GT59?tag=promoninja0c3-20",
+      "cupom": "COZINHACASA",
+      "loja": "amazon",
+      "categoria": "Ferramentas",
+      "data": "2026-07-01T15:07:32.677665+00:00",
+      "slug": "mangueira-para-jardim-30-metros-com-esguicho-79172300-tramontina",
+      "page_url": "https://promoninjaofertas.github.io/produto/mangueira-para-jardim-30-metros-com-esguicho-79172300-tramontina.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 170,
-      "nota_qualidade": 9
+      "vendas": 40,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-147506",
@@ -54,9 +92,9 @@
       "slug": "barbeador-e-aparador-eletrico-philips-oneblade-2-pentes-sem-fio-e-a-prova-d",
       "page_url": "https://promoninjaofertas.github.io/produto/barbeador-e-aparador-eletrico-philips-oneblade-2-pentes-sem-fio-e-a-prova-d.html",
       "avaliacao": null,
-      "avaliacoes": null,
+      "avaliacoes": 1,
       "vendas": null,
-      "nota_qualidade": 9
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-101736",
@@ -74,8 +112,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-feminino-nyx-olympikus.html",
       "avaliacao": null,
       "avaliacoes": 7,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 6,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-134538",
@@ -342,25 +380,6 @@
       "avaliacoes": null,
       "vendas": 368,
       "nota_qualidade": 9
-    },
-    {
-      "source_id": "pechinchou-20853",
-      "titulo": "Mangueira Para Jardim 30 Metros Com Esguicho 79172300 Tramontina",
-      "de": 149.9,
-      "por": 51.02,
-      "desconto": 66,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/71mPWGPrWxL.__AC_SX300_SY300_QL70_ML2__GKwnJPL.jpg",
-      "link": "https://www.amazon.com.br/dp/B076M6GT59?tag=promoninja0c3-20",
-      "cupom": "30JARDIM",
-      "loja": "amazon",
-      "categoria": "Ferramentas",
-      "data": "2026-07-01T13:20:33.990510+00:00",
-      "slug": "mangueira-para-jardim-30-metros-com-esguicho-79172300-tramontina",
-      "page_url": "https://promoninjaofertas.github.io/produto/mangueira-para-jardim-30-metros-com-esguicho-79172300-tramontina.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 83,
-      "nota_qualidade": 7
     },
     {
       "source_id": "1005006066385835",
@@ -710,7 +729,7 @@
       "de": 2899.0,
       "por": 1979.0,
       "desconto": 32,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/81PBtv3oCDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/81PBtv3oCDL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0GYQ8Q5QR?tag=promoninja0c3-20",
       "cupom": "TVTCLNEW",
       "loja": "amazon",
@@ -1881,25 +1900,6 @@
       "avaliacoes": null,
       "vendas": 309,
       "nota_qualidade": 10
-    },
-    {
-      "source_id": "1005011543735291",
-      "titulo": "Leitor de Jogos Chiscart DSpico com Caixa Transparente Moldada por Injeção com MCU RP2040 para Consoles NDS, NDSL, DSi e 3DS",
-      "de": 72.48,
-      "por": 40.59,
-      "desconto": 43,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S258a925cfef544d4945e9113f2e1ee20V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DXlteIaOo7WrgYk2I3N4c2kjDE5wBGq8psHLA8NbwDVpSUpxwF5fhcJlefMOxvNYrGAL4wIYgE6GrIj8Vh41uyWKVZlkPfZHzn4NOkfWSZNMrh8ZrkRinCxwNAScw89nnLxYXolMmQkJ9mNMCNzfEXrguTntGgiTbOWqANG9AnAWvo1BcIioHgHCTAqeHCEd2bpfgIai0Mpb59DpgH4mLwtEJ1qJ19CEheq2PLG10eXjm3IOj51qhydzG081uEpejKWvThiQZLwmNlckS8DbthjxcOGCyyRbsg1UJ7N2tvRSZSvNZY3aNqBi6av1WI2JpCeAH48x3Fd73QaYnrlrV287viDVHFZj6QdkMX1yIxeKmhwfIpzWOjPv56ZruUnAJND68an3kq41GFVR4th4feb37UKLA4ZYa0pdhoXilYv91fZkWBY1GH0MTRZWsMgkvdsxlDNdfgjUobkcnFBNWnRBpVt4DYcYGc0ymvYoo",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Games",
-      "data": "2026-06-30T18:23:10.695986+00:00",
-      "slug": "leitor-de-jogos-chiscart-dspico-com-caixa-transparente-moldada-por-injecao-com-mcu-rp2",
-      "page_url": "https://promoninjaofertas.github.io/produto/leitor-de-jogos-chiscart-dspico-com-caixa-transparente-moldada-por-injecao-com-mcu-rp2.html",
-      "avaliacao": 4.915,
-      "avaliacoes": null,
-      "vendas": 18741,
-      "nota_qualidade": 8
     }
   ]
 }
