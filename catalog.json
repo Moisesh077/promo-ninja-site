@@ -1,24 +1,24 @@
 {
-  "atualizado": "2026-07-01T21:10:02.777193+00:00",
+  "atualizado": "2026-07-01T21:15:12.377391+00:00",
   "ofertas": [
     {
-      "source_id": "2898127",
-      "titulo": "Celular Samsung Galaxy A37 5G 256GB 8GB RAM Câmera Tripla de até 50MP OIS Selfie de 12MP Video HDR IP68 Tela Supe",
-      "de": 3599.0,
-      "por": 1898.6,
-      "desconto": 47,
-      "imagem": "https://m.media-amazon.com/images/I/51G-NkDKaXL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GVT6FMNG?tag=promoninja0c3-20",
+      "source_id": "pechinchou-138496",
+      "titulo": "JBL, Caixa de Som, PartyBox Encore Essential 2, Show de Luzes, Bluetooth, Portátil, Resistente a Respingos, Bateria de até 15h, Som JBL Pro Sound, AI Sound Boost, 100 W RMS",
+      "de": 1899.0,
+      "por": 925.5,
+      "desconto": 51,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/71Ar78y955L_Qao3hIL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0H1282J24?tag=promoninja0c3-20",
       "cupom": "DIADEJOGO",
       "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-07-01T21:10:02.777193+00:00",
-      "slug": "celular-samsung-galaxy-a37-5g-256gb-8gb-ram-camera-tripla-de-ate-50mp-ois",
-      "page_url": "https://promoninjaofertas.github.io/produto/celular-samsung-galaxy-a37-5g-256gb-8gb-ram-camera-tripla-de-ate-50mp-ois.html",
+      "categoria": "Audio",
+      "data": "2026-07-01T21:15:12.377391+00:00",
+      "slug": "jbl-caixa-de-som-partybox-encore-essential-2-show-de-luzes-bluetooth-portatil-resisten",
+      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-encore-essential-2-show-de-luzes-bluetooth-portatil-resisten.html",
       "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 5,
-      "nota_qualidade": 8
+      "avaliacoes": 4,
+      "vendas": null,
+      "nota_qualidade": 9
     },
     {
       "source_id": "pechinchou-103795",
@@ -112,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-40-philco-roku-tv-hdr10-dolby-audio-p40cra.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 37,
+      "vendas": 79,
       "nota_qualidade": 7
     },
     {
