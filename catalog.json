@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T22:59:32.796886+00:00",
+  "atualizado": "2026-07-01T23:04:42.994136+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-143034",
+      "titulo": "Jbl, Caixa De Som, Go Essential 2, Bluetooth, Portátil, À Prova D'água E Resistente À Poeira, Bateria De Até 5h, Auracast, Som Jbl Original Pro Sound, 3.1 W Rms - Vermelha",
+      "de": 219.0,
+      "por": 161.1,
+      "desconto": 26,
+      "imagem": "https://m.media-amazon.com/images/I/711ksmJStyL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FPNSXKKJ?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-07-01T23:04:42.994136+00:00",
+      "slug": "jbl-caixa-de-som-go-essential-2-bluetooth-portatil-a-prova-d-agua-e",
+      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-go-essential-2-bluetooth-portatil-a-prova-d-agua-e.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 1,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-133939",
       "titulo": "Placa De Vídeo Msi Nvidia Geforce Rtx 5060 8gb Oc Gddr7",
@@ -37,25 +56,6 @@
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": 50,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-128325",
-      "titulo": "Jbl, Caixa De Som, Go 4, Bluetooth, Portátil, Auracast, À Prova D'água E Poeira - Preta",
-      "de": 245.12,
-      "por": 179.1,
-      "desconto": 27,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_PyaoZHf.jpg",
-      "link": "https://www.amazon.com.br/dp/B0CX5C6WP3?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-07-01T22:49:20.696585+00:00",
-      "slug": "jbl-caixa-de-som-go-4-bluetooth-portatil-auracast-a-prova-d-agua-e",
-      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-go-4-bluetooth-portatil-auracast-a-prova-d-agua-e.html",
-      "avaliacao": null,
-      "avaliacoes": 3,
-      "vendas": 56,
       "nota_qualidade": 7
     },
     {
@@ -112,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-4k-50-polegadas-lg-ultra-hd-50ua8550psa.html",
       "avaliacao": null,
       "avaliacoes": 8,
-      "vendas": 114,
+      "vendas": 139,
       "nota_qualidade": 8
     },
     {
@@ -131,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-2-bermuda-masculina-jeans-e-1-calca-jeans-skinny-lycra.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 204,
+      "vendas": 242,
       "nota_qualidade": 8
     },
     {
@@ -340,7 +340,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-jbl-boombox-4-bluetooth-preta-som-jbl-pro-ai-sound-boost.html",
       "avaliacao": null,
       "avaliacoes": 13,
-      "vendas": 1835,
+      "vendas": 1849,
       "nota_qualidade": 8
     },
     {
@@ -1300,7 +1300,7 @@
       "por": 40.59,
       "desconto": 43,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S258a925cfef544d4945e9113f2e1ee20V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DWjFEGjER0uYY04EYV0aiNaAVOGxwbnnAzFaTMXwe1JQByrhyhsmrBaBGYg8IjkXHredYwssgxFGjZ5mL9Yp8K2ow0s4X4SVeOolw18gNbqt92WHsOxChZ14YPcy5yCRkoBq8Oj2FLYZRa2IKimmqyR712wM9XYGSyP6pGgDetlPBPPgT8rNA3mQQRHa5G1oNAc1SCeeA2lJ0vJsYBCSwuSMI4TcrqQrtG2kwoqGBeEH4ehSbPvHKTqiiCwPc1CXwZdybtdLxSRNYMNX5QjZCten00M5V9JV2CIVc551BNiwulwJwvOKNIMHsoYui1BkQTzWxTAiiTPH7sydA5B8nIHVAt5uLBLsq7PdMyBsO1vT4p5OvbUbDidAAJtf9TN8maIak0XSLtFNugy4k5a9PzJ4HhFCcBZwISeBYor5bMZWGqnH2YFAsa4AxMSIQQcNhjBuNaES7KKQY1sO8JIQRFP6cfWzOX3bxWPBd6toc",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DXpjQRBXqXqTGRoVsxa5WyuUSWN2g5BDLROxtEkRyafmMJghQ4xroJubmasXgieP0igxQhKETreQJ599w7RXUzVt21kkOIodaxSTNVpbzPa17D7QNeGmz6H37h9oGmIx8e8q1kB2DqJPTTfRU4JBlmQXRK21S6OmIh6nl5lnGcC4ZWAcpbgURQuXqPUA62GoHPotjZuzgUS3v5CtfYbzTM7Wl1aDpSWAf5CvjhcEDiHcynC0PfO9H2WwHb8QA5xxMnkJdzIRfq4PWeuTSfYcNnPuMy8yMjJjoSrQLTK9OOeu3MVi7Fyb4WH6DkOtXeYtal84ipYtHmvTQ9OXmmRiIuLG6EBtfJ99avan7ZCEbNy1c0gpTadbJoR6ppUoxE4qWu9x7awShU7E2fTlbPJMs8oTlK40yztWEUxJJpRwH31XMh8XoQ3OGCQ5kr5r0U8TiaQm5vVcRRtPXfo3gX0s6q030GIGPZ8uAuzebzed2",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Games",
@@ -1518,7 +1518,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-neblina-unissex.html",
       "avaliacao": null,
       "avaliacoes": 6,
-      "vendas": 2725,
+      "vendas": 2750,
       "nota_qualidade": 9
     },
     {
@@ -1661,7 +1661,7 @@
       "por": 259.73,
       "desconto": 51,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNccINVAhZFUJ6P3Tg3COx9deKfbFePtHj8sx3nkGcVna6jXarWPe9pt8ewaiks6YnrrcoEZMfmvyOTwdcWksun486fW6zN2ekCk3VoFfPIctNcm72ByEhmXbKbs5V3EV9nQLO83sn7LUoQK76n6tgFsB9450WJbWncTQrszEisahMmZOURUfnIokNAR3qIAs84HrBcY4UuHgz1TcW75tcfkuiRgsvxEyjnSZzCzRRvQSYWUW7SNbjaKyeRCPtdOvbjMMtyO6FUwse47wwsJXJoRTPbtHnnB2dwMSQbBApb6T81nj53qwnEPaQCYHCRQRW7g63qFKNEkni4jhYE6bJaXISEFZTfSnXHMBV8K826TqFrQH1emLM0il0QVAn2Mw3Q05ogQv9F9NYCCpt72gKxGphkwl1XqPv6pdMwueXeTE8tixGL2N9Q0aJQk0WJ5hCZBqrZqxASkjKpRJdUJU8LJl9np52FInRNXkcMIq",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMjjPiscjbjZXEzJpqO1xNyDfyyROV1n3IlsNwFPzj8mRPc4OSExTV67umYwWFrxYRpFoIsi93D6lbwTujzaV017CjarOS8SsReYmCKif676B7kGY1PZu0kT69oySvy0HEzMpg7D9iLpUOWeY4u47tK9PfB8VOuDum4r6Nc5scMM3SoGpyZwaJStiR5aMneyolvPvLGTpnXAQfHjZEvm9CcMe94hpFT5kWWJO7dagN6op4LN7UDNn7MvurzNVZggVvGeRwQpTZ3Rp0AA60rVjD9i3fHvoEdX5X0hw4zCmadKFJPWWv1AG0hu7IwIU5syAQGqJBomuwasSe8mESQaRJc2A6ozA9dTD53lZeHpCGEHfV1qtnCGHvmNXRIfd1lAtrDA46d7LF8PC9axz3rChXbb0YX5O5S0wPBMt11jtYqfVgYcZeQ92ZUTsLkpHxm4uF4QTSFB1UJ6qdK62dyWUppswn9xcomkXQZRVEN6K",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
