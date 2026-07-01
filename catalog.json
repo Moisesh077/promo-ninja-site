@@ -1,24 +1,43 @@
 {
-  "atualizado": "2026-07-01T15:43:14.871865+00:00",
+  "atualizado": "2026-07-01T15:48:22.472243+00:00",
   "ofertas": [
     {
-      "source_id": "2897044",
-      "titulo": "Samsung Galaxy Watch7 Smartwatch 44mm Bluetooth, Galaxy Ai, Tela Em Cristal De Safira, Gps De Dupla Frequência, Monitoramento Avançado De",
-      "de": 2699.0,
-      "por": 954.1,
-      "desconto": 65,
-      "imagem": "https://m.media-amazon.com/images/I/51QR59uTSVL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0D96V7WRB?tag=promoninja0c3-20",
-      "cupom": "POUPEAGORA",
+      "source_id": "2896916",
+      "titulo": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) Ultrafino 3 cameras 50MP Tela 1.5K extreme Amo",
+      "de": 4499.0,
+      "por": 1546.68,
+      "desconto": 66,
+      "imagem": "https://m.media-amazon.com/images/I/61OaHpwFsuL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GLTDFSMM?tag=promoninja0c3-20",
+      "cupom": null,
       "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-07-01T15:43:14.871865+00:00",
-      "slug": "samsung-galaxy-watch7-smartwatch-44mm-bluetooth-galaxy-ai-tela-em-cristal-de-safira-gp",
-      "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch7-smartwatch-44mm-bluetooth-galaxy-ai-tela-em-cristal-de-safira-gp.html",
+      "categoria": "Smartphones",
+      "data": "2026-07-01T15:48:22.472243+00:00",
+      "slug": "smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3",
+      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3.html",
       "avaliacao": null,
       "avaliacoes": 3,
-      "vendas": 40,
-      "nota_qualidade": 8
+      "vendas": 255,
+      "nota_qualidade": 9
+    },
+    {
+      "source_id": "pechinchou-147245",
+      "titulo": "Samsung Ar-condicionado Inverter WindFree AI Black 12000 BTU QF 220V",
+      "de": 4049.9,
+      "por": 2219.1,
+      "desconto": 45,
+      "imagem": "https://m.media-amazon.com/images/I/51lg0n4eB2L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GM1LV645?tag=promoninja0c3-20",
+      "cupom": "OLHAPRIMEDAY",
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-07-01T15:48:22.472243+00:00",
+      "slug": "samsung-ar-condicionado-inverter-windfree-ai-black-12000-btu-qf-220v",
+      "page_url": "https://promoninjaofertas.github.io/produto/samsung-ar-condicionado-inverter-windfree-ai-black-12000-btu-qf-220v.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-133899",
@@ -36,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch8-smartwatch-40mm-bt-galaxy-ai-prata.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 41,
+      "vendas": 85,
       "nota_qualidade": 9
     },
     {
@@ -55,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/o-boticario-egeo-dolce-kit-presente-2-itens.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 31,
+      "vendas": 52,
       "nota_qualidade": 7
     },
     {
@@ -74,8 +93,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/3-body-splash-good-graces-delight-very-sexy-barbour-s.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7
+      "vendas": 176,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-111159",
@@ -758,7 +777,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-advanced-4k-qled-tv-50-google-tv-tela-hva-design-slim-120-hz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1060,
+      "vendas": 1061,
       "nota_qualidade": 7
     },
     {
@@ -1223,7 +1242,7 @@
       "de": 2858.99,
       "por": 1994.05,
       "desconto": 30,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51UFm7dGUuL._AC_SL1080_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51UFm7dGUuL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FMFRFNWG?tag=promoninja0c3-20",
       "cupom": "BOANOITE",
       "loja": "amazon",
@@ -1233,7 +1252,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/galaxy-tab-s10-lite-128gb-tela-10-9-wifi-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 1451,
+      "vendas": 1471,
       "nota_qualidade": 8
     },
     {
