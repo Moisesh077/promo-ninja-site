@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-30T23:55:42.587914+00:00",
+  "atualizado": "2026-07-01T00:00:49.177913+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-95569",
@@ -17,8 +17,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-portinari-absoluto-colonia-100ml-o-boticario-volume-da-unidade-100-ml.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 11,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-146046",
@@ -36,7 +36,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-split-hi-wall-triple-inverter-consul-9000-btu-h-frio-cbk09db-bivolt.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 2,
+      "vendas": 44,
       "nota_qualidade": 7
     },
     {
@@ -55,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-boombox-4-bluetooth-som-jbl-pro-ai-sound-boost-graves.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 55,
+      "vendas": 70,
       "nota_qualidade": 7
     },
     {
