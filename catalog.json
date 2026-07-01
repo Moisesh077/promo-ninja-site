@@ -1,6 +1,82 @@
 {
-  "atualizado": "2026-07-01T02:31:52.809367+00:00",
+  "atualizado": "2026-07-01T02:37:02.986924+00:00",
   "ofertas": [
+    {
+      "source_id": "2895096",
+      "titulo": "Teclado Mecânico sem fio Logitech MX Mechanical Mini com Teclas Retroiluminadas Tactile Quiet Conexão USB ou Bluetoot",
+      "de": 1149.9,
+      "por": 674.91,
+      "desconto": 41,
+      "imagem": "https://m.media-amazon.com/images/I/61ge3d+MQwL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0B2V9WTS2?tag=promoninja0c3-20",
+      "cupom": "DIADEJOGO",
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-07-01T02:37:02.986924+00:00",
+      "slug": "teclado-mecanico-sem-fio-logitech-mx-mechanical-mini-com-teclas-retroiluminadas-tactil",
+      "page_url": "https://promoninjaofertas.github.io/produto/teclado-mecanico-sem-fio-logitech-mx-mechanical-mini-com-teclas-retroiluminadas-tactil.html",
+      "avaliacao": null,
+      "avaliacoes": 9,
+      "vendas": 160,
+      "nota_qualidade": 9
+    },
+    {
+      "source_id": "2895749",
+      "titulo": "Máquina de Lavar 17kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED17)",
+      "de": 4913.82,
+      "por": 1730.13,
+      "desconto": 65,
+      "imagem": "https://m.media-amazon.com/images/I/41jXZmfuQoL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B09B8VWZRG?tag=promoninja0c3-20",
+      "cupom": "PRIME150",
+      "loja": "amazon",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-07-01T02:37:02.986924+00:00",
+      "slug": "maquina-de-lavar-17kg-electrolux-essential-care-com-cesto-inox-jet-clean-e-ultra",
+      "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-17kg-electrolux-essential-care-com-cesto-inox-jet-clean-e-ultra.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 10,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "2895767",
+      "titulo": "Máquina de Lavar Electrolux 15kg Branca Essential Care com Cesto Inox e Jet&Clean (LED15) - 127V",
+      "de": 3169.0,
+      "por": 1559.1,
+      "desconto": 51,
+      "imagem": "https://m.media-amazon.com/images/I/41pS08Q7EoL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B09B8W3KQP?tag=promoninja0c3-20",
+      "cupom": "PRIME150",
+      "loja": "amazon",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-07-01T02:37:02.986924+00:00",
+      "slug": "maquina-de-lavar-electrolux-15kg-branca-essential-care-com-cesto-inox-e-jet-clean",
+      "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-electrolux-15kg-branca-essential-care-com-cesto-inox-e-jet-clean.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 20,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "58206670114",
+      "titulo": "CELULAR LANÇAMENTO XIAOMI POCO X8 PRO 5G NFC 512GB / 256GB 8RAM OU 12 RAM VERSÃO GLOBAL FONTE RAPIDA COM CAPINHA LACRADO",
+      "de": 2949.0,
+      "por": 2399.0,
+      "desconto": 35,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mnobey666pdw60",
+      "link": "https://s.shopee.com.br/60PaUKWhNw",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-07-01T02:37:02.986924+00:00",
+      "slug": "celular-lancamento-xiaomi-poco-x8-pro-5g-nfc-512gb-256gb-8ram-ou-12-ram",
+      "page_url": "https://promoninjaofertas.github.io/produto/celular-lancamento-xiaomi-poco-x8-pro-5g-nfc-512gb-256gb-8ram-ou-12-ram.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 1085,
+      "nota_qualidade": 9
+    },
     {
       "source_id": "2895950",
       "titulo": "Teclado Mecânico Gamer Sem Fio Logitech G515 com Design TKL,Tecnologia LIGHTSPEED RGB LIGHTSYNC Conexão USB ou Bluet",
@@ -17,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/teclado-mecanico-gamer-sem-fio-logitech-g515-com-design-tkl-tecnologia-lightspeed-rgb.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 5,
+      "vendas": 10,
       "nota_qualidade": 7
     },
     {
@@ -36,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 50,
+      "vendas": 55,
       "nota_qualidade": 8
     },
     {
@@ -55,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fechadura-digital-de-sobrepor-com-senha-fr-10-preto-intelbras.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 334,
+      "vendas": 365,
       "nota_qualidade": 10
     },
     {
@@ -93,7 +169,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-jbl-boombox-4-bluetooth-preta-som-jbl-pro-ai-sound-boost.html",
       "avaliacao": null,
       "avaliacoes": 13,
-      "vendas": 428,
+      "vendas": 441,
       "nota_qualidade": 7
     },
     {
@@ -112,7 +188,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-portinari-absoluto-colonia-100ml-o-boticario-volume-da-unidade-100-ml.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 164,
+      "vendas": 168,
       "nota_qualidade": 9
     },
     {
@@ -1271,7 +1347,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-aoc-43-led-full-hd-roku-tv-wi-fi-hdmi-e-usb.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 380,
+      "vendas": 381,
       "nota_qualidade": 7
     },
     {
