@@ -1,23 +1,42 @@
 {
-  "atualizado": "2026-07-01T13:51:11.186823+00:00",
+  "atualizado": "2026-07-01T13:56:12.476252+00:00",
   "ofertas": [
     {
-      "source_id": "2896916",
-      "titulo": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) Ultrafino 3 cameras 50MP Tela 1.5K extreme Amo",
+      "source_id": "pechinchou-147505",
+      "titulo": "Tênis Casual Street Polo Wear",
+      "de": 249.99,
+      "por": 124.63,
+      "desconto": 50,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_D5dZA8o.jpg",
+      "link": "https://meli.la/15BMyKp",
+      "cupom": "MODAPROMO",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-07-01T13:56:12.476252+00:00",
+      "slug": "tenis-casual-street-polo-wear",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-casual-street-polo-wear.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "pechinchou-146319",
+      "titulo": "Smartphone Motorola Edge 70 5g - 256gb 24gb (8gb Ram + 16gb Ram Boost), Ultrafino, 3 Cameras 50mp, Tela 1.5k Extreme Amoled 120hz - Bronze Green",
       "de": 4499.0,
       "por": 1546.68,
       "desconto": 66,
-      "imagem": "https://m.media-amazon.com/images/I/61OaHpwFsuL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_Sife3e8.jpg",
       "link": "https://www.amazon.com.br/dp/B0GLTDFSMM?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
       "categoria": "Smartphones",
-      "data": "2026-07-01T13:51:11.186823+00:00",
+      "data": "2026-07-01T13:56:12.476252+00:00",
       "slug": "smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3",
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-ultrafino-3.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 30,
+      "vendas": null,
       "nota_qualidade": 7
     },
     {
@@ -159,7 +178,7 @@
       "de": 269.9,
       "por": 124.76,
       "desconto": 54,
-      "imagem": "https://m.media-amazon.com/images/I/41jDPcPoc+L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/41jDPcPocL._AC_SY300_SX300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B095Z126P2?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -169,7 +188,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/oster-cafeteira-2day-inox-2-em-1-com-copo-termico-220v-preto-inox-600w.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 514,
+      "vendas": 603,
       "nota_qualidade": 8
     },
     {
@@ -957,7 +976,7 @@
       "de": 2858.99,
       "por": 1994.05,
       "desconto": 30,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51UFm7dGUuL._AC_SL1080_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51UFm7dGUuL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FMFRFNWG?tag=promoninja0c3-20",
       "cupom": "BOANOITE",
       "loja": "amazon",
@@ -1881,25 +1900,6 @@
       "avaliacoes": null,
       "vendas": 403,
       "nota_qualidade": 10
-    },
-    {
-      "source_id": "pechinchou-79666",
-      "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L, Rende 12L, Perfume com Notas de Flores e Ar fresco",
-      "de": 73.75,
-      "por": 35.95,
-      "desconto": 51,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/teste_Ms4gQRQ.png",
-      "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=promoninja0c3-20",
-      "cupom": "PRIMEDAY1A7",
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-06-30T17:05:59.792452+00:00",
-      "slug": "downy-amaciante-concentrado-brisa-de-verao-3l-rende-12l-perfume-com-notas-de-flores",
-      "page_url": "https://promoninjaofertas.github.io/produto/downy-amaciante-concentrado-brisa-de-verao-3l-rende-12l-perfume-com-notas-de-flores.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 946,
-      "nota_qualidade": 7
     }
   ]
 }
