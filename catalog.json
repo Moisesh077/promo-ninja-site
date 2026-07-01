@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T06:06:24.470317+00:00",
+  "atualizado": "2026-07-01T06:16:32.286534+00:00",
   "ofertas": [
+    {
+      "source_id": "2896077",
+      "titulo": "JBL, Caixa de Som, PartyBox Encore Essential 2, Show de Luzes, Bluetooth, Portátil, Resistente a Respingos, Bateria de até 15h, Som JBL Pr",
+      "de": 1899.0,
+      "por": 944.01,
+      "desconto": 50,
+      "imagem": "https://m.media-amazon.com/images/I/6157Cv5UEZL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0H1282J24?tag=promoninja0c3-20",
+      "cupom": "DIADEJOGO",
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-07-01T06:16:32.286534+00:00",
+      "slug": "jbl-caixa-de-som-partybox-encore-essential-2-show-de-luzes-bluetooth-portatil-resisten",
+      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-encore-essential-2-show-de-luzes-bluetooth-portatil-resisten.html",
+      "avaliacao": null,
+      "avaliacoes": 3,
+      "vendas": 20,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-98779",
       "titulo": "Fechadura Digital de Sobrepor, Abertura por senha ou tag, Pop, Preta, DS1100V, Elsys",
@@ -45,7 +64,7 @@
       "de": 2858.99,
       "por": 1994.05,
       "desconto": 30,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51UFm7dGUuL._AC_SL1080_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51UFm7dGUuL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FMFRFNWG?tag=promoninja0c3-20",
       "cupom": "BOANOITE",
       "loja": "amazon",
@@ -55,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/galaxy-tab-s10-lite-128gb-tela-10-9-wifi-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 338,
+      "vendas": 391,
       "nota_qualidade": 7
     },
     {
