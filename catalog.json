@@ -1,24 +1,43 @@
 {
-  "atualizado": "2026-07-01T21:56:02.780739+00:00",
+  "atualizado": "2026-07-01T22:01:02.884231+00:00",
   "ofertas": [
     {
-      "source_id": "2898246",
-      "titulo": "Mixer Vertical Turbo Chef Elgin 3 em 1 200W Preto 110v",
-      "de": 199.9,
-      "por": 83.99,
-      "desconto": 58,
-      "imagem": "https://m.media-amazon.com/images/I/51yYe4QlyQL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B09VQ39F41?tag=promoninja0c3-20",
-      "cupom": null,
+      "source_id": "2898249",
+      "titulo": "Monitor Gamer Alienware 25\" Full HD (1920 x 1080) 320 Hz IPS",
+      "de": 1999.0,
+      "por": 1399.0,
+      "desconto": 30,
+      "imagem": "https://m.media-amazon.com/images/I/6106dbww1XL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FH5NMXHK?tag=promoninja0c3-20",
+      "cupom": "DIADEJOGO",
       "loja": "amazon",
-      "categoria": "Eletroportáteis",
-      "data": "2026-07-01T21:56:02.780739+00:00",
-      "slug": "mixer-vertical-turbo-chef-elgin-3-em-1-200w-preto-110v",
-      "page_url": "https://promoninjaofertas.github.io/produto/mixer-vertical-turbo-chef-elgin-3-em-1-200w-preto-110v.html",
+      "categoria": "Hardware",
+      "data": "2026-07-01T22:01:02.884231+00:00",
+      "slug": "monitor-gamer-alienware-25-full-hd-1920-x-1080-320-hz-ips",
+      "page_url": "https://promoninjaofertas.github.io/produto/monitor-gamer-alienware-25-full-hd-1920-x-1080-320-hz-ips.html",
       "avaliacao": null,
       "avaliacoes": 1,
       "vendas": 0,
-      "nota_qualidade": 8
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "1005007701197697",
+      "titulo": "Interface VCDS VAGCOM 2026 VCDSCAN HEX V2 Atualização 26.3 para VW, AUDI, Skoda, Seat - Ferramentas de Diagnóstico Automotivo Multilíngue",
+      "de": 187.45,
+      "por": 125.59,
+      "desconto": 33,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiO2MP8H343Y5JBl0qYwOep8lQInf3zl7GRuvoyUxoX6LMgF0KCkB2rt4H7bSFomXZak8tAsqdy0SG8dp26EMnl6bLDUEV9DMAsCDBOYWeiQAXyj8g22WGkCrt4jySm1kNe74Zc9Fsh4gZY9FLGI2RYfQsXJDWHro8QQdlGLXFpVlYvPqzhIi1XtVt0a32zr0b4Zj5V4QKkMpMAl2T7iyoBBRE2ir2YoNyG9EB92BR3FyfXZfImkV9knkOMdGo5cK6biOUTyQ4jiYOEPCE4LbEmftwQaL123T8McEDB7JxibqK7gx0Rpqqn83qJSPpgvCjA4gZXxNRRT719oqqhqiWiQ6AYoFTWgXaUZ0DpGE7HrMkAfLbyjlvBywEkHAma9TkDuwU6vXeK9Fxq3TUs3xwooT4BU3CHJd8TglbocwQMiAb6ADI0oX3Ryny2zKlFBU2wrKEVvRLTkD4mEPXd7gCwMuqGsa2879HdFfrElX",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Ferramentas",
+      "data": "2026-07-01T22:01:02.884231+00:00",
+      "slug": "interface-vcds-vagcom-2026-vcdscan-hex-v2-atualizacao-26-3-para-vw-audi-skoda",
+      "page_url": "https://promoninjaofertas.github.io/produto/interface-vcds-vagcom-2026-vcdscan-hex-v2-atualizacao-26-3-para-vw-audi-skoda.html",
+      "avaliacao": 4.64,
+      "avaliacoes": null,
+      "vendas": 13688,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-93940",
@@ -36,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-wella-nutri-enrich-shampoo-e-condicionador-de-1-litro.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 322,
+      "vendas": 690,
       "nota_qualidade": 8
     },
     {
@@ -149,8 +168,8 @@
       "slug": "smart-tv-40-philco-roku-tv-hdr10-dolby-audio-p40cra",
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-40-philco-roku-tv-hdr10-dolby-audio-p40cra.html",
       "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 191,
+      "avaliacoes": 2,
+      "vendas": 244,
       "nota_qualidade": 9
     },
     {
@@ -159,7 +178,7 @@
       "de": 3649.9,
       "por": 2080.5,
       "desconto": 43,
-      "imagem": "https://m.media-amazon.com/images/I/71FPDlwePVL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_nZqdXPG.jpg",
       "link": "https://www.amazon.com.br/dp/B0FK1NJLXB?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -169,7 +188,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-jbl-boombox-4-bluetooth-preta-som-jbl-pro-ai-sound-boost.html",
       "avaliacao": null,
       "avaliacoes": 13,
-      "vendas": 1769,
+      "vendas": 1784,
       "nota_qualidade": 8
     },
     {
@@ -378,7 +397,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/galaxy-tab-s10-lite-128gb-tela-10-9-wifi-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 1613,
+      "vendas": 1615,
       "nota_qualidade": 8
     },
     {
@@ -1347,7 +1366,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-neblina-unissex.html",
       "avaliacao": null,
       "avaliacoes": 6,
-      "vendas": 2587,
+      "vendas": 2610,
       "nota_qualidade": 9
     },
     {
