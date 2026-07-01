@@ -1,25 +1,6 @@
 {
-  "atualizado": "2026-07-01T06:01:23.282645+00:00",
+  "atualizado": "2026-07-01T06:06:24.470317+00:00",
   "ofertas": [
-    {
-      "source_id": "2896180",
-      "titulo": "Smartphone Motorola Edge 70 - 256GB - 8GB RAM",
-      "de": 4499.0,
-      "por": 1665.0,
-      "desconto": 63,
-      "imagem": "https://m.media-amazon.com/images/I/61OaHpwFsuL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GLTDFSMM?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-07-01T06:01:23.282645+00:00",
-      "slug": "smartphone-motorola-edge-70-256gb-8gb-ram",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-70-256gb-8gb-ram.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 10,
-      "nota_qualidade": 7
-    },
     {
       "source_id": "pechinchou-98779",
       "titulo": "Fechadura Digital de Sobrepor, Abertura por senha ou tag, Pop, Preta, DS1100V, Elsys",
@@ -844,7 +825,7 @@
       "por": 40.49,
       "desconto": 43,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S258a925cfef544d4945e9113f2e1ee20V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DXLmWd0dixOAI4k83Mn99csMPId3kFFTXMzjiQswkm1etHGUQd1opmWz9g5yTQgNbAiiH3RGCx9qPwFBRTogL8vBNdJwWJB6pgBgLmOanie0kzDx1JjTOpJfaiePmNvDFhd1r6kQ6sozgiaVls9zJRIhY5VGIDHZhpLaBOTn0gHSXDNnB3gMiC6NV9jpHeQOljJIWohApzUBu0b9rmmsdAHJ9CP5kprkiNYwn60e5JImrxEsIhxJ8yKbsU1klMyuqxy5SU6dDc8DwB3WsTSGvJiFuw0AQFwKYu5p1JQ8b6dBn0BV5oBuRZTIG8LpLhhbOYlOS78RhpVEC8fruyjKSzW4mXUsNpZE8DIDFwFn8MjKp8ud6gTFuH5lV0RLCxPDixJppBzG8YRAYm8NnLqlQZpsnTxn6lkW0uRc3u9ZWDMPu5HqhA6aoUSSZG7Y1jYTkxAmW3YsqtJbWQbHy984raXB5rry9BsUMcMzUg07O",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DXjWyoH5xeb5IMff5P4bO3B84V61lFmjuGePcI6bB3Fa4F26HqRxDLlfuqVM4437EiQO9CE3OwkGxrIv4KDiUdQSbMJmxjcHfH82esLPN415dUkbnctFZJpuMy5Q6HELqV5yGO70BUHavumR7LG97RrR08bi3RzgITl9m9DXX2d0ohapUVk1YgKx3PMa02AX4f0GR903CtkWCTSkZ400d7qH3ayb5AaxRdYJxFs3g1g7IxwSODYmGm380HbRgZX0TYU5DyKdDCmC3kqyiLgmWot3uoP7340Ia1klfNE0BqkZA8Ecw5ApaPE2ZMR86tPbFJCfobAfkvD0EDlE8Xi99ZugHHtQ7aSaLFTmNZeLJ9SxreoWjIzKF1pyQSBSQToCgPJQR6tOovMcG50p95kduolHAyWvncm5ROgZeKdRGa4FMsuCLcLm1cRZUdv5eHQ9o7JynedDBNMmajCsLT4nT57T91Fa82eNMVxQtW00C",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Games",
