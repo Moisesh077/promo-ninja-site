@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T19:22:52.485393+00:00",
+  "atualizado": "2026-07-01T19:27:54.688716+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-140367",
+      "titulo": "Ralph's Club New York Eau De Parfum 110ml",
+      "de": 679.9,
+      "por": 404.05,
+      "desconto": 41,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_854620-MLA91562643946_092025-O.webp",
+      "link": "https://meli.la/2YHLLGr",
+      "cupom": "APITONATV",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-07-01T19:27:54.688716+00:00",
+      "slug": "ralph-s-club-new-york-eau-de-parfum-110ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/ralph-s-club-new-york-eau-de-parfum-110ml.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7
+    },
     {
       "source_id": "2897886",
       "titulo": "Smartwatch Samsung Galaxy Watch8 40mm BT Prata",
@@ -17,27 +36,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smartwatch-samsung-galaxy-watch8-40mm-bt-prata.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 5,
+      "vendas": 10,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "2897021",
-      "titulo": "Smartphone Motorola Edge 70 5G, 256GB 24GB (8GB RAM + 16GB RAM Boost), Tela 1.5K extreme Amoled 120HZ",
-      "de": 4499.0,
-      "por": 1546.0,
-      "desconto": 66,
-      "imagem": "https://m.media-amazon.com/images/I/61OaHpwFsuL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GLTDFSMM?tag=promoninja0c3-20",
-      "cupom": "R$1.118 OFF",
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-07-01T19:22:52.485393+00:00",
-      "slug": "smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-tela-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-tela-1.html",
-      "avaliacao": null,
-      "avaliacoes": 8,
-      "vendas": 150,
-      "nota_qualidade": 10
     },
     {
       "source_id": "58206670114",
