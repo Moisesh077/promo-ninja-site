@@ -1,24 +1,43 @@
 {
-  "atualizado": "2026-07-01T17:04:35.079439+00:00",
+  "atualizado": "2026-07-01T17:09:42.584231+00:00",
   "ofertas": [
     {
-      "source_id": "2897021",
-      "titulo": "Smartphone Motorola Edge 70 5G, 256GB 24GB (8GB RAM + 16GB RAM Boost), Tela 1.5K extreme Amoled 120HZ",
-      "de": 4499.0,
-      "por": 1546.0,
-      "desconto": 66,
-      "imagem": "https://m.media-amazon.com/images/I/61OaHpwFsuL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GLTDFSMM?tag=promoninja0c3-20",
-      "cupom": "R$1.118 OFF",
+      "source_id": "2897442",
+      "titulo": "JBL, Caixa de Som, PartyBox Encore Essential 2, Show de Luzes, Bluetooth, Portátil, Resistente a Respingos, Bateria de até 15h, Som JBL Pr",
+      "de": 1899.0,
+      "por": 990.6,
+      "desconto": 48,
+      "imagem": "https://m.media-amazon.com/images/I/6157Cv5UEZL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0H1282J24?tag=promoninja0c3-20",
+      "cupom": "GOLPRIMEDAY",
       "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-07-01T17:04:35.079439+00:00",
-      "slug": "smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-tela-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-70-5g-256gb-24gb-8gb-ram-16gb-ram-boost-tela-1.html",
+      "categoria": "Audio",
+      "data": "2026-07-01T17:09:42.584231+00:00",
+      "slug": "jbl-caixa-de-som-partybox-encore-essential-2-show-de-luzes-bluetooth-portatil-resisten",
+      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-encore-essential-2-show-de-luzes-bluetooth-portatil-resisten.html",
       "avaliacao": null,
-      "avaliacoes": 7,
-      "vendas": 90,
+      "avaliacoes": 2,
+      "vendas": 40,
       "nota_qualidade": 8
+    },
+    {
+      "source_id": "pechinchou-104269",
+      "titulo": "Cadeira Gamer Elite Pro Dazz – Reclinável 130°, Couro PU, Pistão Classe 4, Suporta 140 kg, Braços 1D, Almofadas Lombar e Pescoço, Base Nylon 50 mm – Preto e Cinza",
+      "de": 835.87,
+      "por": 479.98,
+      "desconto": 43,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_0wKA9yG.jpg",
+      "link": "https://www.amazon.com.br/dp/B0D81D1358?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Games",
+      "data": "2026-07-01T17:09:42.584231+00:00",
+      "slug": "cadeira-gamer-elite-pro-dazz-reclinavel-130-couro-pu-pistao-classe-4-suporta-140",
+      "page_url": "https://promoninjaofertas.github.io/produto/cadeira-gamer-elite-pro-dazz-reclinavel-130-couro-pu-pistao-classe-4-suporta-140.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-111152",
@@ -36,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/multiprocessador-pmp1600p-1700w-preto-127v-philco.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 3,
+      "vendas": 46,
       "nota_qualidade": 7
     },
     {
@@ -64,7 +83,7 @@
       "de": 639.9,
       "por": 365.4,
       "desconto": 43,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/41MPK1xTsGL._AC_SY450_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/41XTKM4Cg4L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B097CJVNWS?tag=promoninja0c3-20",
       "cupom": "BOLAROLANDO",
       "loja": "amazon",
@@ -74,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/micro-ondas-philco-20l-branco-pmo23b-110v-110v.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 3,
+      "vendas": 52,
       "nota_qualidade": 7
     },
     {
@@ -112,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-split-dual-inverter-lg-compact-ai-9000-btus-frio-220v-s3-q09aaqak.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 160,
+      "vendas": 324,
       "nota_qualidade": 8
     },
     {
@@ -171,25 +190,6 @@
       "avaliacoes": 2,
       "vendas": 30,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-138496",
-      "titulo": "JBL, Caixa de Som, PartyBox Encore Essential 2, Show de Luzes, Bluetooth, Portátil, Resistente a Respingos, Bateria de até 15h, Som JBL Pro Sound, AI Sound Boost, 100 W RMS",
-      "de": 1899.0,
-      "por": 990.6,
-      "desconto": 48,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/71Ar78y955L_Qao3hIL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0H1282J24?tag=promoninja0c3-20",
-      "cupom": "GOLPRIMEDAY",
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-07-01T16:44:22.391675+00:00",
-      "slug": "jbl-caixa-de-som-partybox-encore-essential-2-show-de-luzes-bluetooth-portatil-resisten",
-      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-encore-essential-2-show-de-luzes-bluetooth-portatil-resisten.html",
-      "avaliacao": null,
-      "avaliacoes": 4,
-      "vendas": 450,
-      "nota_qualidade": 9
     },
     {
       "source_id": "22794927027",
@@ -464,7 +464,7 @@
       "por": 40.59,
       "desconto": 43,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S258a925cfef544d4945e9113f2e1ee20V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DXBJQpFBb0Y4fRTROKB2mbH8FqpMMSYshxIrldLl3DXe93PlnUUcbOFxqlxTZ7sORpVh9vQ4PHQ0LilZR2miaJ10V7H16ALzLga75en5ZHW9YgFYO5nvVYlL8ZDPmcEvxxJVYS5RqV02pdCSei7ZR9TgxfcHC6FLXCAsDRwEy8LRcuEg1FuiJ3jwt7Apw7XKY385EPneiRnBW2hAQEu5IMVX7d9nzIqG70G2ZKhKT6d9scquOGzQCc5K1hvZcsntIE5BWiMxlCM3Vb04TQY1lltmyoKC6UZ9CA2eB9uK5oa5y63ovSqkWf24PoGPS4nT4rKNG674KMxgPTM5BbP5UirCn4lNK5Koz5blfyX6J4bD7IsXaF0DrTvz9e9Gio7kusYt69qQc6wpNyDWp3gb3rzoDYJQF80YKR2WpGn5FY9NjtnYfI3pe4k3Q9jPgpqipYqOM5wKIe2ClFQxJE5e0Ezcs0i2FiZ9ExjQFt3q0",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKK7beojdwyXQLjKqnCQtGKeMmOrWCphuoBevNhfmvsfcaU9Bg4CRAWo6rf5JKSGhhPQuAsIUlz5q3pzfyRzrZO5aXEbJXcE4hqZRTK5R6ZZOVrrh2HnZJxZysrtwS0DwTPSSvL0ASVP4e7HGShZG7NgcGCgokA3t1RsMyZV8aAoZ5oN1ustTFEKKyRXVxdFYt8C8VEmBHmgqXIxu01EwN1brJvyg4bfvfU9DXA3qADcGc8MwjEQY26nkYgABUu56cKtR8eUK9F0Q8VXuinDTkG8GkVDT74m46X06dPlyc45igfz9ayeNG9RWaMeiWlzStcJd0Ruj9t43LaEAO0m2VnMk8kWPBT5LEkdmWXLKziVTU7u7z7GxPQ9PFAxJRPD4tqi9FOuYL3I9SJBcVUvHpt7darRWwuLIP9QH5EZWFFG5sURq02nxoEp2GZPtmAwhTA2sGiKB9nCMrJBv3cxwAAoucfB9ahbECJqkSO7beK0jDhLxOjpzOmm39Hjw2lKczjyRBzG6vNjoggVwLiTlz06hGgUT7bTV4eJn53GkzyYTDfTtyF1EFjmpJjKYZGVDkVn5DwoQtBRyafcYQulDm4G5Kg185BqF52xlzhJg4bAmKlFHWa8Gzbu5H2UoAeVGHHjdIFWjySG46UYNsS2DfhF0l77t6CqGisB3wbdWg1x3RAJH2JEKcQ63VPcATTjTSSvwqSr9YSEc",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Games",
@@ -473,7 +473,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/leitor-de-jogos-chiscart-dspico-com-caixa-transparente-moldada-por-injecao-com-mcu-rp2.html",
       "avaliacao": 4.915,
       "avaliacoes": null,
-      "vendas": 18741,
+      "vendas": 18789,
       "nota_qualidade": 8
     },
     {
@@ -1109,7 +1109,7 @@
       "de": 2899.0,
       "por": 1979.0,
       "desconto": 32,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/81PBtv3oCDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/81PBtv3oCDL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0GYQ8Q5QR?tag=promoninja0c3-20",
       "cupom": "TVTCLNEW",
       "loja": "amazon",
@@ -1119,7 +1119,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tcl-advanced-4k-qled-tv-50-google-tv-tela-hva-design-slim-120-hz.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 1083,
+      "vendas": 1088,
       "nota_qualidade": 7
     },
     {
@@ -1594,7 +1594,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/galaxy-tab-s10-lite-128gb-tela-10-9-wifi-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 1508,
+      "vendas": 1511,
       "nota_qualidade": 8
     },
     {
