@@ -1,24 +1,43 @@
 {
-  "atualizado": "2026-07-01T21:04:53.488414+00:00",
+  "atualizado": "2026-07-01T21:10:02.777193+00:00",
   "ofertas": [
     {
-      "source_id": "2898106",
-      "titulo": "Fone de Ouvido Sem Fio TWS PHILIPS TAT1109BK00 Bluetooth",
-      "de": 144.0,
-      "por": 98.23,
-      "desconto": 32,
-      "imagem": "https://m.media-amazon.com/images/I/519bjoeFBTL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=promoninja0c3-20",
-      "cupom": null,
+      "source_id": "2898127",
+      "titulo": "Celular Samsung Galaxy A37 5G 256GB 8GB RAM Câmera Tripla de até 50MP OIS Selfie de 12MP Video HDR IP68 Tela Supe",
+      "de": 3599.0,
+      "por": 1898.6,
+      "desconto": 47,
+      "imagem": "https://m.media-amazon.com/images/I/51G-NkDKaXL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GVT6FMNG?tag=promoninja0c3-20",
+      "cupom": "DIADEJOGO",
       "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-07-01T21:04:53.488414+00:00",
-      "slug": "fone-de-ouvido-sem-fio-tws-philips-tat1109bk00-bluetooth",
-      "page_url": "https://promoninjaofertas.github.io/produto/fone-de-ouvido-sem-fio-tws-philips-tat1109bk00-bluetooth.html",
+      "categoria": "Smartphones",
+      "data": "2026-07-01T21:10:02.777193+00:00",
+      "slug": "celular-samsung-galaxy-a37-5g-256gb-8gb-ram-camera-tripla-de-ate-50mp-ois",
+      "page_url": "https://promoninjaofertas.github.io/produto/celular-samsung-galaxy-a37-5g-256gb-8gb-ram-camera-tripla-de-ate-50mp-ois.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 0,
+      "vendas": 5,
       "nota_qualidade": 8
+    },
+    {
+      "source_id": "pechinchou-103795",
+      "titulo": "Espelho 100x50 Orgânico Corpo Inteiro Grande Moldur Caramelo Preto",
+      "de": 399.99,
+      "por": 68.99,
+      "desconto": 83,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_UzEuf9T.jpg",
+      "link": "https://meli.la/2UStANo",
+      "cupom": "7D07FULL",
+      "loja": "mercadolivre",
+      "categoria": "Pet",
+      "data": "2026-07-01T21:10:02.777193+00:00",
+      "slug": "espelho-100x50-organico-corpo-inteiro-grande-moldur-caramelo-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/espelho-100x50-organico-corpo-inteiro-grande-moldur-caramelo-preto.html",
+      "avaliacao": null,
+      "avaliacoes": 4,
+      "vendas": 104,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-145824",
@@ -36,7 +55,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/regional-ar-condicionado-split-inverter-consul-hi-wall-12000-btus-frio-cbk12ebbna-220v.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 6,
+      "vendas": 73,
       "nota_qualidade": 7
     },
     {
@@ -74,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-panelas-8-pecas-teflon-antiaderente-c-tampa-de-vidro.html",
       "avaliacao": null,
       "avaliacoes": 13,
-      "vendas": 219,
+      "vendas": 390,
       "nota_qualidade": 7
     },
     {
@@ -112,7 +131,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-jbl-boombox-4-bluetooth-preta-som-jbl-pro-ai-sound-boost.html",
       "avaliacao": null,
       "avaliacoes": 13,
-      "vendas": 1615,
+      "vendas": 1677,
       "nota_qualidade": 8
     },
     {
@@ -131,8 +150,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/conjunto-de-6-panelas-ceramica-pratic-cook-inducao-kit-antiaderente-soft-touch-mimo-st.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7
+      "vendas": 248,
+      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-133899",
@@ -378,7 +397,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/galaxy-tab-s10-lite-128gb-tela-10-9-wifi-cinza.html",
       "avaliacao": null,
       "avaliacoes": 1,
-      "vendas": 1598,
+      "vendas": 1599,
       "nota_qualidade": 8
     },
     {
@@ -1347,7 +1366,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-olympikus-neblina-unissex.html",
       "avaliacao": null,
       "avaliacoes": 6,
-      "vendas": 2484,
+      "vendas": 2501,
       "nota_qualidade": 9
     },
     {
@@ -1881,25 +1900,6 @@
       "avaliacoes": null,
       "vendas": 359,
       "nota_qualidade": 8
-    },
-    {
-      "source_id": "pechinchou-67142",
-      "titulo": "Forno E Fritadeira Sem Óleo Oster 42l French Door 2 Em 1-127v",
-      "de": 1199.0,
-      "por": 632.46,
-      "desconto": 47,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/71yhWo1Ff7L._AC_SX300_SY300_QL70_ML2_.jpg",
-      "link": "https://www.amazon.com.br/dp/B09V39QMNB?tag=promoninja0c3-20",
-      "cupom": "DRIBLOUPRECO",
-      "loja": "amazon",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-07-01T11:07:24.694588+00:00",
-      "slug": "forno-e-fritadeira-sem-oleo-oster-42l-french-door-2-em-1-127v",
-      "page_url": "https://promoninjaofertas.github.io/produto/forno-e-fritadeira-sem-oleo-oster-42l-french-door-2-em-1-127v.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": null,
-      "nota_qualidade": 7
     }
   ]
 }
