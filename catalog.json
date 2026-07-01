@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-01T00:18:30.376766+00:00",
+  "atualizado": "2026-07-01T00:23:27.512365+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-135554",
+      "titulo": "Máquina de Lavar 17kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED17)",
+      "de": 4913.82,
+      "por": 1730.13,
+      "desconto": 65,
+      "imagem": "https://m.media-amazon.com/images/I/41jXZmfuQoL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B09B8VWZRG?tag=promoninja0c3-20",
+      "cupom": "PRIME150",
+      "loja": "amazon",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-07-01T00:23:27.512365+00:00",
+      "slug": "maquina-de-lavar-17kg-electrolux-essential-care-com-cesto-inox-jet-clean-e-ultra",
+      "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-17kg-electrolux-essential-care-com-cesto-inox-jet-clean-e-ultra.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-133810",
       "titulo": "Caixa de Som JBL Boombox 4 Bluetooth, Preta | Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless",
@@ -55,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-split-hi-wall-triple-inverter-consul-9000-btu-h-frio-cbk09db-bivolt.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 66,
+      "vendas": 78,
       "nota_qualidade": 7
     },
     {
@@ -1195,7 +1214,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-aoc-43-led-full-hd-roku-tv-wi-fi-hdmi-e-usb.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 322,
+      "vendas": 326,
       "nota_qualidade": 7
     },
     {
